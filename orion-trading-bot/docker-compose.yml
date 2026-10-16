@@ -1,0 +1,12 @@
+services:
+  orion:
+    build: .
+    restart: unless-stopped        # comes back after crashes and reboots
+    env_file: .env
+    environment:
+      HOST: 0.0.0.0
+      DATA_DIR: /app/data
+    ports:
+      - "127.0.0.1:3000:3000"      # only this computer can open the dashboard
+    volumes:
+      - ./data:/app/data           # trade history survives restarts
