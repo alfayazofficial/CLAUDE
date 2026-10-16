@@ -1,0 +1,6 @@
+{
+  "name": "Orion Forecast Trading Engine & Live Terminal",
+  "description": "Hardened algorithmic trading engine with UT Bot and Bollinger %B composite scoring, idempotent broker execution, strict risk circuit breakers, and persistent track record ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
