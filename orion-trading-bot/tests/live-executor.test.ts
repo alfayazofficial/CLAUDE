@@ -11,7 +11,7 @@ import { LiveExecutor } from '../src/lib/live-executor';
 const SECRET = 'testsecret';
 type Req = { method: string; path: string; q: Record<string, string> };
 
-function fakeBinance(opts: { failOco?: boolean; bnbFees?: boolean } = {}) {
+function fakeBinance(opts: { failOco?: boolean; bnbFees?: boolean; restrictions?: any } = {}) {
   const calls: Req[] = [];
   let usdt = 1000;
   const lists = new Map<string, any>();
@@ -33,6 +33,7 @@ function fakeBinance(opts: { failOco?: boolean; bnbFees?: boolean } = {}) {
       case 'GET /api/v3/exchangeInfo': return send(200, { symbols: [{ symbol: 'BTCUSDT', status: 'TRADING', baseAsset: 'BTC', quoteAsset: 'USDT', filters: [
         { filterType: 'LOT_SIZE', stepSize: '0.00001000', minQty: '0.00001000' }, { filterType: 'PRICE_FILTER', tickSize: '0.01000000' }, { filterType: 'NOTIONAL', minNotional: '5.00000000' }] }] });
       case 'GET /api/v3/ticker/price': return send(200, { symbol: 'BTCUSDT', price: '50000.00' });
+      case 'GET /sapi/v1/account/apiRestrictions': return send(200, opts.restrictions ?? { ipRestrict: true, enableWithdrawals: false, enableSpotAndMarginTrading: true, enableReading: true });
       case 'GET /api/v3/account': return send(200, { canTrade: true, balances: [{ asset: 'USDT', free: String(usdt), locked: '0' }] });
       case 'POST /api/v3/order': {
         if (q.side === 'BUY') {
@@ -70,12 +71,12 @@ function fakeBinance(opts: { failOco?: boolean; bnbFees?: boolean } = {}) {
   return { server, calls, lists, fillLeg };
 }
 
-async function setup(opts: { failOco?: boolean; bnbFees?: boolean; cfg?: any } = {}) {
+async function setup(opts: { failOco?: boolean; bnbFees?: boolean; restrictions?: any; env?: 'testnet' | 'live'; cfg?: any } = {}) {
   const fb = fakeBinance(opts);
   await new Promise<void>((r) => fb.server.listen(0, '127.0.0.1', () => r()));
   const port = (fb.server.address() as any).port;
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'orion-test-'));
-  const api = new BinanceSpot('testnet', 'key', SECRET, `http://127.0.0.1:${port}`);
+  const api = new BinanceSpot(opts.env ?? 'testnet', 'key', SECRET, `http://127.0.0.1:${port}`);
   const ex = new LiveExecutor(api, opts.cfg ?? {}, dir);
   return { fb, ex, dir, close: () => fb.server.close() };
 }
@@ -173,4 +174,23 @@ test('state survives a restart (reloaded from disk) and the kill switch flattens
   assert.equal(closed?.exitReason, 'MANUAL_CLOSE');
   assert.equal(ex2.isHalted().on, true);
   close();
+});
+
+test('real-money mode refuses a key with withdrawals enabled or no IP restriction', async () => {
+  const bad = await setup({ env: 'live', restrictions: { ipRestrict: true, enableWithdrawals: true, enableSpotAndMarginTrading: true } });
+  const r1 = await bad.ex.open({ symbol: 'BTCUSDT', side: 'BUY', tradeCapital: 20 });
+  assert.equal(r1.success, false);
+  assert.match(bad.ex.isHalted().reason!, /withdrawals are ENABLED/);
+  bad.close();
+  const noIp = await setup({ env: 'live', restrictions: { ipRestrict: false, enableWithdrawals: false, enableSpotAndMarginTrading: true } });
+  assert.equal((await noIp.ex.open({ symbol: 'BTCUSDT', side: 'BUY', tradeCapital: 20 })).success, false);
+  assert.match(noIp.ex.isHalted().reason!, /IP/);
+  noIp.close();
+});
+
+test('real-money mode trades normally with a correctly restricted key', async () => {
+  const ok = await setup({ env: 'live' });
+  const r = await ok.ex.open({ symbol: 'BTCUSDT', side: 'BUY', tradeCapital: 20 });
+  assert.equal(r.success, true, JSON.stringify(r));
+  ok.close();
 });

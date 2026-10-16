@@ -88,6 +88,11 @@ export class BinanceSpot {
     }
   }
 
+  /** Key permissions (not available on testnet). Used to refuse real-money trading with an over-privileged key. */
+  apiRestrictions(): Promise<{ ipRestrict: boolean; enableWithdrawals: boolean; enableSpotAndMarginTrading: boolean; enableReading: boolean; enableInternalTransfer?: boolean }> {
+    return this.raw('GET', '/sapi/v1/account/apiRestrictions', {}, true);
+  }
+
   async syncTime() {
     const t = await this.raw('GET', '/api/v3/time');
     this.timeOffset = Number(t.serverTime) - Date.now();

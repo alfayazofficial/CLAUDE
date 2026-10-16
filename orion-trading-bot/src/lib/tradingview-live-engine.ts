@@ -1,5 +1,6 @@
 /** SERVER-ONLY 24/7 observer. The browser controls it through observer-client.ts. */
 import { Execution } from './execution';
+import { BAR_MS, Bar, TrendParams, buildIndicators, evaluateAt, paramsFromEnv, positionUsd } from './strategy-trend';
 import { sendTradeExecutionAlert, sendTradeCloseAlert } from './telegram-notifier';
 import { ObserverLog, TradeTier, normalizeSymbol, parseRatio } from '../types/paper';
 
@@ -25,6 +26,9 @@ interface Candle4 { open: number; high: number; low: number; close: number }
 // ---------------------------------------------------------------------------
 // Daily plan: up to N trades/day in three size tiers, each trade hard-capped at $100.
 // ---------------------------------------------------------------------------
+/** 'trend' (default): 15m trend-breakout, see strategy-trend.ts. 'breakout': the old 1-minute candle-break plan. */
+export const STRATEGY: 'trend' | 'breakout' = (process.env.STRATEGY || 'trend').toLowerCase() === 'breakout' ? 'breakout' : 'trend';
+
 export const MAX_TRADE_USD = 100; // absolute ceiling per trade, whatever the settings say
 
 export interface DailyPlan {
@@ -96,6 +100,9 @@ export class TradingViewObserver {
   public plan: DailyPlan = loadPlanFromEnv();
   private planDoneDay = 0;
   private shortNoted = false;
+  private lastTrendBar = 0;
+  private trendBarsSeen = 0;
+  private trendParams: TrendParams = paramsFromEnv();
 
   constructor(options: ObserverConfig = {}) {
     this.symbol = options.symbol || 'BINANCE:BTCUSDT';
@@ -132,6 +139,65 @@ export class TradingViewObserver {
   private addLog(type: ObserverLog['type'], message: string, price?: number) {
     this.logs.unshift({ id: `LOG-${Date.now()}-${Math.random().toString(36).slice(2, 6)}`, time: Date.now(), type, message, price });
     if (this.logs.length > 200) this.logs.pop();
+  }
+
+  private async fetchBars15m(): Promise<Bar[] | null> {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 8000);
+    try {
+      const res = await fetch(`https://data-api.binance.vision/api/v3/klines?symbol=${normalizeSymbol(this.symbol)}&interval=15m&limit=1000`, { signal: controller.signal });
+      if (!res.ok) throw new Error(`Binance HTTP ${res.status}`);
+      const rows: any[][] = await res.json();
+      return rows.map((r) => ({ time: r[0], open: +r[1], high: +r[2], low: +r[3], close: +r[4], volume: +r[5] }));
+    } catch (err: any) {
+      this.addLog('ERROR', `15m history fetch failed: ${err?.message || err}. Will retry next tick.`);
+      return null;
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+
+  /** Runs once per CLOSED 15m candle. Same decision code as the backtest. */
+  private async trendEntry(livePrice: number, state: Awaited<ReturnType<typeof Execution.getState>>) {
+    const bar = Math.floor(Date.now() / BAR_MS) * BAR_MS;
+    if (bar === this.lastTrendBar) return;
+    const raw = await this.fetchBars15m();
+    if (!raw) return;
+    const closed = raw.filter((b) => b.time + BAR_MS <= Date.now());
+    const i = closed.length - 1;
+    if (i < 0 || closed[i].time !== bar - BAR_MS) { this.addLog('ERROR', 'Latest closed 15m candle is not available yet; retrying.'); return; }
+    this.lastTrendBar = bar;
+    this.trendBarsSeen++;
+
+    const p = this.trendParams;
+    const d = evaluateAt(buildIndicators(closed), i, p);
+    if (!('signal' in d)) {
+      if (this.trendBarsSeen % 4 === 1) this.addLog('INFO', `15m check: no trade (${d.skip}).`, livePrice);
+      return;
+    }
+    const dayStart = new Date().setHours(0, 0, 0, 0);
+    if (state.trades.filter((t) => Date.parse(t.entryTime) >= dayStart).length >= p.maxTradesPerDay) { this.addLog('INFO', 'Signal skipped: daily trade cap reached.'); return; }
+    const last = state.trades[0];
+    if (last && Date.now() - Date.parse(last.exitTime) < p.cooldownBars * BAR_MS) { this.addLog('INFO', 'Signal skipped: cooling down after the last trade.'); return; }
+
+    const sig = d.signal;
+    const sizeUsd = positionUsd(state.balance, sig.riskPct, MAX_TRADE_USD, p);
+    if (sizeUsd < 10) { this.addLog('INFO', `Signal skipped: size $${sizeUsd.toFixed(2)} is below the $10 minimum.`); return; }
+
+    const ratio = `1:${p.rr}`;
+    const result = await Execution.open({ symbol: this.symbol, side: 'BUY', price: livePrice, tradeCapital: sizeUsd, ratio, riskPct: sig.riskPct, maxHoldMs: p.maxHoldBars * BAR_MS });
+    if (!result.success || !result.position) { this.addLog('ERROR', `Entry rejected: ${result.reason}`); return; }
+    const pos = result.position;
+    this.addLog('ENTRY', `[ENTRY] BUY trend breakout $${sizeUsd.toFixed(2)} at $${pos.entryPrice} | Target: $${pos.takeProfit} | Stop: $${pos.stopLoss}`, livePrice);
+    if (this.telegramChatId) {
+      const risk = sizeUsd * sig.riskPct;
+      void sendTradeExecutionAlert(
+        this.telegramChatId,
+        { symbol: this.symbol, side: 'BUY', strategy: 'Trend breakout 15m', regime: 'Uptrend', ratioLabel: ratio, entryPrice: pos.entryPrice, stopLoss: pos.stopLoss, takeProfit: pos.takeProfit,
+          riskAmount: `$${risk.toFixed(2)}`, targetProfit: `$${(risk * p.rr).toFixed(2)}`, clientOrderId: pos.id },
+        this.telegramBotToken
+      );
+    }
   }
 
   /** Logs + Telegram for a closed trade, whoever noticed the close (tick or background reconciler). */
@@ -183,7 +249,7 @@ export class TradingViewObserver {
     if (this.isRunning) return;
     this.isRunning = true;
     this.consecutiveErrors = 0;
-    this.addLog('INFO', `Observer started for ${this.symbol} (${INTERVAL_MAP[this.timeframe] || '1m'} candles).`);
+    this.addLog('INFO', `Observer started for ${this.symbol} | strategy: ${STRATEGY}${STRATEGY === 'trend' ? ' (15m closed candles)' : ` (${INTERVAL_MAP[this.timeframe] || '1m'} candles)`}.`);
     this.timer = setInterval(() => void this.processTick(), this.pollIntervalMs);
     await this.processTick();
   }
@@ -218,6 +284,11 @@ export class TradingViewObserver {
         if (!Execution.isLive && normalizeSymbol(active.symbol) !== normalizeSymbol(this.symbol)) return;
         const closed = await Execution.monitor(livePrice, this.plan.enabled);
         if (closed) this.reportClose(closed, livePrice);
+        return;
+      }
+
+      if (STRATEGY === 'trend') {
+        await this.trendEntry(livePrice, state);
         return;
       }
 

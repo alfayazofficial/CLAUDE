@@ -9,7 +9,9 @@ Three execution modes, chosen with `EXECUTION_MODE` in `.env`:
 | `live` | Real orders on Binance Spot | **real, you can lose it** |
 
 Only **Binance Spot, long-only, USDT pairs** is wired to real orders. The Alpaca / IBKR / MT5 choices in the old
-Broker modal are still settings only. Stocks/Gold/EUR-USD data in the dashboard is synthetic demo data and is never traded.
+Broker modal are still settings only. The fake stock symbols were removed from the lists; Gold/EUR-USD data, if shown, is synthetic and never traded.
+
+**Strategy:** `STRATEGY=trend` (default) is a 15-minute trend-breakout with a cost gate, fully backtestable (`npm run backtest`). Read **`docs/GO_LIVE_CHECKLIST.md`** for the algorithm, every validation gate, and what only you can do before using real money.
 
 ## Going from zero to real trading (do not skip steps)
 1. `npm install && cp .env.example .env`, then `npm run dev` and watch **paper** mode for a few days.

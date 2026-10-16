@@ -178,7 +178,7 @@ export const REAL_FEED_SYMBOLS: Record<string, string> = {
   'DOGE/USDT': 'DOGEUSDT', 'BNB/USDT': 'BNBUSDT', 'ADA/USDT': 'ADAUSDT', 'AVAX/USDT': 'AVAXUSDT',
   'LINK/USDT': 'LINKUSDT', 'SUI/USDT': 'SUIUSDT', 'NEAR/USDT': 'NEARUSDT', 'PEPE/USDT': 'PEPEUSDT',
 };
-const SYNTHETIC_SYMBOLS: MarketSymbol[] = ['NVDA', 'AAPL', 'TSLA', 'SPY'];
+const SYNTHETIC_SYMBOLS: MarketSymbol[] = []; // fake stock symbols removed: only real Binance pairs are listed
 const FEED_STALE_MS = 15000;
 
 async function fetchRealKlines(binanceSymbol: string, interval = '15m', limit = 100): Promise<Candle[] | null> {

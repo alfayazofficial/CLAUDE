@@ -147,7 +147,22 @@ export class LiveExecutor {
     if (this.initDone) return;
     this.initDone = true;
     await this.api.syncTime().catch(() => undefined);
+    if (this.api.env === 'live') await this.checkKeyPermissions();
     if (this.file.pending) await this.recoverPending().catch((e) => this.halt('ERROR', `Recovery failed: ${e.message}`));
+  }
+
+  /** Real money only: refuse to trade with a key that could be used to steal funds. */
+  private async checkKeyPermissions() {
+    try {
+      const r = await this.api.apiRestrictions();
+      const problems: string[] = [];
+      if (r.enableWithdrawals) problems.push('withdrawals are ENABLED on this API key (turn it off)');
+      if (!r.ipRestrict) problems.push('the key is not restricted to your server IP (add the IP whitelist)');
+      if (!r.enableSpotAndMarginTrading) problems.push('Spot trading is not enabled on this key');
+      if (problems.length) this.halt('ERROR', `Unsafe API key: ${problems.join('; ')}.`);
+    } catch (e) {
+      this.halt('ERROR', `Could not verify API key permissions (${(e as Error).message}); refusing to trade real money.`);
+    }
   }
 
   /** Called once after a crash that happened between "intent written" and "position recorded". */

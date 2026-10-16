@@ -17,7 +17,7 @@ export const SignalsPanel: React.FC<SignalsPanelProps> = ({
   onSelectSymbol,
   onQuickTrade,
 }) => {
-  const symbols: MarketSymbol[] = ['BTC/USDT', 'ETH/USDT', 'SOL/USDT', 'NVDA', 'AAPL', 'TSLA', 'SPY'];
+  const symbols: MarketSymbol[] = ['BTC/USDT', 'ETH/USDT', 'SOL/USDT'];
 
   return (
     <div className="rounded-lg border border-slate-800 bg-[#0b0e14] p-3 shadow-lg">
