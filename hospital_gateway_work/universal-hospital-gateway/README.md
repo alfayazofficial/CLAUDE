@@ -32,6 +32,13 @@ Double-click `Build_Windows_EXE.bat`. It installs PyInstaller and builds `dist\U
 
 The desktop screens are currently composed in `desktop/app.py`; `desktop/views/` files are extraction points for a later UI refactor. This is a functional starter, not a claim that every module in the target architecture is complete.
 
+## Live devices tab
+In the app, open **Live devices**: add an *Attendance terminal* or *Modbus TCP* connector (Modbus needs the vendor's register map as JSON), press **Poll all now** or tick auto-poll (10 s), watch records arrive, and **Export records to CSV** (written to `exports/`). **Start demo simulators** adds a simulated fingerprint terminal and vitals sensor so you can try everything without hardware. Data stays in `data/gateway.sqlite3`; nothing is forwarded to external systems.
+
+![Live devices tab with simulators](docs/live-devices-demo.png)
+
+Test evidence: [docs/TEST_REPORT.md](docs/TEST_REPORT.md).
+
 ## Demo devices (no hardware needed)
 ```
 PYTHONPATH=src python -m hospital_gateway.demo      # PowerShell: $env:PYTHONPATH="$PWD\src"
@@ -44,7 +51,7 @@ Install test dependencies and run:
 py -3 -m pip install -e ".[dev]"
 py -3 -m pytest
 ```
-83 tests cover file readers (incl. UTF-16 XML entity bypass), scope validation, real-socket port scanning, SQLite persistence, pipeline/services, FHIR failure handling, and the Tk desktop app (`tests/gui`, skipped automatically when Tk or a display is unavailable; on Linux use `xvfb-run pytest`).
+106 tests cover file readers (incl. UTF-16 XML entity bypass), scope validation, real-socket port scanning, SQLite persistence, pipeline/services, FHIR failure handling, and the Tk desktop app (`tests/gui`, skipped automatically when Tk or a display is unavailable; on Linux use `xvfb-run pytest`).
 
 ## Changelog 0.3.1 (+ device demo)
 - Security: XML DTD/entity blocking now works for every encoding (was bypassable with UTF-16); the desktop preview now uses the same hardened, size-limited parsers instead of its own.

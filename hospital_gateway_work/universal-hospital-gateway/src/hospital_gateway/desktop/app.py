@@ -7,6 +7,11 @@ from hospital_gateway.discovery.scope_validator import validate_cidr
 from hospital_gateway.domain.errors import GatewayError
 from hospital_gateway.pipeline.parser import FileParser
 from hospital_gateway.connectors.fhir.client import check_metadata
+from hospital_gateway.application.collection_service import CollectionService
+from hospital_gateway.simulators.devices import AttendanceTerminalSim, ModbusSensorSim, SENSOR_MAP
+from hospital_gateway.storage.database import Database
+from hospital_gateway.storage.repositories import Repository
+import csv
 
 APP_DIR = Path(sys.executable).resolve().parent if getattr(sys, "frozen", False) else Path(__file__).resolve().parents[3]
 DATA_DIR = APP_DIR / "data"
@@ -104,6 +109,9 @@ class App(tk.Tk):
         self.minsize(900, 620)
         self.configure(bg="#f3f6fb")
         self.cfg = load_config()
+        self.db = Database(DATA_DIR / "gateway.sqlite3")
+        self.collector = CollectionService(self.db, Repository(self.db))
+        self.demo_sims = []; self._polling = False
         self._ui_calls = queue.Queue()  # worker threads hand results to the Tk thread through this
         self.devices = (self.cfg.get("last_discovery") or {}).get("devices", [])
         self._style()
@@ -112,6 +120,7 @@ class App(tk.Tk):
         # Live local refresh: keeps file previews and connector/device counters current.
         self.after(5000, self._auto_refresh)
         self.after(50, self._drain_ui_calls)
+        self.after(1000, self._auto_poll)
 
     def _style(self):
         s = ttk.Style(self)
@@ -148,12 +157,14 @@ class App(tk.Tk):
         self.connectors_tab = ttk.Frame(self.tabs, padding=15)
         self.protocol_tab = ttk.Frame(self.tabs, padding=15)
         self.files_tab = ttk.Frame(self.tabs, padding=15)
+        self.live_tab = ttk.Frame(self.tabs, padding=15)
         self.tabs.add(self.overview_tab, text="Overview")
         self.tabs.add(self.discovery_tab, text="Network discovery")
         self.tabs.add(self.connectors_tab, text="Connectors")
         self.tabs.add(self.protocol_tab, text="Protocol catalog")
         self.tabs.add(self.files_tab, text="Incoming files")
-        self._build_overview(); self._build_discovery(); self._build_connectors(); self._build_protocols(); self._build_files()
+        self.tabs.add(self.live_tab, text="Live devices")
+        self._build_overview(); self._build_discovery(); self._build_connectors(); self._build_protocols(); self._build_files(); self._build_live()
 
     def panel(self, parent, title, subtitle=None):
         frame = ttk.Frame(parent, style="Panel.TFrame", padding=14)
@@ -217,11 +228,12 @@ class App(tk.Tk):
                 w=ttk.Entry(r,width=54)
             w.pack(side="left",fill="x",expand=True);self.fields[key]=w
         field("Connector name","name")
-        field("Protocol / interface","kind","combo",["FHIR REST","HL7 v2 MLLP","DICOM","JSON file drop","CSV file drop","XML file drop","Modbus TCP","OPC UA","Vendor TCP","Custom / vendor SDK"])
+        field("Protocol / interface","kind","combo",["FHIR REST","HL7 v2 MLLP","DICOM","JSON file drop","CSV file drop","XML file drop","Modbus TCP","Attendance terminal","OPC UA","Vendor TCP","Custom / vendor SDK"])
         field("Host / IP","host")
         field("Port","port")
         field("Base URL (FHIR/API)","base_url")
         field("Vendor / model / notes","notes")
+        field("Modbus register map (JSON)","register_map")
         self.enabled_var=tk.BooleanVar(value=False)
         ttk.Checkbutton(left,text="Mark connector enabled (configuration only; does not guarantee a live connection)",variable=self.enabled_var).pack(anchor="w",pady=8)
         btns=ttk.Frame(left,style="Panel.TFrame");btns.pack(anchor="w",pady=(5,0))
@@ -266,6 +278,119 @@ class App(tk.Tk):
         for c,l,w in [("file","File",220),("format","Format",100),("preview","Preview (truncated)",650)]:
             self.file_tree.heading(c,text=l);self.file_tree.column(c,width=w)
         self.file_tree.pack(fill="both",expand=True)
+
+    # ---------------- Live devices ----------------
+    POLLABLE = {"Attendance terminal", "Modbus TCP"}
+
+    def _build_live(self):
+        p=self.panel(self.live_tab,"Live device collection","Poll configured attendance terminals and Modbus sensors, store readings locally (data/gateway.sqlite3), export to CSV. Nothing is forwarded to any external system.")
+        p.pack(fill="x")
+        bar=ttk.Frame(p,style="Panel.TFrame");bar.pack(fill="x",pady=(6,0))
+        ttk.Button(bar,text="Poll all now",style="Accent.TButton",command=self.poll_all).pack(side="left")
+        self.auto_var=tk.BooleanVar(value=False)
+        ttk.Checkbutton(bar,text="Auto-poll every 10 s",variable=self.auto_var).pack(side="left",padx=12)
+        ttk.Button(bar,text="Export records to CSV",command=self.export_records).pack(side="left")
+        self.demo_btn=ttk.Button(bar,text="Start demo simulators",command=self.toggle_demo);self.demo_btn.pack(side="right")
+        self.live_status=tk.StringVar(value="No polls yet.")
+        ttk.Label(p,textvariable=self.live_status,style="Sub.TLabel",wraplength=950).pack(anchor="w",pady=6)
+        self.live_tree=ttk.Treeview(p,columns=("name","kind","endpoint","result"),show="headings",height=3)
+        for c,l,w in [("name","Device",270),("kind","Type",140),("endpoint","Endpoint",170),("result","Last poll",380)]:
+            self.live_tree.heading(c,text=l);self.live_tree.column(c,width=w)
+        self.live_tree.pack(fill="x",pady=(4,0))
+        rec=self.panel(self.live_tab,"Latest records","Newest 200 stored records. Employee/patient identifiers are shown as received; handle as personal data.")
+        rec.pack(fill="both",expand=True,pady=(12,0))
+        self.rec_tree=ttk.Treeview(rec,columns=("when","source","fmt","summary"),show="headings",height=9)
+        for c,l,w in [("when","Received (UTC)",170),("source","Device",160),("fmt","Type",100),("summary","Summary",520)]:
+            self.rec_tree.heading(c,text=l);self.rec_tree.column(c,width=w)
+        self.rec_tree.pack(fill="both",expand=True,pady=(6,0))
+        self.live_results={}
+
+    def _pollable(self):
+        return [c for c in self.cfg.get("connectors",[]) if c.get("kind") in self.POLLABLE and c.get("host") and c.get("port")]
+
+    def poll_all(self):
+        if self._polling: return
+        devs=self._pollable()
+        if not devs:
+            self.live_status.set("No pollable devices. Add an 'Attendance terminal' or 'Modbus TCP' connector, or start the demo simulators.");return
+        self._polling=True; self.live_status.set(f"Polling {len(devs)} device(s)…")
+        def worker():
+            results={}
+            for c in devs:
+                cfg={"host":c["host"],"port":c["port"]}
+                try:
+                    if c["kind"]=="Attendance terminal": r=self.collector.poll_attendance(c["name"],cfg)
+                    else:
+                        rm=json.loads(c["register_map"]) if c.get("register_map") else (SENSOR_MAP if c.get("demo") else None)
+                        r=self.collector.poll_sensor(c["name"],{**cfg,"register_map":rm}) if rm else {"ok":False,"error":"No register map configured (take it from the vendor documentation)."}
+                except Exception as e: r={"ok":False,"error":type(e).__name__}
+                results[c["name"]]=r
+            self._ui_calls.put(lambda:self._poll_done(results))
+        threading.Thread(target=worker,daemon=True).start()
+
+    def _poll_done(self,results):
+        self._polling=False; self.live_results.update(results)
+        ok=sum(1 for r in results.values() if r.get("ok"))
+        self.live_status.set(f"Polled {len(results)} device(s) at {time.strftime('%H:%M:%S')}: {ok} OK, {len(results)-ok} failed.")
+        self.refresh_live()
+
+    def _auto_poll(self):
+        try:
+            if self.auto_var.get(): self.poll_all()
+        finally:
+            if self.winfo_exists(): self.after(10000,self._auto_poll)
+
+    @staticmethod
+    def _summary(fmt,detail):
+        try: d=json.loads(detail)
+        except ValueError: return detail[:120]
+        if fmt=="ATTENDANCE": return f"{d.get('user_id')} {d.get('status')} via {d.get('verify')} at {d.get('timestamp')}"
+        if fmt=="SENSOR": return ", ".join(f"{o['code']}={o['value']}{o.get('unit') or ''}" for o in d.get("observations",[]))
+        return detail[:120]
+
+    def refresh_live(self):
+        rows=[]
+        for c in self._pollable():
+            r=self.live_results.get(c["name"])
+            res="—" if r is None else ((f"OK — {r['new']} new punches" if "new" in r else f"OK — {len(r.get('observations',[]))} readings") if r.get("ok") else f"FAILED — {r.get('error')}")
+            rows.append((c["name"]+(" (demo)" if c.get("demo") else ""),c["kind"],f"{c['host']}:{c['port']}",res))
+        self._fill(self.live_tree,rows)
+        with self.db.connect() as conn:
+            recs=conn.execute("SELECT received_at,source_name,format,detail FROM inbound_messages ORDER BY rowid DESC LIMIT 200").fetchall()
+        self._fill(self.rec_tree,[(t[:19].replace("T"," "),s,f,self._summary(f,d)) for t,s,f,d in recs])
+
+    def export_records(self):
+        out=APP_DIR/"exports"; out.mkdir(parents=True,exist_ok=True); path=out/f"records-{time.strftime('%Y%m%d-%H%M%S')}.csv"
+        with self.db.connect() as conn:
+            rows=conn.execute("SELECT received_at,source_name,format,detail FROM inbound_messages ORDER BY rowid").fetchall()
+        with path.open("w",newline="",encoding="utf-8") as f:
+            w=csv.writer(f); w.writerow(["received_at_utc","device","type","summary","raw_json"])
+            for t,s,fm,d in rows: w.writerow([t,s,fm,self._summary(fm,d),d])
+        self.live_status.set(f"Exported {len(rows)} records to {path}"); return path
+
+    def toggle_demo(self):
+        if self.demo_sims:
+            for sim in self.demo_sims: sim.stop()
+            self.demo_sims=[]; self.cfg["connectors"]=[c for c in self.cfg.get("connectors",[]) if not c.get("demo")]
+            save_config(self.cfg); self.demo_btn.configure(text="Start demo simulators"); self.live_status.set("Demo simulators stopped.")
+        else:
+            att,sen=AttendanceTerminalSim(),ModbusSensorSim(); ap,sp=att.start(),sen.start(); self.demo_sims=[att,sen]
+            now=str(int(time.time()*1000))
+            self.cfg.setdefault("connectors",[]).extend([
+                {"id":now+"a","name":"DEMO Door fingerprint terminal","kind":"Attendance terminal","host":"127.0.0.1","port":ap,"base_url":"","notes":"Simulated, synthetic data","register_map":"","enabled":True,"demo":True},
+                {"id":now+"s","name":"DEMO Ward vitals sensor","kind":"Modbus TCP","host":"127.0.0.1","port":sp,"base_url":"","notes":"Simulated, synthetic data","register_map":"","enabled":True,"demo":True}])
+            save_config(self.cfg); self.demo_btn.configure(text="Stop demo simulators"); self.live_status.set("Demo simulators running on loopback (synthetic data). Press 'Poll all now'.")
+        self.refresh_all()
+
+    def simulate_punch(self):
+        for sim in self.demo_sims:
+            if isinstance(sim,AttendanceTerminalSim): sim.punch()
+
+    def destroy(self):
+        for sim in self.demo_sims:
+            try: sim.stop()
+            except Exception: pass
+        super().destroy()
 
     def start_scan(self):
         if not self.authorized_var.get():
@@ -329,7 +454,13 @@ class App(tk.Tk):
             try: port=int(get("port"))
             except ValueError: messagebox.showwarning("Invalid port","Port must be a number.");return
             if not 1<=port<=65535: messagebox.showwarning("Invalid port","Port must be between 1 and 65535.");return
-        item={"id":str(int(time.time()*1000)),"name":get("name"),"kind":get("kind"),"host":get("host"),"port":port,"base_url":get("base_url"),"notes":get("notes"),"enabled":self.enabled_var.get()}
+        if get("register_map"):
+            try:
+                rm=json.loads(get("register_map"))
+                assert isinstance(rm,list) and all(isinstance(r,dict) and {"name","address","scale"}<=set(r) for r in rm)
+            except (ValueError,AssertionError):
+                messagebox.showwarning("Register map",'Use JSON like [{"name":"temp","address":0,"scale":0.1,"unit":"Cel"}] from the vendor documentation.');return
+        item={"id":str(int(time.time()*1000)),"name":get("name"),"kind":get("kind"),"host":get("host"),"port":port,"base_url":get("base_url"),"notes":get("notes"),"register_map":get("register_map"),"enabled":self.enabled_var.get()}
         self.cfg.setdefault("connectors",[]).append(item);save_config(self.cfg)
         self.refresh_connectors();self.refresh_all()
         messagebox.showinfo("Saved","Connector configuration saved locally. This does not establish a live data connection.")
@@ -397,7 +528,7 @@ class App(tk.Tk):
         last=self.cfg.get("last_discovery") or {}
         if last.get("devices") is not None:
             self.devices=last.get("devices",[]);self.stat_devices.set(str(len(self.devices)));self.populate_devices()
-        self.refresh_connectors();self.refresh_files()
+        self.refresh_connectors();self.refresh_files();self.refresh_live()
 
 if __name__ == "__main__":
     App().mainloop()

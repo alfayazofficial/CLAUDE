@@ -22,8 +22,8 @@ def gui(tmp_path, monkeypatch):
     yield app
     app.destroy()
 
-def test_starts_with_five_tabs(gui):
-    assert [gui.tabs.tab(t, "text") for t in gui.tabs.tabs()] == ["Overview", "Network discovery", "Connectors", "Protocol catalog", "Incoming files"]
+def test_starts_with_six_tabs(gui):
+    assert [gui.tabs.tab(t, "text") for t in gui.tabs.tabs()] == ["Overview", "Network discovery", "Connectors", "Protocol catalog", "Incoming files", "Live devices"]
 
 def test_scan_requires_authorization(gui, monkeypatch):
     called = []; monkeypatch.setattr(A.messagebox, "showwarning", lambda *a, **k: called.append(a))
@@ -111,3 +111,74 @@ def test_save_config_is_atomic(gui):
 def test_fhir_button_handles_empty_url(gui, monkeypatch):
     msgs = []; monkeypatch.setattr(A.messagebox, "showinfo", lambda *a, **k: msgs.append(a))
     gui.test_fhir(); assert msgs and "Base URL" in msgs[0][1]
+
+
+# ---------------- Live devices tab (real simulators over real sockets) ----------------
+def _wait_poll(gui):
+    for _ in range(200):
+        gui._run_ui_calls(); gui.update()
+        if not gui._polling: return
+        time.sleep(.02)
+    raise AssertionError("poll did not finish")
+
+def test_live_tab_exists(gui):
+    assert "Live devices" in [gui.tabs.tab(t, "text") for t in gui.tabs.tabs()]
+
+def test_poll_with_no_devices_explains(gui):
+    gui.poll_all(); assert "No pollable devices" in gui.live_status.get()
+
+def test_demo_end_to_end(gui):
+    gui.toggle_demo(); gui.update()
+    assert gui.demo_btn.cget("text") == "Stop demo simulators" and gui.stat_connectors.get() == "2"
+    gui.poll_all(); _wait_poll(gui)
+    assert "2 OK, 0 failed" in gui.live_status.get()
+    rows = [gui.rec_tree.item(i, "values") for i in gui.rec_tree.get_children()]
+    assert sum(1 for r in rows if r[2] == "ATTENDANCE") == 12 and sum(1 for r in rows if r[2] == "SENSOR") == 1
+    assert any("body_temperature=" in r[3] and "spo2=" in r[3] for r in rows)
+    assert any(r[3].startswith("EMP-") and "fingerprint" in r[3] or "card" in r[3] for r in rows)
+    # second poll: no duplicate punches, new punch picked up
+    gui.poll_all(); _wait_poll(gui)
+    assert sum(1 for i in gui.rec_tree.get_children() if gui.rec_tree.item(i, "values")[2] == "ATTENDANCE") == 12
+    gui.simulate_punch(); gui.poll_all(); _wait_poll(gui)
+    assert sum(1 for i in gui.rec_tree.get_children() if gui.rec_tree.item(i, "values")[2] == "ATTENDANCE") == 13
+    # export
+    path = gui.export_records()
+    import csv
+    with open(path, encoding="utf-8") as f: data = list(csv.reader(f))
+    assert data[0][0] == "received_at_utc"
+    assert len(data) == 1 + 13 + 3  # 13 punches + 3 sensor polls
+    # stop demo removes demo connectors, devices then show as failed not crash
+    gui.toggle_demo(); assert gui.stat_connectors.get() == "0" and gui.demo_sims == []
+
+def test_offline_device_shows_failure(gui):
+    A.save_config({"connectors": [{"name": "Gone", "kind": "Attendance terminal", "host": "127.0.0.1", "port": 9, "enabled": True}], "last_discovery": None})
+    gui.refresh_all(); gui.poll_all(); _wait_poll(gui)
+    assert "1 failed" in gui.live_status.get()
+    assert "FAILED" in gui.live_tree.item("0", "values")[3]
+
+def test_modbus_without_register_map_is_reported(gui):
+    A.save_config({"connectors": [{"name": "S", "kind": "Modbus TCP", "host": "127.0.0.1", "port": 502}], "last_discovery": None})
+    gui.refresh_all(); gui.poll_all(); _wait_poll(gui)
+    assert "register map" in gui.live_tree.item("0", "values")[3].lower()
+
+def test_bad_register_map_json_rejected(gui):
+    gui.fields["name"].insert(0, "S"); gui.fields["register_map"].insert(0, "[{oops")
+    gui.save_connector(); assert gui.stat_connectors.get() == "0"
+
+def test_custom_register_map_saved_and_used(gui):
+    from hospital_gateway.simulators.devices import ModbusSensorSim
+    sim = ModbusSensorSim(); port = sim.start(); sim.regs[:] = [380, 95, 70, 50]
+    try:
+        gui.fields["name"].insert(0, "Custom"); gui.fields["kind"].set("Modbus TCP")
+        gui.fields["host"].insert(0, "127.0.0.1"); gui.fields["port"].insert(0, str(port))
+        gui.fields["register_map"].insert(0, '[{"name":"temp","address":0,"scale":0.1,"unit":"Cel"}]')
+        gui.save_connector(); gui.poll_all(); _wait_poll(gui)
+    finally: sim.stop()
+    assert any("temp=38.0Cel" in gui.rec_tree.item(i, "values")[3] for i in gui.rec_tree.get_children())
+
+def test_close_with_demo_running_stops_simulators(tmp_path, gui):
+    gui.toggle_demo(); sims = list(gui.demo_sims); gui.destroy()
+    import socket
+    for s in sims:
+        with pytest.raises(OSError): socket.create_connection(s.server.server_address, timeout=.3)
+    gui.destroy = lambda: None  # fixture teardown no-op
