@@ -1,0 +1,53 @@
+name: Orion testnet
+
+on:
+  push:
+    branches: [main]
+    paths: ['orion-trading-bot/**']
+  pull_request:
+    paths: ['orion-trading-bot/**']
+  workflow_dispatch: {}
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: orion-trading-bot
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: orion-trading-bot/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npx tsc --noEmit
+      - run: npm test
+      - run: npx vite build
+
+  # Deploys to YOUR server over SSH. Skipped automatically until you add the three secrets
+  # (repo Settings -> Secrets and variables -> Actions): DEPLOY_HOST, DEPLOY_USER, DEPLOY_SSH_KEY.
+  # Your Binance keys are NOT stored here; they live only in ~/orion/.env on the server.
+  deploy:
+    needs: test
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    env:
+      DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy over SSH
+        if: env.DEPLOY_HOST != ''
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -H "${{ secrets.DEPLOY_HOST }}" >> ~/.ssh/known_hosts
+          SSH="ssh -i ~/.ssh/deploy_key ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}"
+          rsync -az --delete --exclude node_modules --exclude dist --exclude data --exclude .env \
+            -e "ssh -i ~/.ssh/deploy_key" orion-trading-bot/ "${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:orion/"
+          $SSH 'cd orion && test -f .env || { echo "Missing ~/orion/.env on the server"; exit 1; } && docker compose up -d --build && docker image prune -f'
+      - name: Skipped
+        if: env.DEPLOY_HOST == ''
+        run: echo "No DEPLOY_HOST secret set, so nothing was deployed."
