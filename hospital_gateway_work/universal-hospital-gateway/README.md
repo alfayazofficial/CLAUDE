@@ -32,15 +32,21 @@ Double-click `Build_Windows_EXE.bat`. It installs PyInstaller and builds `dist\U
 
 The desktop screens are currently composed in `desktop/app.py`; `desktop/views/` files are extraction points for a later UI refactor. This is a functional starter, not a claim that every module in the target architecture is complete.
 
+## Demo devices (no hardware needed)
+```
+PYTHONPATH=src python -m hospital_gateway.demo      # PowerShell: $env:PYTHONPATH="$PWD\src"
+```
+Starts a **simulated** Modbus TCP vitals sensor and a **simulated** fingerprint attendance terminal on loopback (synthetic data), pulls from both, stores results in SQLite, and shows incremental polling and de-duplication. The Modbus client speaks real Modbus TCP, so it can be pointed at a real sensor with its documented register map. The attendance protocol (`SIM-ATT/1`) is a demo format: real terminals (ZKTeco, Suprema, Hikvision, etc.) need an adapter written from the vendor's SDK/protocol docs, and employee attendance data is personal data, so get authorization first.
+
 ## Tests
 Install test dependencies and run:
 ```powershell
 py -3 -m pip install -e ".[dev]"
 py -3 -m pytest
 ```
-76 tests cover file readers (incl. UTF-16 XML entity bypass), scope validation, real-socket port scanning, SQLite persistence, pipeline/services, FHIR failure handling, and the Tk desktop app (`tests/gui`, skipped automatically when Tk or a display is unavailable; on Linux use `xvfb-run pytest`).
+83 tests cover file readers (incl. UTF-16 XML entity bypass), scope validation, real-socket port scanning, SQLite persistence, pipeline/services, FHIR failure handling, and the Tk desktop app (`tests/gui`, skipped automatically when Tk or a display is unavailable; on Linux use `xvfb-run pytest`).
 
-## Changelog 0.3.1
+## Changelog 0.3.1 (+ device demo)
 - Security: XML DTD/entity blocking now works for every encoding (was bypassable with UTF-16); the desktop preview now uses the same hardened, size-limited parsers instead of its own.
 - Security: scan scope also rejects `0.0.0.0/8`; desktop scan reuses `validate_cidr`.
 - Fixed: SQLite connections were never closed (file locks on Windows); `Database.connect()` now commits/rolls back and closes.
