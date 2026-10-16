@@ -24,6 +24,7 @@ if (MODE !== 'paper') {
   const key = (process.env.BINANCE_API_KEY || '').trim();
   const secret = (process.env.BINANCE_API_SECRET || '').trim();
   if (!key || !secret) configError = `EXECUTION_MODE=${MODE} needs BINANCE_API_KEY and BINANCE_API_SECRET in .env`;
+  else if (MODE === 'live' && process.env.STRATEGY_BACKTEST_PASSED !== 'yes') configError = 'EXECUTION_MODE=live needs STRATEGY_BACKTEST_PASSED=yes in .env, set only after the strategy passed `npm run backtest` and testnet (see docs/BACKTEST_RESULTS.md: the built-in trend strategy FAILED)';
   else if (MODE === 'live' && process.env.LIVE_TRADING_CONFIRM !== CONFIRM_PHRASE) configError = `EXECUTION_MODE=live needs LIVE_TRADING_CONFIRM=${CONFIRM_PHRASE} in .env`;
   else {
     live = new LiveExecutor(

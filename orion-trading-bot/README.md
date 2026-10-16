@@ -1,3 +1,5 @@
+> **STATUS: the built-in `trend` strategy FAILED its real-data backtest (profit factor 0.43 / 0.45 on BTC / ETH, 3 years). Do not trade it with real money.** See `docs/BACKTEST_RESULTS.md`. The execution engine is ready; a strategy that passes `npm run backtest` is not.
+
 # Orion Forecast Trading Engine
 
 Three execution modes, chosen with `EXECUTION_MODE` in `.env`:
