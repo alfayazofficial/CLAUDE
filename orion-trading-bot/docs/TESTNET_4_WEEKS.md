@@ -58,3 +58,19 @@ Run `npm run report`. It checks: 28+ days, 200+ trades, net P&L positive after f
 
 - **Any FAIL → do not use real money.** Send me the report; we improve or replace the strategy and run another cycle.
 - **All PASS → still not proof.** If you go live: new real Binance key (Spot trading ON, withdrawals OFF, IP-restricted), `EXECUTION_MODE=live`, `LIVE_TRADING_CONFIRM=I_ACCEPT_REAL_MONEY_RISK`, `LIVE_MAX_TRADE_USD` at 10 or less, and only money you can afford to lose. Run that for another 4+ weeks before increasing anything.
+
+## Completely free hosting + auto-deploy from GitHub
+GitHub only stores the code and runs the tests/deploy; the bot itself needs a computer that stays on.
+
+**Free computers (pick one)**
+- **Oracle Cloud "Always Free" VM** (free forever, runs 24/7, needs a card for identity verification, no charge). Choose Ubuntu, add your SSH public key.
+- Your own PC/old laptop/mini PC left on 24/7 (disable sleep).
+
+**One-time setup on that computer**
+1. `bash orion-trading-bot/scripts/server-setup.sh` (installs Docker, creates `~/orion`). Log out and in again.
+2. Create `~/orion/.env` from `.env.testnet.example` (your Binance testnet keys go **only here**, never in GitHub).
+3. In GitHub: repo **Settings → Secrets and variables → Actions**, add `DEPLOY_HOST` (server IP), `DEPLOY_USER` (e.g. `ubuntu`), `DEPLOY_SSH_KEY` (a private key whose public half is in the server's `~/.ssh/authorized_keys`).
+4. Merge to `main` (or run the **Orion testnet** workflow manually). It runs the tests, copies the code to `~/orion`, and runs `docker compose up -d --build`. Every later merge redeploys automatically.
+
+Dashboard: `ssh -L 3000:localhost:3000 user@server`, then open http://localhost:3000.
+Without the three secrets the workflow still runs the tests and simply skips the deploy.
