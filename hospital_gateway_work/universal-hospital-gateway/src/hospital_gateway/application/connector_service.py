@@ -1,5 +1,5 @@
 from hospital_gateway.domain.errors import ValidationError
-PROTOCOLS=("JSON/CSV/XML","TCP health check","FHIR REST","HL7 v2 / MLLP","DICOM","Modbus TCP","OPC UA","Vendor SDK")
+PROTOCOLS=("JSON/CSV/XML","TCP health check","FHIR REST","HL7 v2 / MLLP","DICOM","Modbus TCP","OPC UA","Vendor SDK","Attendance terminal")
 def validate_connector(name,host,port,protocol):
  try: port=int(port)
  except (TypeError,ValueError): raise ValidationError("Port must be a number.")
