@@ -173,7 +173,7 @@ I did not kiss her. I only looked, for a long time, the way a man looks at the s
 
 We sat by the fire until the light came up.
 
-She told me about Adrian. About the confession, and the pistol he'd cleaned, and the look on his face when he left. She told me about the plan. Samuel had outlined it, between fits of coughing, in the dark of the crypt. A boat, the Reverend's, a stout little cutter called the *Faith.* A crew of two: Blackwood himself, who could handle a sheet, and Trevennick's son. A course for the mainland, a landing at Mousehole, a cart to Bodmin, where the Lent Assizes sat.
+She told me about Adrian. About the confession, and the pistol he'd cleaned, and the look on his face when he left. She told me about the plan. Samuel had outlined it, between fits of coughing, in the dark of the crypt. A boat, the Reverend's, a stout little cutter called the *Faith.* A crew of two: Blackwood himself, who could handle a sheet, and Trevennick's son. A course for the mainland, a landing at Mousehole, a cart to Bodmin, where the winter Assizes would sit.
 
 The ledger. The diary pages. The confession. The witness.
 

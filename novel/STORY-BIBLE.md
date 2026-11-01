@@ -45,3 +45,14 @@ Prologue The Last Light · 1 The House That Remembered · 2 The Man at the Light
 
 ## ENDING
 Storm. Rev. Blackwood and Samuel sail at dawn with the ledger, Reed (held by Adrian, freed) to the Assizes. Adrian burns Margaret's diary and second letter, then darkens the lamp as their boat nears the Teeth. Eleanor and Gabriel fight their way up and relight; a surge sweeps both from the gallery. The boat is saved. Adrian is tried. The tide wall shows the names, and two more.
+
+---
+## STATUS — FULL DRAFT COMPLETE (v0.1)
+Prologue + chapters 1–30 + epilogue drafted in `manuscript/` (~57,700 words; shorter than the 90k plan — chapters average ~1,800 words). Build with `./build.sh` (needs pandoc) → `build/the-tide-keeps-our-names.epub`. Publishing metadata in `kdp/KDP-METADATA.md`.
+
+### Known issues for the revision pass
+- Length is ~57k, not 90k. To reach 80–90k, expand: ch 5–9 (investigation texture), 13–14 (island society), 17–19 (more suspects/red herrings), 22–24 (Adrian's net tightening), 28 (climax pacing).
+- Style: heavy use of one-line paragraphs and repeated rhetorical triads; vary rhythm in revision.
+- Tonal ghost scenes in ch 13 (garden apparition, chalk slate, low A) are left deliberately ambiguous; ch 30 echoes (stone dust under fingernails). Decide whether to explain or keep.
+- The note "A friend" in ch 8 (telling Adrian to burn the harbor register page) is never explained; intended: Dr. Reed. Add one line in ch 15 or 29.
+- Check legal/period details (Assizes dates, convict prison terms, Trinity House keeper rules) with a historical reader.
