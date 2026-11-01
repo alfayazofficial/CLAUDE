@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="75%"><stop offset="0" stop-color="#14204A"/><stop offset="1" stop-color="#050816"/></radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset="1" stop-color="#39FF88"/></linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <g stroke="#1B2A5C" stroke-width="2" opacity=".7">
+    <path d="M0 160H800M0 320H800M0 480H800M0 640H800M160 0V800M320 0V800M480 0V800M640 0V800"/>
+  </g>
+  <circle cx="400" cy="400" r="372" fill="none" stroke="#00E5FF" stroke-width="6" opacity=".9" filter="url(#glow)"/>
+  <circle cx="400" cy="400" r="350" fill="none" stroke="#39FF88" stroke-width="2" stroke-dasharray="4 14" opacity=".7"/>
+  <!-- shield -->
+  <path d="M400 130 L615 205 V400 C615 540 520 625 400 675 C280 625 185 540 185 400 V205 Z" fill="#0A1230" stroke="url(#sh)" stroke-width="10" filter="url(#glow)"/>
+  <path d="M400 168 L580 230 V398 C580 515 502 588 400 632 C298 588 220 515 220 398 V230 Z" fill="none" stroke="#00E5FF" stroke-opacity=".35" stroke-width="3"/>
+  <!-- circuit nodes -->
+  <g stroke="#39FF88" stroke-width="4" fill="none" opacity=".9">
+    <path d="M250 470H300L330 500M550 470H500L470 500"/>
+  </g>
+  <g fill="#39FF88"><circle cx="250" cy="470" r="8"/><circle cx="550" cy="470" r="8"/></g>
+  <!-- MS monogram -->
+  <text x="400" y="440" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="210" fill="#E8F0FF" letter-spacing="-8">MS</text>
+  <!-- keyhole accent -->
+  <circle cx="400" cy="520" r="20" fill="#FF3D6E"/><path d="M390 530H410L418 580H382Z" fill="#FF3D6E"/>
+  <text x="400" y="700" text-anchor="middle" font-family="'DejaVu Sans Mono', monospace" font-weight="700" font-size="30" fill="#00E5FF" letter-spacing="6">CYBER · ANIMATED</text>
+</svg>
