@@ -45,7 +45,7 @@ I will tell it as I told it then. I find I cannot tell it any other way.
 
 "Samuel."
 
-"Samuel was seventeen when I took him aboard. Our mother was dead; our father had been drowned off Bude. I'd been a poor guardian, always away. I thought I might make him into something. A midshipman, perhaps. He had a quick head. He could read a chart by moonlight." My voice thickened. "He was the best of us."
+"Samuel was seventeen when I took him aboard, and twenty by the night of the wreck. Our mother was dead; our father had been drowned off Bude. I'd been a poor guardian, always away. I thought I might make him into something. A midshipman, perhaps. He had a quick head. He could read a chart by moonlight." My voice thickened. "He was the best of us."
 
 Eleanor said nothing. She had said she would not interrupt, and she was a woman who kept her word.
 
