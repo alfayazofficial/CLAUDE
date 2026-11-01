@@ -13,7 +13,7 @@ And I remember a woman walking toward it with blood on her hands.
 
 She wore my mother's face.
 
-I was twelve years old when I saw her disappear into the rain.
+I was eighteen years old when I saw her disappear into the rain.
 
 For twelve years, I told myself it had been a dream.
 
@@ -49,4 +49,4 @@ Once.
 
 Twice.
 
-And then, for the first time in twelve years, it went dark.
+And then, for the first time in twelve years, I watched it go dark.

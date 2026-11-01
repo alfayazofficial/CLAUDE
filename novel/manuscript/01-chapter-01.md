@@ -149,7 +149,7 @@ I smiled.
 
 And all the while, I watched his hands.
 
-When I was twelve, I had seen those hands covered in blood.
+When I was eighteen, I had seen those hands covered in blood.
 
 Or perhaps I had dreamed it.
 

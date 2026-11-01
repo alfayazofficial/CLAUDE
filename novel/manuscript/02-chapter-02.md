@@ -83,7 +83,7 @@ I had never once reached the end of it.
 
 *Don't go up there, Ellie. It's no place for you.*
 
-My mother's voice, twelve years old and still perfectly clear.
+My mother's voice, twelve years gone and still perfectly clear.
 
 I stopped. The wind pulled at my hair. A quarter of a mile ahead, the lighthouse rose from the headland like a white bone, banded in black, its gallery rail bright against the sky.
 
@@ -247,7 +247,7 @@ He did not answer.
 
 I leaned forward. My hands were trembling now, and I flattened them against the table so he would not see.
 
-"Mr. Thorne. I was a child. I was at the window. I saw a woman walking toward this lighthouse in the rain, and I saw the beam die, and I have spent twelve years pretending that I invented it. Now a stranger writes me notes in the dark and puts your name at the bottom, and you sit there and tell me what happened the night my mother died as though you had watched it yourself."
+"Mr. Thorne. I was eighteen. I was at the window. I saw a woman walking toward this lighthouse in the rain, and I saw the beam die, and I have spent twelve years pretending that I invented it. Now a stranger writes me notes in the dark and puts your name at the bottom, and you sit there and tell me what happened the night my mother died as though you had watched it yourself."
 
 "I did not watch it."
 
