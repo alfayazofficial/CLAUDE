@@ -106,7 +106,7 @@ She laughed. It was a small, startled, wet laugh, and she covered her face with 
 
 ---
 
-The photograph showed an empty counter: a long counter of pale wood, in a very small shop; eight stools, a red-and-white curtain, a steam-clouded window. In the foreground a bowl of ramen stood at the third stool from the left: perfect, golden, steaming, with a single sheet of seaweed and an egg cut in half, and no one before it.
+The photograph showed an empty counter: a long counter of pale wood, in a very small shop; eight stools, a red-and-white curtain, a steam-clouded window. In the foreground a bowl of ramen stood at the eighth stool, the last one, by the pipe: perfect, golden, steaming, with a single sheet of seaweed and an egg cut in half, and no one before it.
 
 Under it, in Portuguese and in a clumsy English translation, Pedro had written:
 
@@ -257,13 +257,13 @@ Mei Sato had been a food critic for eleven years. She had written, for a great O
 
 She had told no one. She wrote now from memory. She was good at it. She was a clever woman, and could construct a review of any bowl in Osaka from the vocabulary of her past, and no one, so far, had known the difference. But she had stopped going out. And she had stopped, in particular, going to a very small ramen shop in an alley in Fukushima ward, eight stools, run by a taciturn man called Tanabe, where she had eaten, on the third stool from the left, near the pipe where the steam rose, every Tuesday for six years.
 
-She had not been back since March. *A critic who cannot taste is a liar with a pen,* she thought. *And a woman who cannot taste cannot sit at his counter. He would know. He would look at me and know.*
+She had not been back since the new-moon night, when she had sat at his counter, said the one true thing, and run. *A critic who cannot taste is a liar with a pen,* she thought. *And a woman who cannot taste cannot sit at his counter. He would know. He would look at me and know.*
 
 On her phone, a friend had sent a link, with a single line: *Is this your Tanabe?*
 
 She opened it.
 
-A photograph. A counter. A bowl. An empty stool, the third from the left, near the pipe.
+A photograph. A counter. A bowl. An empty stool, the eighth, at the end, near the pipe.
 
 The caption was in Portuguese, which she did not read. But beneath it ran an English translation, and she read that, very slowly, with her hand on the cold kitchen counter.
 
@@ -291,7 +291,7 @@ She put it on again.
 
 Far away, a boy called Leandro sat on a bus back to Santos with an empty paper bag on his knee, a surgeon sat in her car in a hospital garage with a man's handkerchief in her pocket, and a physiotherapist polished a ring on the hem of his coat.
 
-And at a small shop on a narrow street, a bowl was set on the counter, as every night, and every morning, at the third stool from the left, and steamed, as though it knew.
+And at a small shop on a narrow street, a bowl was set on the counter, as every night, and every morning, at the eighth stool, by the pipe, and steamed, as though it knew.
 
 ---
 

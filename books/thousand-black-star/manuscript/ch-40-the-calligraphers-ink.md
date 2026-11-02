@@ -229,7 +229,7 @@ For they had been wed at the church of San Juan Bautista at ten o'clock, in the 
 
 And now the whole party had spilled out into the lane behind the house, where an old wall of lime plaster, prepared that week by the stonemason Ximena Salazar, a woman of sixty-three with forearms like cables and the severity of an Inca queen, stood white and waiting.
 
-"It is the hundred-and-first," said Rafael, not coming down. "I could not marry you and leave you on a hundred walls like a lost umbrella. There has to be one that is *finished.*"
+"It is the hundred-and-fourth," said Rafael, not coming down. "I could not marry you and leave you on a hundred walls like a lost umbrella. There has to be one that is *finished.*"
 
 "You have painted me a hundred times!"
 
@@ -259,7 +259,7 @@ Then, in her wedding dress, in front of the whole of Coyoacán, she took the lad
 
 "What are you doing?" said Rafael.
 
-"I walked to every wall," said Camila. "Ninety-nine walls, in four years, in the heat, in my good shoes, to find the hand that painted me. I found him. And I have never once held the brush." She reached the top, took it from his fingers, and dipped it in black. "Move."
+"I walked to every wall," said Camila. "A hundred and three walls, in four years, in the heat, in my good shoes, to find the hand that painted me. I found him. And I have never once held the brush." She reached the top, took it from his fingers, and dipped it in black. "Move."
 
 "What are you going to paint?"
 

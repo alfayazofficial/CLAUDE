@@ -2862,7 +2862,7 @@ She laughed. It was a small, startled, wet laugh, and she covered her face with 
 
 ---
 
-The photograph showed an empty counter: a long counter of pale wood, in a very small shop; eight stools, a red-and-white curtain, a steam-clouded window. In the foreground a bowl of ramen stood at the third stool from the left: perfect, golden, steaming, with a single sheet of seaweed and an egg cut in half, and no one before it.
+The photograph showed an empty counter: a long counter of pale wood, in a very small shop; eight stools, a red-and-white curtain, a steam-clouded window. In the foreground a bowl of ramen stood at the eighth stool, the last one, by the pipe: perfect, golden, steaming, with a single sheet of seaweed and an egg cut in half, and no one before it.
 
 Under it, in Portuguese and in a clumsy English translation, Pedro had written:
 
@@ -3013,13 +3013,13 @@ Mei Sato had been a food critic for eleven years. She had written, for a great O
 
 She had told no one. She wrote now from memory. She was good at it. She was a clever woman, and could construct a review of any bowl in Osaka from the vocabulary of her past, and no one, so far, had known the difference. But she had stopped going out. And she had stopped, in particular, going to a very small ramen shop in an alley in Fukushima ward, eight stools, run by a taciturn man called Tanabe, where she had eaten, on the third stool from the left, near the pipe where the steam rose, every Tuesday for six years.
 
-She had not been back since March. *A critic who cannot taste is a liar with a pen,* she thought. *And a woman who cannot taste cannot sit at his counter. He would know. He would look at me and know.*
+She had not been back since the new-moon night, when she had sat at his counter, said the one true thing, and run. *A critic who cannot taste is a liar with a pen,* she thought. *And a woman who cannot taste cannot sit at his counter. He would know. He would look at me and know.*
 
 On her phone, a friend had sent a link, with a single line: *Is this your Tanabe?*
 
 She opened it.
 
-A photograph. A counter. A bowl. An empty stool, the third from the left, near the pipe.
+A photograph. A counter. A bowl. An empty stool, the eighth, at the end, near the pipe.
 
 The caption was in Portuguese, which she did not read. But beneath it ran an English translation, and she read that, very slowly, with her hand on the cold kitchen counter.
 
@@ -3047,7 +3047,7 @@ She put it on again.
 
 Far away, a boy called Leandro sat on a bus back to Santos with an empty paper bag on his knee, a surgeon sat in her car in a hospital garage with a man's handkerchief in her pocket, and a physiotherapist polished a ring on the hem of his coat.
 
-And at a small shop on a narrow street, a bowl was set on the counter, as every night, and every morning, at the third stool from the left, and steamed, as though it knew.
+And at a small shop on a narrow street, a bowl was set on the counter, as every night, and every morning, at the eighth stool, by the pipe, and steamed, as though it knew.
 
 ---
 
@@ -5458,7 +5458,7 @@ She was twenty-seven, short, quick, in a dusty-green kurta and sneakers that had
 
 "The flood is old news."
 
-"The flood," said Sana, "is the only news in this city that has not yet been told *properly.*"
+"The flood," said Sana, "is the only news in this city that has not been told *properly.*"
 
 ---
 
@@ -5496,7 +5496,7 @@ She did not argue. It was a thing she could do, when it mattered, though almost 
 
 Across the road, in the shade of a neem tree, a grey Corolla was parked. It had been parked there the previous day, and the day before. The window was down a hand's breadth. Behind it, someone was not looking at her very carefully.
 
-She did not look back. She put on her sunglasses, and put her shoulders in the way her mother had taught her, and walked, at the pace of a woman with nothing whatsoever on her mind, to the end of the road to hail a rickshaw.
+She did not look back. She put on her sunglasses, and set her shoulders as her mother had taught her, and walked, at the pace of a woman with nothing whatsoever on her mind, to the end of the road to hail a rickshaw.
 
 *It is nothing,* said Sana to herself. *The network has been down all week. That is why the phone rings and nobody speaks.*
 
@@ -5506,7 +5506,7 @@ By four, the boys had gone. The long light had come across the field the colour 
 
 He was not smiling.
 
-He did not know she had come back. She had left her pen in the grass, and she stood at the gate and saw him for a full minute, in the place where nobody was watching: a man of twenty-nine with the whole of his face let go, like a man putting down a very heavy sack at the end of a very long road. He looked at the silt. He looked at the single stump. His mouth moved, and he said one word, quietly, in Urdu, and it was not a joke.
+He did not know she had come back. She had left her pen in the grass, and she stood at the gate and saw him for a full minute, in the place where nobody was watching: a man of twenty-nine with his whole face let go, like a man putting down a very heavy sack at the end of a very long road. His mouth moved, and he said one word, quietly, in Urdu, and it was not a joke.
 
 She walked across the crust of the field, and sat down beside him on the roller, and without a word held out her steel flask, with the tea still hot in it. He took it. He did not ask why she had come back. He drank. For some time they watched the sun go down over the creek, and the dust turn gold, and the far wickets of the lost pitch go violet and thin.
 
@@ -5559,9 +5559,7 @@ Ahmed Yilmaz, twenty-eight, the son of the Yilmaz line's old captain, sat. He wa
 
 "It is a very pretty timetable. It has a girl in it." The ladle went into the pot, and came out, dripping. "Eat your soup, Ahmed bey. In my experience a man who looks that long at a ticket office is not buying a ticket."
 
-The first sign of trouble was the rope.
-
-Ahmed saw it before he knew he saw it: a pale curl of mooring-line on the Kaya side, drawn tight, and then a flash of a blade, and then a long slack coil sliding into the black water like a snake. The blue ferry, loosed from her post, swung slowly on the current with her gangway still down, and a Kaya deckhand, in the middle of the plank with a crate of oranges, went into the Bosphorus with an enormous, shocked, orange-scattering splash.
+The first sign of trouble was the rope. Ahmed saw it before he knew he saw it: a pale mooring-line on the Kaya side drawn tight, a flash of a blade, and a long slack coil sliding into the black water like a snake. The blue ferry, loosed from her post, swung slowly on the current with her gangway still down, and a Kaya deckhand, in the middle of the plank with a crate of oranges, went into the Bosphorus with an enormous, shocked, orange-scattering splash.
 
 "*They have cut us loose!*" a voice roared.
 
@@ -11543,7 +11541,7 @@ For they had been wed at the church of San Juan Bautista at ten o'clock, in the 
 
 And now the whole party had spilled out into the lane behind the house, where an old wall of lime plaster, prepared that week by the stonemason Ximena Salazar, a woman of sixty-three with forearms like cables and the severity of an Inca queen, stood white and waiting.
 
-"It is the hundred-and-first," said Rafael, not coming down. "I could not marry you and leave you on a hundred walls like a lost umbrella. There has to be one that is *finished.*"
+"It is the hundred-and-fourth," said Rafael, not coming down. "I could not marry you and leave you on a hundred walls like a lost umbrella. There has to be one that is *finished.*"
 
 "You have painted me a hundred times!"
 
@@ -11573,7 +11571,7 @@ Then, in her wedding dress, in front of the whole of Coyoacán, she took the lad
 
 "What are you doing?" said Rafael.
 
-"I walked to every wall," said Camila. "Ninety-nine walls, in four years, in the heat, in my good shoes, to find the hand that painted me. I found him. And I have never once held the brush." She reached the top, took it from his fingers, and dipped it in black. "Move."
+"I walked to every wall," said Camila. "A hundred and three walls, in four years, in the heat, in my good shoes, to find the hand that painted me. I found him. And I have never once held the brush." She reached the top, took it from his fingers, and dipped it in black. "Move."
 
 "What are you going to paint?"
 
