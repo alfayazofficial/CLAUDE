@@ -62,7 +62,7 @@ In another quarter of the world, in a city that never ceases to explain itself l
 
 The chairs, said Emeka Okafor, twenty-eight, had been borrowed from a wedding. The runway had been a loading ramp. The lights had come from a man in Ikeja who promised Thursday and arrived the following Tuesday with the face of a saint. The building had once held sixty servers and fourteen employees, whose salaries he had paid for eleven months out of his own savings after the company was already dead, as one continues to feed a horse after the cart has gone over the cliff.
 
-The servers were gone. The fourteen were here. Kemi, once his lead engineer and now, by some alchemy of the heart, sewing-room manager, reported that the back generator had been turned off because the noise upset the models.
+The servers were gone. The nine were here. Kemi, once his lead engineer and now, by some alchemy of the heart, sewing-room manager, reported that the back generator had been turned off because the noise upset the models.
 
 "The models are upset by *everything.*"
 
@@ -82,7 +82,7 @@ Chidinma Eze had cut gowns for brides and carnivals, bright, vivid, extravagant,
 
 "I am here," said a large and magnificent voice from the third row, and a woman rose in a purple *iro* and *buba* and a head-tie like a cathedral. She was fifty-nine, a pastor from Enugu who had come to Lagos by bus to bless the evening, and who would by its end have blessed the chairs, the ramp, and the caterer. "Daughter. The Lord, who made the woman you are afraid to become, has seen her. He says: She is *very* tall. She is wearing gold. She is a little bit rude. Go and meet her. She has been waiting."
 
-Chidinma took the pins out of her mouth. She looked at the dress. She looked at the man who had once paid fourteen salaries out of a dead company's grave and was now arranging chairs for hers. She looked, last, at the end of the ramp, where a hundred people, borrowed from a hundred weddings, were beginning to sit down and fan themselves with the programme.
+Chidinma took the pins out of her mouth. She looked at the dress. She looked at the man who had once paid nine salaries out of a dead company's grave and was now arranging chairs for hers. She looked, last, at the end of the ramp, where a hundred people, borrowed from a hundred weddings, were beginning to sit down and fan themselves with the programme.
 
 "Help me with the zip," she said.
 

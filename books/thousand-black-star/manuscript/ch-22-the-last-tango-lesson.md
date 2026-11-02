@@ -131,7 +131,7 @@ She did not pick it up. She stood, with the glass in her hand, and looked at a p
 
 Dona Zuleide Teles had come in, as small women do, with no sound at all.
 
-"I know a widower when I see one wash his hands without his ring," said the old woman. "A married man leaves it on. A widower takes it off in other people's kitchens, where nobody will remark." She took the glass out of Beatriz's grip, and drank from it, with a certain firmness. "I was a wife for forty-one years. I am a widow since the third of December. I have not yet taken mine off. The ring is not a lie, child. It is a *door.* He has been holding it open for her for three years. Somebody has to say to him: *You may come through.*"
+"I know a widower when I see one wash his hands without his ring," said the old woman. "A married man leaves it on. A widower takes it off in other people's kitchens, where nobody will remark." She took the glass out of Beatriz's grip, and drank from it, with a certain firmness. "I was a wife for forty-one years. I am a widow since the third of November. I have not yet taken mine off. The ring is not a lie, child. It is a *door.* He has been holding it open for her for a very long time. Somebody has to say to him: *You may come through.*"
 
 "I am not—it is not—Dona Zuleide, I have no right—"
 
@@ -145,7 +145,7 @@ He was in the garden by the lemon tree, looking at the cranes.
 
 He turned. The wind lifted his hair. He looked at her for a long time, with his warm crooked face, and in it she saw, one after the other, six or seven things he might have said, none of which he said.
 
-"I was," said Carlos Mendes. "Marina died three years ago, in March. It was long. I would sooner not say how long. I have worn the ring because it is easier than a sentence." He drew breath. "I did not tell you in the lift because the word was heavier than the lift."
+"I was," said Carlos Mendes. "Marina died in March, two years ago. It was long. I would sooner not say how long. I have worn the ring because it is easier than a sentence." He drew breath. "I did not tell you in the lift because the word was heavier than the lift."
 
 "I know."
 

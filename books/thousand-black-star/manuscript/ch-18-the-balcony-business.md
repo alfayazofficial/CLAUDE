@@ -148,99 +148,89 @@ He sent it to the wall at dawn.
 ---
 
 ### SCENE III
-*Mexico City. Colonia Doctores, at midday, in the dry bright cold of a February noon. A wall, and under the wall, in the shadow of a lorry, a young woman with a map.*
+*Mexico City. Colonia Doctores, at midday, in the dry bright cold of a February noon. A trail of blue footprints on the pavement, and three people following it.*
 
-There were ninety-nine of them. She had counted.
+The wall on the Calle Zacatecas had opened its eyes in November, and the city had not yet recovered.
 
-Camila Reyes, twenty-five, law student, a person who made flashcards of her feelings, had pinned every one to a map of the city that covered her bedroom wall: ninety-nine murals, from Coyoacán to Iztapalapa, on bakeries and school-yards and the sides of tire shops, in a style she could have picked out blindfold. The colours were burning: marigold, cobalt, a deep Mexican pink. The subject never changed. It was a woman's face. She was laughing, or reading, or sleeping on a bus with her head against the glass; she was caught in the rain, with a hand lifted against it; she was thirty feet high, and she was always, unmistakably, the same woman, with a short chin and a slightly crooked nose and an eyebrow that rose on its own, like a question.
+She looked out over the Colonia Roma from thirty feet up with her book lowered and her face lifted, and her eyes, brown with a ring of green, were fixed on something just over the rooftops that nobody could see. Offerings had multiplied at her feet: marigolds, pencils, and a hand-lettered card that said *THANK YOU FOR LOOKING UP.* The critics, who had spent two years calling her *La Lectora,* had begun, unsure, to call her *La Que Mira.*
 
-It was Camila's face. It had been her face for eight months.
+The painter had not been seen since.
 
-"Señorita," said a voice.
+"He is *unwell,*" Marisol García had told Camila, on the telephone, in December, and twice in January. "He has an affliction. It is called *Finishing.* It is very common in artists. They do the thing, and the thing is done, and they sit on a bucket."
 
-She started. She was standing, with her camera, on the wrong side of a chain. Behind the chain stood a wall; on the wall, in fresh paint still tacky from the night, was number ninety-nine. The woman was holding a violin.
+"Where?" said Camila.
 
-"This is private property," said the officer. He was a large, mustachioed man in a blue uniform, with a gold tooth and a bearing of the most dreadful self-satisfaction. "I am obliged to inform you that you are *loitering.*"
+"Mija, I am a woman of honour. I could not possibly say. But if I were a woman of *less* honour, I would observe that he has not washed his boots, and a man who leaves cobalt footprints is a man who wishes, in his heart, to be followed."
 
-"I am an observer."
+It was a clue, and Camila knew a clue when one was left on a plate.
 
-"You are loitering in an *artistic manner.*"
+"They go this way," said Alejandro Hernández.
 
-"It is a public mural. Article Six of the Constitution protects—"
+He was in civilian clothes, which made him look like a policeman disguised as a larger policeman. He had been suspended since the matter of the jaw, under Article Forty-One, and spent his leisure saving for a small farm in Oaxaca where he intended to keep goats and be, at last, unarguably in charge of something. In the meantime he had attached himself to Camila with the tenderness of a retired bloodhound. "A trail of paint is the oldest evidence there is. I have not *tracked* you. I have *accompanied the investigation.*"
 
-"Alejandro Hernández," said the officer, drawing himself up, and then, with a flicker of apprehension, "Officer. Of the Colonia Doctores. Twenty-two years of service. I have never in my life *lost* an argument." He said this with such finality that it was clear he had never won one either. "I am arresting you. In a *friendly* way."
+"He is a very good tracker," said Lupita Hernández, twenty-five, chef, round-faced and unalarmable, who had come along from Xochimilco with a covered pan of chilaquiles, on the principle that every crisis is improved by a second breakfast. "He walked into three lamp-posts and apologised to none."
 
-"For what?"
+"The lamp-posts were in the way," said Alejandro.
 
-"I will think of something in the car."
+The blue footprints went six blocks, faint and then fainter, and ended, as such trails do, at a roller shutter in a back street behind a tyre shop, with a hand-painted sign above it that said *TORTILLAS: SE VENDE,* the last word crossed out, and below that, in a hand too enormous to be anything but his, a single marigold the size of a cartwheel.
 
----
+The shutter was half raised. Camila ducked under it.
 
-It was, as Camila said later, the first time she had been arrested for her own face.
+It was an old tortillería, high and bare, with light falling through clerestory windows onto a floor of buckets and rags, a great copper comal black with ancient masa, and a tortilla press that now held in its iron jaws a bouquet of brushes. And on the walls—
 
-He drove her, in the patrol pickup, ten blocks, humming a bolero in a baritone of enormous sweetness; and in the course of them he struck a traffic cone, a tamale cart, and an unoccupied taxi, and apologised to none. The words *I am sorry* were as foreign to him as Finnish. He said, in each case, "That cone was *in the road,*" and drove on.
+She stopped.
 
-"You know who painted it," said Camila at last. It was not a question.
+On every wall, on every inch of whitewashed brick from the floor to the rafters, pinned, taped, drawn in charcoal and chalk and ink, hung eyes.
 
-"Everyone knows. The boy with the paint." He stroked his moustache. "I do not, strictly, *give out* the address of a citizen. But I may *drive past* it. By accident. Slowly."
+There were hundreds. They were green and grey and black; they were violet, they were amber; there was a pair of a deep clear blue with a scatter of tiny stars in the iris, and a pair like two coins of old gold, and a pair that were frankly alarming. They looked down, up, aslant, sidelong, closed; they looked at nothing and at everything. A little card was pinned beside each, in a quick, impatient hand: *No. No. Too kind. No. A liar's. NO.* There were two hundred and twelve pairs, and not one of them was brown.
 
-He drove past it slowly. It was an old tortillería in a back street behind a tire shop, with a roller shutter and a hand-painted sign that said *TORTILLAS — SE VENDE,* the last word crossed out, and above it, in a fresh, enormous, unfinished hand, a single marigold the size of a cartwheel. A woman with a hennaed bun sat in the doorway shelling beans into a bowl. This was Marisol García, forty-five, painter, who sold him his lime and half his colours and the whole of his gossip.
+On a stool at the long table in the middle of the room, with his back to the door, sat Rafael Ortega, in a shirt he had apparently been wearing for a week, looking at a blank sheet of paper.
 
-"*Ay, mija,*" said Marisol, looking up. She looked at Camila's face for a long, deliberate moment. Then she looked at the cartwheel marigold, and at the wall behind her, and back again. "*Ay, Dios.* Alejandro, you have *outdone* yourself."
+"I do not want any tamales, Marisol," he said, without turning round.
 
-"I have done nothing," said the officer, with deep dignity. "I merely drove."
+"I haven't brought any," said Camila.
 
-"He's gone for white paint. He'll be an hour." Marisol put down her beans. "You are the law student? He told me. He said, 'There's a girl who has been to every wall. She stands for ten minutes. She goes away.' He saw you at the eighth." She smiled, the broad, wicked smile of an old friend who has been waiting for this since October. "Come in. Do not touch anything."
+He was on his feet before he knew it. The stool went over. He stood with his hands open and his mouth open and a dab of ochre on his chin, and the whole large impulsive weather of him went across his face and found no place to land.
 
-Inside, there was light.
+"You *found* it," said Rafael.
 
-It fell through high windows onto a floor littered with buckets, rags, a ladder, a great copper comal still black with ancient masa, and a tortilla press that now held, in its iron jaws, a bouquet of brushes. And on the walls—
+"It is not a difficult mystery. You were walking about in cobalt." She came slowly down the aisle between the walls of eyes. She did not look at them. She looked at him. "Marisol says you are afflicted."
 
-She stood in the doorway and did not breathe.
+"I am not afflicted. I am—" He gestured helplessly at the walls. "You opened your eyes. It was the best morning of my life. And then I came home and there was nothing left to be. For two years I had a thing to do. I got up in the dark for it. I climbed ladders for it. I was fined by a man in a moustache. And then you went up the scaffold and put in one line of brown, and the whole wall looked at the city, and the city loved her at once, and I thought: *She does not need me. She has her own eyes now.*" He swallowed. "I came here to paint yours properly. Once. For myself. And I have been trying for three months, and look."
 
-On every inch of whitewashed brick, from the floor to the rafters, pinned, taped, drawn in charcoal and chalk and wax crayon, in pencil on butcher's paper and ink on the backs of receipts, was a woman's face. Hers. There were sketches of her on a bus; of her asleep at a library table with her chin on a law book; and one, in a corner, small and exact, of a girl of nineteen at the Metro, in the rain, with her umbrella blown inside out and an expression of the purest and most justified indignation. She had forgotten that day. He had not.
+He pointed to the wall. Two hundred and twelve pairs of eyes looked back at both of them.
 
-And beside each, in a small, quick, impatient hand, there was a note. *Her mouth when she is reading something she disagrees with. The way she holds her bag like a shield. The eyebrow.*
+"I know what colour they are. I know the green ring. I can paint a face thirty feet high from memory. But the moment I paint *these,* they look at the wall, as I always made them look, and they are *wrong.* They never look at *me.* It is the one thing I have never painted." He laughed, helplessly. "A man cannot paint himself being looked at. It is a matter of *nerve.*"
 
-"He said it was for the *walls,*" said Marisol, softly, behind her. "He said a man has to paint something. He did not say it was for *her.* He is a very stupid boy."
+There was a long silence in the old factory, in which a pigeon moved on a rafter, and Lupita, at the door, quietly lifted the lid of the chilaquiles, and Alejandro Hernández, beside her, took out a large white handkerchief and blew his nose with a sound like a cavalry charge.
 
-Camila said nothing. She walked slowly down the long aisle between the studies, as one walks through a church, with her hands at her sides. She had made flashcards of her emotions for seven years, and she stood now in the middle of the old tortillería, in a cathedral of herself, and could not remember a single card.
+"I am here in a private capacity," said the former Commandante thickly. "As a chaperone."
 
-"I walked to every wall," she said, to nobody. Her voice was barely a whisper. "I wanted to find the hand."
+Camila took off her coat. She took from her bag the heaviest book she owned, a Constitution in black buckram, and dragged the stool upright with her foot, and sat on it, in the light of the clerestory, with her hair coming out of its pencil.
 
-"And now you have found the whole *arm,*" said Marisol. "And a studio. And a hundred of the same nose."
+"Paint me," she said.
 
-"I am a law student," said Camila Reyes. A small, wet, magnificent smile had begun at the corner of her mouth. "I have been grievously *wronged.* Where is a pen?"
+"Camila—"
 
-She took a legal pad from her bag. It was her best, the yellow one, with the margin ruled in red. She wrote on it for a long time in a firm, fast, upright hand, and when she had finished she tore it off and pinned it, with a dressmaker's pin from the tortilla press, in the very centre of the biggest wall.
+"Not a wall. Not thirty feet. *This.*" She opened the book, and bent her head to it, and then lifted her eyes over the top of the page, and looked at him, straight, without any flinching whatever. "I am told I read with the face of a woman who is being robbed. I am going to read Article Six, on the freedom of expression, and you are going to be looked at. For as long as it takes. I am extremely disciplined. I can hold still for hours."
 
-*NOTICE OF CLAIM*
-*Re: Unauthorised Use of a Likeness (×100, approx.)*
-*Respondent: R. Ortega, painter, of no fixed sense of proportion.*
-*The Claimant, C. Reyes, has examined the evidence and finds as follows: that the respondent has painted her without consent, in public, at scale, in marigold; that the likeness is, on the whole, flattering; that the nose is too crooked and she has never held a bag in that manner.*
-*The Respondent is hereby cited to appear in person at the Café de Tacuba, Calle Tacuba 28, on Sunday at four in the afternoon, to answer the charge of having painted her better than she looks.*
-*Failure to appear will be taken as an admission.*
-*C. Reyes. (Unlicensed. Fierce.)*
+He did not move. Then he took the blank paper from the table with a hand that, to his own immense surprise, shook only a little, and found a stick of charcoal, and sat down on an upturned bucket of white, facing her.
 
-"Is it a *binding* summons?" said Alejandro, from the doorway.
+"Don't talk," said Rafael.
 
-"It is *extremely* binding."
+"I will read aloud."
 
-"Then I will serve it," said the officer, "should he *resist.*"
+"Don't *move.*"
 
-When Rafael Ortega came in, at ten past one, with a can of white on each hip and a streak of cobalt across his forehead, he found the studio in perfect order and a woman's yellow paper pinned in the middle of the wall. He was twenty-six, loud, impulsive and romantic, a man who had painted a face thirty feet tall on ninety-nine walls without once working out what he would say to it if it spoke. He read the notice from the top. Then he read it again. Then he read it a ninth time, with his lips moving, and put both cans very carefully down on the floor.
+"I am not moving."
 
-"Marisol," said Rafael, in a very small voice. "Who was here?"
+He drew. She read. The charcoal went across the paper with a small dry sound, and the light slid slowly down the wall of two hundred and twelve wrong eyes. And in the doorway, a chef and a suspended policeman, who had been told to leave and had not, held a pan of cold chilaquiles between them like a sacrament, and watched a young man learn how it felt to be looked at, and a young woman, for the first time in her life, to look back.
 
-"The law."
+It took four hours. Alejandro cried twice. At the end, Rafael held up the paper, and it was not a mural, and it was not the face on a hundred and three walls. It was small, and quick, and a little crooked. It was a girl with a book and a raised eyebrow, looking straight out of the page at the person who held the charcoal, with an expression of the most intelligent and suspicious tenderness.
 
-"The *law*?"
+The eyes were brown. They had a ring of green.
 
-"A woman with a crooked nose," said Marisol García, shelling her beans with the dreadful serenity of one who has seen the end of a comedy before its second act, "and a *very* good handwriting."
-
-He sat down on a bucket of white. He looked at the hundred faces on the wall, and at the one piece of yellow paper, and for the first time in his life, he could not think of what to paint.
-
-*Sunday at four.* It was Thursday. He had never been so unprepared for a Sunday.
+They were, he said, in a voice he had not used before, the first he had ever got right.
 
 ---
 
@@ -248,7 +238,7 @@ He sat down on a bucket of white. He looked at the hundred faces on the wall, an
 
 > *Nine out of ten letters to a wall ask the same question:* will she answer?
 >
-> *She did. And in another city, a face is at last pinned to a wall by the person it belonged to.*
+> *She did. And in another city a painter, who has looked at one face for two years, is at last looked at.*
 >
 > *There is no such thing as an unanswered letter. There are only the ones still on their way.*
 

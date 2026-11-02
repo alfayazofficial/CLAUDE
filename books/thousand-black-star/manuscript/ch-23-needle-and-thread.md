@@ -167,7 +167,7 @@ In the stairwell, as the buyer descended in a cloud of orange, a very old woman 
 
 "Only to bless you. Also, I do not have bus fare."
 
-That night, when the nine desks were dark and the dust ticked against the glass, Chidinma went home to a room in Yaba and sat down on the edge of her bed, in front of a trunk. It was a plain wooden trunk, with a brass lock. She had a key to it on a string round her neck. In it, folded in tissue, lay a length of gold *aso-oke,* woven by a cooperative in Iseyin, which she had been cutting and stitching one inch a night since she was nineteen, for a woman of forty who had never in her life apologised to a room. She was twenty-seven. She had told no one. She had not told Emeka, who had carried two hundred and twelve boxes down three flights in his shirt-sleeves in a month of Saturdays and had not once asked what was in the trunk.
+That night, when the nine desks were dark and the dust ticked against the glass, Chidinma went home to a room in Yaba and sat down on the edge of her bed, in front of a trunk. It was a plain wooden trunk, with a brass lock. She had a key to it on a string round her neck. In it, folded in tissue, lay a length of gold *aso-oke,* woven by a cooperative in Iseyin, which she had been cutting and stitching one inch a night since she was nineteen, for a woman of forty who had never in her life apologised to a room. She was twenty-seven. She had told no one. She had not told Emeka, who had carried boxes down three flights in his shirt-sleeves in a month of Saturdays and had not once asked what was in the trunk.
 
 She put her hand on the lid.
 

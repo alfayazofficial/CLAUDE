@@ -119,7 +119,7 @@ This is *in the manner of*, not imitation of Elizabethan spelling. A modern read
 ## 11. Production Roadmap
 
 1. ✅ Bible, 60 love stories, character bible, 1000-character ledger, 60-chapter outline.
-2. ✅ Prologue, Chapter 1, **Chapter 30 (Fayaz & Ermis)**, Epilogue.
-3. ⏭ Write Act I (Ch. 2–12), then Acts II–V, in batches.
-4. ⏭ Continuity pass using the ledger.
+2. ✅ Prologue, act sonnets, all 60 chapters (first draft), Epilogue.
+3. ✅ First mechanical checks: 60 chapters, 11 torn pages, content rules.
+4. ⏭ Full continuity pass using the ledger and `manuscript/_continuity/`.
 5. ⏭ Edit, proof, format, publish.
