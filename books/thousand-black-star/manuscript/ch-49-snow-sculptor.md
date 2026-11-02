@@ -46,15 +46,7 @@ Nanami was forty-six, a chef, and the owner of the *izakaya* next door, a small 
 
 He stood in the yard at the back, a lean man of thirty-seven with a long face and hands too large for his sleeves, in a heavy coat dusted with a fine grey powder that was not snow. Takumi Ishikawa had been a snow sculptor for fifteen years. Every February, at the great festival in the park, he built a crane, a castle, a tall Buddha with a patient face, from packed snow as high as a house; and every March it went back to water and ran down the drains of the city. He had made two hundred and eleven things, and had not one of them left.
 
-"I have come to say," said Takumi, "that I am stopping."
-
-"Stopping what?"
-
-"All of it. This is my last season. I told the festival committee on Monday." He looked at his large hands, as if they had been guilty of something. "I have been making things for fifteen years, and every one of them has gone to a drain. I am thirty-seven. I think I should like to make a thing that stays."
-
-"That is a good idea," said Yuki, surprised to find her voice quite steady. "What kind of thing?"
-
-"I have not decided." He paused. "I came to ask whether I might take the last of my things out of your freezer."
+"I have come to say," said Takumi, "that this is my last season. I told the festival committee on Monday." He looked at his large hands, as if they had been guilty of something. "Every thing I have made for fifteen years has gone to a drain. I am thirty-seven. I think I should like to make a thing that stays." He paused. "I came to ask whether I might take the last of my things out of your freezer."
 
 There was a silence in the yard. A pigeon landed on the drainpipe, and thought better of it.
 
@@ -114,7 +106,7 @@ Yuki Nakamura turned back to the shelf. She was a woman who laughed at everythin
 
 She set it on the doorstep.
 
-It was twenty to five. The sky, which had been holding its breath since morning, let it go. A flake came down, one, as large as a coin, and settled on the shoulder of the small ice woman. Another followed; then a dozen; then the air was full of it, white and soundless and thick, the first snow of the winter, falling on the shop and the cow and the bicycle rack and the head of a retired nurse on a bench, who looked up with great satisfaction and said, to nobody, "There."
+It was twenty to five. The sky, which had been holding its breath since morning, let it go. A flake came down, as large as a coin, and settled on the shoulder of the small ice woman. Another followed; then a dozen; then the air was full of it, white and soundless and thick, the first snow of the winter, falling on the shop and the cow and the head of a retired nurse on a bench, who looked up with great satisfaction and said, to nobody, "There."
 
 "In Sapporo," said Yuki, watching, "whatever you give to the first snow is kept till April."
 
@@ -130,14 +122,14 @@ It was twenty to five. The sky, which had been holding its breath since morning,
 
 "Then in April," said Yuki Nakamura, turning to him, with snow in her hair and her whole bright stubborn face alight, "you will have to come and stand beside it. And we shall see what we think."
 
-He could not answer. He took the cone she put in his hand, burnt-caramel, warm from the machine, and stood in the falling white and ate it, a thirty-seven-year-old man, in the snow, weeping gently, and the retired nurse on the bench, who had said nothing in four years but *a small one, please,* said, with deep contentment: "I envy him."
+He could not answer. He took the cone she put in his hand, burnt-caramel, and stood in the falling white and ate it, a grown man in the snow, weeping gently; and the retired nurse on the bench, who had said nothing in four years but *a small one, please,* said, with deep contentment: "I envy him."
 
 ---
 
 ### SCENE II
 *Manchester. The bowling green of a public park, on a damp Saturday in the third week of October. A marquee, an urn, a trestle of sandwiches and thirty folding chairs in a quivering row. And, on the green, a ring of grass cut with a straight edge, a little darker than the grass around it, like a note.*
 
-The bride was eleven minutes late, which in a woman who had once marched across a muddy football pitch without missing a beat, was considered a sign of the times.
+The bride was eleven minutes late, which in a woman who had once marched across a football pitch without missing a beat was considered a sign of the times.
 
 "She is never *late,*" said Callum Brown, forty, euphonium, shy as a clam and best man, tugging at his collar. He had lost his speech in the car and been left with only the opening: *Friends.*
 
@@ -159,7 +151,7 @@ Hannah Hughes, who was fourteen now and had a school blazer with the cuffs let d
 
 "That's not true," said Hannah. "Poppy says the *note* is bigger." She considered. "She's here."
 
-She was. She came through the gap in the hedge on her mother's arm, and the thirty folding chairs rose with a sound like a flock lifting off a lake. Poppy Ashworth was twenty-nine, a school music teacher, loud in every way a woman can be; she wore a cream dress and a pair of Doc Martens, and she carried, instead of flowers, a cornet. It was dented from a fall off a coach in 2019, and its bell had been wrapped, for the day, with ivy and a yellow ribbon. On her other side walked Lucy Wilson, fifty-nine, an airline captain, in uniform, who treated every plan as a flight plan and had been heard at the church door to say, to the vicar, "We are cleared for landing, Reverend, in three minutes. Please confirm the runway."
+She was. She came through the gap in the hedge on her mother's arm, and the thirty folding chairs rose with a sound like a flock lifting off a lake. Poppy Ashworth was twenty-nine, a school music teacher, loud in every way a woman can be; she wore a cream dress and Doc Martens, and carried, instead of flowers, a cornet, dented from a fall off a coach, its bell wrapped for the day in ivy and a yellow ribbon. Her mother, Lucy Wilson, fifty-nine, an airline captain in full uniform, treated every plan as a flight plan and had been heard to say to the vicar, "We are cleared for landing, Reverend, in three minutes. Please confirm the runway."
 
 "The *grass,*" said Poppy under her breath, at the edge of the circle. Her face crumpled, and uncrumpled. "William. You've brought the *pitch.*"
 
@@ -169,7 +161,7 @@ She was. She came through the gap in the hedge on her mother's arm, and the thir
 
 "It's where you stood."
 
-She put the cornet to her lip. She did not play. She only held it there, an inch away, and looked at the dark circle at her feet with a face that said what a hundred speeches could not, and then she stepped over the edge of the turf with her mother's arm and her old dented horn, onto the very place where she had, in the rain, in the mud, in front of ten thousand people, held a note until the world forgot to breathe.
+She put the cornet to her lip. She did not play. She looked at the dark circle at her feet with a face that said what a hundred speeches could not, and then she stepped over the edge of the turf onto the very place where she had, in the rain, in front of ten thousand people, held a note until the world forgot to breathe.
 
 They were married by the vicar, who was Methodist and brief. They were married in front of Grace Taylor, seventy-nine, retired pharmacist, whom Poppy had noticed at the back of the church hall every Wednesday for two years and never once seen speak to anyone, and who sat in the front row with her handbag on her knees, stiff as a duchess, and cried the whole way through without a sound. They were married with Hannah Hughes as official witness, who signed the register in green felt-tip with the tip of her tongue out, and with Hannah Brown the florist whispering to the neighbours that it was the *prettiest* bouquet she had ever done, though the bride had not carried it.
 
@@ -184,7 +176,7 @@ It was, as promised, nineteen stanzas. It did not rhyme and did not scan. He had
 > Now they are wed. The tunnel's left behind.
 > And may all days be level. And be kind.*
 
-There was a silence, and then a roar, and then, from the back of the marquee, from a row of old men in maroon jackets that had gone the colour of wine, came a long, slow note on a trombone. And another. And the whole band, which had folded, and was a very good shape, stood up between the sandwiches and played, on a bowling green in the rain, in the middle of the old ground, the tune that nobody had ever played in public because Poppy had said it was too private, and which now, on the afternoon of her wedding, she raised her cornet to join.
+There was a silence, and then a roar, and then, from the back of the marquee, from a row of old men in maroon jackets gone the colour of wine, came a long, slow note on a trombone. And another. And the whole band, which had folded, and was a very good shape, stood up between the sandwiches and played, on a bowling green in the rain, the tune that Poppy had always said was too private, and which now, on the afternoon of her wedding, she raised her cornet to join.
 
 William Hartley did not wave. He stood with his cap in his hand. He nodded, very slightly, across the grass.
 

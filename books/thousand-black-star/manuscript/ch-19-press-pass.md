@@ -202,15 +202,11 @@ He was, as the reader may already perceive, right.
 ### SCENE III
 *Cairo. A workshop in a restored wikala off Al-Muizz Street, at the hour of the afternoon call. Three muezzins overlapping, none in agreement. The smell of shellac, acetone and hibiscus tea. A lamp, a magnifier, and a vase.*
 
-"It is cracked from the lip to the shoulder," said Nour Shaker, twenty-four, potter, assistant, who had come up from Alexandria with a bag of clay and the stubborn sense of humour of a person who has lived above a fish-market. "He says it fell off a shelf. I say it was *pushed.*"
+"It is cracked from the lip to the shoulder," said Nour Shaker, twenty-four, potter, assistant, who had come up from Alexandria with a bag of clay and the stubborn humour of a person who has lived above a fish-market. "He says it fell off a shelf. I say it was *pushed.*"
 
-"Does it matter?"
+Layla Mansour, thirty-two, restorer of antiquities, held the vase in both hands under the lamp. She was a woman of exact movements and a dry tongue, who wore her emotions in a locked drawer and could tell the age of a glaze by the sound it made when she tapped it with a fingernail.
 
-"It matters to the shelf."
-
-Layla Mansour, thirty-two, restorer of antiquities, held the vase in both hands under the lamp. She was a woman of exact movements and a dry tongue, who wore her hair in a plain black braid and her emotions in a locked drawer, and who could tell the age of a glaze by the sound it made when she tapped it with a fingernail.
-
-The vase was blue-green, glazed in a deep turquoise over a body of fine pale clay, with a band of Kufic script round the shoulder and a faint web of crazing, delicate as a frost-pattern, over the whole. It was said to be Mamluk. It had been brought in by an old man, a retired professor named Sherif Sabry, seventy-two, who intended to give it to his granddaughter on her wedding and had bought it in the Khan from an honest man who had never lied to him in his life.
+The vase was blue-green, glazed in a deep turquoise over a body of fine pale clay, with a band of Kufic script round the shoulder and a faint web of crazing, delicate as a frost-pattern, over the whole. It was said to be Mamluk. It had been brought in by a retired professor named Sherif Sabry, seventy-two, who intended it for his granddaughter's wedding and had bought it in the Khan from an honest man who had never lied to him in his life.
 
 "Honest man," said Layla. "Which?"
 
@@ -244,7 +240,7 @@ It was her mixture. It was a copper-green she had devised herself, on a bad nigh
 
 "When he is ready. When he runs out of pots." She did not look up. "Nour, make the tea. The hibiscus. And do not mention this to anyone, or I shall have you transcribe the catalogue of the Coptic Museum in your own handwriting."
 
-When the girl had gone, Layla sat alone with the vase in the failing light, and the muezzins fell, one by one, into silence, and a cat on the roof of the wikala yawned, and stretched, and went to sleep. She turned the vessel over. On the foot, under a thumb-smear of dust, in the bottom ring where no collector looks, was scratched with a pin a very small sign, a thing so tiny that a hundred hands could have held it and found nothing.
+When the girl had gone, Layla sat alone with the vase in the failing light, and the muezzins fell, one by one, into silence. She turned the vessel over. On the foot, under a thumb-smear of dust, in the bottom ring where no collector looks, was scratched with a pin a very small sign, a thing so tiny that a hundred hands could have held it and found nothing.
 
 It was an eye.
 
@@ -262,9 +258,9 @@ She closed the book. And then, very quietly, to no one, in the voice she kept fo
 
 *Margin note, in pencil, in the hand of S.W.R., against Entries 0888, 0343, 0211 and 0666:*
 
-> *A coach who smiles so the boys will not weep; a woman who is not afraid, as other people have a nose. A girl who keeps tickets for the sea, a young man in the water. A restorer who mends the lie and signs the truth.*
+> *A coach who smiles so the boys will not weep; a woman who is not afraid, as other people have a nose; a girl who keeps tickets for the sea; a restorer who mends the lie and signs the truth.*
 >
-> *Of the four, two will be hurt before the winter is over. I will not say which. The Keeper does not choose; she merely counts.*
+> *Of these, two will be hurt before the winter is over. I will not say which. The Keeper does not choose; she merely counts.*
 
 ---
 
