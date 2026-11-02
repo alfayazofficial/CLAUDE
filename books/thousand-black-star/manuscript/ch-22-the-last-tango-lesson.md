@@ -9,7 +9,7 @@
 ### SCENE I
 *Buenos Aires. San Telmo, a Saturday afternoon in January. It is thirty-six degrees. Every shutter in the barrio is closed and every fan is praying. On the first floor of a former printing house, the Academia Cruz.*
 
-January in Buenos Aires is summer, and the only city in this winter's book where nobody is cold. The tar softens. The jacaranda lets go of the last of its purple. The whole of San Telmo smells of hot stone, grilled meat, and the sweet brown ghost of dulce de leche, and in the Academia Cruz, whose floor is old pine and whose mirrors are older, eleven ceiling fans turned over the heads of two persons who were not speaking.
+January in Buenos Aires is summer, and this is the one city in this winter's book where nobody is cold. The tar softens. The whole of San Telmo smells of hot stone, grilled meat, and the sweet brown ghost of dulce de leche, and in the Academia Cruz, whose floor is old pine and whose mirrors are older, eleven ceiling fans turned over two persons who were not speaking.
 
 "Again," said Valentina Cruz.
 
@@ -21,7 +21,7 @@ Valentina was thirty-three, a tango teacher, small and straight and dark, with a
 
 Across the floor stood Mateo Fernández, thirty-five, who had been the best male dancer in the city for a decade, and knew it, and had arranged his entire bearing around the fact, as a cathedral arranges itself around a relic. He was tall, silver at the temples, and graceful in the manner of a thing that has never had to ask. His right arm was raised and curved. His left hand rested on the air at the height of a woman's shoulder-blade, with the fingers a little spread, holding no one.
 
-For two years he had danced like that. He had danced it at the milongas of Villa Urquiza and the Confitería Ideal, at weddings, at the Mundial. He had never been without a partner: she was simply not visible. The patrons had grown used to it, as people grow used to a statue in the corner of a room. They moved aside for the empty place. Some of the old ladies, it was said, curtsied to it.
+For two years he had danced like that, at milongas, at weddings, at the Mundial. He had never been without a partner: she was simply not visible. The patrons moved aside for the empty place. Some of the old ladies, it was said, curtsied to it.
 
 "I cannot do it with anyone else," said Mateo. "I have told you."
 
@@ -37,9 +37,9 @@ For two years he had danced like that. He had danced it at the milongas of Villa
 
 From the doorway, where he had been sitting for an hour on a plastic chair with a newspaper held at the angle of disapproval, a voice said: "I put twenty pesos on the shoulder."
 
-This was Ramiro Romero, sixty-seven, a retired choir director, who sat at the door of the Academia every Saturday, because it was the best seat in Buenos Aires for hearing about other people's mistakes. He was blunt. He was a matchmaker by temperament and a gossip by vocation, and he applied to tango the acid ear of a man who had spent forty years listening for the flat tenor in the back row.
+This was Ramiro Romero, sixty-seven, a retired choir director, blunt, a matchmaker by temperament and a gossip by vocation, who applied to tango the acid ear of a man who had spent forty years listening for the flat tenor in the back row.
 
-"Twenty pesos," said Agustina Benítez, who had come up the stairs with a thermos and a gourd of mate, and was handing it round with the expression of a priestess. She was fifty-four, a tea seller from Rosario, and she sold by the cup at the door of the Academia to the dancers, the loafers, and the heartbroken, the last of whom, in her professional opinion, were the only ones who tipped. "On the *shoulder?* Everyone knows it is the *chest.* A man who has lost a woman keeps the chest closed, like a shop in a bad month. Mateo, sweetheart, open the shop."
+"On the *shoulder?*" said Agustina Benítez, who had come up the stairs with a thermos and a gourd of mate and was handing it round like a priestess. She was fifty-four, a tea seller from Rosario, and sold by the cup to the dancers, the loafers, and the heartbroken, who in her professional opinion were the only ones who tipped. "Everyone knows it is the *chest.* A man who has lost a woman keeps the chest closed, like a shop in a bad month. Mateo, sweetheart, open the shop."
 
 "I do not require a *commentary.*"
 
@@ -73,7 +73,7 @@ The room was very still.
 
 "I did not know that."
 
-"No. Nor did I." She let go. "That is the last lesson I shall give you. You will come on Thursday, and we shall walk. Not dance. *Walk.* Eight steps. Then ten. And if you ever say *ghost* to me again, I shall put you out of the window."
+"Nor did I." She let go. "That is the last lesson of this kind. On Thursday we shall walk. Not dance. *Walk.* Eight steps. Then ten. And if you say *ghost* to me again, I shall put you out of the window."
 
 "It is the first floor."
 
@@ -107,15 +107,13 @@ Later, when they had gone, and the fans turned over an empty floor, Valentina sa
 
 The invitation had come in a hand-written envelope, with a drawing of a bus on it. *Dona Zuleide Teles requests the presence of the Doutora and the Seu Carlos at a lunch in memory of her husband, who would have been fifty-nine.*
 
-It was the first time they had been in the same room since the lift. In the intervening nine weeks Dr. Lima had found it necessary to follow up eleven patients at the Santa Aurora rehabilitation wing, every one of whom, Carlos had observed, was in perfect health. On the Thursday of the first, she had stood in the doorway with a clipboard and an air of intense clinical purpose, and said, "I wish to observe the technique with Dona Cida." She had observed Dona Cida for forty minutes. Dona Cida, who was seventy-one and nobody's fool, had said afterward: "That girl has not looked at me once. She is looking at *you.* In my day we called it a follow-up."
+It was the first time they had been in the same room since the lift. In the intervening nine weeks Dr. Lima had found it necessary to follow up eleven patients at the Santa Aurora rehabilitation wing, every one of whom, Carlos had observed, was in perfect health. Dona Cida, who was seventy-one and nobody's fool, had said: "That girl has not looked at me once. She is looking at *you.* In my day we called it a follow-up."
 
-Now they sat at a table on a back veranda under a lemon tree, among forty bus drivers in the uniform shirts of the Linha 7, and a widow in black, and a hot Atlantic wind. Beatriz's father, Pedro Rocha, had taken over the kitchen at nine in the morning, in defiance of Dona Zuleide's protests and the entire code of hospitality, and was presiding over a feijoada of such majesty that a driver of sixty, who had not wept at his friend's funeral, was weeping into a pork rib.
+Now they sat on a back veranda under a lemon tree, among forty bus drivers in the uniform shirts of the Linha 7, and a widow in black, and a hot Atlantic wind. Beatriz's father had taken over the kitchen at nine in the morning, in defiance of the entire code of hospitality, and was presiding over a feijoada of such majesty that a driver of sixty, who had not wept at his friend's funeral, was weeping into a pork rib.
 
-"It is very good," said Dona Zuleide to the table, "and I did not make any of it. He will not let me."
+"Senhora," said Pedro Rocha, from the stove, in the voice of a prophet, "a widow has cooked enough."
 
-"Senhora," said Pedro, from the stove, in the voice of a prophet, "a widow has cooked enough."
-
-She was a small wrinkled woman of sixty-six with a face like a clenched walnut and the eyes of a bird, and she had been watching Carlos since he arrived. She watched him now as he rose, with the plates, as a guest must, and carried them to the kitchen, and ran water over his hands at the sink, scrubbing them, since he was a physiotherapist and a man who believed that hands, after food, should be returned to the profession.
+Dona Zuleide was a small wrinkled woman of sixty-six with a face like a clenched walnut and the eyes of a bird, and she had been watching Carlos since he arrived. She watched him now as he carried the plates to the kitchen and ran water over his hands at the sink, scrubbing them, since he was a physiotherapist and believed that hands, after food, should be returned to the profession.
 
 He took off the ring.
 
@@ -133,7 +131,7 @@ She did not pick it up. She stood, with the glass in her hand, and looked at a p
 
 Dona Zuleide Teles had come in, as small women do, with no sound at all.
 
-"I know a widower when I see one wash his hands without his ring," said the old woman. "A married man leaves it on. A widower takes it off in other people's kitchens, where nobody will remark. It is the one room where he is allowed to be a man whose hand is empty." She took the glass out of Beatriz's grip, and drank from it, with a certain firmness. "I have been a wife for forty-one years. I am a widow since the third of December. I have not yet taken mine off. I am telling you what I know, which is that the ring is not a lie. It is a *door.* He has been standing in front of it, holding it open for her, for three years. Somebody has to say to him: *You may come through.*"
+"I know a widower when I see one wash his hands without his ring," said the old woman. "A married man leaves it on. A widower takes it off in other people's kitchens, where nobody will remark." She took the glass out of Beatriz's grip, and drank from it, with a certain firmness. "I was a wife for forty-one years. I am a widow since the third of December. I have not yet taken mine off. The ring is not a lie, child. It is a *door.* He has been holding it open for her for three years. Somebody has to say to him: *You may come through.*"
 
 "I am not—it is not—Dona Zuleide, I have no right—"
 
@@ -188,7 +186,7 @@ And from the veranda, in a voice of sacred solemnity, her father began, over for
 
 Ermis Larasati opened the email on a Wednesday, at eleven in the morning, with a canting in her right hand.
 
-She had been drawing wax on a cloth. It was a *kawung,* the old pattern of four ovals, which looks like a field of seeds and is said to be the oldest design on Java; and the little copper-spouted pen, a *canting,* had been tracing the line of it, hot wax running from its bowl in a thread as fine as hair. It is the whole art. One draws with wax whatever one wishes to protect, and afterward the cloth is put into the dye, and the dye takes everything that is not protected, and when the wax is boiled away what remains, in a white line against the indigo, is the thing that was kept.
+She had been drawing wax on a cloth: a *kawung,* the old pattern of four ovals, which looks like a field of seeds and is said to be the oldest design on Java. The little copper-spouted pen, the *canting,* ran hot wax in a thread as fine as hair. It is the whole art. One draws with wax whatever one wishes to protect; the cloth is put into the dye; the dye takes everything unprotected; and when the wax is boiled away what remains, in a white line against the indigo, is the thing that was kept.
 
 Her phone gave a soft chime on the table. She read the subject line with the pen still in the air, and a drop of wax fell on the cloth, and made a small spreading golden mistake.
 
@@ -214,21 +212,13 @@ Behind her, on the window-rail, the green parrot opened a yellow eye.
 
 "Ayu," said a dry soft voice from the doorway, "go and sit on your perch and let the child think."
 
-It was Eyang Sri, her grandmother, eighty-one, who had made batik for sixty-eight years and had never, to anybody's knowledge, been in a hurry. She stood in the door in a faded *kebaya* with a cup of ginger tea, and she looked at her granddaughter's face, and then at the wax mistake on the cloth, and she did not need to be told.
+It was Eyang Sri, her grandmother, eighty-one, who had made batik for sixty-eight years and had never been in a hurry. She stood in the door in a faded *kebaya* with a cup of ginger tea, and looked at her granddaughter's face, and then at the wax mistake on the cloth.
 
-"It came," said Eyang.
-
-"Yes."
-
-"Where?"
-
-"Rotterdam."
-
-"Ah. That is the cold place with the water." She sat down, slowly, on the low stool, and set the tea between them. "And you are going to say yes."
+"It came," said Eyang. "From the cold place with the water. And you are going to say yes."
 
 "I do not know."
 
-"You know. Your hand has put a mistake on a *kawung,* and you have not corrected it. When a girl does not correct an error in her best pattern, she is thinking of a very great thing." The old woman took her granddaughter's hand, turned it palm up, and examined it, as if the matter might be written there. "Is there a boy?"
+"You know. Your hand has put a mistake on a *kawung* and you have not corrected it. When a girl does not correct an error in her best pattern, she is thinking of a very great thing." She sat down on the low stool, and took her granddaughter's hand, and turned it palm up, as if the matter might be written there. "Is there a boy?"
 
 "*Eyang.*"
 
@@ -276,13 +266,9 @@ On Friday, at 22:00 in Dhaka and 23:00 in Yogyakarta, the green dot came on.
 
 "I am four minutes early," said Ermis. "It is called being the one who is ahead."
 
-He had come up the stairs from the tea stall, where Bunny had delivered an opinion on the quality of his shirt, and he sat at the desk by the window with the laptop propped on a stack of textbooks. It was the dry cold of Dhaka's winter, the hour of shawls and date-palm juice and wood-smoke, and the lane outside was misted over like a dream of itself. On the corner of the desk, face down beneath a paperweight, lay an envelope with an embassy's crest, which he had been not opening for nine days.
+He had come up from the tea stall, where Bunny had delivered an opinion on his shirt, and sat at the desk with the laptop propped on a stack of textbooks. It was the dry cold of Dhaka's winter, the season of shawls and date-palm juice and wood-smoke, and the lane outside was misted over like a dream of itself. On the corner of the desk, face down beneath a paperweight, lay an envelope with an embassy's crest, which he had been not opening for nine days.
 
-She had her workshop in the background, rust and indigo, and a bird on the rail, and the rain, which came through the little speakers as a faint rush like a held breath.
-
-They talked of everything.
-
-They talked of Ayu, who had learned a fourth word, which was *invoice.* They talked of a firm in Singapore that had sent him a test project, a night job, five days, with a decision after; of his sister's physics, which had taken on the aspect of a religious conflict; of whether a *kawung* was better in blue or in brown. They talked for an hour and ten minutes, as one talks across a very small table. Twice he made her laugh so hard the pen rattled.
+They talked of Ayu, who had learned a fourth word, which was *invoice.* They talked of a firm in Singapore that had sent him a test project, five nights, with a decision after; of his sister's physics, which had taken on the aspect of a religious conflict; of whether a *kawung* was better in blue or in brown. They talked for an hour and ten minutes, as one talks across a very small table. Twice he made her laugh so hard the pen rattled.
 
 Twice she opened her mouth.
 
@@ -300,7 +286,7 @@ He considered this.
 
 "It is my only collateral."
 
-"I know," said Ermis. "I have been looking at it for four months." Then, very quickly: "Good night, Fayaz. Tell Bunny the shirt was acceptable."
+"I know," said Ermis. "I have been looking at it for three months." Then, very quickly: "Good night, Fayaz. Tell Bunny the shirt was acceptable."
 
 "I will tell him. He will be insufferable."
 
@@ -308,7 +294,7 @@ He considered this.
 
 "I have never missed one."
 
-"You were four minutes late in January."
+"You were four minutes late last month."
 
 "It was a very slow clock."
 
