@@ -107,6 +107,29 @@ function buildLogos() {
     `<g transform="translate(180 180) scale(${640 / 120})">${glyph()}</g>`));
 }
 
+// ---------- platform profile logos ----------
+// Glyph sits inside the central 86% of the canvas (glyph itself is ~55% of that) so Facebook/Instagram circle crops never clip it.
+function profile(S) {
+  const g = S * 0.86;
+  return svg(S, S, rect(0, 0, S, S, C.ink) +
+    `<g transform="translate(${(S - g) / 2} ${(S - g) / 2}) scale(${g / 120})">${glyph()}</g>`);
+}
+function buildProfiles() {
+  w('social/profile/facebook-profile-720x720.svg', profile(720));
+  w('social/profile/instagram-profile-1080x1080.svg', profile(1080));
+  w('social/profile/linkedin-logo-400x400.svg', profile(400));
+  // preview: how each platform crops it
+  const P = 300, pad = 40, W = pad * 4 + P * 3, H = P + pad * 2 + 70;
+  const cell = (i, label, round) => {
+    const x = pad + i * (P + pad), r = round ? P / 2 : 28;
+    return `<clipPath id="c${i}"><rect x="${x}" y="${pad}" width="${P}" height="${P}" rx="${r}"/></clipPath>` +
+      `<g clip-path="url(#c${i})"><g transform="translate(${x} ${pad}) scale(${P / 400})">${profile(400).replace(/^<svg[^>]*>|<\/svg>$/g, '')}</g></g>` +
+      t(x + P / 2, pad + P + 44, label, { size: 22, weight: 700, fill: C.ink, anchor: 'middle' });
+  };
+  w('social/profile/profile-crop-preview.svg', svg(W, H, rect(0, 0, W, H, C.parchment) +
+    cell(0, 'Facebook (circle)', true) + cell(1, 'Instagram (circle)', true) + cell(2, 'LinkedIn (square)', false)));
+}
+
 // ---------- decorative front page ----------
 function pageArt(cx, cy, s) {
   const u = s / 100;
@@ -356,6 +379,6 @@ async function renderPng() {
   console.log(`PNG: rendered ${files.length} files`);
 }
 
-buildLogos(); buildBanners(); buildPosts(); buildTokens(); buildBoard();
+buildLogos(); buildProfiles(); buildBanners(); buildPosts(); buildTokens(); buildBoard();
 console.log('SVG + tokens written to', ROOT);
 if (process.argv.includes('--png')) renderPng().catch(e => { console.error(e); process.exit(1); });
