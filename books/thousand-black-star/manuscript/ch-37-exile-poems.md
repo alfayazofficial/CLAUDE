@@ -195,7 +195,7 @@ Her father had come on the five o'clock bus. He had not telephoned. He had sat f
 
 "It is the only one I inherited."
 
-She laughed, in the dawn, on the lip of the stone. And then the laugh went, and she said, very low, across the gap: "I am going, Mustafa. In September. Turin. Two years. They want me to learn to mend the old things. And I want to. I want it so badly that it frightens me. And I want *this*," and she lifted her hand, with a small, hopeless gesture, toward the bridge, the river, the shore, the man, "and I have never in my life wanted two things that were the same size."
+She laughed, in the dawn, on the lip of the stone. And then the laugh went, and she said, very low, across the gap: "I am going, Mustafa. In September. Copenhagen. Two years. They want me to learn how a city should live beside its water. And I want to. I want it so badly that it frightens me. And I want *this*," and she lifted her hand, with a small, hopeless gesture, toward the bridge, the river, the shore, the man, "and I have never in my life wanted two things that were the same size."
 
 "That is why one builds a bridge," said Mustafa. "Two shores. One road."
 

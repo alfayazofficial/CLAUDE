@@ -1,5 +1,3 @@
-# ACT III — A MIDSUMMER CONFUSION
-
 ## Chapter 30
 ### Between Two Seas
 

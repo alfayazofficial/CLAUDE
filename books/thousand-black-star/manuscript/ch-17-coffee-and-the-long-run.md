@@ -23,7 +23,7 @@ At that altitude the air is thin as a rumour, and a runner who wishes to breathe
 
 Bethlehem Girma, twelve, schoolchild, who had been running behind Selam's heels every dawn since the previous spring for no reason she would give, said something unrepeatable in Amharic and kept going.
 
-Down the slope past them came the women of Entoto, in a long bent line, each with a bundle of eucalyptus branches strapped to her back that towered above her head like a green and walking house. They went down in the cold light, under their loads, as their mothers had, to sell the wood in the market at the foot of the hill; and one of them, an old woman with a face like a folded map, lifted her chin as the runners passed and said, with perfect indifference:
+Down the slope past them came the women of Entoto, in a long bent line, each with a bundle of eucalyptus branches on her back that towered above her head like a green and walking house. One of them, an old woman with a face like a folded map, lifted her chin as the runners passed and said, with perfect indifference:
 
 "*Selam. Your leg.*"
 
@@ -58,7 +58,7 @@ Samuel Bekele, thirty-six, steady, proud, and as visibly unsmiling as a very lar
 
 He had six. That was the part nobody saw.
 
-It had been a good business once. *Bekele & Brother, Green and Roasted, Since 1998.* It had been a place with a name on a board, two trucks, a ledger in Yared's careless left-handed hand, and a laugh that came up the lane before its owner. Then, in October, Yared had died on the Awash road, and what he left was the laugh's absence, a warehouse with a mortgage and eleven thousand sacks of green Yirgacheffe, and a list. Samuel had found it in a cigarette tin: *a baker, two cousins, a bank, a priest, a man in Dire Dawa who sold goats.* A brother who owed everyone, and had smiled about it, and had never said.
+It had been a good business once. *Bekele & Brother, Green and Roasted, Since 1998:* a name on a board, two trucks, a ledger in Yared's careless left-handed hand, and a laugh that came up the lane before its owner. Then, in October, Yared had died on the Awash road, and what he left was the laugh's absence, a warehouse with a mortgage and eleven thousand sacks of green Yirgacheffe, and a list. Samuel had found it in a cigarette tin: *a baker, two cousins, a bank, a priest, a man in Dire Dawa who sold goats.* A brother who owed everyone, and had smiled about it, and had never said.
 
 Samuel, who was not a man who smiled, had said: *Then I owe everyone.* It was a sentence of a kind that, once said, will not go away.
 
@@ -167,7 +167,7 @@ He started, and swept them off the pan with a long scrape of the iron spoon, and
 
 "In the mortar, by you. With the long pestle."
 
-He ground it. It took some minutes, and the room filled with the smell of a crushed morning, dark and floral and bright. When he handed her the little brown bag she held it a moment against her chest before putting it into her pocket.
+He ground it, and the room filled with the smell of a crushed morning, dark and floral and bright. When he handed her the little brown bag she held it a moment against her chest before putting it into her pocket.
 
 "There is a race in the spring," she said abruptly. "Here, on the Gulele Road. It is my last."
 
@@ -203,7 +203,7 @@ At a quarter to five, with the children's class dismissed and the corridor empti
 > And never has been asked to stand on it
 > Herself, since that last night, the knee, the curtain.
 > I have not asked. I have been courteous.
-> I have been courteous for two years,
+> I have been courteous for six years,
 > Which is to say a coward, with good manners.
 > Tonight there is the snow. The room is empty.
 > If I should ask, and she should say it plain—
@@ -271,7 +271,7 @@ Anya Petrova stood quite still. A long moment went by in which a great many thin
 
 "That is not dancing."
 
-"That is the *oldest* dancing," said Dmitri Volkov, with the sudden, startling shyness of a man saying the one true thing he has rehearsed for two years, "and I am told I have a gift for the rest."
+"That is the *oldest* dancing," said Dmitri Volkov, with the sudden, startling shyness of a man saying the one true thing he has rehearsed for six years, "and I am told I have a gift for the rest."
 
 She looked at him. She looked at the rest, the silence, the held breath in the dark, the hour on the clock, the angels on the ceiling, who had looked down for a hundred years on every sort of fool.
 
@@ -294,10 +294,6 @@ He did not move. It is a mark of a courtly man that he can be struck in the face
 "You will ask all winter," said Anya. "I know you. You will ask me in your head with every bar. And I will say *no,* and *not yet,* and *you are impossible,* and in April—" She stopped. She took up her bag, and her glasses, and put the glasses at last upon her nose, which gave her the look of an affronted owl. "In April, we will see."
 
 She went to the door. With her hand on it she paused, and did not turn.
-
-"Dmitri."
-
-"Yes."
 
 "Dmitri Andreyevich."
 

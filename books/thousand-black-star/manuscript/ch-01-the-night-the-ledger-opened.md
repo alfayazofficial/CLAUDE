@@ -224,7 +224,7 @@ She did not send it. Not yet. A message is a lamp, and one should know where one
 
 At the stroke of midnight, a thousand doors opened.
 
-They opened in Lisbon, where a postwoman sat very still over her cold tart. They opened in Accra, where two pharmacists, who had not spoken in six years, each reached at the same moment for a phone. They opened in Osaka, in Cairo, in Bergen, in Kochi, in São Paulo, in Lagos, in Lyon, in Kraków, in a hundred other places where somebody was awake and ashamed.
+They opened in Lisbon, where a postwoman sat very still over her cold tart. They opened in Accra, where a pharmacist and a taxi-fleet owner, who had not spoken in six years, each reached at the same moment for a phone. They opened in Osaka, in Cairo, in Bergen, in Kochi, in São Paulo, in Lagos, in Lyon, in Kraków, in a hundred other places where somebody was awake and ashamed.
 
 They opened in a lighthouse in Galle, where a young man named Anil Perera watched a video call fail, and failed to know why he trembled.
 

@@ -123,69 +123,55 @@ She did not say it aloud. She said, instead, very softly, to the lamp, in the wa
 ---
 
 ### SCENE II
-*Lagos. The warehouse office of a failed company in Yaba, then a trade hall in Surulere. Saturday, in the same month. The generators are roaring. It is hot in the way that Lagos is hot: as though the air were being argued with.*
+*Lagos. The third floor of Adeniran Court, a Wednesday in January. The harmattan has laid its fine red dust on every windowsill in the city, and on the nine desks of a company that no longer exists.*
 
-It took Emeka Okafor eleven months to end his company, and eleven minutes to be told by his staff that they had known since February.
+The company had died on a Thursday and been buried on a Friday, in the form of a letter from a lawyer in Ikoyi; and the nine members of its staff, having read it aloud to one another in the toilet, had agreed to take it as a suggestion.
 
-He had called all fourteen into the server room, which was the only room in the building that was cool, because the servers had been switched off and the air-conditioning kept on out of a kind of sentiment. He stood among the empty racks, twenty-eight, in a shirt that he had slept in, with the final bank statement in his hand, and he gave the speech he had been preparing for a year.
+So they had stayed. Emeka Okafor, twenty-eight, founder of nothing, sat among them with a calculator and the expression of a man who has been forgiven by a congregation and cannot decide what to do with it. Tobi, twenty-four, had built a spreadsheet of Chidinma Eze's order book so beautiful that it was shown to visitors. Ngozi Afolabi, her oldest friend, a mechanic, had taken the big Juki sewing machine apart on the floor, in her coverall, and was speaking to it quietly, as one talks to a horse before an operation.
 
-"I am sorry," said Emeka. "The company is dead. I have been paying your salaries out of my savings since March. I should have told you. I am a coward and a fool and I am going to give each of you six months' severance, which I do not have, but I will find it."
+"A machine that has been set to one stitch," said Ngozi, "hates to be asked for another. That is not a fault. That is *character.*"
 
-"We know, Oga," said the oldest of the engineers, kindly. "We saw the accounts in March. You hide the way a goat hides behind a pole. We stayed because the air-conditioning is very good."
+"Is that a remark about me?" said Chidinma.
 
-"We stayed," said a young woman from accounts, "because you are the only boss in Lagos who ever said *thank you* to a tea lady."
+"It is about the Juki," said Ngozi. "But I am glad you took it personally."
 
-"We stayed," said a very small boy from the back, who was the office runner and seventeen, "because it was *interesting.* Like a car crash. But with snacks."
+The visitor arrived at eleven. She was Madam Bimpe Adewale, buyer for the Ikeja boutiques, fifty, in a *gele* tied like the prow of a ship, and she walked the length of the room trailing a scent of expensive oranges and looked at the rack of Chidinma's armoured coats with the expression of one who has been shown the bill.
 
-Emeka, who had prepared himself to be hated, found himself sitting down on a dead server and laughing helplessly, with the bank statement over his face. It was the first time in a year that he had done it, and it had the sound of a very old door.
+"Two hundred pieces," said Madam Bimpe. "I will take them for the Easter season. Fourteen million naira. But *softer,* my dear. Shoulders down. Brighter. A little more *welcome.* And this one—" she touched the indigo jacket, the sharp-shouldered one, the one that had walked down a runway in the dark "—this one is very strong. It is frightening. Women in Lagos do not wish to be armoured. They wish to be *admired.*"
 
----
+The room went quiet. Nine people who were not employed by anybody stopped typing.
 
-In a trade hall in Surulere, at two that afternoon, the *Eze Atelier* stand was between a purveyor of wigs and a woman selling three hundred varieties of pepper, and a hundred and fifty persons were shouting about a dress.
+Emeka looked at the calculator. It said fourteen million. It said nine weeks of rent. He had, in the death of a company, learned the single lesson of his life, which was that a practical suggestion is a kindness and an opinion is a weapon; and he said, therefore, nothing whatever, and was a little astonished by how much it cost.
 
-It was a good collection. Everyone said so. Chidinma Eze, twenty-seven, designer, had put six months into it, and had got into it everything that Lagos likes best: the colour of a mango at noon, the gleam of lace on aso-ebi for a thousand weddings, sleeves like cathedral bells. It sold. By three o'clock she had sold two hundred and twelve pieces to aunties, to brides, to the daughters of brides, to a woman who wanted eleven in identical orange for a funeral, and she was standing in a crush of delighted customers, with her tape measure round her neck and an expression of the most complete despair.
+"I will make the soft ones," said Chidinma. "In the colours. I like them. They are good."
 
-"It is *very good,*" said Mama Ifeoma.
+"Wonderful."
 
-She was sixty, small, withered, and wore a captain's cap. She had been, in a former and unexplained life, a sailor, and mentioned it only when she wished to end an argument. She was Chidinma's old teacher, and she held her by the elbow with a grip like a docking line.
+"Not the jacket."
 
-"It is safe," said Chidinma.
+"Darling—"
 
-"It is very *safe.* It is a ship that stays in the harbour. Everybody loves a ship in a harbour." Mama Ifeoma lowered her voice. "Child. I have been to sea. I have been in three storms and one marriage. I know a person who is not putting out. What is in the cupboard?"
+"The jacket is not softer, Madam. It is not for admiring. It is the one thing I have made that does not say *sorry.*" Her hands were trembling; she put them behind her back. "You may have two hundred pieces and I will be glad. I will not sell you a woman who is smaller than she is."
 
-"What cupboard?"
+Madam Bimpe regarded her for some time. Then she laughed, a rich, low, startled laugh, and took out a pen the size of a baton.
 
-"The one in your studio. The one you do not open when I am there."
+"I have been buying clothes for thirty years," she said, "and no one has ever refused me a jacket. I find that it is making me hungry. Two hundred soft pieces, and the jacket in a window of its own, with a card that says *Not for admiring.* Is that acceptable?"
 
-Chidinma went the colour of ash. "It is only a dress."
+A cheer went up from the nine desks, which was a little ragged, because Tobi had been holding his breath.
 
-"It is *never* only a dress." The old woman patted her hand. "I will not ask. But my captain said to me, in the year he was lost: *the sea is not afraid of you. It is you who are afraid of the sea.* It is not a proverb. It is a warning with a hat on it."
+"It is *excellent* arithmetic," said Emeka, to the calculator, with his ears red. "I have never before disliked a sum so little when it came out in my favour."
 
-A magnificent voice rolled over the stand, and the crowd parted like a tide before the prow of a purple ship. Ngozi Nwosu, fifty-nine, a spiritual leader from Enugu in a head-tie like a cathedral, had arrived to bless the stand, and was blessing it, with her whole arm, over the heads of the customers, the wigs, and the peppers.
+In the stairwell, as the buyer descended in a cloud of orange, a very old woman in a purple wrapper put out a hand like a bird's and gripped her sleeve. "I saw it in a dream, my daughter," said Mama Ngozi, who was fifty-nine, and a chapel leader of true faith and no sense of direction. "A woman in this building would be asked to make herself smaller. And she would say *no.* I did not know it was a *Wednesday.*"
 
-"Lord," said Ngozi, in a voice that could have been heard in Ibadan, "bless this stall. Bless the lace. Bless the child who stands in the midst of it, and has made two hundred and twelve dresses for the woman she is, and is hiding a thirteenth for the woman she is not yet. *You* know the one I mean. I do not need to say. Amen."
+"What do you want?" said Madam Bimpe.
 
-"*Amen,*" said everybody, with relish.
+"Only to bless you. Also, I do not have bus fare."
 
-"How does she know?" whispered Chidinma.
+That night, when the nine desks were dark and the dust ticked against the glass, Chidinma went home to a room in Yaba and sat down on the edge of her bed, in front of a trunk. It was a plain wooden trunk, with a brass lock. She had a key to it on a string round her neck. In it, folded in tissue, lay a length of gold *aso-oke,* woven by a cooperative in Iseyin, which she had been cutting and stitching one inch a night since she was nineteen, for a woman of forty who had never in her life apologised to a room. She was twenty-seven. She had told no one. She had not told Emeka, who had carried two hundred and twelve boxes down three flights in his shirt-sleeves in a month of Saturdays and had not once asked what was in the trunk.
 
-"She does not," said Emeka, who had come up behind her, in the shirt he had slept in, with his tie in his pocket. "She is a pastor. She says it to everyone. It is true of everyone." He looked at her face. "Chidinma. I have just finished my company. I am free. It is the best arithmetic I have ever done, and the answer is nought. Would you like to go and eat jollof rice in the car park, and not say anything?"
+She put her hand on the lid.
 
-"I have two hundred and twelve dresses to deliver."
-
-"Then I will carry them."
-
-"You have a car?"
-
-"I have a car," said Emeka Okafor, "and nothing else. It is the perfect state for a man who wishes to be useful."
-
-She laughed, in spite of herself, and then she did not laugh; and in the middle of the crowd she looked up at him, and said, in the voice of a woman not yet ready to be seen: "If you open that cupboard, I will never forgive you."
-
-"I will not touch it."
-
-"Promise."
-
-"I only carry the ones that sell," said Emeka gravely, "and I understand that this one is not for sale."
+"Not yet," said Chidinma Eze, aloud, to the gold. "I am not that tall yet. But I said *no* to the oranges." And she laughed, alone, in the dust, for the first time that week, and left the key where it was.
 
 ---
 
@@ -258,7 +244,7 @@ She took out the paper boat. He held it for a long time, in the pale morning, wi
 
 *Margin note, in pencil, in the hand of S.W.R., against Entries 0730, 0194, 0051, 0954 and 0343:*
 
-> *A tailor sews a star where no one will look. A midwife hears what is said to the dark. A designer hides a dress in a cupboard, and a man gives up a dead company and is told that all his staff were kind. A girl is handed a paper boat.*
+> *A tailor sews a star where no one will look. A midwife hears what is said to the dark. A designer says no to a buyer and keeps a dress in a trunk. A girl is handed a paper boat.*
 >
 > *I have observed that the thing a person hides is nearly always in the hem. Nothing is so carefully made as the part that is not for show.*
 >
