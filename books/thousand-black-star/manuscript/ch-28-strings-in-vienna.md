@@ -10,7 +10,7 @@
 
 The shop of Jonas Müller, maker of violins, had a door with a bell on it, and the bell rang a flat A.
 
-Not very flat. A quarter of a tone, perhaps; a little less than the pitch of the world; the sound of a thing that has been left out in the rain and has decided to make the best of it. A man with a good ear would hear it and wince. A man with a perfect ear would hear it and want to lie down. Jonas, who had one of the best ears in the city and spent his days adjusting the soul-posts of instruments by a fraction of a hair, had owned the bell for three years, and could have replaced it for four euros.
+Not very flat. A quarter of a tone, perhaps; the sound of a thing that has been left out in the rain and has decided to make the best of it. A man with a perfect ear would hear it and want to lie down. Jonas, who spent his days adjusting the soul-posts of instruments by a fraction of a hair, had owned the bell for three years, and could have replaced it for four euros.
 
 He had not.
 
@@ -22,19 +22,19 @@ He had not.
 
 "I am a man of few denials."
 
-"You are a man of few *everything.*" She hung up her coat. She was forty-nine, a former tax inspector, and the oldest apprentice in the history of Viennese lutherie; she had left her profession in her forties on the grounds that she had spent twenty years finding out what people owed and wanted, for a change, to be paid in beauty. She wore an apron of the colour of strong mustard, and on every Monday of the year she greeted her master with the same remark.
+"You are a man of few *everything.*" She hung up her coat. She was forty-nine, a former tax inspector, and the oldest apprentice in the history of Viennese lutherie; she had spent twenty years finding out what people owed and wanted, for a change, to be paid in beauty. She wore an apron the colour of strong mustard, and on every Monday of the year she greeted her master with the same remark.
 
 "I shall not live to see you married," said Theresa.
 
 "You are in excellent health."
 
-"I am *forty-nine.* In this business, that is not old, it is *seasoned.* But it will happen. One morning I shall die at the bench, covered in hide glue, with a cello across my knees, and you will stand over me, saying, *Oh, Theresa, if only I had asked her.*"
+"One morning I shall die at the bench, covered in hide glue, and you will stand over me saying, *Oh, Theresa, if only I had asked her.*"
 
 "Asked whom?"
 
 "*Do not,*" said Theresa, with menace, "make me say the name."
 
-The workshop was long and narrow and smelled of spruce, varnish, hide glue, and the sweetness of old maple, the smell of wood that has been waiting. On the walls hung forty-one violins in various stages of undress: some ribs only, some bellies without backs, some varnished the colour of honey in the sun, drying on their hooks like a row of small, patient saints. At the far end, in the one good light, on a bench scored with thirty years of other men's knives, lay a violin that was not forty-second in the line and was not for sale.
+The workshop was long and narrow and smelled of spruce, varnish, hide glue, and the sweetness of old maple, the smell of wood that has been waiting. On the walls hung forty-one violins in various stages of undress, drying on their hooks like a row of small, patient saints. At the far end, in the one good light, on a bench scored with thirty years of other men's knives, lay a violin that was not forty-second in the line and was not for sale.
 
 It was dark-gold, a little small in the body. Its neck was very thin. Its scroll had been carved by a hand that had trembled at one moment and corrected itself. Inside it, visible through the f-hole to anyone who held it at the right angle to the lamp, a label had been written in pencil:
 
@@ -50,29 +50,17 @@ Jonas had been making it for four years. It was finished. He had finished it in 
 
 (*The orchestra, in its work-clothes, tuning. A hundred and one people, each wishing to be the exception to something.*)
 
-On the podium, with her back to the Vienna Spring Orchestra and her face to the stage door, stood Clara Weber, thirty-two, imperious, in a black polo-neck and flat shoes, with a baton held between two fingers like a cigarette she had quit. She had been, at twenty-two, a violinist of astonishing promise; she had been, at twenty-three, a violinist with a tendon in her left hand that had snapped, in the middle of a Bach partita, like a thread in a draught. She had stood in the dressing-room afterward, looking at the hand. She had said, aloud, to the mirror: *Very well.* Then she had picked up a baton, with the other hand, and made herself the finest conductor in the city.
+On the podium, with her back to the Vienna Spring Orchestra and her face to the stage door, stood Clara Weber, thirty-two, imperious, in a black polo-neck and flat shoes, with a baton held between two fingers like a cigarette she had quit. She had been, at twenty-two, a violinist of astonishing promise; at twenty-three, a violinist with a tendon in her left hand that had snapped, in the middle of a Bach partita, like a thread in a draught. She had said, aloud, to the dressing-room mirror: *Very well.* Then she had picked up a baton, with the other hand, and made herself the finest conductor in the city.
 
-"Basses," said Clara, without turning round. "You are late."
-
-"We are not late, Maestra, we are *mature.*"
-
-"Then be mature in time." She tapped the stand. "Oboe."
-
-The oboe gave the A. A hundred instruments, in the old communion of the orchestra, leaned in; there was a long humming flowering of tuning, in which every violin in the hall found the same still pitch, like a flock of birds finding the same wind. And Clara, who had the best ear in Austria, listened. Her face was as calm as a coin.
-
-Behind it, as every morning, was something that was not calm.
+Her face was as calm as a coin. Behind it, as every morning, was something that was not calm.
 
 For three years, there had been, in her perfect life, one flat note.
 
-It was not in the orchestra. The orchestra was in tune. It was not in the hall. It was in the street, in the small lane in the Josefstadt, where she passed on Mondays on her way to the Musikverein, since the bakery there made the only rye bread in Vienna she could stand. It was a doorbell. It rang a quarter-tone below the A. And she had developed, in three years, a whole system of avoidance: she crossed the lane on the diagonal; she held her breath; she took, on one memorable occasion, a taxi in the other direction.
-
-She had never gone in. She had only gone in once, three years ago, on the day she brought her old broken violin to be repaired, and a tall, shy man with sawdust in his hair had taken it from her as one takes a baby, and had looked at it for a long time, and had said, without looking up: *The tendon is not in the violin.*
+It was not in the orchestra. It was in a small lane in the Josefstadt, where she passed on Mondays on her way to the Musikverein, since the bakery there made the only rye bread in Vienna she could stand. It was a doorbell. It rang a quarter-tone below the A. And she had developed, in three years, a whole system of avoidance: she crossed the lane on the diagonal; she held her breath; she took, on one memorable occasion, a taxi in the other direction.
 
 "What did you say?"
 
 "Nothing," Jonas had said. "I said the *tension* is not in the violin. The wood is sound. It is only that it has been asked to do too much."
-
-She had heard what he had said. She had left the violin there, on the bench, and had never come back for it; and the bell, as she went out, had rung a flat A over her head, and she had thought, with the clarity that is the curse of the perfectly trained: *That man is going to be the ruin of me.*
 
 "Maestra?" said the concertmaster. "We are ready."
 
@@ -84,7 +72,7 @@ And at that moment the stage door opened, and in came a man in a conductor's uni
 
 "He is *the other kind,*" Theresa said afterwards, to anyone who would listen.
 
-It was all, in a manner of speaking, her doing; though she denied it with the fervour of a person who has put a hand in a cash-box. For in Vienna, as the reader may have noticed, there are two sorts of conductors. There is the sort that stands on a podium and makes a hundred people produce Schubert. And there is the sort that stands on the number 49 tram, with a leather bag and a ticket-punch, and makes four hundred people a day produce a sullen euro-seventy. Lukas Bauer, thirty-seven, of the second sort, ran the Josefstadt route, knew everything about everyone, and had that morning, at Theresa's request, been entrusted with a violin case.
+It was all, in a manner of speaking, Theresa's doing; though she denied it with the fervour of a person who has put a hand in a cash-box. For in Vienna there are two sorts of conductors. There is the sort that stands on a podium and makes a hundred people produce Schubert. And there is the sort that stands on the number 49 tram, with a leather bag and a ticket-punch, and makes four hundred people a day produce a sullen euro-seventy. Lukas Bauer, thirty-seven, of the second sort, had that morning, at Theresa's request, been entrusted with a violin case.
 
 "I am to give this," said Lukas, in the doorway of the Brahms Hall, with the case held out before him like an offering, "to the other conductor."
 
@@ -115,8 +103,6 @@ She set it under her jaw. She lifted the bow in her right hand, the strong one, 
 It was beautiful. It was warm and dark and clear and unusually full, as though a voice had been waiting in the wood for decades for the permission to speak. And it was, by exactly a quarter of a tone, flat.
 
 Clara stood quite still.
-
-A hundred and one musicians, who had spent years learning when to say nothing, said nothing. In the second violins, a small girl of twenty-two, who had been about to cough, thought better of it.
 
 "It is flat," said Clara Weber.
 
@@ -154,11 +140,9 @@ He turned. The soul-post fell over. In the doorway, in a black polo-neck and fla
 
 "No. That was your apprentice."
 
-In the corner of the shop, where she had been busy for the last four minutes in the arrangement of a single piece of maple, with her back turned, Theresa Hofer said brightly, to the maple: "I shall be in the back. I am going to be in the back for approximately an hour. I have a *great deal* of back to attend to."
+In the corner of the shop, where she had been busy for the last four minutes with a single piece of maple, Theresa Hofer said brightly, to the maple: "I shall be in the back. I have a *great deal* of back to attend to."
 
 The door to the back room closed. It did not click shut. It closed with the pointed softness of a door that has been told to listen.
-
-For a long time they said nothing. The sun came through the high window and lay on the forty-one violins. It was an odd light, gold and sidelong and dusty, and it gave all the unfinished instruments the look of a congregation waiting for a sermon.
 
 "You tuned it wrong," said Clara.
 
@@ -178,9 +162,7 @@ For a long time they said nothing. The sun came through the high window and lay 
 
 "And you made me a violin—*for me*—for four years, with a neck for this hand, and you tuned it to the bell."
 
-"I did not tune it to the bell. I tuned it to *you.* It happens that the bell is where you are." He drew a breath. "Frau Weber. You are, I think, the most perfect musician I have ever seen. You do not make a mistake. You have not made one in my hearing. And I have thought, for three years, that if there were a single place in the world where a perfect woman might be allowed to be a quarter of a tone below the pitch, without anyone minding, without the whole hall turning its head—I should like to have been the man who made it."
-
-She had not moved. In the long gold light, her face had gone through a number of expressions, all of them quickly suppressed, as she had suppressed, over the years, the wish to correct a viola.
+"I did not tune it to the bell. I tuned it to *you.* It happens that the bell is where you are." He drew a breath. "Frau Weber. You are the most perfect musician I have ever seen. You have not made a mistake in my hearing. And I have thought, for three years, that if there were a single place in the world where a perfect woman might be allowed to be a quarter of a tone below the pitch, without the whole hall turning its head, I should like to have been the man who made it."
 
 Then she said, in a very odd voice:
 
@@ -188,7 +170,7 @@ Then she said, in a very odd voice:
 
 "I beg your pardon?"
 
-"I wrote it down." She had put a hand to her throat. "I wrote it, on a card, one night in the third winter, and I sent it to an old woman in England, for I had read that she kept such things. I thought it would be an insult. *You are the one flat note in my perfect life.* I thought: I shall say something cruel, and be rid of it. And then I looked at what I had written, and it was not cruel at all. It was the only true sentence I had ever put on paper."
+"I wrote it down." She had put a hand to her throat. "On a card, one night in the third winter, and I sent it to an old woman in England who was said to keep such things. I thought it would be an insult. I thought: I shall say something cruel, and be rid of it. And then I looked at what I had written, and it was not cruel at all. It was the only true sentence I had ever put on paper."
 
 "Frau Weber—"
 
@@ -200,7 +182,7 @@ Then she said, in a very odd voice:
 
 "*Clara,*" said Jonas Müller, as though he were testing a string.
 
-She opened the case. She took out the violin, and she did what he had been afraid, for four years, she would do, and what he had never dared to hope. She tucked it under her jaw, and set her left hand on the thin neck, and drew from it, very slowly, the first four bars of a slow movement of Schubert that he knew she knew, because he had seen the score on her stand. It was not a virtuoso's performance. Her left hand shook; there was a place where the fourth finger would not quite reach, and she let the note drop and took it up an octave. But the sound! The sound was a long gold thread. It went through the dusty light, and the unfinished backs, and the spruce, and the sleeping varnish, until all forty-one violins on the walls seemed to hold their breath, as though it were the first time the room had heard what it was for.
+She opened the case. She took out the violin, and she did what he had been afraid, for four years, she would do, and what he had never dared to hope. She tucked it under her jaw, and set her left hand on the thin neck, and drew from it, very slowly, the first four bars of a slow movement of Schubert that he knew she knew, because he had seen the score on her stand. It was not a virtuoso's performance. Her left hand shook; there was a place where the fourth finger would not quite reach, and she took the note up an octave. But the sound was a long gold thread. It went through the dusty light, and the unfinished backs, and the sleeping varnish, until all forty-one violins on the walls seemed to hold their breath.
 
 When she finished, she lowered the bow. She did not say anything.
 
@@ -226,8 +208,6 @@ From behind the door of the back room there came, quite audibly, the sound of a 
 > Not all perfection lies in being right;
 > Some lies in being tuned to someone else.*
 
-(Which verse, it is only fair to the reader to say, was spoken by nobody in the workshop at all, but was written on the inside of the lid of the violin case by Jonas, in pencil, three winters earlier, and found by Clara that afternoon, and read, and put in her pocket.)
-
 ---
 
 **Verona, Via Cappello, the courtyard of the House of the Balcony. The same afternoon, 5:40.**
@@ -240,7 +220,7 @@ From behind the door of the back room there came, quite audibly, the sound of a 
 
 "You will find a hand," said Giulia, "that has been touched by four million other people, and a mild case of something. Next."
 
-It was the last group of the day: a school party of twenty children from Naples with two harassed teachers, and an unattached weaver. One of them, a girl of ten named Francesca Gallo, severe in a navy cardigan, with her hair in two precisely equal plaits, had been taking notes throughout in a small notebook and now raised her pencil.
+It was the last group of the day: twenty schoolchildren from Naples, two harassed teachers, and an unattached weaver. One of them, a girl of ten named Francesca Gallo, severe in a navy cardigan, with her hair in two precisely equal plaits, raised her pencil.
 
 "Signorina. Who writes the answers?"
 
@@ -266,13 +246,11 @@ There was a pause. In the arch of the entrance, with his collar up and a cap dra
 
 He was Marco Bellini, thirty-four, tenor, and he was terrified.
 
-It was not the sort of terror one sees in the ordinary man. It was the terror of a person whose whole life is arranged for a single moment, three hours long, in front of eleven thousand people, in the evening, in an arena of stone: a moment in which he was celebrated, handsome, golden-throated, perfect; and in which, since the winter, he had been seized by an unknown hand and shaken like a bell. He forgot words. His knees sang. In a rehearsal in February he had stood on the stage of the opera house in Parma and been unable to produce a single note, and the conductor had said, kindly: *Take your time, Maestro;* and he had taken eleven minutes.
+It was not the sort of terror one sees in the ordinary man. It was the terror of a person whose whole life is arranged for a single moment, three hours long, in front of eleven thousand people, in an arena of stone; a moment in which he was celebrated, golden-throated, perfect; and in which, since the winter, he had been seized by an unknown hand and shaken like a bell. He forgot words. His knees sang. In a rehearsal in February he had stood on the stage in Parma and been unable to produce a single note, and the conductor had said, kindly: *Take your time, Maestro;* and he had taken eleven minutes.
 
 In his coat pocket, as he stood in the arch, was a letter he had written and not posted. In his other pocket, folded very small, was the last reply he had received from the wall. It was written in a small, upright, rather severe hand, on cream paper, and it said:
 
 *Dear Signor B. — Do not sing to the theatre. Sing to the one person in the third row who has stopped breathing. The rest is architecture. — J.*
-
-He had read it eleven times. It had made him laugh, and then cry in a taxi, and then buy a very large coffee. He had come to Verona that afternoon, on a train, for no reason that he could describe to his agent, to see what sort of committee could write such a thing.
 
 "*Bellini!*" said Francesca Costa, the weaver, in a stage-whisper that could be heard in the Piazza Erbe. "Is it? *Is it?* From the posters!"
 
@@ -294,11 +272,11 @@ She was not the third row. She was the first. But she had, he saw, stopped breat
 
 He sang.
 
-He sang the old, slow, simple air from the elixir, the one about the furtive tear, a tune so ordinary that the very pigeons know it. He sang it without accompaniment, without a score, in a brick yard under a balcony that was built in 1936 out of an old tomb, with the sun going out of the ivy and the green statue's breast shining in the dusk. His voice shook, once, at the first phrase, and then it did not. It rose, and the whole yard rose with it. The teachers stopped fussing. The weaver stopped wringing. A woman on a balcony across the way put down her washing. And it was not a performance. It was a man telling a ten-year-old a secret.
+He sang the old, slow, simple air from the elixir, the one about the furtive tear, a tune so ordinary that the very pigeons know it. He sang it without accompaniment, in a brick yard under a balcony that was built in 1936 out of an old tomb, with the sun going out of the ivy. His voice shook, once, at the first phrase, and then it did not. It rose, and the whole yard rose with it. The teachers stopped fussing. The weaver stopped wringing. And it was not a performance. It was a man telling a ten-year-old a secret.
 
 At the back of the court, by the wall where the letters are kept, Giulia Rossi had gone quite still, with the badge on her chest and her pencil through her hair.
 
-She knew the handwriting of every letter she had ever answered. She knew the pressure of the pen. She had read a month ago, on cream paper, in a hand like a nervous pianist's, a confession from a man who could not sing; and she had answered it at midnight, in her own kitchen, with a glass of wine, and signed it with the initial of a girl who had never in her life had a balcony.
+She knew the handwriting of every letter she had ever answered. She had read a month ago, on cream paper, in a hand like a nervous pianist's, a confession from a man who could not sing; and she had answered it at midnight, in her own kitchen, with a glass of wine, and signed it with the initial of a girl who had never in her life had a balcony.
 
 *That*, she thought, *is a very good voice for a coward.*
 
@@ -332,9 +310,7 @@ And as the Neapolitan children trooped, singing, out into the Via Cappello, and 
 
 *Margin note, in pencil, in the hand of S.W.R.:*
 
-> *Entry 0450 and Entry 0665. I once knew a man who could tell, by the sound of a door, what sort of life was behind it. He told me my own door rang flat. I thought him impertinent. I was, in fact, delighted.*
->
-> *Two things I have learned about music. First, that a note held a quarter-tone low is not an error; it is a question. Second, that the one who answers the question is rarely the one who asked.*
+> *Entry 0450 and Entry 0665. A note held a quarter-tone low is not an error; it is a question. And the one who answers the question is rarely the one who asked.*
 >
 > *Verona: do not tell him yet. Let the third row hold its breath a little longer.*
 

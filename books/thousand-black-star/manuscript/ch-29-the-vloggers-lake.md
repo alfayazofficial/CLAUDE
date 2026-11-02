@@ -12,7 +12,7 @@
 
 "Quiet on the set!" said Juma Njenga, who was a plumber from Nairobi and had been flown to Kisumu, at his own expense, to be a hurricane.
 
-He stood in two feet of water in rolled-up trousers, holding the nozzle of a fire-hose that ran back across the sand to a borrowed pump. Beside him on a plank sat an industrial fan the size of a barn door, plugged into a generator, and behind that a boy with a bucket of fish scales waiting to throw them on cue. Forty yards out on the flat water, in a rented boat with a name painted on its prow in fading blue, *MAMA ATIENO,* a man in a yellow oilskin was standing with his legs apart and a fixed expression of heroic defiance.
+He stood in two feet of water in rolled-up trousers, holding the nozzle of a fire-hose that ran back across the sand to a borrowed pump. Beside him sat an industrial fan the size of a barn door, plugged into a generator, and a boy with a bucket of fish scales waiting to throw them on cue. Forty yards out on the flat water, in a rented boat with a name painted on its prow in fading blue, *MAMA ATIENO,* a man in a yellow oilskin was standing with his legs apart and a fixed expression of heroic defiance.
 
 "*Action!*" cried Juma.
 
@@ -26,27 +26,13 @@ A phone on a tripod on the shore recorded all of it.
 
 "It is a very good word."
 
-"It is a word that the lake cannot hear because there is no lake in it. Do it with the eyebrows." He turned off the hose and wiped his forehead. "I have been a plumber for twenty years, and this is the most dishonest water I have ever handled."
-
-Otieno Odhiambo, twenty-nine, fisherman of Dunga and star of the most popular channel on the lake, waded ashore with the carriage of a lion and the face of a man who has just been caught eating the last biscuit. He took off the yellow oilskin. Under it he was a slim, laughing, slightly stooping young man in a faded football shirt, with a gap in his front teeth, a good deal of charm, and no idea what to do with his hands when no one was watching.
-
-"The numbers," said Otieno.
-
-"Four hundred thousand, since Sunday."
-
-"*Four hundred thousand?*"
-
-"For the one where you wrestled the perch."
-
-"The perch was dead, Juma. I bought it at the market."
-
-"It was *a large dead perch.* You wrestled it with conviction." Juma sat on the plank and shook out his sandals. "The world, my friend, does not want an honest man. It has too many. It wants a *lion.*"
+Otieno Odhiambo, twenty-nine, fisherman of Dunga and star of the most popular channel on the lake, waded ashore with the carriage of a lion and the face of a man who has just been caught eating the last biscuit. Under the yellow oilskin he was a slim, laughing, slightly stooping young man in a faded football shirt, with a gap in his front teeth and no idea what to do with his hands when no one was watching.
 
 "And what does it do when the lion cannot swim?"
 
 There was a pause. The fish eagle laughed again.
 
-It was a secret that half of Dunga knew, and a secret that Otieno kept as a man keeps a hot coal in a pocket: that he, a son of the lake, born in a house within a hundred paces of the water, who had gone out every night since he was fourteen in a leaky boat to catch omena by lantern-light, had never learned to swim. Many fishermen in that country had not. Water is for working on, not in. But a Lion must wrestle crocodiles, and so he had a plumber, a pump, and, on the wall of his hut, a laminated sign in his own hand that said: **DEPTH: 2 FEET. COURAGE: INFINITE.**
+It was a secret that half of Dunga knew, and that Otieno kept as a man keeps a hot coal in a pocket: that he, a son of the lake, who had gone out every night since he was fourteen in a leaky boat to catch omena by lantern-light, had never learned to swim. Many fishermen in that country had not. Water is for working on, not in. But a Lion must wrestle crocodiles, and so he had a plumber, a pump, and, on the wall of his hut, a laminated sign in his own hand that said: **DEPTH: 2 FEET. COURAGE: INFINITE.**
 
 "She will see through it," he said at last.
 
@@ -57,18 +43,6 @@ It was a secret that half of Dunga knew, and a secret that Otieno kept as a man 
 "What of it?"
 
 "What of it?" Otieno took the phone from the tripod and looked at it as a man looks at a letter that has come with the wrong stamp. "She is the only one who has ever *looked.* A hundred thousand people watch the Lion. She watches the *seams.* And she is not even cross about it. She writes like a woman looking for something and being sorry to find it."
-
-Behind him, in the thin first light, a retired midwife in a green kitenge, Atieno Kariuki, sixty-seven, who had delivered the greater part of Kisumu and could prove it, had come down to the beach to look at the fish. She looked at Otieno. She looked at the fan. She had seen all of him, the first minute of him, and she was not impressed by the oilskin.
-
-"Otieno," said Atieno.
-
-"Mama."
-
-"The lake knows you cannot swim."
-
-"Everyone knows I cannot swim."
-
-"The lake knows it *kindly,*" said the midwife. "It does not tell. That is why it has never been rude to you. It is the woman in Nairobi you should worry about. A woman with a keyboard is a more dangerous thing than a lake. The lake only drowns you."
 
 ---
 
@@ -82,7 +56,7 @@ She was twenty-seven, a technology reporter with a reputation for being unpleasa
 
 "It is accurate."
 
-"It is *devastating.* You have the squall, with the time-stamps. You have the borrowed boat, the hired plumber, the dead perch. You have a statement from the market-woman who sold him the perch, who says, and I quote, *he was very polite about it.*" He turned the page. "You have the fan. You have a *fan,* Wanjiru. A fan, in a story about a lake."
+"It is *devastating.* You have the squall, with the time-stamps. You have the borrowed boat, the hired plumber, the dead perch. You have a *fan,* Wanjiru. A fan, in a story about a lake."
 
 "A fan is a hard fact."
 
@@ -94,9 +68,7 @@ She was twenty-seven, a technology reporter with a reputation for being unpleasa
 
 She said nothing.
 
-On her screen, on a second window, a video was paused: a man in an oilskin on a boat at dawn, a gap in his teeth, an expression on his face of such transparent anxiety, for one half-second in the middle of a sentence, that she had watched that half-second a hundred times. *There,* she thought. *That is not the Lion. That is a man who has just remembered he is on a boat.*
-
-It was at that half-second, on a Tuesday night two winters ago, that she had started to be a fool. She had caught herself looking for it. She had begun, God forgive her, to wait for the places where he failed to be perfect. And then, with the desperate self-contempt of a woman who has always been right and is now, in one narrow respect, completely wrong, she had written a single sentence on a card and posted it to an old astronomer in England, who was said to keep such things. In November the ledger had opened, and there it was in the open air, number 826, in her own words, and she had read it as one reads a letter in a stranger's hand.
+On a Tuesday night two winters ago she had started to be a fool. In a video, for one half-second in the middle of a sentence, a man in an oilskin on a boat had worn an expression of such transparent anxiety that she had watched it a hundred times. *That is not the Lion,* she had thought. *That is a man who has just remembered he is on a boat.* She had begun, God forgive her, to wait for the places where he failed to be perfect. And then, with the desperate self-contempt of a woman who has always been right and is now, in one narrow respect, completely wrong, she had written a single sentence on a card and posted it to an old astronomer in England, who was said to keep such things. In November the ledger had opened, and there it was in the open air, number 826, in her own words.
 
 *I fell for the man on the videos.*
 
@@ -110,23 +82,9 @@ It was not the man. That was the horror of it. It was a man made of tripods. And
 
 "You were about to."
 
-"I was about to say," said her lawyer, "that I shall have to read it again, and that I think you have written the sentence about his *eyes* in the third paragraph in a different font."
+The woman at the desk was Njeri Wafula, twenty-five, who had a stall by the matatu stage that sold airtime, phone covers, sunglasses, and, in the back, packages of social-media followers at two hundred shillings the thousand. She was loyal to a fault, a chatterbox, and a total innocent about ethics.
 
-"It is the same font."
-
-"It is the same font," Mwangi agreed. "But it is a different *person.*"
-
-There was a knock at the glass of the door, and in sidled a girl of sixteen in the school-blazer of the interns, with a lanyard that said MERCY and a tray of tea. Mercy Njenga had been in the building six days. She had already given three opinions on the editor's tie.
-
-"Madam Wanjiru," she said, theatrically. "There is a woman at the desk. She says she knows you. She says she has *evidence.* She is holding a very large bag."
-
-"What kind of evidence?"
-
-"She says it is *the sort of evidence that comes in a bag.*"
-
-The woman at the desk was Njeri Wafula, twenty-five, who had a stall by the matatu stage that sold airtime, phone covers, sunglasses, and, in the back, in a plastic folder, packages of social-media followers at two hundred shillings the thousand. She was loyal to a fault, a chatterbox, and a total innocent about ethics; she had come by matatu at nine at night to say something she had been told, by a cousin, to say.
-
-"Madam," said Njeri, in a whisper of audible dimensions. "I did not sell him the followers. I want that said. Someone sold him the followers. But when I saw your story on the screen I said, aha, Njeri, you must go and tell her the thing about the song."
+"Madam," said Njeri, in a whisper of audible dimensions. "I did not sell him the followers. But when I saw your story on the screen I said, aha, Njeri, you must go and tell her the thing about the song."
 
 "What song?"
 
@@ -135,14 +93,6 @@ The woman at the desk was Njeri Wafula, twenty-five, who had a stall by the mata
 There was a very long pause.
 
 "Thank you, Njeri," said Wanjiru, in a voice that did not sound like hers.
-
-"Will it be in the story?"
-
-"No."
-
-"But it is evidence!"
-
-"It is evidence," said Wanjiru, "of something that I am not going to write."
 
 Njeri looked at her. And then, with the swift merciless perception of the very simple, she said, as she picked up the bag: "Aaah. Madam. *You* like him."
 
@@ -156,9 +106,9 @@ Njeri looked at her. And then, with the swift merciless perception of the very s
 
 (*The mud had dried to dust. The Balkan range stood up behind the barrier in a blue spring haze. A line of lorries stretched along the road with their cabs open, and drivers sitting on the steps in the sun, eating sunflower seeds and spitting the husks into the gutter with the practised contempt of men who have been on a border since breakfast.*)
 
-There was a new face at the small glass booth by the pedestrian lane: or, rather, an old one, returned. Senior Sergeant Nikolai Ivanov had for four months been seeking duty at Kalotina in all the hours for which it was possible to sign. He gave reasons for this to his captain, who had not asked. He said that the staffing was thin. He said that it was good for the discipline. He did not say that every time a bus drew in from Sofia, in the early cold or the late dusk, his eyes went through its windows like a hand through a pocket, and that he had stopped being surprised to find himself disappointed.
+Senior Sergeant Nikolai Ivanov had for four months been seeking duty at Kalotina in all the hours for which it was possible to sign. He gave reasons for this to his captain, who had not asked. He did not say that every time a bus drew in from Sofia his eyes went through its windows like a hand through a pocket, and that he had stopped being surprised to find himself disappointed.
 
-The bus that arrived at a quarter to twelve was the local one from Dragoman, full of the old and the thrifty, who crossed into Serbia on Thursdays to buy cheaper sugar and, on the return journey, a great many things that had never been to Serbia at all. It was a loud bus. It had a woman with a hen in a basket and a man carrying a ladder. It had a boy playing a cheap folk tune, off-key, on a phone.
+The bus that arrived at a quarter to twelve was the local one from Dragoman, full of the old and the thrifty, who crossed into Serbia on Thursdays to buy cheaper sugar. It was a loud bus. It had a woman with a hen in a basket and a man carrying a ladder.
 
 And it had, at the very back, in the second to last row, an old woman in black.
 
@@ -168,7 +118,7 @@ They came to the booth in their turn. The old woman held out two passports in a 
 
 Nikolai Ivanov looked at the passports.
 
-He did not look at the old woman's face. It was a rule. He had come to see, over sixteen years, that the face is the one thing a person can arrange; the hands are not so easily lent. And the hands that held the documents, thin, brown, extraordinarily steady beneath their affected tremor, with two small calluses on the first finger of the right, such as are made by years of holding a pen in a particular way, were the hands of a woman who had once handed him, over a customs form, a child's crayon drawing of a sun.
+He did not look at the old woman's face. It was a rule. The face is the one thing a person can arrange; the hands are not so easily lent. And the hands that held the documents, thin, brown, extraordinarily steady beneath their affected tremor, with two small calluses on the first finger of the right, such as are made by years of holding a pen, were the hands of a woman who had stood at his elbow in December, translating a child's crayon drawing of a sun.
 
 He heard the tram. He heard the kiosk, and the stove, and the ticking of a radiator in a December dawn.
 
@@ -176,13 +126,13 @@ The first passport was the old woman's, and it was in order. The second, the gir
 
 He felt, then, a particular weight on the back of his neck. He looked up, very slowly, through the window of the booth, and saw, in the guardroom opposite, the figure of the young officer Georgi, with a mug of tea in his hand, standing quite still at the glass.
 
-Georgi was looking at him. Georgi had looked at the coat in December. Georgi, who was young and kind and not at all stupid, wrote nothing down.
+Georgi was looking at him. Georgi, who was young and kind and not at all stupid, wrote nothing down.
 
 *A man who does not write,* thought Nikolai, *is a man who is remembering.*
 
 He looked at the girl.
 
-She was looking at the barrier. She had a long brown face and a straight nose and grave dark eyes, the eyes of a person who has done a great deal of travelling and has found it difficult to be surprised, and under the red wool hat her hair was cut short like a boy's. She had not once glanced at him. She stood with her hands in the pockets of her anorak as one stands who has been told that if she is quite still and quite ordinary, no one will see her at all.
+She was looking at the barrier. She had a long brown face and grave dark eyes, the eyes of a person who has done a great deal of travelling and has found it difficult to be surprised, and under the red wool hat her hair was cut short like a boy's. She stood with her hands in the pockets of her anorak as one stands who has been told that if she is quite still and quite ordinary, no one will see her at all.
 
 And the red wool hat was a little too small for her, and had been mended at one ear.
 
@@ -206,7 +156,7 @@ She went through the barrier on the girl's arm, bent over her stick. At the far 
 
 ---
 
-She came back by herself at dusk, on the last Dragoman bus. She got off at the lay-by a hundred metres short of the barrier, where the road widens beside a dry fountain and a bench, and sat down on it with her stick across her knees. She had taken off the headscarf and the thick spectacles. Her hair, which was dark and fine and which she had that morning tied up in a bun with a great deal of grey chalk, had come down in strands. She looked very tired. She looked thirty-four years old.
+She came back by herself at dusk, on the last Dragoman bus. She got off at the lay-by a hundred metres short of the barrier, where the road widens beside a dry fountain and a bench, and sat down on it with her stick across her knees. She had taken off the headscarf and the thick spectacles. Her hair had come down in strands. She looked very tired. She looked thirty-four years old.
 
 At the other end of the bench, at a respectful distance, which was exactly the length of a crossed arm and a policeman's cap, sat a man in uniform with a paper bag on his knee.
 
@@ -226,17 +176,13 @@ He held out the bag.
 
 "A woman at a kiosk."
 
-She laughed. It was a short laugh, startled out of her. And then, in the dusk, with the spring swallows going over and the lorries stirring their lamps, Elena Georgieva put her face in her hands and wept, quietly and without any noise, for ten whole minutes, while the man at the other end of the bench looked straight ahead and held out, for the whole of that time, a paper bag of banitsa, not moving it nearer or farther, like a lamp set at a window.
+She laughed, a short laugh, startled out of her. And then, in the dusk, with the spring swallows going over, Elena Georgieva put her face in her hands and wept, quietly, for ten whole minutes, while the man at the other end of the bench looked straight ahead and held out, for the whole of that time, a paper bag of banitsa, not moving it nearer or farther, like a lamp set at a window.
 
 At last she took it.
 
 "You do not ask," said Elena.
 
-"I am a border guard. I have a trained inability to understand things that are not on the form."
-
-"That is not a very good lie."
-
-"It is the best I own." He cleared his throat. "I will say only this. I saw a very fine piece of paper this morning. I did not see anything else. And if there should ever be a question, of any kind, it is a question that I will answer by myself. Do you understand? *By myself.*"
+"I am a border guard," said Nikolai. "I have a trained inability to understand things that are not on the form." He cleared his throat. "I will say only this. I saw a very fine piece of paper this morning. I did not see anything else. And if there should ever be a question, of any kind, it is a question that I will answer by myself. Do you understand? *By myself.*"
 
 "Nikolai."
 
@@ -246,13 +192,13 @@ It was the first time she had used his name. He turned his head, and she was loo
 
 "Then eat," said Nikolai, and looked away again; and that was, perhaps, the whole of his gift.
 
-They sat until the lamps came on along the road, side by side, with a yard of dusty wood between them, and neither of them moved it. Behind them, in the guardroom, a young officer with a mug of cold tea watched them through the glass, and put the mug down, and for a long time did not write a single word.
+They sat until the lamps came on along the road, side by side, with a yard of dusty wood between them, and neither of them moved it. Behind them, in the guardroom, a young officer with a mug of cold tea watched them through the glass, and for a long time did not write a single word.
 
 ---
 
 **Dunga Beach. The following Monday, at dawn.**
 
-The story had run on Friday. By Saturday it had been shared four hundred thousand times. By Sunday, there were thirty-one television producers in Kisumu, a man selling T-shirts that said **THE LION DOES NOT SWIM,** and a letter from the sponsor of the channel that said, with great regret and a very small lawyer, that it would not be renewing.
+The story had run on Friday. By Saturday it had been shared four hundred thousand times. By Sunday there were thirty-one television producers in Kisumu, a man selling T-shirts that said **THE LION DOES NOT SWIM,** and a letter from the sponsor of the channel that said, with great regret and a very small lawyer, that it would not be renewing.
 
 Otieno sat on the sand at the end of the pier with his knees drawn up and his phone in his hand, and read, for the sixth time, the last paragraph.
 
@@ -270,9 +216,7 @@ It was the one that Mwangi had said he could not change.
 
 "Ah," said the old man, with great satisfaction. "Then it is worse."
 
-The sun had come up. The lake, which had been pewter, was brass. On the far side, a line of fishing boats came in from the night, low on the water, their lanterns going pale. Fish eagles called. The smell of woodsmoke and frying tilapia drifted from the stalls on the beach. Kisumu was waking, as it had woken every morning for a thousand years, in no way concerned with the opinions of the internet.
-
-Otieno stood. He took off the football shirt. He stood a moment on the edge of the pier in his shorts, a slim man with a gap in his teeth, looking down at the water, which was green and quiet and about ten feet deep.
+The sun had come up. The lake, which had been pewter, was brass. On the far side, a line of fishing boats came in from the night, low on the water, their lanterns going pale. Kisumu was waking, as it had woken every morning for a thousand years, in no way concerned with the opinions of the internet.
 
 He did not jump. He was not a fool. But he sat on the end of the planks and put his feet in the lake to the ankle, and spoke aloud, not to the phone, nor to the old man, nor to any person, but to the water; for we all of us, in the end, have one listener we can trust:
 
@@ -291,7 +235,7 @@ He did not jump. He was not a fool. But he sat on the end of the planks and put 
 
 He took up the phone.
 
-He did not set up the tripod. He did not call Juma, who had flown home. He did not put on the oilskin or lower his voice. He held the phone at arm's length, in the dawn, with the lake behind him going gold, and his own face in the lens, shabby, tired, laughing at itself, with the gap in his teeth.
+He did not set up the tripod. He did not put on the oilskin or lower his voice. He held the phone at arm's length, in the dawn, with the lake behind him going gold, and his own face in the lens, shabby, tired, laughing at itself, with the gap in his teeth.
 
 "*Oyawore,*" said Otieno. "Good morning. My name is Otieno. I am a fisherman. I do not wrestle crocodiles. I have never wrestled anything bigger than a bad net. I cannot swim." He swallowed. "The fish, though. The fish are real. Let me show you the fish."
 
@@ -311,11 +255,9 @@ Then she did.
 
 *Margin note, in pencil, in the hand of S.W.R., against Entries 0483, 0826 and 0534:*
 
-> *Of all the masks, the best are those we are given by others who love the look of us. Of all the unmaskings, the kindest are those done by a person who is sorry to do them. I have kept a great many letters from people who feared they were someone else. I have received very few from people who were relieved to find they were not.*
+> *Of all the unmaskings, the kindest are those done by a person who is sorry to do them. I have kept a great many letters from people who feared they were someone else. I have received very few from people who were relieved to find they were not.*
 >
-> *Elena: a coat can be heavy for love and light for it too. Nikolai: you are writing a bill in a hand that does not know its own sum. I would pay it for you if I could. It is not permitted. Winter is long, and it has a successor.*
->
-> *Kisumu: the lake holds, in every case, its tongue. It is a very good listener. Learn from it.*
+> *Elena: a coat can be heavy for love and light for it too. Nikolai: you are writing a bill in a hand that does not know its own sum. I would pay it for you if I could. It is not permitted.*
 
 ---
 

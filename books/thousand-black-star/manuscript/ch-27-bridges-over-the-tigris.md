@@ -25,7 +25,7 @@
 
 The bridge had no name yet. The city council had held three meetings on the subject, in the course of which a retired electrician named Huda Al-Tamimi, seventy-three, had proposed that it be called *The Bridge That Was Finished Before the Meetings*, and had been thanked for her contribution and asked to leave.
 
-It was a footbridge, two hundred and forty metres from bank to bank, slung low over the river in a long white curve like the stroke of a calligrapher's pen. On the Rusafa side it came down at the foot of the old street of the booksellers, where on Fridays the pavement vanished beneath a tide of paper and every second man was either reading or lying. On the Karkh side it came down in a garden of young palms, beside a café where the tea was served in small waisted glasses and the owner had never in his life been in a hurry.
+It was a footbridge, two hundred and forty metres from bank to bank, slung low over the river in a long white curve like the stroke of a calligrapher's pen. On the Rusafa side it came down at the foot of the old street of the booksellers, where on Fridays the pavement vanished beneath a tide of paper. On the Karkh side it came down in a garden of young palms, beside a café where the tea was served in small waisted glasses and the owner had never in his life been in a hurry.
 
 It was nearly done. The deck was laid. The cables sang, very faintly, in the evening wind. At the centre, one segment of the walkway, three metres long, lay on the barge below, wrapped in tarpaulin, to be lifted into place at dawn. Until then there was a gap. Between the two halves of the bridge, over the brown water, nothing at all.
 
@@ -121,8 +121,6 @@ She turned the glass in her fingers. In her satchel the envelope lay against her
 
 "I can count, Mustafa."
 
-He nodded. The pencil behind his ear had slipped, and he put it back. A man will keep his hands busy at such a moment, as a swimmer who has been shown the open sea will rearrange his towel.
-
 "You should go," he said.
 
 "You say that very fast."
@@ -187,15 +185,11 @@ The women's field had been called to the line, and Selam Tesfaye was kneeling on
 
 "No."
 
-"Thank God," said Abel. He was hot-tempered, and had, for the last week, been shouting at her in a number of dialects. "Because I would not have given it to you. I would have taken the needle and put it somewhere *else.*"
-
 At the barrier, a small, grey, exquisitely dressed man of sixty-two, with a spray of red roses held against his chest like a rifle, was watching her with an expression of deep suspicion. Yonas Mekonnen had been a florist for forty years and her coach for nineteen, and distrusted all things that could not be pruned.
 
 "Take it," he said, pushing a rose through the barrier. "A rose in the pocket is a good-luck thing."
 
 "It will be crushed."
-
-"It will be crushed in your service." He glared at the sky. "I do not believe in luck. But I believe in *roses.* I am a florist. I make my living from the fact that things die beautifully."
 
 "That is not a comfort, Yonas."
 
@@ -213,8 +207,6 @@ Beside him, in a white netela shawl and a grey-brown headscarf, her prayer-cord 
 
 "Run like a woman who has *finished,*" said her mother, "not like a woman who is *finishing.* There is a difference. The first has already won."
 
-A little way down the barrier, a girl of twelve, Bethlehem Girma, in a school tracksuit and one trainer, was vibrating like a plucked wire. "Selam!" she cried. "I am going to be you! In nine years! I will break your record!"
-
 "I look forward to it," said Selam gravely.
 
 "You will not even *be* here!"
@@ -223,11 +215,7 @@ A little way down the barrier, a girl of twelve, Bethlehem Girma, in a school tr
 
 At the very back of the crowd, behind the barrier, stood the man Selam did not look for.
 
-Samuel Bekele was thirty-six, and the coffee exporter of a street in Merkato where the whole world's mornings were sorted by hand. He was steady, proud, and extremely tired. His brother, who had died in October, had left him eleven thousand sacks of green Yirgacheffe, a warehouse with a mortgage, and an unbroken chain of friendly, polite, and utterly merciless creditors. He had a meeting at ten o'clock with the landlady of the warehouse, a blunt woman of fifty-five named Rahel Girma, who had already told him that he might have until noon and not an hour after. He had a buyer in Hamburg who would sign for a price that was a kind of robbery, by the same hour. He had a telephone in his pocket, switched on, which had been ringing since five.
-
-He had not slept. He was wearing the wrong shoes.
-
-He had come to see her run.
+Samuel Bekele was thirty-six, a coffee exporter of Merkato, steady, proud, and extremely tired. His brother, who had died in October, had left him eleven thousand sacks of green Yirgacheffe, a warehouse with a mortgage, and an unbroken chain of polite and utterly merciless creditors. He had a meeting at ten o'clock with the landlady of the warehouse, a blunt woman of fifty-five named Rahel Girma, who had told him that he might have until noon and not an hour after. He had a buyer in Hamburg who would sign for a price that was a kind of robbery, by the same hour. He had a telephone in his pocket, which had been ringing since five. He had not slept. He was wearing the wrong shoes. He had come to see her run.
 
 ---
 
