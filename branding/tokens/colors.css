@@ -1,0 +1,19 @@
+/* Paperwright brand tokens */
+:root {
+  --pw-ink: #0F1B33; /* Ink Navy */
+  --pw-navy2: #1A2B4D; /* Deep Margin */
+  --pw-indigo: #3A4FE0; /* Citation Indigo */
+  --pw-sky: #DCE3FF; /* Footnote Sky */
+  --pw-amber: #F6A82C; /* Highlighter Amber */
+  --pw-amber-deep: #8F5400; /* Amber Text */
+  --pw-parchment: #F7F4EC; /* Parchment */
+  --pw-paper: #FFFFFF; /* Paper White */
+  --pw-slate: #5B6477; /* Slate */
+  --pw-mist: #E6E9F0; /* Mist */
+  --pw-sage: #17795A; /* Verified Sage */
+  --pw-red: #C23636; /* Reviewer Red */
+
+  --pw-font-display: Fraunces, Georgia, 'Times New Roman', serif;
+  --pw-font-body: Inter, 'Helvetica Neue', Arial, sans-serif;
+  --pw-radius: 20px;
+}

@@ -1,0 +1,90 @@
+{
+  "brand": "Paperwright",
+  "tagline": "Research, written right.",
+  "colors": {
+    "ink": {
+      "name": "Ink Navy",
+      "hex": "#0F1B33",
+      "rgb": "15, 27, 51",
+      "hsl": "220, 55%, 13%",
+      "cmykApprox": "71, 47, 0, 80"
+    },
+    "navy2": {
+      "name": "Deep Margin",
+      "hex": "#1A2B4D",
+      "rgb": "26, 43, 77",
+      "hsl": "220, 50%, 20%",
+      "cmykApprox": "66, 44, 0, 70"
+    },
+    "indigo": {
+      "name": "Citation Indigo",
+      "hex": "#3A4FE0",
+      "rgb": "58, 79, 224",
+      "hsl": "232, 73%, 55%",
+      "cmykApprox": "74, 65, 0, 12"
+    },
+    "sky": {
+      "name": "Footnote Sky",
+      "hex": "#DCE3FF",
+      "rgb": "220, 227, 255",
+      "hsl": "228, 100%, 93%",
+      "cmykApprox": "14, 11, 0, 0"
+    },
+    "amber": {
+      "name": "Highlighter Amber",
+      "hex": "#F6A82C",
+      "rgb": "246, 168, 44",
+      "hsl": "37, 92%, 57%",
+      "cmykApprox": "0, 32, 82, 4"
+    },
+    "amberDeep": {
+      "name": "Amber Text",
+      "hex": "#8F5400",
+      "rgb": "143, 84, 0",
+      "hsl": "35, 100%, 28%",
+      "cmykApprox": "0, 41, 100, 44"
+    },
+    "parchment": {
+      "name": "Parchment",
+      "hex": "#F7F4EC",
+      "rgb": "247, 244, 236",
+      "hsl": "44, 41%, 95%",
+      "cmykApprox": "0, 1, 4, 3"
+    },
+    "paper": {
+      "name": "Paper White",
+      "hex": "#FFFFFF",
+      "rgb": "255, 255, 255",
+      "hsl": "0, 0%, 100%",
+      "cmykApprox": "0, 0, 0, 0"
+    },
+    "slate": {
+      "name": "Slate",
+      "hex": "#5B6477",
+      "rgb": "91, 100, 119",
+      "hsl": "221, 13%, 41%",
+      "cmykApprox": "24, 16, 0, 53"
+    },
+    "mist": {
+      "name": "Mist",
+      "hex": "#E6E9F0",
+      "rgb": "230, 233, 240",
+      "hsl": "222, 25%, 92%",
+      "cmykApprox": "4, 3, 0, 6"
+    },
+    "sage": {
+      "name": "Verified Sage",
+      "hex": "#17795A",
+      "rgb": "23, 121, 90",
+      "hsl": "161, 68%, 28%",
+      "cmykApprox": "81, 0, 26, 53"
+    },
+    "red": {
+      "name": "Reviewer Red",
+      "hex": "#C23636",
+      "rgb": "194, 54, 54",
+      "hsl": "0, 56%, 49%",
+      "cmykApprox": "0, 72, 72, 24"
+    }
+  }
+}
