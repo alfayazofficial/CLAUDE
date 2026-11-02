@@ -81,7 +81,7 @@ He walked away across the pier with his basket, calling "*Simit, sıcak simit!*"
 
 Sema was fifty-one, wide, fierce, and floury, with her sleeves rolled to the shoulder, a headscarf of orange silk, and the strongest forearms in Eminönü. She had cooked at the landing for twenty-eight years, had fed three generations of both houses off the same chipped plates, and had made it a law that whoever brought a quarrel in at the door left it on a hook, along with the coat.
 
-"Tea has no flag," she added, to the room at large.
+"Tea has no flag," she was fond of announcing, to the room at large.
 
 "It is the *truth,*" said her husband Kerem. "I read it in a paper."
 

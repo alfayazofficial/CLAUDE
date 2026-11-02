@@ -24,6 +24,17 @@ A year before, he had punctured at that gate, on a Tuesday, cursing in two regis
 
 Two weeks later, descending a mountain in the Tour of the Andes at eighty kilometres an hour, he had seen, at the corner of his eye, a flower stall, a bucket of red roses, and thought of a teaspoon; and the road had turned, and he had not.
 
+He thought it now, in the white, in the only prose the lungs allow at that gradient, which is verse:
+
+> *White, and a white beyond the white, and breath.
+> I cannot see the road. I know the road.
+> The legs are maps that need no light to read,
+> And I have ridden blind since one small spoon
+> Mended one wheel. So let me climb in cloud
+> And trust the grade, as some men trust in prayer
+> Who never saw the One they pray to. Let
+> There be, somewhere on the left, a gate. A boot.*
+
 The cloud thinned.
 
 ---
