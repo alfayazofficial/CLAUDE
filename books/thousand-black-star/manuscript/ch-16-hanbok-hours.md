@@ -132,7 +132,7 @@ Daichi Ito had stopped chewing. Rin Hayashi had risen halfway off his stool, a l
 
 Mei crossed the room. It was a short floor, four steps, and she took each of them as one crosses ice. She sat. The stool was warm; it had been warmed, she understood, on purpose. Her hands, bare and unsteady, came to the lip of the bowl and rested there, as if she were warming them at a fire. She lifted the spoon. She did not drink.
 
-"Hiroshi-san," she said. Her voice was very quiet. "Before I eat this, I must tell you the real reason I stopped coming. It is not the one you think. It was not that I disliked the soup, and it was not that I—" Her eyes went to the broth, to the clear gold of it, and a thing crossed her face that was not quite shame, and not quite grief, but the look of a woman about to read out a verdict against herself. "It was that one morning in the spring, when I woke, and put a spoonful of miso soup into my mouth, I found that I could no longer—"
+"Hiroshi-san," she said. Her voice was very quiet. "Before I eat this, I must tell you the real reason I did not come back after the night I told you. It is not the one you think. It was not shame, and it was not that I—" Her eyes went to the broth, to the clear gold of it, and a thing crossed her face that was not quite shame, and not quite grief, but the look of a woman about to read out a verdict against herself. "It was that one morning in the spring, when I woke, and put a spoonful of miso soup into my mouth, I found that I could no longer—"
 
 *Here the page is torn.*
 

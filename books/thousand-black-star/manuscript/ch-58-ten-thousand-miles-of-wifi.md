@@ -140,6 +140,8 @@ Bunny wiped the counter, which did not need it. "Bhaiya. In Rotterdam it is five
 
 "You have looked it up."
 
+"The Dutch put their clocks back in October," said Bunny, "and took another hour off her. In the summer it was four. Everything in your life is an hour, Bhaiya; I said so in the spring."
+
 "I look up everything. Last year she was one hour in front of you. Now she is five behind. At this rate, by next year she will be in yesterday and you will be in Tuesday and the only place you can meet is in the middle of the sea."
 
 Fayaz opened his mouth, and shut it, with the face of a man who has been handed an important parcel by a child.
