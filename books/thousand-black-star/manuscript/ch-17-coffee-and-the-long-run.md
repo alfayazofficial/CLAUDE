@@ -35,9 +35,9 @@ Down the slope past them came the women of Entoto, in a long bent line, each wit
 
 "Then tell it to be quieter," said the old woman, and went on down the hill with the wood.
 
-They ran to the tree with the red cloth. Selam touched it, and turned, and for a moment stood quite still with her hand against the trunk, and the whole bright city lay below her in the haze, with its cranes and its tin roofs and its thousand blue plastic water tanks like a sea of small dull stars. In March there was a race, on the lakeside, to the south. It was twenty-six miles and three hundred and eighty-five yards. It would be the last time she ever ran so far, and she had told no one, because to say it aloud would be to start the counting.
+They ran to the tree with the red cloth. Selam touched it, and turned, and for a moment stood quite still with her hand against the trunk, and the whole bright city lay below her in the haze, with its cranes and its tin roofs and its thousand blue plastic water tanks like a sea of small dull stars. In the spring there was a race, on the roads of Addis itself: twenty-six miles and three hundred and eighty-five yards. It would be the last time she ever ran so far, and she had told no one, because to say it aloud would be to start the counting.
 
-"Coach?" said Bethlehem, who had come up behind her, wheezing. "Why do you only buy your coffee on Saturdays?"
+"Selam?" said Bethlehem, who had come up behind her, wheezing. "Why do you only buy your coffee on Saturdays?"
 
 "Because on Saturdays I have earned it."
 
@@ -47,7 +47,7 @@ They ran to the tree with the red cloth. Selam touched it, and turned, and for a
 
 "He does not. I have watched." The girl bent double, hands on her knees. "He looks at your leg when you are not looking at him. And you look at his hands when he is not looking at you. It is very strange. It is like two people at a bus stop who both pretend the bus has come."
 
-"Run," said Selam. "*Down.*"
+"Run," said Selam. "*Down.* And I am not your coach."
 
 ---
 
@@ -58,7 +58,7 @@ Samuel Bekele, thirty-six, steady, proud, and as visibly unsmiling as a very lar
 
 He had six. That was the part nobody saw.
 
-It had been a good business once. *Bekele & Brother, Green and Roasted, Since 1998.* It had been a place with a name on a board, two trucks, a ledger in Yared's careless left-handed hand, and a laugh that came up the lane before its owner. Then, fourteen months ago, Yared had died on the Awash road, and what he left was the laugh's absence, one broken truck, and a list. Samuel had found it in a cigarette tin: *a baker, two cousins, a bank, a priest, a man in Dire Dawa who sold goats.* A brother who owed everyone, and had smiled about it, and had never said.
+It had been a good business once. *Bekele & Brother, Green and Roasted, Since 1998.* It had been a place with a name on a board, two trucks, a ledger in Yared's careless left-handed hand, and a laugh that came up the lane before its owner. Then, in October, Yared had died on the Awash road, and what he left was the laugh's absence, a warehouse with a mortgage and eleven thousand sacks of green Yirgacheffe, and a list. Samuel had found it in a cigarette tin: *a baker, two cousins, a bank, a priest, a man in Dire Dawa who sold goats.* A brother who owed everyone, and had smiled about it, and had never said.
 
 Samuel, who was not a man who smiled, had said: *Then I owe everyone.* It was a sentence of a kind that, once said, will not go away.
 
@@ -93,7 +93,7 @@ It was an old song, said by women over pans. Samuel did not know that he had sai
 
 The bell on the street door rang.
 
-It was a tall man in a black suit that had once been good, and a short man in a brown one that had never been, and between them a third, a stout and mournful figure in a woollen hat, carrying under one arm a very large book and under the other a very small umbrella.
+It was a tall man in a black suit that had once been good, and a short woman in a brown one that had never been, and between them a third, a stout and mournful figure in a woollen hat, carrying under one arm a very large book and under the other a very small umbrella.
 
 "Ato Samuel," said the tall one. "A moment."
 
@@ -103,7 +103,7 @@ It was a tall man in a black suit that had once been good, and a short man in a 
 
 "This one does. It is Saturday, and I am roasting."
 
-The short man in brown, who was Rahel Girma, fifty-five, the scribe who wrote the legal paper for half the lanes of Addis, and who did not so much lack manners as use them as a lawyer uses a cough, set a folder on the sack of Guji beans. "Samuel. There are six. Three are patient. Three are not. The man in Dire Dawa has sent his nephew, who is large."
+The short woman in brown, who was Rahel Girma, fifty-five, landlady of the warehouse and scribe of the legal paper for half the lanes of Addis, and who did not so much lack manners as use them as a lawyer uses a cough, set a folder on the sack of Guji beans. "Samuel. There are six. Three are patient. Three are not. The man in Dire Dawa has sent his nephew, who is large."
 
 "The goat man."
 
@@ -129,13 +129,13 @@ There was a long pause. The beans cracked on the pan like a small burst of appla
 
 "A debt," said Dawit Tadesse, in the voice of a man who has said a thing so true that he is unaware of it, "is only a letter that has not yet been answered. I should like to be answered with a view of the water."
 
-Rahel Girma, scribe of debts, who had written ten thousand promissory notes and read in every one the same fear, looked at the old librarian with an expression that, in a less professional man, would have been called *tenderness.*
+Rahel Girma, scribe of debts, who had written ten thousand promissory notes and read in every one the same fear, looked at the old librarian with an expression that, in a less professional person, would have been called *tenderness.*
 
-"Ato Samuel," he said at last. "I will tell the goat man's nephew that you are *in negotiation.* I will give you until the lunar month's end. For the others—" He picked up his folder. "They will wait. They are more patient than they appear. They have all been to a funeral."
+"Ato Samuel," she said at last. "I will tell the goat man's nephew that you are *in negotiation.* I will give you until the lunar month's end. For the others—" She picked up her folder. "They will wait. They are more patient than they appear. They have all been to a funeral."
 
 "Thank you."
 
-"Do not thank me. I charge for it." He nodded to the room, and to Selam, with an ironical little bow, and withdrew, followed by the tall man, and the goat man's nephew, who was audibly arguing with a goat.
+"Do not thank me. I charge for it." She nodded to the room, and to Selam, with an ironical little bow, and withdrew, followed by the tall man, and the goat man's nephew, who was audibly arguing with a goat.
 
 Dawit Tadesse lingered at the door.
 
@@ -169,26 +169,26 @@ He started, and swept them off the pan with a long scrape of the iron spoon, and
 
 He ground it. It took some minutes, and the room filled with the smell of a crushed morning, dark and floral and bright. When he handed her the little brown bag she held it a moment against her chest before putting it into her pocket.
 
-"There is a race in March," she said abruptly. "On the lakeside. It is my last."
+"There is a race in the spring," she said abruptly. "Here, on the Gulele Road. It is my last."
 
 "I did not—"
 
-"I did not say you did. I am *saying.*" Her jaw was set. "It will be at the thirty-fifth kilometre where it is hardest. I should like someone to be standing there, in the dust, with something hot."
+"I did not say you did. I am *saying.*" Her jaw was set. "So you will understand that I do not want anyone standing at the thirty-fifth kilometre, in the dust, with something hot. I shall not look for you."
 
-"Coffee," said Samuel.
+"Coffee," said Samuel, to the pan.
 
-"Obviously," said Selam.
+"*Obviously* not," said Selam.
 
 She did not say *come.* He did not say *I will.* Between two proud people, reader, nobody has ever said a plainer thing.
 
 ---
 
 ### SCENE III
-*St Petersburg. The old rehearsal room under the roof of the theatre, at five in the evening, which in January is midnight with the lamps lit. Plaster angels on the ceiling. A barre, a battered piano, an iron stove. A grey sky pressing its face to the windows.*
+*St Petersburg. The fourth-floor studio above the Nevsky Chamber Theatre, at five in the evening, which in January is midnight with the lamps lit. Plaster angels on the ceiling. A barre, a battered piano, an iron stove. A grey sky pressing its face to the windows.*
 
 A pianist's love is made, if he is honest, of rests.
 
-This is a secret of the trade, and Dmitri Volkov, forty, accompanist, who had sat at the same instrument for nineteen years and never once been asked what he thought of the ballet, kept it better than most. A note, he knew, is only half the music. The other half is the silence that follows it. It is the held breath, the *fermata,* the pause before the downbeat in which a whole house of eight hundred people forgets to cough; and in a long and orderly life he had learned to love that silence more than any chord, because it was the only thing in the world that was his alone.
+This is a secret of the trade, and Dmitri Volkov, forty, accompanist, who had sat at the same instrument for sixteen years and never once been asked what he thought of the ballet, kept it better than most. A note, he knew, is only half the music. The other half is the silence that follows it. It is the held breath, the *fermata,* the pause before the downbeat in which a whole house of eight hundred people forgets to cough; and in a long and orderly life he had learned to love that silence more than any chord, because it was the only thing in the world that was his alone.
 
 At a quarter to five, with the children's class dismissed and the corridor emptied of small shrieking dancers in woollen leg-warmers, he sat at the piano in the half-dark, with the stove ticking and the snow in the window turning blue, and said, to the instrument, to the plaster angels, to nobody:
 
@@ -229,7 +229,7 @@ Anya Petrova, retired ballerina, who in her day had been called *the Swan of the
 
 "I did not look."
 
-"You always look. You look and you pretend you did not, and you have done so for two years." She turned, with the glasses in her hand, and did not put them on. "Since the gala."
+"You always look. You look and you pretend you did not. You have done so for six years, and since the gala you have done it up four flights of stairs." She turned, with the glasses in her hand, and did not put them on.
 
 There was a silence. The stove ticked. It was, he noted with the instinct of his trade, an excellent silence: round, full, unhurried.
 
@@ -251,7 +251,7 @@ There was a silence. The stove ticked. It was, he noted with the instinct of his
 
 He crossed the floor. It was twelve paces; he counted them, from habit, in three. At the end of them he stopped, and bowed, with a deep old-fashioned bow, the kind that has not been seen in a Petersburg rehearsal room since the days of Imperial teachers, and came up again with a face as white as a fresh page.
 
-"Anya Petrova," he said. "I wrote a waltz. You know that. You heard it in the wings, on the night of the gala, with your cane against the curtain; I saw you through the crack in the flat. I have never told you whom it was for. I have never asked you for anything. I am asking you now." He drew breath. "Would you do me the honour of one dance?"
+"Anya Petrova," he said. "I wrote a waltz. You know that. You heard it in the wings, on the night of the gala. I did not know; I learned it from four lines left under a lamp. I have never told you whom it was for. I have never asked you for anything. I am asking you now." He drew breath. "Would you do me the honour of one dance?"
 
 There was no sound in the room but the stove.
 
@@ -279,7 +279,7 @@ She looked at him. She looked at the rest, the silence, the held breath in the d
 
 He did not move. It is a mark of a courtly man that he can be struck in the face and keep it at the same angle.
 
-"Not now," she said. "Not tonight. I will not do it in a room with a stove and a cough. I will not do it badly. If I am to dance with a man for the first time in eleven years, I intend to do it *well.* Ask me again."
+"Not now," she said. "Not tonight. I will not do it in a room with a stove and a cough. I will not do it badly. If I am to dance with a man for the first time in six years, I intend to do it *well.* Ask me again."
 
 "When?"
 
@@ -299,13 +299,17 @@ She went to the door. With her hand on it she paused, and did not turn.
 
 "Yes."
 
-"The third bar of the second page. You are *rushing* it."
+"Dmitri Andreyevich."
+
+"Yes."
+
+"The seventh bar. The third beat. You are not holding it *long* enough."
 
 "I know."
 
 "Play it again. With the rest."
 
-He sat. He put his hands to the keys. Behind him the door shut with a click, and her uneven footsteps went away down the stairs, step, step, and the dry small click, and the step. And he played the waltz, slowly, the whole of it, in the dark, with the rests as long as they wanted to be, and at the third bar of the second page, where a great deal of his life was kept, he held the silence so long that the plaster angels leaned from the ceiling to find out what would come next.
+He sat. He put his hands to the keys. Behind him the door shut with a click, and her uneven footsteps went away down the stairs, step, step, and the dry small click, and the step. And he played the waltz, slowly, the whole of it, in the dark, with the rests as long as they wanted to be, and at the seventh bar, on the third beat, where a great deal of his life was kept, he held the silence so long that the plaster angels leaned from the ceiling to find out what would come next.
 
 In the corridor, among a rack of tutus, with a copy of the *Evening Petersburg* held before his face like a mask, Sergei Orlov, costume-master, fifty-seven, devout, who had read a good half of the theatre's private correspondence by the simple expedient of standing very still, murmured to a feathered skirt:
 

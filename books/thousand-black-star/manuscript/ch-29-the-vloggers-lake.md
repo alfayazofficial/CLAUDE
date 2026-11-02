@@ -20,12 +20,6 @@ The hose roared. The fan howled. The scales flew. The boat rocked, very slightly
 
 "*They said the lake would break me! But I am Captain Otie, the Lake Lion, and the Lake Lion does not break!*"
 
-A phone on a tripod on the shore recorded all of it.
-
-"Cut," said Juma. "That was very good, Otieno. But you said *break* three times."
-
-"It is a very good word."
-
 Otieno Odhiambo, twenty-nine, fisherman of Dunga and star of the most popular channel on the lake, waded ashore with the carriage of a lion and the face of a man who has just been caught eating the last biscuit. Under the yellow oilskin he was a slim, laughing, slightly stooping young man in a faded football shirt, with a gap in his front teeth and no idea what to do with his hands when no one was watching.
 
 "And what does it do when the lion cannot swim?"
@@ -216,7 +210,7 @@ It was the one that Mwangi had said he could not change.
 
 "Ah," said the old man, with great satisfaction. "Then it is worse."
 
-The sun had come up. The lake, which had been pewter, was brass. On the far side, a line of fishing boats came in from the night, low on the water, their lanterns going pale. Kisumu was waking, as it had woken every morning for a thousand years, in no way concerned with the opinions of the internet.
+The sun had come up. The lake, which had been pewter, was brass. On the far side, a line of fishing boats came in from the night, their lanterns going pale. Kisumu was waking, as it had woken every morning for a thousand years, in no way concerned with the opinions of the internet.
 
 He did not jump. He was not a fool. But he sat on the end of the planks and put his feet in the lake to the ankle, and spoke aloud, not to the phone, nor to the old man, nor to any person, but to the water; for we all of us, in the end, have one listener we can trust:
 

@@ -85,9 +85,9 @@ And Priya Sharma, who had held her breath since the age of nine, let it out quie
 
 If Jaipur's trouble was a roof that had gone, Bergen's was a hull that was going.
 
-The boat was called nothing aloud. It was Lars Eriksen's father's boat, and Lars, who was thirty and as talkative as a granite step, called it *her* when it behaved and *it* when it did not. It was forty-one years old, built of larch on oak, and held together, as the old men of the Fisketorget liked to say, by habit and the Lord's low opinion of insurance.
+The boat was the *Ragnhild,* eleven metres of tarred oak and old paint, and Lars Eriksen, who was thirty and as talkative as a granite step, called her *her* when she behaved and *it* when she did not. She was held together, as the old men of the Fisketorget liked to say, by habit and the Lord's low opinion of insurance.
 
-The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, who had hired the boat by the week for her fjord survey because it was the only vessel in Bergen whose owner would take her to the deep water at six in the morning without asking why. She had not stopped moving since she came aboard. She tapped. She measured. She sighed at the water temperature, and at the plankton count, and, with some warmth, at a cormorant.
+The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, who chartered the *Ragnhild* every Tuesday for a cod-tagging study, because her owner would take her to the deep water at six in the morning without asking why. She had not stopped moving since she came aboard. She tapped. She measured. She sighed at the water temperature, and at the plankton count, and, with some warmth, at a cormorant.
 
 "The fresh water is coming off the mountain too fast," said Sigrid. "It means the whole top layer is—Lars, are you listening?"
 
@@ -161,7 +161,7 @@ There was a movement on the quay. It was a woman in a yellow slicker, with a sta
 
 "For the *idea.* One does not buy shelter. One buys the pretence of it." She regarded Lars, and the bucket, and the boat's low and sorry waterline, and Sigrid's hands. "The boat will sink next week," she said, quite kindly, "and you will both pretend not to mind. I do not charge for the truth. Only for the umbrellas."
 
-Neither of them bought one. Sigrid walked to the end of the quay and was sick, over the rail, with great discretion; and when she turned back, Lars was standing with his bucket, looking at the boat as at a man who has been faithful for forty-one years and does not deserve to be put down.
+Neither of them bought one (Sigrid owned a plum-coloured one already). She walked to the end of the quay and was sick, over the rail, with great discretion; and when she turned back, Lars was standing with his bucket, looking at the boat as at a friend who has been faithful for a very long time and does not deserve to be put down.
 
 *I am afraid,* thought Sigrid, *that I will not come back.*
 

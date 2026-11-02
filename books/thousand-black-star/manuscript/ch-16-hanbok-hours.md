@@ -76,15 +76,11 @@ He sent the letter in the morning, at 9:02, a minute after the building opened. 
 
 There is a particular kind of Osaka night, in winter, when the trains go over the arches every four minutes and each one shakes a little salt out of the sky, and every shop beneath the tracks keeps its door half open so that you can smell the broth from the next street.
 
-The shop of Hiroshi Tanabe had no sign. It had a lantern, a curtain, a ticket machine that dispensed a single choice, and a counter with eight stools; and on the eighth stool, the last one, nearest the door, there stood every night a bowl.
+The shop of Hiroshi Tanabe had a curtain, a ticket machine that dispensed a single choice, and a counter with eight stools; and beside the steam pipe, on the stool where the heat rose best, nobody ever sat. In front of it, every night, stood a bowl.
 
-It was a bowl like any other. White glaze, a blue ring at the lip. A thin clear broth of chicken and kelp, with a shaving of leek and three slices of pork laid in a fan. He made it at twenty to midnight, after the last customer, and set it at the end of the counter with the chopsticks turned toward the door, and then he stood on the other side of the wood with his arms folded and waited, as one waits for a train that is late, but not very late.
+It was a bowl like any other. White glaze, a blue ring at the lip. A clear brown broth fourteen hours in the pot, with a shaving of leek and three slices of pork laid in a fan. He made it at twenty to midnight, after the last customer, and set it before the empty stool, with the chopsticks on their rest and a small blue towel folded in thirds; and then he stood on the other side of the wood with his arms folded and waited, as one waits for a train that is late, but not very late. At midnight he poured it into the sink. He washed the bowl by hand.
 
-He waited a quarter of an hour. Then he put out the light above the stool.
-
-And then Rin Hayashi, thirty-three, retired lifeguard, who had pulled thirty-one swimmers from the Osaka Bay and a bowl a night from the end of this counter for six years, came out from the back, ate the bowl cold, and went home. It was a devotion of a kind. Hiroshi had never asked him to. Rin said it was a matter of professional pride: he had never let a drowning thing go to waste.
-
-"Tonight," said Rin, who was already taking his stool, "is a night with an air of *event.*"
+"Tonight," said Rin Hayashi, from the third stool, "has an air of *event.*" He was thirty-three, a retired lifeguard, who had pulled four swimmers from Osaka Bay and had spent six years of nights watching a man pour a bowl down a drain, which he considered the harder rescue.
 
 "You say that every night."
 
@@ -94,60 +90,56 @@ And then Rin Hayashi, thirty-three, retired lifeguard, who had pulled thirty-one
 
 "It is *swaying,*" said Rin, "in an expectant manner."
 
-At the counter nearest the stove sat Daichi Ito, thirty-four, historian, who had come in from Kobe on a train, with a bag of books and an appetite, and had been eating a single bowl of noodles for forty minutes, in order that he might be present for the evening's atmosphere. He had written six hundred pages on the history of the noodle in the Kansai region and could not cook water. He was a man who read every portent aloud and apologised for none of them, which is the secret of his trade.
+At the end of the counter, among her pickle-jars, an old woman in a quilted jacket went on shelling cucumbers with the serenity of one who has outlived most omens. At the counter nearest the stove sat Daichi Ito, thirty-four, historian, who had come in from Kobe with a bag of books and had been eating one bowl of noodles for forty minutes in order to be present for the atmosphere. He had written six hundred pages on the history of the noodle in the Kansai region and could not cook water. He read every portent aloud and apologised for none of them, which is the secret of his trade.
 
 "I will say," said Daichi, to nobody, "that in the Heian period it was believed that the last customer of the night was a visitor from a better world."
 
-"It's *eleven fifty,*" said Hiroshi.
+"It's eleven fifty," said Hiroshi.
 
 "A better world with its own timetable. I merely *note.*"
 
-Hiroshi, thirty-four, perfectionist, said very little and was said to say it in the order of importance. He put his hands on the counter. They were large, scarred, steady hands, with a burn along one thumb that dated from the opening week of the shop, and they moved across a clean board with the rhythm of a man who has found in repetition the only mercy of the world.
+Hiroshi, thirty-four, perfectionist, said very little and was said to say it in the order of importance. His hands were large, scarred, steady, with a burn along one thumb, and they moved across a clean board with the rhythm of a man who has found in repetition the only mercy of the world. Since the spring he had been saying one sentence a day. Last week a boy from Recife had put his counter on the internet, and the sentence had been *Eat.*
 
-He did not look at the door. He never looked at the door. He had learned a long time ago that to look at a door is to ask it for something.
+He did not look at the door. He had learned a long time ago that to look at a door is to ask it for something.
 
 The curtain moved.
 
-There are people who come into a room like a stone into a pond, and people who come in like a drop of ink, and there are people who come in like a held breath. The woman who stepped under the noren, in the cold, in a grey coat the colour of an old photograph, with her face half-hidden in a scarf and her hand still on the edge of the cloth as though she had not decided whether to let go of it, was the third kind.
+There are people who come into a room like a stone into a pond, and people who come in like a drop of ink, and there are people who come in like a held breath. The woman who stepped under the noren, in a grey coat the colour of an old photograph, with her face half-hidden in a scarf and her hand still on the edge of the cloth as though she had not decided whether to let go of it, was the third kind.
 
-She was thirty-three. She had hair cut at the jaw, and tired eyes, and the straight, careful posture of a person who has spent a career looking at things closely and has lately been afraid of what she might see. Nine years ago, in the first month of this counter, on a wet night, she had sat on the end stool and closed her eyes over the first spoonful and said, in a low, clear voice, *Thank you; I'll come again.*
-
-She had not.
+She was thirty-three. She had hair cut at the jaw, and tired eyes, and the straight, careful posture of a person who has spent eleven years looking closely at things and has lately been afraid of what she might see. For six years, on the same night every week, she had sat beside the steam pipe and eaten with her eyes closed and said almost nothing. Since March she had said nothing at all.
 
 "Welcome," said Hiroshi. It came out of him as a thing is said by a man who has said it fifty thousand times and has never meant it as he meant it now.
 
 "*Irasshai,*" said Rin, instantly, and then, in a stage whisper that could have been heard in Kyoto: "*Look at the lantern.*"
 
-The woman stood in the doorway. She looked at the bowl on the eighth stool, the white glaze, the fan of pork, the steam, which went up into the lamp-light in a single thin rope and was cut, from time to time, by the roar of a train.
+The woman stood in the doorway. She looked at the bowl, the white glaze, the fan of pork, the steam, which went up into the lamplight in a single thin rope and was cut, from time to time, by the roar of a train.
 
-Her mouth made a small shape. It was not a word.
-
-"The photograph," she said. "Somebody put it on the internet. A bowl at the end of a counter, with the chopsticks turned toward the door. They said it was an old custom, that it was for—" She stopped. Her fingers tightened on the noren. "I recognised the glaze."
+"The photograph," she said. "A friend sent it. A bowl at the end of a counter, in Portuguese. The caption said: *He makes one bowl every night for a woman who stopped coming.*" Her fingers tightened on the noren. "I recognised the glaze."
 
 "Mei-san," said Hiroshi.
 
-It was the first time he had said her name aloud in nine years. It broke a little in the middle, like a stick of kelp.
+It was the first time he had said her name aloud since March. It broke a little in the middle, like a stick of kelp.
 
-"I was not sure you would remember," said Mei Sato.
+"I was not sure you would remember."
 
-"I wrote it on the wall of the kitchen. In pencil. The week after." He did not say what. "Sit. Please. It's... it was made for you."
+"I know your order. I have known it for six years." He did not say what else he knew. "Sit. Please. It was made for you."
 
 "It is *cold,*" said Rin, kindly. "I'll make a new—"
 
 "It is not cold," said Hiroshi, without turning. "It is nine minutes old. It was made at eleven-forty. It has been waiting."
 
-Daichi Ito had stopped chewing. Rin Hayashi had risen halfway off his stool, a lifeguard at the edge of a deep and difficult water. Above them, at that exact second, the last train of the night went over the arches and shook the whole shop, so that the lantern swung, and the pot lids sang, and the bowl on the eighth stool shivered once, and was still.
+Daichi Ito had stopped chewing. Rin Hayashi had risen halfway off his stool, a lifeguard at the edge of a deep and difficult water. At the end of the counter the old woman, who was Hiroshi's mother, had put down her cucumber. And above them, at that exact second, the last train of the night went over the arches and shook the whole shop, so that the lantern swung, and the pot lids sang, and the bowl shivered once, and was still.
 
-Mei crossed the room. She sat. Her hands, bare and unsteady, came to the lip of the bowl and rested there, as if she were warming them on the memory of a fire. She lifted the spoon. She did not drink.
+Mei crossed the room. It was a short floor, four steps, and she took each of them as one crosses ice. She sat. The stool was warm; it had been warmed, she understood, on purpose. Her hands, bare and unsteady, came to the lip of the bowl and rested there, as if she were warming them at a fire. She lifted the spoon. She did not drink.
 
-"Hiroshi-san," she said. Her voice was very quiet. "Before I eat this, I must tell you the real reason I never came back. It is not the one you think. It was not that I disliked the soup, and it was not that I—" Her eyes went to the broth, to the clear gold of it, and a thing crossed her face that was not quite shame, and not quite grief, but the look of a woman about to read out a verdict against herself. "It was that the morning after that first night, when I woke up, I found that I could no longer—"
+"Hiroshi-san," she said. Her voice was very quiet. "Before I eat this, I must tell you the real reason I stopped coming. It is not the one you think. It was not that I disliked the soup, and it was not that I—" Her eyes went to the broth, to the clear gold of it, and a thing crossed her face that was not quite shame, and not quite grief, but the look of a woman about to read out a verdict against herself. "It was that one morning in the spring, when I woke, and put a spoonful of miso soup into my mouth, I found that I could no longer—"
 
 *Here the page is torn.*
 
 ---
 
 ### SCENE III
-*Seoul. An alley off Jongno, between the bindaetteok stall and the stationer's. The shop of Han Ji-woo, three weeks before the lunar new year. A bell on the door. A kettle on the ondol. The wild light of a winter afternoon.*
+*Seoul. An alley off Jongno, between the bindaetteok stall and the stationer's. The shop of Han Ji-woo, on a Thursday, three weeks before the lunar new year. A bell on the door. A kettle on the ondol. The wild light of a winter afternoon.*
 
 The shop was so full of colour that it seemed less a room than an argument that silk had won. Along the walls hung jeogori jackets in jade and ember and plum, their ribbons unknotted like the fringe of some great beast; chima skirts in a hundred pinks; the white collars called *dongjeong* stacked in rows, sharp as new paper. In the back a sewing machine hummed like a bee in a bottle, and in the middle of everything, at a long cutting-table scored by thirty years of chalk, stood Ji-woo.
 
@@ -165,13 +157,13 @@ At the counter, in her third-best cardigan, sat a nine-year-old called Tae-yang,
 
 "It is a *problem,*" said Tae-yang, turning a page. "I read that, in a volcano, the thing at the centre is the one you cannot see."
 
-At the door, a bell rang like a small, nervous silver spoon.
+At the door, the bell gave its small bronze cough.
 
 "*Ji-woo-ya!*" cried a woman of fifty-eight in a gold quilted jacket, entering like weather. This was Yoon Ji-ah, goldsmith, who made the tiny knotted ornaments called *norigae* that hang from the ribbons, and who had never in her life been on time for anything, owing to the fact that she made every promise a little faster than she could keep it. "I have them! I have your *norigae!* I brought them myself. I said *tomorrow* on Tuesday and *tomorrow* on Wednesday, and I said *tomorrow* on Thursday, so it is a statistical triumph that it is only Friday."
 
 "They were due three days ago."
 
-"They were due *in spirit.*" She dropped a small silk bag on the counter, and out of it spilled a clutch of gold and coral: butterflies, little bottles, a fish with eyes of jade. "And for the *old lady*—for the mother of that nice boy with the face—I have made the peach. The big one. With the tassel. Where is he? Is he coming? He came Tuesday. He asked about the *silk.* I said to my husband, that boy has not once asked about the *silk*—"
+"They were due *in spirit.*" She dropped a small silk bag on the counter, and out of it spilled a clutch of gold and coral: butterflies, little bottles, a fish with eyes of jade. "And for the *old lady*—for the mother of that nice boy with the face—I have made the peach. The big one. With the tassel. Where is he? Is he coming? He came last Thursday. He asked about the *silk.* I said to my husband, that boy has not once asked about the *silk*—"
 
 "Aunty," said Ji-woo.
 
@@ -187,7 +179,7 @@ Daniel Cho came in with snow on his shoulders and no coat, having left it, in a 
 
 "She was quite specific."
 
-"Of course she was. She is a lady of discernment." Ji-woo came out from behind the table with the tape in her hands, and with an air so composed that only a person who has practised could have achieved it. "Mr. Cho. How is your mother's height? Last time I had the measurement but I have mislaid the paper."
+"Of course she was. She is a lady of discernment." Ji-woo came out from behind the table with the yellow tape hung round her neck, and with an air so composed that only a person who has practised could have achieved it. "Mr. Cho. How is your mother's height? Last time I had the measurement but I have mislaid the paper."
 
 It was not true. She had never mislaid a paper in her life. She had the number in her head and in two notebooks and, on a good night, in her sleep.
 
@@ -207,9 +199,9 @@ It was not true. She had never mislaid a paper in her life. She had the number i
 
 "As a *reference,*" said Ji-woo, who found, to her great surprise, that her own voice had gone a little high at the end, like a thread under strain. "Stand straight. Look at the wall. Do not talk."
 
-He stood by the post. He looked at the wall, where a calendar hung of a tiger in a hat. He did not talk. This, for him, was a feat of discipline on the level of Olympic sport, and it was compounded by the fact that somewhere behind him a woman with a tape measure was setting its cool yellow end against the nape of his neck and drawing it, with her fingertips, a long careful way down.
+He stood by the post. He looked at the wall, where a calendar hung of a tiger in a hat. He did not talk. This, for him, was a feat of discipline on the level of Olympic sport, and it was compounded by the fact that somewhere behind him a woman was walking slowly round him, once, and then again, with her head a little on one side, saying nothing, and not touching him at all.
 
-"Shoulder to shoulder," she murmured. "Thirty-nine point five. Hm. Your mother is smaller. You are... that is the proportion I will take."
+"Shoulder to shoulder," she murmured, to herself. "Neck to heel. The set of the arm." She had her pencil out. "Your mother is smaller. You are... that is the proportion I will take."
 
 "I am taller than my mother."
 
@@ -221,13 +213,13 @@ He stood by the post. He looked at the wall, where a calendar hung of a tiger in
 
 "By how much?"
 
-"By a *standard* amount," said Ji-woo, and her pencil moved, not on the large white pad on the counter where her customers' numbers were written, but on the small blue notebook she kept in the pocket of her apron. The tape went round his chest. It went round, and closed, and its end touched his sternum with the lightest touch on earth, and a bell, somewhere very far away, rang once inside a young man who had not been touched by another human being on purpose since the third of March.
+"By a *standard* amount," said Ji-woo, and her pencil moved, not on the large white pad on the counter where her customers' numbers were written, but on the small blue notebook she kept in the pocket of her apron. She had not taken the tape from her neck. She did not need to. She had been measuring this man by eye since the first Thursday, and the tape, which she had worn for twelve years like a stole, hung at her collarbone as unused as a bell with its tongue tied.
 
 "That's not the number for his *mother,*" said Tae-yang, from the counter, without moving his eyes from the volcano.
 
 "Tae-yang."
 
-"It's the one for a man. A *tall* man. You wrote the sleeve in a different pencil." He turned a page. "Also you are blushing, and you've dropped the tape twice."
+"It's the one for a man. A *tall* man. You wrote the sleeve in a different pencil." He turned a page. "Also you haven't touched the tape, which you always do, and you are blushing, and you've dropped it twice."
 
 "I have *not* dropped the—"
 
@@ -251,13 +243,13 @@ There was a silence. Ji-ah the goldsmith, who had never in her life let a silenc
 
 "When?"
 
-"The new year is in nineteen days. Come back for the fitting. You will need the... the fitting for your mother. And for the sleeve." She did not say *whose.* "Bring the measurements. I mean—*take* the measurements. Take your own. Take... I will need an hour."
+"The new year is in nineteen days. Come back for the fitting. Your mother's. And—" She did not say *and what.* "Thursdays are quiet. You may fold silk."
 
-"An hour?"
+"For how long?"
 
-"For the sleeve."
+"For as long as it takes the silk."
 
-"I have a great many hours," said Daniel Cho, who had never in his life said so, and heard it, and found, to his surprise, that it was true.
+"That is a great many hours," said Daniel Cho, who had never in his life said so, and heard it, and found, to his surprise, that he did not mind.
 
 Outside, in the alley, the snow came down in thick, slow flakes over the bindaetteok stall and the stationer and the little brass bell, and Yoon Ji-ah the goldsmith, who had slipped out to give them privacy and had been standing for ten minutes with her ear against the door, said to the street at large, with the most reliable promise she had ever made:
 
@@ -265,7 +257,7 @@ Outside, in the alley, the snow came down in thick, slow flakes over the bindaet
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., against Entries 0351 and 0254; and beside Entries 0510 and 0810, a single mark, a short line, like a stitch that has been cut:*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0351 and 0254; and beside Entries 0510 and 0810, a single short line, like a stitch that has been cut:*
 
 > *A tailor who has measured a city and not the man who stands in her doorway. A coach who has made a column and left it blank.*
 >
