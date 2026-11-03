@@ -26,7 +26,7 @@
 
 There are two ways to be an heiress. The first is to inherit. The second is to be *told* you will inherit, at every wedding, by every aunt, until the word becomes a coat sewn so exactly to your shoulders that you cannot lift your arms. Priya Sharma, twenty-seven, had worn the second kind since she was nine.
 
-"Beta," said her father, Mahendra Sharma, who sat at the head of the table with the patience of a man who had lost an argument to his daughter in 1998 and had been preparing his revenge ever since. "We are a house that *sells* cloth. We have sold cloth to three maharajas and one Hollywood film. We do not make poems."
+"Beta," said her father, Mahendra Sharma, who sat at the head of the table with the patience of a man who had lost an argument to his daughter in 1998 and had been preparing his revenge since. "We are a house that *sells* cloth. We have sold cloth to three maharajas and one Hollywood film. We do not make poems."
 
 "It is not a poem, Papa. It is a collection."
 
@@ -36,7 +36,7 @@ There are two ways to be an heiress. The first is to inherit. The second is to b
 
 Nine uncles looked at nine cups of tea.
 
-She unrolled the cloth. It ran down the length of the table like a river that had been told a secret: dabu, the old mud-resist print of Bagru, dipped and dipped again in indigo until the blue went down into black, and across that black, in gaps where the clay had held back the dye, there were small shapes the colour of milk. They were not flowers, as every uncle in the room expected. They were the little arched windows of old Jaipur, and above each window, where a roof should have been, the cloth was left open: bare, pale, and utterly without a lid.
+She unrolled the cloth. It ran down the length of the table like a river that had been told a secret: dabu, the old mud-resist print of Bagru, dipped and dipped again in indigo until the blue went down into black, and across that black, in gaps where the clay had held back the dye, there were small shapes the colour of milk. They were not flowers, as every uncle in the room expected. They were the little arched windows of old Jaipur, and above each window, where a roof should have been, the cloth was left open: bare, pale, without a lid.
 
 "Sky," said Priya, and her voice shook only once. "I want to print the houses of this city as they are when the roof has gone and the sky has moved in. People do not want another peacock, Papa. They want to be told that a thing may fall and still be beautiful."
 
@@ -44,7 +44,7 @@ She unrolled the cloth. It ran down the length of the table like a river that ha
 
 "A man with no roof."
 
-At that precise moment, with a sense of timing that no stage-manager could have invented and no stage-manager would have dared, the door of the boardroom was thrown open, and into it swept a figure in a saffron safa, a waistcoat embroidered with peacocks (which Priya's uncles regarded as a personal insult), and a moustache that had been oiled, curled, and, one suspected, individually named.
+At that precise moment, with a sense of timing that no stage-manager could have invented and no stage-manager would have dared, the door of the boardroom was thrown open, and into it swept a figure in a saffron safa, a waistcoat embroidered with peacocks (which Priya's uncles regarded as a personal insult), and a moustache oiled, curled, and, one suspected, individually named.
 
 "*Namaste, esteemed gentlemen!*" cried Vikram Rathore, thirty, heritage guide, and the sole surviving heir of a house in the Chandpole bazaar whose roof had been carried off by the monsoon of 1998 and never replaced. "I am *late*. This is a deliberate strategy. A man who is early is a clerk; a man who is late is an *arrival*."
 
@@ -56,9 +56,9 @@ At that precise moment, with a sense of timing that no stage-manager could have 
 
 He had met her five weeks before. She had come to the old city with a camera and a ruinous idea: that somewhere behind some stone gate where the paint had given up, the printing-houses of her great-grandmother's time still kept their wooden blocks, forgotten, unsold. The guild had sent a man in a peacock waistcoat who announced, in the first minute, that a Dutch tourist had once mistaken him for a maharaja and that he had not corrected her.
 
-He had led her, in the end, to his own front door: a tall carved door in a lane that smelled of marigold and diesel, and behind it a courtyard with a neem tree, a broken swing, a staircase that ascended to nothing, and, in a cathedral of light that fell straight down through the place where the roof had been, three hundred blocks of seasoned teak, stacked like the pages of a closed book.
+He had led her, in the end, to his own front door: a tall carved door in a lane that smelled of marigold and diesel, and behind it a courtyard with a neem tree, a broken swing, a staircase that ascended to nothing, and, in a shaft of light that fell straight down through the place where the roof had been, three hundred blocks of seasoned teak, stacked like the pages of a closed book.
 
-"My great-grandfather's," Vikram had said, and for the first time in her hearing he did not perform. "The family printed for the court. Then the court was gone, and the printing was gone, and then the roof. I give tours of it on Thursdays. I call it *The House That Chose the Sky.* Tourists weep." He had shrugged, a small, unlovely shrug with no peacock in it. "Mostly the Dutch."
+"My great-grandfather's," Vikram had said, and for the first time in her hearing he did not perform. "The family printed for the court. Then the court was gone, and the printing was gone, and then the roof. I give tours on Thursdays. I call it *The House That Chose the Sky.* Tourists weep." He had shrugged, a small shrug with no peacock in it. "Mostly the Dutch."
 
 She had stood in the column of daylight, with dust turning in it like slow gold, and thought: *There is the whole collection. A thing that lost its lid and let in the stars.*
 
@@ -97,7 +97,7 @@ The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, w
 
 "It is," said Lars, "in Norwegian."
 
-"It is not a language. It is a *noise*."
+"It is not a language. It is a *noise.*"
 
 "It carries more than most." He did not look up from the engine hatch, where a spanner and a very small prayer were doing their best. "Sigrid. How long does the sample take?"
 
@@ -105,7 +105,7 @@ The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, w
 
 "We do not have forty minutes."
 
-He did not say it loudly. Lars Eriksen did not say anything loudly; he said things the way a fjord says them, by being already full. But she heard the thing under it, and she looked up at last, past the clipboard, past the grey-green slope of the water, and saw what he had been watching for an hour with the stoic's dreadful patience: the western sky going the colour of a bruise, and a line of white, low and quick and moving, coming toward them over the sound.
+He did not say it loudly. Lars Eriksen did not say anything loudly; he said things the way a fjord says them, by being already full. But she heard the thing under it, and she looked up at last, past the clipboard, and saw what he had been watching for an hour with a stoic's dreadful patience: the western sky going the colour of a bruise, and a line of white, low and quick, coming toward them over the sound.
 
 "Oh," said Sigrid.
 
@@ -135,7 +135,7 @@ The first wave struck her quarter like a hand slapping a table. Below the deck c
 
 They did not die. But for forty minutes it was neither comedy nor anything else: cold water, wet wool, the red lamp at Marstein, and a bucket going out and coming in, in the hands of a man who did not once ask for help and a woman who did not once let go of the wheel.
 
-At the end of it, at ten minutes to five, in the black, with the harbour lights of Vågen swimming up out of the rain like a festival, the engine coughed, and the old boat limped into the fish market quay and sat down in the water like a horse that has finished its last race.
+At the end of it, at ten minutes to five, in the black, with the harbour lights of Vågen swimming up out of the rain, the engine coughed, and the old boat limped into the fish market quay and sat down in the water like a horse that has finished its last race.
 
 Lars cut the motor. In the silence the water ran out of the scuppers and clacked against the stones.
 
@@ -145,7 +145,7 @@ Lars cut the motor. In the silence the water ran out of the scuppers and clacked
 
 "You hired a boat. I knew what the boat was."
 
-"I—" Sigrid let go of the wheel and found that her hands would not at first unclench. "I came out today because I thought that if I counted every plankton in this fjord, I would not have to think about what happens when I have counted them all. And you let me. For a month, you let me. You said *mm*."
+"I—" Sigrid let go of the wheel and found that her hands would not at first unclench. "I came out today because I thought that if I counted every plankton in this fjord, I would not have to think about what happens when I have counted them all. And you let me. You said *mm.*"
 
 "It was the right thing to say."
 
@@ -153,13 +153,13 @@ Lars cut the motor. In the silence the water ran out of the scuppers and clacked
 
 "Sometimes," said Lars Eriksen, to the harbour, to the rain, to the lamp at Marstein, to the whole unlit shore of everything he could not say, "it is the only thing the boat will carry."
 
-There was a movement on the quay. It was a woman in a yellow slicker, with a stall of bright umbrellas lashed in tarpaulin under a lamp, who had been selling them to the ferry queue since morning with, so far, one customer.
+There was a movement on the quay. It was a woman in a yellow slicker, with a stall of umbrellas lashed in tarpaulin under a lamp, who had been selling them to the ferry queue since morning to, so far, one customer.
 
 "Ha!" said Solveig Dahl, thirty-six, formerly of Ålesund and lately, by her own account, a refugee from a city where it sometimes stopped raining. "You are wet! The sea has done my selling for me. Four hundred kroner."
 
 "For an umbrella?"
 
-"For the *idea.* One does not buy shelter. One buys the pretence of it." She regarded Lars, and the bucket, and the boat's low and sorry waterline, and Sigrid's hands. "The boat will sink next week," she said, quite kindly, "and you will both pretend not to mind. I do not charge for the truth. Only for the umbrellas."
+"For the *idea.* One does not buy shelter. One buys the pretence of it." She regarded Lars, and the bucket, and the boat's sorry waterline. "The boat will sink next week," she said, quite kindly, "and you will both pretend not to mind. I do not charge for the truth. Only for the umbrellas."
 
 Neither of them bought one (Sigrid owned a plum-coloured one already). She walked to the end of the quay and was sick, over the rail, with great discretion; and when she turned back, Lars stood with his bucket, looking at the boat as at a friend who has been faithful a very long time and does not deserve to be put down.
 
@@ -220,7 +220,7 @@ Fayaz paid for the tea, and for two biscuits he did not want, and climbed the th
 
 "It is not so much, Abbu."
 
-"No." The pencil moved a little in the old man's hand, and made no mark. "Go on. Go to your work. You have a client."
+"No." The pencil moved a little in the old man's hand, and made no mark. "Go on. You have a client."
 
 ---
 
@@ -242,7 +242,7 @@ He waited four minutes. He had never in his life waited four minutes so badly.
 
 > **Fayaz:** *Because you have not told me, and I would like to deserve being told.*
 
-There was a pause, long enough for a dog to bark twice in the lane below and for the power to flicker and, mercifully, hold.
+There was a pause, long enough for a dog to bark twice in the lane and for the power to flicker and, mercifully, hold.
 
 > **Ermis:** *That is the most irritating nice thing anyone has said to me this year.*
 
@@ -256,7 +256,7 @@ There was a pause, long enough for a dog to bark twice in the lane below and for
 
 > **Ermis:** *No. You have said "the file is in the wrong format." Which is the same thing, but more helpful.*
 
-It took him eleven minutes. The problem was a single photograph of an indigo vat at dawn, saved as a file the size of a small country, hidden among thirty others like a bear in a sheep-pen. He compressed it, and wrote a four-line script to resize the rest; and in the intervals, through a voice note she had left running by mistake, he heard all the sounds of a night he could not see: a stove, a tap, a pencil, and a distant, bad-tempered voice shrieking *"TOO LATE!"*
+It took him eleven minutes. The problem was a single photograph of an indigo vat at dawn, saved as a file the size of a small country, hidden among thirty others like a bear in a sheep-pen. He compressed it, and wrote a four-line script to resize the rest; and through a voice note she had left running by mistake he heard the sounds of a night he could not see: a stove, a tap, a pencil, and a distant, bad-tempered voice shrieking *"TOO LATE!"*
 
 > **Ermis:** *That is Ayu. My grandmother's parrot. She has three sentences and has never used them correctly.*
 
@@ -270,13 +270,9 @@ He looked at that for a little. He did not remark upon it. A man with fourteen l
 
 > **Fayaz:** *There is always a net. It is simply very far down, with a clock that is seven minutes slow.*
 
-> **Ermis:** *How do you know about the clock?*
+> **Ermis:** *How do you know about the clock? Oh. You told me in your second message. I keep your messages the way other people keep receipts.*
 
-> **Fayaz:** *I did not say that. Did I?*
-
-> **Ermis:** *You told me in your second message. You said you had never fixed it, on principle. I keep your messages the way other people keep receipts.*
-
-He laughed aloud, alone, in the dark, for the first time that week. Through the wall his mother stirred and settled. He lowered his voice, as if the words themselves might wake her.
+He laughed aloud, alone, in the dark, for the first time that week. Through the wall his mother stirred and settled.
 
 > **Fayaz:** *What time is it there?*
 
@@ -292,13 +288,13 @@ He laughed aloud, alone, in the dark, for the first time that week. Through the 
 
 > **Fayaz:** *Then what are you?*
 
-There were three dots. They pulsed and sank. They pulsed again. In a workshop that smelled of hot wax, a girl with a pencil in her hair looked at the ceiling beams, and at the cold blue water, and at a green bird that had gone, for once, to sleep; and then she typed the line that she would, in the spring, repeat in a different voice, to a screen going dark.
+There were three dots. They pulsed and sank. They pulsed again. In a workshop that smelled of hot wax, a girl with a pencil in her hair looked at the ceiling beams, at the cold blue water, at a green bird that had gone, for once, to sleep; and then she typed the line she would one day repeat in a different voice, to a screen going dark.
 
 > **Ermis:** *I am in your future.*
 
 > **Ermis:** *Ask me anything about tomorrow. I have seen it. It is only an hour away.*
 
-Fayaz sat quite still. In the lane below, a rickshaw bell rang and was swallowed.
+Fayaz sat quite still.
 
 > **Fayaz:** *Will the electricity come back?*
 

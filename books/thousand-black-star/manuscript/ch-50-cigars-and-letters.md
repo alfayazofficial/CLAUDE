@@ -25,9 +25,7 @@ He had done it for six years. He had sent out, by his own count, four thousand a
 
 "I am not apologising for the idea."
 
-"Nobody has asked you to."
-
-"Good, because I am not going to," said Armando, and bent to his leaf.
+"Nobody has asked you to," said Héctor, and bent to his leaf.
 
 On the platform, Yoel Cabrera, who had reached the sporting results with unstoppable joy, said without looking up: "Is that a visitor at the door?"
 
@@ -51,7 +49,7 @@ And then, in the fourth row, a man put down a blade.
 
 "It rhymes."
 
-"Only a little. It is the only thing about it I am proud of." He stood up, wiping his hands on his apron, a lean man with a grey streak in his hair and a face that was all at once, to his own astonishment, the colour of the leaf. "I saw you once. Six years ago. I was walking along the wall with a box under my arm, and a woman was reading to a ring of children, and they were so quiet that a wave came over the wall and nobody *moved.* I stopped. And I thought, *somebody should say to that woman that she has been seen.* And I had a pen. And I had, in the box under my arm, a place to put it."
+"Only a little. It is the only thing about it I am proud of." He stood up, wiping his hands on his apron, a lean man with a grey streak in his hair and a face that had, to his own astonishment, turned the colour of the leaf. "I saw you once. Six years ago. I was walking along the wall with a box under my arm, and a woman was reading to a ring of children, and they were so quiet that a wave came over the wall and nobody *moved.* I thought, *somebody should say to that woman that she has been seen.* And I had a pen. And I had, in the box under my arm, a place to put it."
 
 "Six years," said Rosa.
 
@@ -65,7 +63,7 @@ There was a roar from the hall, the roar of two hundred cigar-rollers who have k
 
 "But it is *his,*" said Rosa.
 
-"A note," said Yoel, "that has crossed the Atlantic twice has the right to be heard."
+"A note that has crossed the Atlantic twice," said Yoel, "has the right to be heard."
 
 She did not know afterwards how she got up the three steps. She stood above two hundred tables and the great fan turning, and found that the habit of reading aloud was a handrail. She read it, as she read everything, steadily, to the back of the room. And the thing she read was this:
 
@@ -86,7 +84,7 @@ When she had finished, nobody spoke for a time. The fan turned. In the fourth ro
 
 "I know. That is why I am saying it."
 
-"Then say it again, on Sunday. On the wall. To the children. They will want to know about the man." He swallowed. "I will come. I will stand a long way back. I will not say anything. A wave may come over the wall. I should like to see what you do."
+"Then say it again, on Sunday. On the wall. To the children." He swallowed. "I will come. I will stand a long way back. I will not say anything. A wave may come over the wall. I should like to see what you do."
 
 "I shall go on reading," said Rosa.
 
@@ -115,7 +113,7 @@ It was a five-pointed lantern of bamboo and paper, the kind that children carry 
 
 She stood still. Beside her on the quay, Hương Bùi, thirty-six, a carpenter and her best friend, who had built the little wooden boat with her own hands and cried quietly over every plank, stepped back a pace into the shadows.
 
-"I took them every day," said Quân. "Since the first morning. You were folding paper at the window and you did not see me. I told myself it was work. But you were *never* on the street, Hà. You were in the window. I was only looking in." His voice cracked. "I never showed you because I thought if you saw how I saw you, you would know. And then you would be sorry for *me,* and I could not bear it."
+"I took them every day," said Quân. "Since the first morning. You were folding paper at the window and you did not see me. I told myself it was work. But you were *never* on the street, Hà. You were in the window. I was only looking in." His voice cracked. "I never showed you because I thought you would know. And then you would be sorry for *me,* and I could not bear it."
 
 "Show me."
 
@@ -123,13 +121,13 @@ She stood still. Beside her on the quay, Hương Bùi, thirty-six, a carpenter a
 
 "Yes, you have." She smiled at him, and for a moment, under the red of the star, the illness was not in her face at all. "You have been carrying that bag since Hanoi. Show me, Quân."
 
-It was a flat box, in an oilcloth bag. He opened it on the stone beside the river, and the first print was of a young woman at a window in the thin gold light of early morning, with a strip of bamboo between her teeth and a paste-brush in one hand, completely intent; and the second, of the same woman, laughing at something out of the frame; and the third, her hands alone, the light moving through the thin paper; and the hundredth. She looked at every one. It took a long time. Behind them the festival went on, with its drums and dragon-dancers, and the river glowed with floating flowers.
+It was a flat box, in an oilcloth bag. He opened it on the stone beside the river, and the first print was of a young woman at a window in the thin gold light of early morning, with a strip of bamboo between her teeth and a paste-brush in one hand, completely intent; and the second, of the same woman, laughing at something out of the frame; and the third, her hands alone, the light moving through the thin paper; and the hundredth. She looked at every one. It took a long time. Behind them the festival went on, with drums and dragon-dancers.
 
 "I look," said Hà, at last, very slowly, "like someone who is not afraid."
 
 "You are not."
 
-"No." She put the last print down, carefully, with the others. "No, I do not think I am. Isn't that odd? I thought I should be. And then I was not, and I did not know where it had gone. It is *here.* In these. It is the way you look. I did not know a person could be looked at like that and be well."
+"No." She put the last print down, carefully, with the others. "No, I do not think I am. Isn't that odd? I thought I should be, and I did not know where it had gone. It is *here.* In these. I did not know a person could be looked at like that and be well."
 
 She knelt, then, with a care that cost her, and lit the candle in the middle of the star. The red light came up and lit her face. Then Hương, without a word, slid the little boat into the water; and Hà set the lantern in it; and the river took it, as rivers do.
 
@@ -174,7 +172,7 @@ On a pile of cumin sacks sat Mehdi Bennani, thirty-six, clockmender and self-app
 
 "Do," said Madame Tazi gently.
 
-He read it. He read it slowly, one word at a time, with his finger moving under each line, in the honeyed voice that for twenty years had persuaded Frenchwomen to buy saffron they did not want. He stumbled at the seventh word. He went back. He stumbled at the nineteenth, and went back again; and the Keeper, who has the whole page before her, tells you only that when he reached the end his voice was not the honeyed one any more but a plain, shaken, boyish one that belonged to nobody but himself:
+He read it slowly, one word at a time, with his finger moving under each line, in the honeyed voice that for twenty years had persuaded Frenchwomen to buy saffron they did not want. He stumbled at the seventh word, and went back. He stumbled at the nineteenth, and went back again; and the Keeper tells you only that when he reached the end his voice was no longer the honeyed one but a plain, shaken, boyish one that belonged to nobody but himself:
 
 > *I could not read until I met you.
 > I could not write. I hid it well.
@@ -189,7 +187,7 @@ He read it. He read it slowly, one word at a time, with his finger moving under 
 
 "Thirty-one of the forty-one words are *correctly spelled.* The rest are *artistic.*" He sniffed. "I am not impressed."
 
-"It is a *start,*" said Salma. Her eyes were shining, and her voice, usually so exact, was not exact at all. "It is *more* than I wrote in my first year. I wrote *one.* And the one was wrong." She took the paper from him and held it against her chest. "Youssef. I would teach you every letter, if you asked."
+"It is a *start,*" said Salma. Her eyes were shining, and her voice, usually so exact, was not exact at all. "It is *more* than I wrote in my first year." She took the paper from him and held it against her chest. "Youssef. I would teach you every letter, if you asked."
 
 "I am asking."
 
@@ -197,7 +195,7 @@ He read it. He read it slowly, one word at a time, with his finger moving under 
 
 "I have never been so frightened in my life," said Youssef Benali, "and I would like to do it every morning."
 
-Madame Tazi, who had heard ten thousand confessions and was a woman of few words, rose, and shook out her robe, and said to the entire shop, to the saffron and the cumin and the cones of orange peel, in the dry, kind voice of the Bench: "The court finds that the accused is *not guilty,* and that the prosecution is in love."
+Madame Tazi, who had heard ten thousand confessions and was a woman of few words, rose, shook out her robe, and said to the entire shop, to the saffron and the cumin, in the dry, kind voice of the Bench: "The court finds that the accused is *not guilty,* and that the prosecution is in love."
 
 ---
 
@@ -222,9 +220,9 @@ A knocking ceremony is how a Ghanaian marriage begins. The groom's family comes 
 
 Abena Owusu's father stood up.
 
-He was sixty-two, Kojo Darko, a lawyer, and suspicious by trade. He had not spoken to Kwame Mensah in six years, since the day a debt of the family's was found to have been paid by a person who would not be named, and the family had been told the creditor had forgiven it. In Accra everybody knows who pays what. And nobody says.
+He was sixty-two, Kojo Darko, a lawyer, and suspicious by trade. He had not spoken to Kwame Mensah in six years, since a debt of the family's was found to have been paid by a person who would not be named, and the family was told the creditor had forgiven it. In Accra everybody knows who pays what. And nobody says.
 
-He walked to the middle of the room, through the chairs and the drinks and the eleven yellow shirts. He had in his hand a brown envelope. He held it out to the groom.
+He walked to the middle of the room, through the chairs and the drinks and the eleven yellow shirts, with a brown envelope in his hand, and held it out to the groom.
 
 "It is the sum," said Kojo Darko.
 

@@ -11,13 +11,13 @@
 
 There is a legend in Isfahan, told by every tea-seller to every tourist, that the old masters made one mistake on purpose in every panel they ever laid. *Only God is perfect,* they said, and set one tile crooked, so as not to be presumptuous.
 
-Ali Rezaei, thirty-six, tile master, did not believe the legend. He believed in measurement. But he had been kneeling since noon in front of a panel a thousand years too old for its own good, with a bucket of lime at one elbow and a stub of pencil behind one ear, and he was beginning to suspect that God had taken the legend personally.
+Ali Rezaei, thirty-six, tile master, did not believe the legend. He believed in measurement. But he had been kneeling since noon in front of a panel five centuries too old for its own good, with a bucket of lime at one elbow and a stub of pencil behind one ear, and he was beginning to suspect that God had taken the legend personally.
 
 "It is not a repeat," said a voice behind him.
 
 "I know it is not a repeat."
 
-"I mean that I have checked every unit in the field. It *looks* like a repeat. It looks like the five-fold stars that the masters used everywhere. But you set one star beside the next and the next one is turned a hair, and the one after, a hair more. The whole panel is made of a rule that does not close." Parisa Karimi, thirty-one, architect and restorer, had come up the scaffold with a clipboard held as carefully as a baby and the expression of a woman who has found, in a ruin, a handwriting she cannot copy. "I do not know how to restore a thing that has no template. Every other panel I have mended, I took one tile, I made forty."
+"I mean that I have checked every unit in the field. It *looks* like a repeat. It looks like the five-fold stars that the masters used everywhere. But you set one star beside the next and the next one is turned a hair, and the one after, a hair more. The whole panel is made of a rule that does not close." Parisa Karimi, thirty-one, architect and restorer, had come up the scaffold with a clipboard held as carefully as a baby and the expression of someone who has found, in a ruin, a handwriting she cannot copy. "I do not know how to restore a thing that has no template. Every other panel I have mended, I took one tile, I made forty."
 
 "Then do not make forty."
 
@@ -39,7 +39,7 @@ Parisa lowered the clipboard. "That is the worst building method I have ever hea
 
 "He will go on until she buys it, or one of them dies."
 
-This was Reza Jafari, fifty-seven, trader, a man of such profound stubbornness that he had once sold a Shirazi rug to the husband of a woman who had come in to return the same rug. He had been conducting his business in the lane below the madrasa for three days, and had acquired an audience of tourists, pigeons, and two municipal inspectors. Now he stood at the foot of the scaffold, shouting up with great politeness.
+This was Reza Jafari, fifty-seven, trader, so profoundly stubborn that he had once sold a Shirazi rug to the husband of a woman who had come in to return the same rug. He had been conducting his business in the lane below the madrasa for three days, and had acquired an audience of tourists, pigeons, and two municipal inspectors. Now he stood at the foot of the scaffold, shouting up with great politeness.
 
 "Master Ali! Madam Architect! I have heard everything!"
 
@@ -49,9 +49,9 @@ This was Reza Jafari, fifty-seven, trader, a man of such profound stubbornness t
 
 "Reza," said Parisa, going the colour of a pomegranate.
 
-"—that a pattern which never repeats is the best a man can sit down to, because it is never boring, and never finished, and nobody can say you have done it *wrong.*" Reza bowed with great dignity, tripped over the carpet, and sat down in the lime.
+"—that a pattern which never repeats is the best a man can sit down to, because it is never boring, and never finished, and nobody can say you have done it *wrong.*" Reza bowed deeply, tripped over the carpet, and sat down in the lime.
 
-Ali did not laugh. He turned very slowly towards her. He had not planned it; he had planned, for eight months, to say it on some day in the autumn, with proper notice and a proper bunch of flowers. But the light was going gold, and the dome behind her was the colour of a thing that does not last, and a man will be forgiven for the one sentence he has never been able to carve.
+Ali did not laugh. He turned very slowly towards her. He had not planned it; he had planned, for eight months, to say it on some day in the autumn, with proper notice and a proper bunch of flowers. But the light was going gold, and the dome behind her was the colour of something that does not last, and a man may be forgiven the one sentence he has never been able to carve.
 
 > *I have laid the same star ten thousand times,
 > And every star was perfect, and was dead.
@@ -63,7 +63,7 @@ Ali did not laugh. He turned very slowly towards her. He had not planned it; he 
 > Considerable alarm, I would not have it
 > Closed. I would rather listen all my life.*
 
-Parisa Karimi, who restored ruins because she did not know how to restore herself, said nothing for so long that the muezzin, in some tower beyond the square, began the evening prayer. Then she took off her glove.
+Parisa Karimi, who restored ruins because she did not know how to restore herself, said nothing for so long that the muezzin, in some tower beyond the square, began the evening prayer. Then she took off her work glove.
 
 "My mother is in Shiraz," she said. "She prefers that a man's uncle call. With flowers. And sweets. It is a very old, very silly custom."
 
@@ -94,7 +94,7 @@ The new bridge was a thing of steel and glass and cable, and people had been wal
 
 It had been built in two halves, from either bank, as the best bridges are, so that it should meet in the middle, in the middle of the river, in the middle of the sky. The engineers had reckoned a tolerance of fifteen millimetres. When the two halves came together on the thirty-first of May, they had met with a gap of three.
 
-"Three millimetres," said Mustafa Karim, thirty-four, civil engineer, to a crowd of two hundred and a television camera. "In a river that is a kilometre wide. I would like it noted that nobody has ever done better, and that I am not at all pleased."
+"Three millimetres," said Mustafa Karim, thirty-four, civil engineer, to a crowd of two hundred and a television camera. "In a river three hundred metres across. I would like it noted that nobody has ever done better, and that I am not at all pleased."
 
 There was applause. In the third row, a young woman in a long grey coat and a green scarf did not applaud. Noor Hashim, thirty, architect, ambitious, eloquent, stood with her arms folded and her eyes on the cables. She had not said a word to him in three weeks. She had also not left his side at any public function, and the two phenomena were beginning to confuse the neighbours.
 
@@ -104,11 +104,11 @@ The ribbon was cut. A poet named Huda Al-Saadi, twenty-five, devout and best fri
 
 "I know how your name is spelled." Shaimaa did not turn. "I carved it correctly. Then a flake of limestone came off the *i,* and in fixing it I made it, in every sense but spelling, a *better* name. You may be wrong in the particular, Mustafa, but you are right in spirit."
 
-"Nobody who builds a bridge," she added with great dignity, as he opened his mouth, "is *entirely* himself."
+"Nobody who builds a bridge," she added, as he opened his mouth, "is *entirely* himself."
 
-By the time the ode had reached its hundred-and-fortieth line, the footbridge was nearly empty. The lights came on along the cables, white and blue, and on the water below the long, slow lanterns of the fish-grillers began to glow along the bank, with the smell of *masgouf* and woodsmoke rising up to the rail. The heat that had stood on the city since June had finally drawn a little back; a hot wind from the desert went down the river like a hand smoothing a cloth.
+By the time the ode had reached its hundred-and-fortieth line, the footbridge was nearly empty. The lights came on along the cables, white and blue, and on the water below the long, slow lanterns of the fish-grillers began to glow along the bank, with the smell of *masgouf* and woodsmoke rising up to the rail. The heat that had stood on the city since June had finally drawn a little back; a hot wind from the desert went down the river.
 
-In the middle of the bridge, where the two halves had met, a seam of three millimetres ran across the walkway like a very small, very polished scar. Noor was standing on it.
+In the middle of the bridge, where the two halves had met, a seam of three millimetres ran across the walkway, small and polished as a scar. Noor was standing on it.
 
 "You are standing on my error," said Mustafa, coming up.
 
@@ -122,7 +122,7 @@ In the middle of the bridge, where the two halves had met, a seam of three milli
 
 "You know?"
 
-"Huda told me. She was drunk on her own ode." He had put his hands behind his back, which is a thing an engineer does when he does not trust them. "You go in three weeks. Two years. Copenhagen. A studio on a canal. They want you to design a thing that has not been built."
+"Huda told me. She was giddy on her own ode." He had put his hands behind his back, which is a thing an engineer does when he does not trust them. "You go in three weeks. Two years. Copenhagen. A studio on a canal. They want you to design a thing that has not been built."
 
 "Yes."
 
@@ -159,7 +159,7 @@ It had arrived on a Thursday in the arms of a courier who stood at the foot of t
 
 "That is not a rate."
 
-"It is in the *regulations,*" said the courier, who had never read them. Fayaz Rahman, twenty-six, had in his pocket two hundred taka, and in his head the grey arithmetic of nine lakh still owing to a man his father had trusted. The Singapore contract worked him from midnight until eight, and was kind, but not that kind.
+"It is in the *regulations,*" said the courier, who had never read them. Fayaz Rahman, twenty-six, had in his pocket two hundred taka, and in his head the grey arithmetic of nine lakh still owing to a man his father had trusted, now that the last of the village land had gone to pay the rest. The Singapore contract worked him from midnight until eight, and was kind, but not that kind.
 
 "Bhaiya," said a voice from the doorway of the tea stall, "I will lend it."
 
@@ -179,7 +179,7 @@ The paper came away. Inside was a smell: wax, and woodsmoke, and indigo. Folded 
 
 Fayaz unfolded it.
 
-It was a great length of indigo, as deep as the river at midnight, and across the whole of it, in rows, were dots. They were black. They were so black that at first the eye took them for nothing, a shadow on the weave, a stain of some darker blue. Only when he turned the cloth to the lamp, and the light came across it at a slant, did they rise up out of the dye, one by one by one, each with five small points, each a star, each bright with the dull gloss of wax-resisted ink, like a thing you could see only at the edge of your attention. They were *bintang.* They were black. They went on to the end of the cloth.
+It was a great length of indigo, as deep as the river at midnight, and across the whole of it, in rows, were dots. They were black. They were so black that at first the eye took them for nothing, a shadow on the weave, a stain of some darker blue. Only when he turned the cloth to the lamp, and the light came across it at a slant, did they rise up out of the dye, one by one by one, each with five small points, each a star, each bright with the dull gloss of wax-resisted ink. They were *bintang.* They were black. They went on to the end of the cloth.
 
 "It is *beautiful,*" breathed Tithi.
 
@@ -227,7 +227,7 @@ She did not answer. In the studio behind her a kettle, which was a Dutch one, be
 
 "It is for when the sky is clear," she said. "I do not know what for. I only know that it is for *then.*"
 
-For some time neither of them spoke. A tin roof, in the monsoon, in Mirpur, beat out the long drum of the rain. In Rotterdam the kettle shrieked and, at last, stopped, as a thing stops when somebody turns it off, because nobody else will.
+For some time neither of them spoke. Over Mirpur the monsoon beat out the long drum of the rain on a thousand tin roofs. In Rotterdam the kettle shrieked and, at last, was turned off, because nobody else would.
 
 "Fayaz," said Ermis.
 
@@ -245,7 +245,7 @@ It was not what she had expected. He saw it in her face. She had been braced, as
 
 "I have seen it," he said. "I am four hours ahead of you tonight, and in that time I have already lived this Friday, and I can report that it was *very* good, and that you were kind in it. The studio, the harbour, the kettle. You were kind." He stopped, because his voice had done the thing it did when she laughed, only the other way. "I thought you ought to hear it from the future."
 
-Ermis said nothing at all. She put her hand over her mouth. On the screen, the pencil in her hair slid, and her hair came down, and behind her, in the grey Dutch window, a gull went by like a thrown stone. At last she took her hand away and said, in a small and entirely ordinary voice: "It is the first thing anyone has told me from the future that I wanted to hear."
+Ermis said nothing at all. She put her hand over her mouth. On the screen, the pencil in her hair slid, and her hair came down, and behind her, in the grey Dutch window, a gull went by. At last she took her hand away and said, in a small and entirely ordinary voice: "It is the first thing anyone has told me from the future that I wanted to hear."
 
 "Then I will tell you more next week."
 

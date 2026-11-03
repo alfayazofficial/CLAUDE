@@ -53,7 +53,7 @@ The doorbell rang like a fire alarm.
 
 ---
 
-Niamh Quinn, forty-one, fishmonger, stood on the step in a coat the colour of a wet gull with a hake under one arm and a bottle of something under the other. She had the face of a woman who spends her life in the cold being gentle to dead things, which is to say, a face that had never in its whole career managed to hide a feeling.
+Niamh Quinn, forty-one, fishmonger, stood on the step in a coat the colour of a wet gull with a hake under one arm and a bottle of something under the other. She had the face of a woman who spends her life in the cold being gentle to dead things, and who had never in her whole career managed to hide a feeling.
 
 "It's Thursday," she said. "I know what Thursday is. Thursday is session, and you've a face on you like the last cow at the mart, and I thought: I'll bring her a fish."
 
@@ -150,7 +150,7 @@ But in the corner, near the door, where she had come in out of the rain with her
 
 ---
 
-On the low stage, which was a platform of three planks and a tablecloth, a thin man with a worse coat than any she had imagined was tuning a fiddle that he had played, by his own account, since the age of eight and fixed, by his own account, with nine different sorts of glue.
+On the low stage, which was a platform of three planks and a tablecloth, a thin man in a worse coat than any she had imagined was tuning a fiddle that he had played since the age of eight and mended, by his own account, with nine different sorts of glue.
 
 Liam O'Connor, thirty-two, pub musician, was ill.
 
@@ -160,7 +160,7 @@ It was visible to anyone with eyes. His face had the high, bright, dreadful colo
 
 "He's *thirty-nine degrees,*" said Niamh Quinn, from the corner, with the authority of a woman who has taken his temperature through a haddock. "It's different."
 
-Beside him sat Maeve Ryan, seventy-two, retired guard on the Galway–Athenry line, with a bodhrán across her knee and a ticket-punch on a string around her neck, which she clicked in time with the reels, because for forty years she had never known a rhythm that was not a timetable. It was Maeve who had taught him his first tunes, in a front room in Spiddal, smacking his knuckles with a ruler for sloppiness. She was a woman of few words and many coughs, and she watched him now with an expression that people took for sternness, and was in fact the face of a person counting something she did not wish to lose.
+Beside him sat Maeve Ryan, seventy-two, retired guard on the Galway–Athenry line, with a bodhrán across her knee and a ticket-punch on a string around her neck, which she clicked in time with the reels, because for forty years she had never known a rhythm that was not a timetable. It was Maeve who had taught him his first tunes, in a front room in Spiddal, smacking his knuckles with a ruler for sloppiness. She was a woman of few words and many coughs, and she watched him now with an expression that people took for sternness and that was in fact the face of a person counting something she did not wish to lose.
 
 Next to her, on a low stool, Sinéad Murphy, twenty-four, electrician, who had rewired the pub's lighting in October and could not be persuaded to stop looking at it, held a tin whistle in one hand and, in the other, a small screwdriver for emergencies.
 
@@ -189,7 +189,7 @@ He did not look at the door. He had known she was there since the first note of 
 > And I'd play on till the lamps were gone
 > For the one who never stays for one.*
 
-He was not a great singer. His voice was low and rough and slightly flat on the long notes, and in the third line of the third verse it nearly gave out, so that for half a bar there was only the fiddle, speaking on its own, and in the corner by the door a woman in a wet coat put her hand flat against the wall, as if the building had moved.
+He was not a great singer. His voice was low and rough and slightly flat on the long notes, and in the third line of the third verse it nearly gave out, so that for half a bar there was only the fiddle, speaking on its own, and in the corner by the door a woman in a wet coat put her hand flat against the wall to steady herself.
 
 He opened his eyes. He looked straight down the long smoky room, over eighty-four heads, over the turf-smoke and the faces and a dog, and found her.
 

@@ -34,7 +34,7 @@ He stood at the long steel table over a bowl of sea bass and watched the lime do
 
 "That is not a sale. That is a sermon with a receipt."
 
-"Such is commerce," said Renzo, and sat down to the best cebiche in the district, coughing a small, quiet cough that he had been promising to take to the doctor, every spring, for three years.
+Renzo sat down to the best cebiche in the district, coughing a small, quiet cough that he had been promising to take to the doctor, every spring, for three years.
 
 At the next table sat Rosa Chávez, forty-two, community spiritual leader of three streets and a stairwell, whom nothing had ever frightened except a decaffeinated morning. She had a thermos of tea and a saucer on which she was reading, with great concentration, the dregs of the last customer's lime.
 
@@ -42,7 +42,7 @@ At the next table sat Rosa Chávez, forty-two, community spiritual leader of thr
 
 "Those are not leaves," said Sergio. "That is a lime wedge."
 
-"Everything is a leaf, hijo, if you respect it." She lowered her voice to a whisper audible across the street. "You have watched that little black circle on your phone for nine months. I charge for less."
+"Everything is a leaf, hijo, if you respect it." She lowered her voice to a whisper audible across the street. "Nine months you have watched that little black circle on your phone. I charge for less."
 
 He had. It was the public feed of the all-sky camera at the university's mountain station above Ticlio: a fisheye turned up to the night, the Milky Way across it like a spill of salt, and in one corner the edge of a dome with a small yellow window. That window was lit when Lucía Paredes was working. He knew its hours as other men know the prices of stocks. It was the only telescope he owned, and he had found, as lovers do, that *nothing* can be enormously detailed.
 
@@ -52,7 +52,7 @@ He had. It was the public feed of the all-sky camera at the university's mountai
 
 "And the window has been dark since Tuesday."
 
-"Hm." Rosa tipped the saucer and pronounced: "A dark window means a dead lamp. A dead lamp means a dead battery. A dead battery means *nobody has gone up with a new one.*" She looked at him with the gentleness of the truly fearless. "A star that is dark, hijo, is only a star waiting for somebody to bring it a lunch."
+Rosa tipped the saucer. "A dark window means a dead lamp. A dead lamp means a dead battery. A dead battery means *nobody has gone up with a new one.*" She looked at him with the gentleness of the truly fearless. "A star that is dark, hijo, is only a star waiting for somebody to bring it a lunch."
 
 Sergio, who had been given many oracles and never one so near to useful, put down the lime.
 
@@ -77,9 +77,9 @@ He filled a thermos with leche de tigre, the pale sharp milk of the marinade, wh
 
 Lucía Paredes had not slept for thirty hours, nor eaten properly for four days, and had written the same coordinates nineteen times in her notebook, and was, in her own estimation, perfectly well.
 
-The dome smelled of cold iron and old cardigan. She had come up on Monday with the technician, who had gone down on Tuesday for a new generator battery, leaving her a lantern, a sack of coca leaves, a tin of biscuits and a promise to return on Friday, which had been, in the manner of Andean promises, an observation about the weather.
+She had come up on Monday with the technician, who had gone down on Tuesday for a new generator battery, leaving her a lantern, a tin of biscuits and a promise to return on Friday, which had been, in the manner of Andean promises, an observation about the weather.
 
-She was twenty-nine, small and quick, dressed in four jumpers, one of them her father's, and she was, for reasons she would not have defended aloud, speaking to the telescope.
+She was twenty-nine, small and quick, in four jumpers, one of them her father's, and she was, for reasons she would not have defended aloud, speaking to the telescope.
 
 > The dark is not an absence. It's a hand
 > That pulls. I have been watching one red star
@@ -123,19 +123,11 @@ She slid back the bolt. On the step, leaning on the frame as though the frame we
 
 "It is the cold."
 
-"It is the altitude," said Lucía. "You have soroche. Come in. Sit. Do not talk. Put your head between your knees."
-
-"I did not come all this way to put my head—"
-
-"*Sit.*"
+"It is the altitude," said Lucía. "You have soroche. Come in. Sit. Put your head between your knees."
 
 He sat. She made mate de coca on a camp stove, bitter and green and warm, the old tea of the mountains that her grandmother had given to every guest and every child and, on one occasion, a goat; and she watched him drink it, and found that her own hand was shaking, which she blamed on the stove.
 
-"The night bus," said Sergio, between sips. "The conductor made bets on whether I would be sick before Ticlio."
-
-"Were you?"
-
-"After Ticlio. I was loyal to the wager." His colour came back by degrees, like dawn in a poorly run sky. "I saw on the camera that the light was out."
+"The night bus," said Sergio, between sips. "The conductor made bets on whether I would be sick before Ticlio. I was sick after. I was loyal to the wager." His colour came back by degrees, like dawn in a poorly run sky. "I saw on the camera that the light was out."
 
 "You *watch* the camera?"
 
@@ -161,7 +153,7 @@ She said nothing for one minute and fourteen seconds, which the dome, having hea
 
 They looked at one another: two people discovering that the other had been standing in the same dark, with the same lunch.
 
-"Wait," said Lucía. She turned to the screen, where a graph lay stretched like a sleeping animal. "It is four-oh-two. In ten minutes my star should lean. I have been waiting eleven days for this. If the cloud holds off—"
+"Wait," said Lucía. She turned to the screen, where a graph lay stretched like a sleeping animal. "It is four-oh-two. In ten minutes my star should lean. I have waited eleven days for this. If the cloud holds off—"
 
 She went to the slit. And the cloud, which had lain on the ridge all evening like a grey cat, rose, stretched, and with the contempt of its kind strolled away.
 
@@ -175,7 +167,7 @@ She laughed, a short astonished sound, like a latch giving way. Then she crossed
 
 "I am not good with—"
 
-"You are a cook. You know how to look at one thing for a long time. Come."
+"You are a cook. You know how to look at one thing for a long time."
 
 He rose, unsteady, and put his eye to the glass.
 
@@ -185,7 +177,7 @@ He rose, unsteady, and put his eye to the glass.
 
 "Yes."
 
-"Between them. A little round gap, like a— like a place at a table that has been laid for someone who has not come." His voice dropped. "And all the lights around it are leaning toward the empty chair."
+"Between them. A little round gap, like a place at a table laid for someone who has not come." His voice dropped. "And all the lights around it are leaning toward the empty chair."
 
 Lucía Paredes, who had spent nine years studying the unseen and never heard it so well described, put her hand over her mouth.
 
@@ -194,10 +186,6 @@ Lucía Paredes, who had spent nine years studying the unseen and never heard it 
 "Then I see it," said Sergio.
 
 "It is *unconfirmed.* It may be a faulty sensor. It may be a flaw in the glass. To be sure I must see the lean twice: tonight, and again in eleven days. I will not believe it myself from one night."
-
-"Eleven days," said Sergio.
-
-"Yes."
 
 "Is it a long way, eleven days?"
 
@@ -215,9 +203,7 @@ The camera chimed on the desk, a small bright bell. The exposure was finished. O
 
 It might be the lean. It might be the sensor. It might be a hand, in the dark, pulling.
 
-For the first time in nine months, Lucía Paredes did not look at the screen.
-
-She looked at him.
+For the first time in nine months, Lucía Paredes did not look at the screen. She looked at him.
 
 *What she said, the page does not record, and the mountain keeps its counsel. But at sunrise the technician, who had returned a day early with a new battery and a bad conscience, found the two of them asleep in the old chairs with a thermos between them, and a notebook open to a page on which someone had written* eleven days *and underlined it twice.*
 
@@ -237,7 +223,7 @@ Whether it was a star, we shall learn in eleven days. Whether it was a man with 
 
 **São Paulo, Ibirapuera Park, 6:10 a.m.**
 
-Dr. Beatriz Lima had not slept since Tuesday, and it was Saturday, and she sat on a bench in her scrubs with a face as grey as a hospital sheet, watching the joggers as though they were an interesting but irrelevant tribe.
+Dr. Beatriz Lima had not slept since Tuesday, and it was Saturday, and she sat on a bench in her scrubs, grey as a hospital sheet, watching the joggers as though they were an interesting but irrelevant tribe.
 
 "Doutora," said a voice. "You are asleep."
 
@@ -265,7 +251,7 @@ He looked at her with the patient eyes of a man who has taught strangers' legs t
 
 From the kerb a taxi sounded its horn: Seu Gustavo, sixty-four, who had driven Carlos for twenty years and advised him, mostly, about football.
 
-"Doutor!" he shouted. "In forty years I learned one thing! When a woman says *ask me later,* she has already answered the first half of the question!"
+"Doutor!" he shouted. "When a woman says *ask me later,* she has already answered the first half of the question!"
 
 "Which half?" said Beatriz, with her eyes shut.
 
@@ -278,17 +264,17 @@ From the kerb a taxi sounded its horn: Seu Gustavo, sixty-four, who had driven C
 
 **Prague, a small theatre in Malá Strana, 9:45 p.m.**
 
-The lights went down on the last puppet, an old marionette in a green coat named Vendelín, who bowed, and the audience, which was nineteen people and a dog, clapped, and the dog barked, which in Prague is a rave.
+The lights went down on the last puppet, an old marionette in a green coat named Vendelín, who bowed; and the audience, nineteen people and a dog, clapped, and the dog barked, which in Prague is a rave.
 
 In the third row sat Lucie Horáková, thirty-six, theatre critic, with her notebook shut. She had written nothing for ten months, not since she had understood that a review is a very small door through which, if one is careless, one may drive a whole theatre.
 
 The curtain stirred. And for the first time in the history of that theatre, the puppeteer Petr Novák, forty, came out from behind the cloth with no puppet on his hand.
 
-"Pan Novák!" hissed Markéta, who sold the tickets and was extravagantly proud of her calves. "Where is Vendelín? You have forgotten your *hand!*"
+"Pan Novák!" hissed Markéta, who sold the tickets. "Where is Vendelín? You have forgotten your *hand!*"
 
 "I have not forgotten it," said Petr. "I am using it."
 
-He walked down three steps to the third row. His voice, which had hidden behind eleven wooden voices for twenty years, was small, and rusty, and wholly his.
+He walked down three steps to the third row. His voice, which had hidden behind eleven wooden voices for twenty years, was small and rusty and wholly his.
 
 "Paní Horáková," he said. "I have not a very big sentence. I have only a short one. I would like to be reviewed by you, for the rest of my life."
 
@@ -298,9 +284,9 @@ Lucie opened her notebook and held her pen a moment above the page.
 
 "There was no middle."
 
-"Then say it again. I have forgotten how to write down a thing like that."
+"Then say it again."
 
-He said it again. She wrote it down in her harsh square hand, and underlined it, and for the first time in a long career gave a man four stars.
+He said it again. She wrote it down in her harsh square hand, underlined it, and for the first time in a long career gave a man four stars.
 
 > And west again, to the green sierras: dawn,
 > And a man with a flower on a mountain lawn.
@@ -309,7 +295,7 @@ He said it again. She wrote it down in her harsh square hand, and underlined it,
 
 "*Torres has attacked!*" cried Esteban Ortiz, soft-spoken commentator of the Cali radio, who had the distinction of being wrong on every broadcast and loved for it. "*He is away from the peloton! No, he has stopped! He is— he is picking up a flower!*"
 
-Sebastián Torres, twenty-nine, professional cyclist, with a crash behind him and a season in front, had indeed stopped forty metres from the finish for a single white carnation held out from the crowd by a woman with soil under her nails.
+Sebastián Torres, twenty-nine, professional cyclist, had indeed stopped forty metres from the finish for a single white carnation held out from the crowd by a woman with soil under her nails.
 
 He finished eleventh. The prize for eleventh is a handshake and a bottle of water.
 
@@ -319,13 +305,13 @@ He finished eleventh. The prize for eleventh is a handshake and a bottle of wate
 
 "The bank has given me until Monday. They will not give me more."
 
-"I know." He held up the carnation, grown from a cutting of her grandmother's, a small stubborn flower that did badly in the commercial markets and extraordinarily well in the hands of anyone who loved it. "I have eleventh-place money. It is not much. And a sponsor who is thinking about me, which is not the same as paying."
+"I know." He held up the carnation, grown from a cutting of her grandmother's, a small stubborn flower that did badly in the markets and well in the hands of anyone who loved it. "I have eleventh-place money. And a sponsor who is thinking about me, which is not the same as paying."
 
 "It is not enough."
 
 "No. But it is a *start,* and I am very good at a start. I am bad at a middle and poor at a finish, but I have never had a bad start."
 
-She looked at the carnation, and at the mountain, whose clouds stood about the tops like a congregation. Behind them the commentator told a hundred thousand listeners, "*I do not understand what is happening, but it seems beautiful.*"
+Behind them the commentator told a hundred thousand listeners, "*I do not understand what is happening, but it seems beautiful.*"
 
 "It is Monday I am worried about," said Daniela.
 
@@ -342,21 +328,21 @@ There is a custom in the marriages of Iran that the bride, asked whether she con
 
 Parisa Karimi, thirty-one, architect-restorer, sat on a cushion before the sofreh, the spread of mirror and candles and honey and sugar loaves, and let the officiant ask her once, and twice, and let the aunts say, with great enjoyment, that she had gone to pick violets.
 
-Across from her sat Ali Rezaei, thirty-six, tile master, hands scarred and steady, who had spent four years laying a blue pattern on the courtyard wall in which no figure repeated, and which went on, tile by tile, like the thought of someone one loves.
+Across from her sat Ali Rezaei, thirty-six, tile master, hands scarred and steady, who had spent four years laying a blue pattern on the courtyard wall in which no figure repeated, tile by tile, like the thought of someone one loves.
 
 "How do you know," Parisa had asked him, in the spring, "where each one goes?"
 
 "I do not," Ali had said. "I only know where it fits."
 
-That afternoon he had set the last tile and stood back; and the pattern had not ended, but could now be left, like a sentence that has reached its breath.
+That afternoon he had set the last tile and stood back; the pattern had not ended, but could now be left, like a sentence that has reached its breath.
 
-"Third time," said Reza Jafari, the trader from Shiraz, fifty-seven, who was related to neither of them and had come on the principle that a free dinner is a relative. "She will answer now."
+"Third time," said Reza Jafari, the trader from Shiraz, fifty-seven, related to neither of them, who had come on the principle that a free dinner is a relative. "She will answer now."
 
 "She may not," said Azadeh Ahmadi, eighty-seven, who had sold melons on this street for seventy years and was permitted every opinion. "She is a clever girl. She may be waiting for the tile to be well and truly set."
 
 "It is *set,*" said Reza.
 
-"Then she will say yes," said the old woman, with enormous satisfaction, "which is what I told him when he was seven and could not put the blue one in the right place."
+"Then she will say yes," said the old woman, "which is what I told him when he was seven and could not put the blue one in the right place."
 
 Parisa lifted her head. A woman who has spent her life putting broken things back, and a man who has spent his finding where the next thing goes, regarded one another with great seriousness.
 
