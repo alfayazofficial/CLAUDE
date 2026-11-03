@@ -10,7 +10,7 @@
 
 There are stations at which trains arrive, and stations at which trains are merely seen to pass, and the second sort are the more romantic, since a thing that does not stop must be, by definition, on its way to something.
 
-Shanti Nagar was the second sort. It sat on the eastern edge of the city, in a haze of brick-dust and marigold, with six platforms, a footbridge, a signal cabin the colour of a tired mango, and a tea-stall; and the Lucknow express went through it every evening at 5:58 at a speed that made the pigeons rise in a single grey sheet. It had never slowed. It had been going through Shanti Nagar for eleven years as a very important person goes through a room full of people he is not going to speak to.
+Shanti Nagar was the second sort. It sat on the eastern edge of the city, in a haze of brick-dust and marigold, with six platforms, a footbridge, a signal cabin the colour of a tired mango, and a tea-stall; and the Lucknow express went through it every evening at 5:58 at a speed that made the pigeons rise in a single grey sheet. It had never slowed. For eleven years it had gone through Shanti Nagar the way a very important person goes through a room of people he does not mean to speak to.
 
 On the sixth platform, at the very end, under the one working lamp, a woman had been standing every evening at half past five for four years.
 
@@ -30,7 +30,7 @@ That was all. It had been all for four years. But the biscuit-seller had a view.
 
 "*Hai Ram*," said the vendor. "She admits it. That it is a *he*."
 
-Sunita Verma, who had faced forty children a day for sixteen years and had never once been seen to blush, adjusted her satchel strap and said with the greatest composure, "It is a figure of speech."
+Sunita Verma, who had faced forty children a day for sixteen years without once blushing, adjusted her satchel strap and said with the greatest composure, "It is a figure of speech."
 
 "So is love," said Pooja.
 
@@ -48,7 +48,7 @@ On the footbridge's lowest step, with a stopwatch and the pinched, concentrated 
 
 The driver did not reply. Ravi Chaudhary, forty-one, loco pilot, punctual, patient, had a long, grave, handsome face, a moustache of unvarying length, and a hand on the regulator that had never, in nineteen years, been known to shake. He drove the 5:40 out of New Delhi to Lucknow six days a week and had never been late except for fog, floods, and, on one occasion, a cow of such obstinate holiness that the Divisional Manager had written a letter to a temple.
 
-In the long dark between stations, with the lamps of the villages swimming past the window like a slow shoal, he had a habit which his assistant had learned to tolerate, and which he did without knowing, as another man hums. He recited the stations. It was not poetry. It was a list. But a list, said often enough, in the right voice, can carry a man across the night:
+In the long dark between stations, with village lamps swimming past the window, he had a habit his assistant had learned to tolerate, which he indulged without knowing, as another man hums. He recited the stations. It was not poetry. It was a list. But a list, said often enough, in the right voice, can carry a man across the night:
 
 > *Ghaziabad. Khurja. Aligarh. Tundla.
 > Etawah. Kanpur. Unnao. Lucknow.
@@ -87,19 +87,19 @@ It was the last bus in Vienna with a conductor, a fact which the municipality ha
 
 "*Frau Maestra*," said Lukas, taking her coin with a clip of his punch, "you are late."
 
-"I know that I am late," said Clara Weber. She was thirty-two, a conductor at the Musikverein, five feet five of Prussian-blue coat and absolutely nothing out of place, and she was holding a score as another woman holds an infant that has begun to scream. "I am *conducting* in an hour."
+"I know that I am late," said Clara Weber. She was thirty-two, a conductor at the Musikverein, five feet five of Prussian-blue coat and absolutely nothing out of place, holding a score like an infant that has begun to scream. "I am *conducting* in an hour."
 
 "So am I," said Lukas.
 
 "You are not conducting. You sell tickets."
 
-"I conduct people from one place to another. I do it with a clip and a bell. You do it with a stick and sixty violinists. We are colleagues." He leaned on the pole. He was blunt, and could not apologise, and had, in nine years, acquired the biography of every regular on the line. "And you are on my bus at a quarter to five on a Thursday, going the wrong way. The Musikverein is *behind* you. Where is it that you are *really* going?"
+"I conduct people from one place to another, with a clip and a bell. You do it with a stick and sixty violinists. We are colleagues." He leaned on the pole. He was blunt, could not apologise, and had in nine years acquired the biography of every regular on the line. "And you are on my bus at a quarter to five on a Thursday, going the wrong way. The Musikverein is *behind* you. Where is it that you are *really* going?"
 
 "That is none of your—"
 
 "A violin maker."
 
-The bus rocked round the Opera, and the conductress, a woman who could silence the whole of the second violins with the lifting of an eyebrow, visibly considered whether to murder a man in public service.
+The bus rocked round the Opera, and the conductress, a woman who could silence the second violins with one eyebrow, visibly considered murdering a man in public service.
 
 "Since February," said Lukas. "You get on very tense. You get off at the Albertina very *less* tense. Frau Weber, I am a simple man, and I know that there are only two things which make a person walk that fast to a door. One is a debt. And the other…"
 
@@ -107,7 +107,7 @@ The bus rocked round the Opera, and the conductress, a woman who could silence t
 
 "The other," said Lukas Bauer, with immense tenderness, ringing the bell for the Albertina, "is a *flat note.*"
 
-She got off. The door hissed. She stood on the pavement of the Albertina in her coat, in the late sun, with the knowledge that a bus-conductor had just played her better than the second violins ever had.
+She got off. The door hissed. She stood on the pavement by the Albertina in the late sun, knowing that a bus conductor had just played her better than the second violins ever had.
 
 ---
 
@@ -153,7 +153,7 @@ At the bench, Theresa Hofer, for the first time in her entire life, had nothing 
 
 ---
 
-**Sofia, Bulgaria. The Palace of Justice, between two stone lions, at eleven in the morning.**
+**Sofia, Bulgaria. The Palace of Justice, between two stone lions, at nine in the morning.**
 
 The judge was a tired woman of sixty in a black gown, with the look of one who has read a great many sentences and written every one of them in her sleep, and she asked the question in Bulgarian, gently, because she had read the file and was not a cruel woman.
 
@@ -161,27 +161,27 @@ The judge was a tired woman of sixty in a black gown, with the look of one who h
 
 Nikolai, thirty-eight, in the grey suit of a man who has not been in a suit since a funeral, shook his head from side to side.
 
-It should be said that in Bulgaria this means *yes*. It is one of the glories of the nation, that its people nod for no and shake for yes, and the foreign newspaperman at the back of the court, who had been told this twice and forgotten it twice, wrote on his pad, with great decision, *DENIES.*
+In Bulgaria this means *yes*. It is one of the glories of the nation that its people nod for no and shake for yes, and the foreign newspaperman at the back of the court, who had been told this twice and forgotten it twice, wrote on his pad, with great decision, *DENIES.*
 
 "Yes," said Nikolai, aloud, to avoid all doubt. "I admit it."
 
-It was the Register that had done it. The Keeper's ledger, which had opened a thousand doors, had opened one more than anyone intended. *I once looked away and let a child cross.* Entry 0032, posted in a different life; a thing a man had written in the dark, to be rid of it. A colleague had read it in a canteen on his phone. There are no secrets in a canteen. By Christmas there had been an inquiry; by March, a charge. And on the third of June, in a courtroom that smelled of floor-wax and old coats, the dutiful, haunted, honest man had stood up and said that it was true.
+It was the Register that had done it. The Keeper's ledger, which had opened a thousand doors, had opened one more than anyone intended. *I once looked away and let a child cross.* Entry 0032, written in the dark, to be rid of it. A colleague had read it in a canteen on his phone. There are no secrets in a canteen. By Christmas there had been an inquiry; by March, a charge. And on the third of June, in a courtroom that smelled of floor-wax and old coats, the dutiful, haunted, honest man stood up and said that it was true.
 
 "The court has heard a witness," said the judge.
 
-The witness was fifteen. She was small and straight and wore her school blouse. She had come from Plovdiv by the early train, with a foster mother, and a notebook, and when she stood in the box she did not look at the judge. She looked at Nikolai.
+The witness was fifteen, small and straight, in her school blouse. She had come from Plovdiv by the early train with a foster mother and a notebook, and in the box she did not look at the judge. She looked at Nikolai.
 
 "My name is Tsvetana Dimitrov," she said. "It was not always. I do not remember the first name. I remember the night. It was very cold, and the man in the booth looked at his boots. He had very clean boots. I thought, as a child will: *that is a man who polishes the things he is afraid of.* And then he looked at the other side of the road. And I went across." She swallowed. "I do not think it is right to send him to prison for looking at his boots. But I understand that the law is not an ear. It is a ruler."
 
 The courtroom was very still.
 
-The sentence, when it came, was two years. The judge said it with her eyes on the file, and it was said in the voice in which grief is read from a card. *As the law, which has no ear for children, requires.* And then, because she was human, she added something that was not in the law, and was not recorded: "Mr. Ivanov. For what it is worth to you. Thank you."
+The sentence, when it came, was two years. The judge said it with her eyes on the file, in the voice in which grief is read from a card. And then, because she was human, she added something that was not in the law, and was not recorded: "Mr. Ivanov. For what it is worth to you. Thank you."
 
 On the steps, between the stone lions, with a policeman standing at a decent distance and looking at the sky, a woman in a long coat was waiting. It was a very warm day for a coat. In its lining she had carried for six months a document with the photograph of a man she loved and a name that was not his; she had been to a border and back with it, and had not used it, which was luck, and had not been able to burn it, which was love.
 
 Elena Georgieva was thirty-four, a translator in four languages, discreet, precise, and entirely out of words.
 
-"The train for Thessaloniki is at one," she said, in a flat, quick, unnatural voice. "I have the tickets. I have the passport. They have not looked at the coat. Nikolai, they have not put the cuffs on. You can be on the platform in nineteen minutes."
+"The train for Thessaloniki is at ten," she said, in a flat, quick, unnatural voice. "I have the tickets. I have the passport. They have not looked at the coat. Nikolai, they have not put the cuffs on. You can be on the platform in nineteen minutes."
 
 "Elena," said Nikolai, very gently, and took her two hands, coat-cuffs and all, in his. "I looked away once. It was the only wrong thing I ever did, and I have not been able to put it down in nine years. I cannot do it a second time. I will not look away from my own account." He smiled; it was a terrible, tender smile. "It is only two years. I shall learn to read the old poets. You will write to me in four languages."
 
@@ -189,7 +189,7 @@ Elena Georgieva was thirty-four, a translator in four languages, discreet, preci
 
 "You will do it very well. You do everything very well. It is the most infuriating thing about you."
 
-She was crying now, quite openly, in a way that made the policeman study a pigeon. He did not let go of her hands. He spoke, then, in the older and plainer language of two people standing in sunlight:
+She was crying now, quite openly, in a way that made the policeman study a pigeon. He did not let go of her hands. He spoke, then, in the plainer language of two people standing in sunlight:
 
 > *A border is a line drawn by a man
 > Who never had to walk it with a child.
@@ -208,11 +208,11 @@ She laughed, through everything, a wet cracked laugh, and kissed him once, on th
 
 The blue engine of the 5:40 to Lucknow came to a stop at Shanti Nagar Junction at 5:58 and eleven seconds, with a long, enormous, trembling sigh of brakes, directly opposite a woman with a yellow handkerchief, in a silence so total that the pigeons did not know what to do with their wings.
 
-Nobody on the platform spoke. The biscuit-seller had dropped a tray. On the footbridge, a girl of sixteen with a stopwatch, who had asked of a mango-coloured shrine only that *the signal be red for a very short time, not enough to hurt anyone,* put her hand over her mouth and sat down suddenly on the step.
+Nobody on the platform spoke. The biscuit-seller had dropped a tray. On the footbridge, Shweta, who had asked of a mango-coloured shrine only that *the signal be red for a very short time, not enough to hurt anyone,* put her hand over her mouth and sat down suddenly on the step.
 
 Sunita Verma did not move.
 
-The cab door above her opened. A man leaned out of it, a tall man in a blue cotton uniform with a smear of engine-grease on the sleeve, holding the rail as though it were the rail of a ship. He had looked at her for four years from a distance of eighty kilometres an hour. He had never before seen the colour of her eyes. They were dark brown, and she was looking at him with an expression of the most perfect and ferocious composure, which was, he recognised with sudden horror, the face of a woman working very hard at not crying.
+The cab door above her opened. A man leaned out of it, a tall man in a blue cotton uniform with a smear of engine-grease on the sleeve, holding the rail as though it were the rail of a ship. For four years he had looked at her from eighty kilometres an hour. He had never before seen the colour of her eyes. They were dark brown, and she was regarding him with perfect and ferocious composure, which was, he recognised with sudden horror, the face of a woman working very hard at not crying.
 
 "The signal," said Ravi Chaudhary. "It is red."
 
@@ -222,7 +222,7 @@ The cab door above her opened. A man leaned out of it, a tall man in a blue cott
 
 "Then you will drink tea."
 
-She had a steel flask in her satchel, which she had carried every evening for four years and not once opened. She unscrewed it. She poured into its steel cup, with hands that were very steady and a face that was not. The tea was cold. It had been made at seven that morning. She held it up, to the open door, to the cab, to the man.
+She had a steel flask in her satchel, carried every evening for four years and never once opened. She unscrewed it and poured into its steel cup, with hands that were very steady and a face that was not. The tea was cold. It had been made at seven that morning. She held it up to the open door, to the cab, to the man.
 
 He leaned down. He took it. His fingers touched hers for one second, and in that second, on the sixth platform of Shanti Nagar, among the shoes and the pigeons and the stunned vendors, a great many people discovered that they had been holding their breath.
 
@@ -238,9 +238,9 @@ She looked at him. Something went across her face that was not a smile, but was 
 
 Above the cab, with a click that sounded to everyone present like the closing of a book, the signal turned green.
 
-He gave her back the cup. He did not say anything else; he did not know what it would have been. He drew in the door, and took the regulator in his hand, and the great engine began, with a long sigh, to move; and at the end of the platform a woman with a yellow handkerchief did not wave it, but pressed it to her mouth, and stood.
+He gave her back the cup. He did not say anything else; he did not know what it would have been. He drew in the door and took the regulator in his hand, and the great engine began to move; and at the end of the platform a woman with a yellow handkerchief did not wave it, but pressed it to her mouth, and stood.
 
-And then, as the train drew out into the evening, for the first time in eleven years, the horn did not say *two short, one long.* It said something else: a new sentence, entirely unrehearsed, a long, rising, trembling blast that went on far longer than regulations allow, and was heard, it is reported, at the signal cabin, at the school, and in a small kitchen two streets away, where an old woman put down a ladle.
+And then, as the train drew out into the evening, for the first time in eleven years, the horn did not say *two short, one long.* It said something else: a new sentence, entirely unrehearsed, a long, rising, trembling blast that went on far longer than regulations allow, and was heard, it is reported, at the signal cabin, at the school, and in a kitchen two streets away, where an old woman put down a ladle.
 
 *Mark this, reader. It was not in the code.*
 

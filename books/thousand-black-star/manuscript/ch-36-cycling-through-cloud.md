@@ -8,13 +8,13 @@
 
 **Antioquia, Colombia. Stage Six of the Vuelta. A quarter to eight in the morning, on the climb of Las Palmas, inside a cloud.**
 
-In the Colombian Andes the cloud does not drift; it sits down on the mountain, like a hen on an egg, and stays until it has been sufficiently admired.
+In the Colombian Andes the cloud does not drift; it sits down on the mountain like a hen on an egg, and stays until it has been sufficiently admired.
 
-On this particular morning it had been sitting for six hours, and the road up from Medellín, which climbs a thousand metres in eleven kilometres by way of hairpins and prayer, had been swallowed to the knee. Along its edges the people of the mountain stood in their ponchos with their transistor radios held to their ears like the wounded holding hearts. They sold empanadas and sweet *aguapanela* from steaming pots. They shouted the names of men they could not see. And over every radio, from a motorbike somewhere in the white, boomed the voice of the most beloved commentator in the south-west of the Republic, a gentle, nervous, cardiganed man from Cali named Esteban Ortiz, who became, the moment a microphone came near, a thunderstorm.
+On this particular morning it had been sitting for six hours, and the road up from Medellín, which climbs a thousand metres in eleven kilometres by way of hairpins and prayer, had been swallowed to the knee. Along its edges the people of the mountain stood in their ponchos with transistor radios held to their ears. They sold empanadas and sweet *aguapanela* from steaming pots. They shouted the names of men they could not see. And over every radio, from a motorbike somewhere in the white, boomed the voice of the most beloved commentator in the south-west of the Republic, a gentle, nervous, cardiganed man from Cali named Esteban Ortiz, who became, the moment a microphone came near, a thunderstorm.
 
 *"Amigos del ciclismo, GOOD MORNING! Nobody can see anything, which is the finest thing that can happen to a radio man! I am inside a cloud, I am inside a legend! Here come the leaders, I think. I hear them. It sounds like a swarm of very expensive bees! And behind them, forty seconds behind, comes the story of the day, ladies and gentlemen: Sebastián Torres of Bogotá! Eleven months ago, a crash on the descent at Letras. A collarbone, a hip, ten months of hospital and rehabilitation. And today, the comeback! I have lost a bet on this man four times, and I would lose it again for the pleasure!"*
 
-The man in question was at that moment climbing at the speed of a determined snail, in a group of six, with the white wall closing before his front wheel and his own breath loud as a bellows in his ears. Sebastián Torres, twenty-nine, professional cyclist, stubborn by trade and humorous by reflex, could not see his handlebar. He could see a foot of grey tarmac, and a rival's rear tyre, and now and then a yellow leg like a drowned man's.
+The man in question was at that moment climbing at the speed of a determined snail, in a group of six, with the white wall closing before his front wheel and his own breath loud in his ears. Sebastián Torres, twenty-nine, professional cyclist, stubborn by trade and humorous by reflex, could not see his handlebar. He could see a foot of grey tarmac, and a rival's rear tyre, and now and then a yellow leg like a drowned man's.
 
 *It is a strange thing,* he thought, *to ride for a year toward a day, and have it arrive in a cloud.*
 
@@ -41,7 +41,7 @@ The cloud thinned.
 
 **The same morning, at a green gate on the left.**
 
-The farm was called La Nube: The Cloud. That spring it had been living up to its name.
+The farm was called La Nube: The Cloud. That season it had been living up to its name.
 
 Daniela Ruiz, twenty-eight, flower farmer, bright and proud and out of money, had stood in her greenhouses before dawn, among forty thousand roses that nobody would now buy. A Miami buyer had cancelled by e-mail on Thursday, with a pleasant apology, and the apology had arrived at the precise moment that the letter from the bank had arrived with an unpleasant one. A rose, once cut, keeps for nine days. These had been cut on Wednesday. By Friday they would be a very expensive compost.
 
@@ -61,7 +61,7 @@ And then, out of the white, with his head down and his jersey the grey of old as
 
 *"It is Torres!"* cried Esteban Ortiz, and his voice cracked in half. *"He has seen it! He is riding the roses! He is following them as a blind man follows a rail! Señoras y señores, a man who crashed because of a flower is climbing through a cloud on a red road. I am a professional. I am not supposed to cry. I am crying."*
 
-She saw him pass. It was a second, no more. His face was streaked and grey and grimly absurd. His eyes went sideways, once, to a girl in rubber boots standing at a gate with her hands clasped under her chin, and held there, as you hold a hot plate you have no intention of putting down. And then he was gone into the white, and the sound of his freewheel faded up the hill like a thing that goes on being sung.
+She saw him pass. It was a second, no more. His face was streaked and grey and grimly absurd. His eyes went sideways, once, to a girl in rubber boots standing at a gate with her hands clasped under her chin, and held there, as you hold a hot plate you have no intention of putting down. And then he was gone into the white, and the sound of his freewheel faded up the hill.
 
 He did not win. It should be said at once, since the reader is an honest person and will want to know. He came over the summit in eleventh, with a time that Esteban Ortiz described to the Republic, in a voice quite gone, as *the best eleventh place in the entire history of cycling, and I have the figures.*
 
@@ -117,7 +117,7 @@ And she smiled, and put her forehead against his shoulder, and they stood in the
 
 ---
 
-**Bucharest, Romania. The Circus of the Silver Mare, on the night of the new programme.**
+**Bucharest, Romania. The Circul Aurora, on the night of the new programme.**
 
 Elena Stanciu, seventy-seven, retired hotelier, had sat in the third row of every circus performance in Bucharest since 1962, and was therefore in a position to inform the young woman beside her that nothing, in the entire history of the circus, had ever been as dangerous as it looked, or as safe.
 
@@ -125,13 +125,13 @@ Elena Stanciu, seventy-seven, retired hotelier, had sat in the third row of ever
 
 "That is not comforting, doamnă," said Ioana Dumitrescu.
 
-She was twenty-eight, a nurse, and she was sitting bolt upright, with her hands knotted in her lap and her coat still on. She had read the scans. She could have drawn the hairline in the third lumbar vertebra of Andrei Popescu with her eyes shut, and had told him that if he went up without a net, she would not watch. And here she was, with her eyes open, as the lights died on the ring and the owner of the circus, Ionuț Radu, forty-three, a dentist who had inherited the big top and pulled teeth on Mondays, made his announcement in the voice of a man who has bitten on something and decided to enjoy it.
+She was twenty-eight, a nurse, and she was sitting bolt upright, with her hands knotted in her lap and her coat still on. She had read the scans. She could have drawn the crooked seam between the first and second lumbar vertebrae of Andrei Popescu with her eyes shut, and had told him that she would not tell him to stop, and would not pretend to like it. She had brought her bag, and it sat on her knees like a small black dog. Here she was, eyes open, as the lights died on the ring and the owner of the circus, Ionuț Radu, forty-three, a dentist who had inherited the big top and pulled teeth on Mondays, made his announcement in the voice of a man who has bitten on something and decided to enjoy it.
 
 "Ladies and gentlemen! Without nets, without harness, without insurance, and with my *deepest regrets*—the man who has walked the wire for eleven years! *Andrei Popescu!*"
 
 The drums began.
 
-He came out in white. He was thirty-one, lean, quiet-faced, fearless in the air and timid on the ground, a man who in the ordinary world could not ask a woman to dinner without rehearsing it, and who now climbed a rope ladder as though it were a staircase in his own house. At the top he stood on the little platform, twelve metres above the sawdust. He lifted his pole. He looked down, once, over the rows, until he found the third seat in the third row, and a woman with her hands in her lap.
+He came out in white. He was thirty-one, lean, quiet-faced, fearless in the air and timid on the ground, a man who in the ordinary world had needed a conspiracy of six people to ask a woman to dinner, and who now climbed a rope ladder as though it were a staircase in his own house. At the top he stood on the little platform, twelve metres above the sawdust. He lifted his pole. He looked down, once, over the rows, until he found the third seat in the third row, and a woman with her hands in her lap.
 
 He smiled. And he set his foot on the wire.
 

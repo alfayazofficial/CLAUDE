@@ -8,9 +8,9 @@
 
 *Enter the Chorus, with a pocket watch in each hand and a third in his hat.*
 
-> At midnight, Dhaka; Jaipur, late
-> By half an hour; Bergen, early yet,
-> Where dusk is dinner; and, a step ahead,
+> At midnight, Dhaka; Jaipur, half an hour
+> Behind; and Bergen, five hours back, and yet
+> At dusk and dinner; and, a step ahead,
 > Yogyakarta, one o'clock, and set
 > To sleep, and not asleep. Observe, good friends:
 > The world keeps seven clocks and one true hour,
@@ -54,13 +54,13 @@ At that precise moment, with a sense of timing that no stage-manager could have 
 
 "Her *humble witness*," said Vikram, bowing so low that his moustache brushed the tea tray.
 
-He had met her five weeks before. She had come to the old city with a camera and a ruinous idea: that somewhere behind some stone gate where the paint had given up, the printing-houses of her great-grandmother's time still kept their wooden blocks, forgotten, unsold. The guild had sent a man in a peacock waistcoat who announced, in the first minute, that he had once been mistaken for a maharaja by a Dutch tourist and had not corrected her.
+He had met her five weeks before. She had come to the old city with a camera and a ruinous idea: that somewhere behind some stone gate where the paint had given up, the printing-houses of her great-grandmother's time still kept their wooden blocks, forgotten, unsold. The guild had sent a man in a peacock waistcoat who announced, in the first minute, that a Dutch tourist had once mistaken him for a maharaja and that he had not corrected her.
 
 He had led her, in the end, to his own front door: a tall carved door in a lane that smelled of marigold and diesel, and behind it a courtyard with a neem tree, a broken swing, a staircase that ascended to nothing, and, in a cathedral of light that fell straight down through the place where the roof had been, three hundred blocks of seasoned teak, stacked like the pages of a closed book.
 
 "My great-grandfather's," Vikram had said, and for the first time in her hearing he did not perform. "The family printed for the court. Then the court was gone, and the printing was gone, and then the roof. I give tours of it on Thursdays. I call it *The House That Chose the Sky.* Tourists weep." He had shrugged, a small, unlovely shrug with no peacock in it. "Mostly the Dutch."
 
-She had stood in the column of daylight, with dust turning in it like slow gold, and she had thought: *There it is. There is the whole collection. A thing that lost its lid and let in the stars.*
+She had stood in the column of daylight, with dust turning in it like slow gold, and thought: *There is the whole collection. A thing that lost its lid and let in the stars.*
 
 It is a dangerous thing, reader, to be shown a ruin by a vain man who is, for one minute, not vain. Engagements are made of less.
 
@@ -68,9 +68,9 @@ Back in the boardroom, the humble witness cleared his throat.
 
 "Gentlemen," said Vikram, in the voice of a man who had once read the Ramayana at a wedding and been asked to stop. "A house without a roof is still a house, if the sky consents to be its ceiling. Your daughter—" a dreadful pause "—your daughter has seen what nine gentlemen with nine calculators have not. People do not buy cloth. They buy the *reason* the cloth was made. Give her fifty pieces. If they do not sell, I will personally eat my safa."
 
-"I would do it *slowly*, with chutney, and in public."
+"I would do it *slowly,*" he added, "with chutney, and in public."
 
-It was the first time the Sharma boardroom had laughed since the Gulf War. In the corridor, a writer named Pooja Tiwari, twenty-seven, who had come for the gossip and stayed for the odds, passed a folded note to the clerk who kept the tea ledger: *Ten rupees says Papa Sharma says yes. Twenty says the guide proposes by Diwali.*
+It was the first time the Sharma boardroom had laughed since the Gulf War.  In the corridor, a writer named Pooja Tiwari, twenty-seven, who had come for the gossip and stayed for the odds, passed a folded note to the clerk who kept the tea ledger: *Ten rupees says Papa Sharma says yes. Twenty says the guide proposes by Diwali.*
 
 Papa Sharma said: "Fifty pieces. Not fifty-one."
 
@@ -81,13 +81,13 @@ And Priya Sharma, who had held her breath since the age of nine, let it out quie
 ---
 
 ### SCENE II
-*Bergen. The sea off Askøy, 3:40 in the afternoon, which in a Norwegian December is the evening. A wooden boat, a gale, and a woman with a clipboard.*
+*Bergen. The sea off Askøy, 3:40 on a Tuesday afternoon, which in a Norwegian December is the evening. A wooden boat, a gale, and a woman with a clipboard.*
 
 If Jaipur's trouble was a roof that had gone, Bergen's was a hull that was going.
 
 The boat was the *Ragnhild,* eleven metres of tarred oak and old paint, and Lars Eriksen, who was thirty and as talkative as a granite step, called her *her* when she behaved and *it* when she did not. She was held together, as the old men of the Fisketorget liked to say, by habit and the Lord's low opinion of insurance.
 
-The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, who chartered the *Ragnhild* every Tuesday for a cod-tagging study, because her owner would take her to the deep water at six in the morning without asking why. She had not stopped moving since she came aboard. She tapped. She measured. She sighed at the water temperature, and at the plankton count, and, with some warmth, at a cormorant.
+The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, who chartered the *Ragnhild* every Tuesday for a cod-tagging study, because her owner would take her to the deep water without asking why. She had not stopped moving since she came aboard. She tapped. She measured. She sighed at the water temperature, at the plankton count, and, with some warmth, at a cormorant.
 
 "The fresh water is coming off the mountain too fast," said Sigrid. "It means the whole top layer is—Lars, are you listening?"
 
@@ -115,7 +115,7 @@ He did not say it loudly. Lars Eriksen did not say anything loudly; he said thin
 
 "Ten minutes. Perhaps eight."
 
-The first wave struck her quarter like a hand slapping a table. There was a sound below the deck: not a crash but a long, wet *sigh*, as of an elderly person sitting down. Lars was in the hold before the spray had settled. He came up the colour of porridge.
+The first wave struck her quarter like a hand slapping a table. Below the deck came not a crash but a long, wet *sigh,* as of an elderly person sitting down. Lars was in the hold before the spray had settled. He came up the colour of porridge.
 
 "A plank's sprung. By the keel."
 
@@ -125,7 +125,7 @@ The first wave struck her quarter like a hand slapping a table. There was a soun
 
 "I have never steered!"
 
-"Then it will be your first. Both hands, there. Bow to the lighthouse. Do not look at the water; it will only upset you." He pulled the bilge handle, which squealed like a pig at a christening, and then, when that failed, took up a bucket, because in the end every seaman is a man with a bucket and a great deal of faith. "If the engine dies—"
+"Then it will be your first. Both hands, there. Bow to the lighthouse. Do not look at the water; it will only upset you." He pulled the bilge handle, which squealed like a pig at a christening, and when that failed he took up a bucket, because in the end every seaman is a man with a bucket and a great deal of faith. "If the engine dies—"
 
 "What happens if the engine dies?"
 
@@ -133,9 +133,9 @@ The first wave struck her quarter like a hand slapping a table. There was a soun
 
 ---
 
-They did not die. But for forty minutes it was neither comedy nor anything else; it was cold water, and wet wool, and the red lamp at Marstein, and a bucket going out and coming in, out and in, in the hands of a man who did not once ask for help and a woman who did not once let go of the wheel.
+They did not die. But for forty minutes it was neither comedy nor anything else: cold water, wet wool, the red lamp at Marstein, and a bucket going out and coming in, in the hands of a man who did not once ask for help and a woman who did not once let go of the wheel.
 
-At the end of it, at ten minutes to five, in the black, with the harbour lights of Vågen swimming up out of the rain like a festival, the engine coughed, and the old boat limped into the fish market quay and sat down in the water with the weary dignity of a horse that has finished its last race.
+At the end of it, at ten minutes to five, in the black, with the harbour lights of Vågen swimming up out of the rain like a festival, the engine coughed, and the old boat limped into the fish market quay and sat down in the water like a horse that has finished its last race.
 
 Lars cut the motor. In the silence the water ran out of the scuppers and clacked against the stones.
 
@@ -161,7 +161,7 @@ There was a movement on the quay. It was a woman in a yellow slicker, with a sta
 
 "For the *idea.* One does not buy shelter. One buys the pretence of it." She regarded Lars, and the bucket, and the boat's low and sorry waterline, and Sigrid's hands. "The boat will sink next week," she said, quite kindly, "and you will both pretend not to mind. I do not charge for the truth. Only for the umbrellas."
 
-Neither of them bought one (Sigrid owned a plum-coloured one already). She walked to the end of the quay and was sick, over the rail, with great discretion; and when she turned back, Lars was standing with his bucket, looking at the boat as at a friend who has been faithful for a very long time and does not deserve to be put down.
+Neither of them bought one (Sigrid owned a plum-coloured one already). She walked to the end of the quay and was sick, over the rail, with great discretion; and when she turned back, Lars stood with his bucket, looking at the boat as at a friend who has been faithful a very long time and does not deserve to be put down.
 
 *I am afraid,* thought Sigrid, *that I will not come back.*
 
@@ -186,7 +186,7 @@ They stood twelve feet apart in the rain, each with a whole unwritten letter in 
 
 "At eleven at night. On a *Friday.* The client has a first name, Bhaiya, and it has a *flower* in it." (Bunny saw everything, forgave nothing, and billed for neither.)
 
-Fayaz Rahman, twenty-six, whose company had died in the spring and whose debts had not, put the phone face down on the counter, like a man laying down a card he did not wish to explain.
+Fayaz Rahman, twenty-six, whose company had died in the spring and whose debts had not, put the phone face down on the counter, like a card he did not wish to explain.
 
 "She is a designer," he said. "From Yogyakarta. We have exchanged, I think, nine messages. Her website does not load properly. I am helping."
 
@@ -208,7 +208,7 @@ Bunny closed his eyes in physical pain. "Bhaiya. A man who answers in four minut
 
 "I have *observed* it." He wiped the counter with a rag the colour of old weather. "And you have a face like a closed shop. Open it a little. Otherwise she will think there is nobody home."
 
-Fayaz paid for the tea, and for two biscuits he did not want, and climbed the three flights to the flat, where his mother's breathing came faintly through the wall, in and out, like a long thread being drawn over a small rough stone; and where, on the balcony in the dark, his father sat on a plastic chair with a green ledger on his knee and a pencil he did not use.
+Fayaz paid for the tea, and for two biscuits he did not want, and climbed the three flights to the flat, where his mother's breathing came faintly through the wall, in and out, like a thread drawn over a small rough stone; and where, on the balcony in the dark, his father sat on a plastic chair with a green ledger on his knee and a pencil he did not use.
 
 "Abbu," said Fayaz softly. "You should sleep."
 
@@ -298,7 +298,8 @@ There were three dots. They pulsed and sank. They pulsed again. In a workshop th
 
 > **Ermis:** *Ask me anything about tomorrow. I have seen it. It is only an hour away.*
 
-Fayaz sat quite still. In the lane below, a rickshaw bell rang and was swallowed. 
+Fayaz sat quite still. In the lane below, a rickshaw bell rang and was swallowed.
+
 > **Fayaz:** *Will the electricity come back?*
 
 > **Ermis:** *I can only tell you that in the future, everyone has had dinner.*
@@ -311,7 +312,7 @@ Fayaz sat quite still. In the lane below, a rickshaw bell rang and was swallowed
 
 > **Ermis:** *It is only an hour old, Fayaz. I cannot say yet. Ask me again in an hour.*
 
-He did. He asked her an hour later, at 1:16 by his slow clock, which was truly 1:23 and therefore 2:23 in Yogyakarta, while the first rooster went up from some courtyard in the sleeping city and the first grey came into the window of a flat in Mirpur like water into a basin.
+He did. He asked her an hour later, at 1:16 by his slow clock, which was truly 1:23 and therefore 2:23 in Yogyakarta, while an early rooster, mistaking the hour, went up from some courtyard in the sleeping city.
 
 > **Fayaz:** *It is an hour later. What does tomorrow look like?*
 
@@ -327,7 +328,7 @@ He did. He asked her an hour later, at 1:16 by his slow clock, which was truly 1
 
 > **Ermis:** *Good night. Or good morning. Whichever of us is right.*
 
-She went offline, and the little green dot beside her name went grey. It was nearly three in the morning in her city and nearly two in his, and the neighbourhood roosters were beginning to quarrel. Fayaz Rahman closed the laptop, and sat, in the beginning of a day that was already a day old somewhere else, and discovered with some alarm that he was smiling at a wall. On the other side of it, his mother breathed, in and out, steady as a thread.
+She went offline, and the little green dot beside her name went grey. It was past two in the morning in her city and past one in his, and the neighbourhood roosters were beginning to quarrel. Fayaz Rahman closed the laptop, and sat, at the beginning of a day that was already a day old somewhere else, and discovered with some alarm that he was smiling at a wall. On the other side of it, his mother breathed, in and out, steady as a thread.
 
 *An hour,* he thought. *She is an hour ahead. Then whatever comes, she will see it first.*
 
@@ -335,9 +336,9 @@ It did not occur to him, until he was nearly asleep, that this might be a comfor
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., against Entries 0626, 0443 and 0713:*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0626, 0443 and 0713 (and, in a smaller hand, 0561):*
 
-> *Three clocks, three silences, and one bucket. A man who showed a stranger his own ruin; a man who said* mm *to the sea; a man asked, in the dark, to name tomorrow. The first two fell in love by the hour. The third by the minute, and he waited four.*
+> *Three clocks, three silences, and one bucket. A man who showed a stranger his own ruin, and a woman who unrolled hers on a table; a man who said* mm *to the sea; a man asked, in the dark, to name tomorrow. The first two began by the hour. The third began by the minute, and waited four.*
 >
 > *Nothing in the Register hurries. It is the clocks that do.*
 

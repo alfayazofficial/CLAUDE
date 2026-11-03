@@ -19,17 +19,17 @@
 
 **Manila, 9:40 p.m.**
 
-There are two congregations in the Philippines: the one that meets on Sundays under a roof, and the one that meets every day on four wheels. The second is the larger, the louder, and the more devout, since it prays not once a week but at every red light.
+There are two congregations in the Philippines: the one that meets on Sundays under a roof, and the one that meets every day on four wheels. The second is the larger, the louder, and the more devout, since it prays at every red light.
 
-The chapel in question was a jeepney called *Hiraya*, which is to say *May Your Wish Come True*, and it was running the Santa Mesa–Guadalupe line with nine passengers, one Santo Niño in red velvet glued to the dashboard, a garland of sampaguita swinging from the mirror like a censer, and a driver of twenty-eight who was singing a love ballad off-key to the traffic, which did not mind.
+The chapel in question was a jeepney called *Hiraya*, which is to say *May Your Wish Come True*, and it was running the Santa Mesa–Guadalupe line with nine passengers, one Santo Niño in red velvet glued to the dashboard, a garland of sampaguita swinging from the mirror, and a driver of twenty-eight who was singing a ballad off-key to the traffic, which did not mind.
 
-His name was Gabriel Santos. He was cheerful in the way that a lamp is cheerful: not by effort, but because that was what he was for. He gave free rides to nuns and to schoolchildren who had spent their fare on fishballs. He was generous with everything in the world but one thing, and that one thing was sitting in the front seat beside him, as she had done every night for seven months, with her lanyard tucked into her blouse and her eyes shut, resting them before the long work.
+His name was Gabriel Santos. He was cheerful as a lamp is cheerful: not by effort, but because that was what he was for. He gave free rides to nuns and to schoolchildren who had spent their fare on fishballs. He was generous with everything in the world but one thing, and that thing was sitting in the front seat beside him, as she had done every night for seven months, with her lanyard tucked into her blouse and her eyes shut, resting them before the long work.
 
-Her name was Maricel Dela Cruz. She was twenty-six. She was a call-centre agent on the night shift for a company that sold the internet to Americans, and on the telephone she was a woman named *Marcy*, who was from Ohio, in a manner of speaking. *Marcy* was brisk, friendly, and entirely without a past. Maricel had a past, a mother's grave, a sister who wrote poems, and a way of laughing that made the whole jeepney lean slightly to the left.
+Her name was Maricel Dela Cruz. She was twenty-six. She was a call-centre agent on the night shift for a company that sold the internet to Americans, and on the telephone she was a woman named *Marcy*, who was from Ohio, in a manner of speaking. *Marcy* was brisk, friendly, and entirely without a past. Maricel had a past: a mother's grave, a sister who wrote poems, and a laugh that made the whole jeepney lean slightly to the left.
 
 "Bayad po," said a voice from the back.
 
-The fare began its journey. In a jeepney the money travels by hand, from passenger to passenger down the long benches, until it arrives at the driver, who does not look, because he knows from the weight of the coins, as a priest knows from the weight of a confession, who has given what. It is the most honest postal service in the Republic.
+The fare began its journey. In a jeepney the money travels hand to hand down the long benches until it arrives at the driver, who does not look, because he knows from the weight of the coins who has given what. It is the most honest postal service in the Republic.
 
 Maricel's coin arrived, as it did nightly, warm from her palm. Gabriel took it and, as he did nightly, did not give it back.
 
@@ -45,7 +45,7 @@ Maricel's coin arrived, as it did nightly, warm from her palm. Gabriel took it a
 
 "Then it is *very* broken," said Gabriel, with perfect gravity, and dropped the coin into a biscuit tin that lived under the dashboard, where it joined, had she known, one hundred and ninety-six of its brothers, none of which had ever been spent.
 
-"The shortest library in Manila," said Joy Aquino, from the bench behind. She was fifty-six, a librarian from the Sampaloc branch, and a woman who trusted everybody, which in a librarian is a courtesy, and in a Manila librarian is a hobby. "Borrow, return, never overdue. I would give you a card, Gabriel, but I lent forty books last week to a nice young man from the Department of Education, and he left me nothing but a very warm handshake."
+"The shortest library in Manila," said Joy Aquino, from the bench behind. She was fifty-six, a librarian from the Sampaloc branch, and a woman who trusted everybody, which in a librarian is a courtesy, and in a Manila librarian is a hobby. "Borrow, return, never overdue. I would give you a card, Gabriel, but I lent forty books last week to a nice young man from the Department of Education, and I have only his handshake."
 
 "Hay naku, Ma'am Joy."
 
@@ -59,9 +59,9 @@ From the far end of the bench came Ramon Garcia, thirty-nine, a weaver and the s
 
 "Your mother's loom has been promised to eleven people," said Gabriel.
 
-At the back, in the corner, where he had sat every night to the cemetery gate for the whole of the year, an old man named Rey Bautista, who had taught philosophy for forty years and was now seventy-seven and travelled this line for reasons he gave to nobody, turned a page of his book and said, without looking up, "In my experience, a man who rides the same bus every night for seven months does not own a bus. He owns a reason."
+At the back, in the corner, an old man named Rey Bautista, seventy-seven, who had taught philosophy for forty years and rode this line every night to the cemetery gate for reasons he gave to nobody, turned a page of his book and said, without looking up, "In my experience, a man who rides the same bus every night for seven months does not own a bus. He owns a reason."
 
-There was a very long silence, in which Santo Niño rocked on his dashboard and a truck passed with a pig in it.
+There was a long silence, in which Santo Niño rocked on his dashboard and a truck passed with a pig in it.
 
 "Para po!" cried an eleven-year-old, Grace Ocampo, who rode the jeepney home from school and was the fiercest critic of the romance. She had been sitting very upright for twenty minutes with her arms folded. "Kuya Gabriel, *you* are very stupid. And *Ate* Maricel is very stupid. And if I have to watch another month of this I will tell everyone on the line myself!"
 
@@ -81,13 +81,13 @@ On the rear panel, in the careful hand of a father long dead, the scroll told al
 
 **Kano, Nigeria. Eleven in the morning, under a sun that did not negotiate.**
 
-On the other side of the world, in the tailors' lane behind Kurmi Market, where the treadle machines clatter like a town of nervous sparrows and the heat stands in the doorway like a customer who will not leave, a man of thirty-three stood in a shop the width of a coffin, with a bridal gown hidden under a white sheet.
+In another week, on another continent, in the tailors' lane behind Kurmi Market, where the treadle machines clatter like nervous sparrows and the heat stands in the doorway like a customer who will not leave, a man of thirty-three stood in a shop the width of a coffin, with a bridal gown hidden under a white sheet.
 
 Yusuf Abdullahi was devout, modest, and the best tailor in the lane, which he would have denied under oath. For forty nights, after the dawn prayer, he had sat before this one gown: Swiss lace the colour of milk from a clean bowl, sleeves to the wrist, a hem that fell as water falls, and down the placket an embroidery in white upon white, so close that the pattern lived only in the changing of the light.
 
 It was for a bride who was to be married in a fortnight, in Zaria, to a good man, a baker, Aminu Danjuma, forty-three, superstitious, honourable, and not known to have said one kind word aloud in his life, though he had done a great many in dough. It was for the bride that the tailor was, at this moment, trying not to look.
 
-"Malam Yusuf," said Hajiya Zainab Bello, sixty-nine, retired pharmacist, matchmaker of Kano, and chaperone for the occasion, who had arranged the match herself. She sat on a stool in the corner with a fan, pretending to doze, in the way that a hawk pretends. "Is it ready or is it not ready? A woman does not get married by being kept waiting."
+"Malam Yusuf," said Hajiya Zainab Bello, sixty-nine, retired pharmacist, matchmaker of Kano, and chaperone for the occasion, who had arranged the match herself. She sat on a stool in the corner with a fan, pretending to doze, as a hawk pretends. "Is it ready or is it not ready? A woman does not get married by being kept waiting."
 
 "It is ready, Hajiya."
 
@@ -127,7 +127,7 @@ It was at this moment that the door-curtain moved again, and a woman came in out
 
 She did not smile. She did not look away. She crossed the little shop, laid her hand on the corner of the sheet, and drew it off.
 
-It stood on its form in the wavering light, so quiet and so entirely made that nobody spoke. The embroidery rose in the light and fell in the shade, and the shade was a pattern, and the pattern was a sky.
+It stood on its form in the wavering light, so quiet and so entirely made that nobody spoke. The embroidery rose in the light and fell in the shade, and the pattern was a sky.
 
 Then she did what a midwife does with everything: she used her hands. She turned back the hem of the skirt, gently, and examined the inside seam, and there, in the shadow of the lining where no bride would see and no groom would think to look, among ten thousand white stitches, she found a single small star, worked in black thread, five points, no larger than her thumbnail.
 
@@ -147,7 +147,7 @@ Then she did what a midwife does with everything: she used her hands. She turned
 
 "No." The tailor looked up, and his face, in the sun, was very young. "It is what I *could* say."
 
-Hajiya Zainab had stopped pretending to sleep. Aminu the goldsmith had put down the groundnuts. Even the treadle machines in the next three shops seemed to have found some reason to pause.
+Hajiya Zainab had stopped pretending to sleep. Aminu the goldsmith had put down the groundnuts. Even the treadle machines in the next three shops had found a reason to pause.
 
 "Hajiya," said Hauwa, without turning. "Please tell my father that I will not marry Aminu Danjuma."
 
@@ -159,17 +159,17 @@ The fan fell out of the old woman's hand.
 
 "You will," said Hauwa, "by the evening prayer." And at that, even Yusuf, who had never been known to laugh before noon, made a noise that was mostly breath.
 
-She turned at last to him. "I have delivered four hundred and twelve children," she said, "and I have learned one thing about time from all of them. Nobody is promised the hour. I have heard a woman begin a sentence at three in the morning, *I will tell my husband tomorrow*, and I have not heard her finish it. I will not wait to be sure of a thing I already know."
+She turned at last to him. "I have delivered four hundred and twelve children," she said, "and learned one thing about time from them. Nobody is promised the hour. I have heard a woman begin a sentence at three in the morning, *I will tell my husband tomorrow*, and I have not heard her finish it. I will not wait to be sure of a thing I already know."
 
 "Hauwa—"
 
-"The dress is not for sale," she said. "It is not for another man's bride. Hang it where it is. If you wish to ask me, Malam, you will ask me as it is done, with your mother, and with the Hajiya, who has been doing this longer than you have been alive and will be insufferable about it." She looked at the little black star again, and her voice cracked very slightly, like a thread under strain. "You sewed it where I would find it."
+"The dress is not for sale," she said. "It is not for another man's bride. Hang it where it is. If you wish to ask me, Malam, you will ask me as it is done, with your mother, and with the Hajiya, who has been doing this longer than you have been alive and will be insufferable about it." She looked at the little black star again, and her voice cracked very slightly. "You sewed it where I would find it."
 
 "I sewed it where *no one* would find it."
 
 "I am not no one," said Hauwa Garba. "Barka da rana."
 
-She went out into the white heat, with the slow step of one who has chosen. The curtain swung shut. In the shop, Yusuf Abdullahi sat down on the nearest stool as though his legs had been cut, and Hajiya Zainab, who had never in forty years been speechless at a match, said at last, to the ceiling:
+She went out into the white heat, with the slow step of one who has chosen. The curtain swung shut. In the shop, Yusuf Abdullahi sat down on the nearest stool as though his legs had been cut, and Hajiya Zainab, who had never in forty years been speechless at a match, said to the ceiling:
 
 "I arranged the *wrong* wedding."
 
@@ -179,9 +179,9 @@ She went out into the white heat, with the slow step of one who has chosen. The 
 
 **Manila, the second week of May. A glass tower, and a storm.**
 
-The weather bureau had begun to speak in the tones that people use at hospital doors. A storm had formed in the Pacific, six weeks before its season; the old people said the sea had misread the calendar. It had been given a name, Isidra, and a number, three, and then, in the course of one afternoon, a number higher.
+The weather bureau had begun to speak in the tones people use at hospital doors. A storm had formed in the Pacific, weeks before its season; the old people said the sea had misread the calendar. It had been given a name, Isidra, and a signal number, three.
 
-The company had not closed. Companies like that do not close. The Americans, in their daylight, needed their internet; the agents, a bulletin stated, with the kind of courtesy that is also a locked door, would *shelter in place on the floor, as the shuttle service has been suspended, in the interest of client continuity.*
+The company had not closed. Companies like that do not close. The Americans, in their daylight, needed their internet; the agents, a bulletin stated, with the courtesy that is also a locked door, would *shelter in place on the floor, as the shuttle service has been suspended, in the interest of client continuity.*
 
 So Maricel did not take the 9:40 that night. At 8:15 the first wall of rain came off the bay, and she was at her desk, in her headset, with eight hundred other people in a glass tower, when the lights flickered once, and the generators answered.
 
@@ -189,7 +189,7 @@ So Maricel did not take the 9:40 that night. At 8:15 the first wall of rain came
 
 "Well, hello there, Marcy," said a voice like an old gate, from a great distance. "My name's Walt. I think I've broken the internet."
 
-He was eighty-one. He lived in Duluth, Minnesota, where it was ten in the morning and a great lake sat outside his window like a grey animal. His router had a red light, and a daughter in Phoenix had told him to call this number and had not said that it would be a stranger.
+He was eighty-one. He lived in Duluth, Minnesota, where it was ten in the morning and a great lake sat outside his window like a grey animal. His router had a red light, and a daughter in Phoenix had told him to call this number.
 
 "Mr. Halvorsen, let's see what we can do. Can you tell me what colour the light is?"
 
@@ -201,15 +201,15 @@ A pause. A very long pause. Then, in a tone of great and honourable surprise: "M
 
 She laughed, and the whole row of agents looked up, because it was not Marcy's laugh but Maricel's, the one that made rooms lean.
 
-That call took forty-one minutes in a company where the target was nine, and it was fixed in the first two. For the rest, Walt did not want to hang up. He had a kitchen in which a dead woman's cup was still on the hook. He told Maricel about the lake, and she told him, in a voice she had never used for the clients, about the rain on the glass, and the jeepney she was not in.
+That call took forty-one minutes in a company where the target was nine, and it was fixed in the first two. For the rest, Walt did not want to hang up. He had a kitchen in which a dead woman's cup still hung on its hook. He told Maricel about the lake, and she told him, in a voice she had never used for clients, about the rain on the glass, and the jeepney she was not in.
 
 "A jeepney," said Walt. "That's a bus?"
 
 "It is a chapel," said Maricel. "With a driver."
 
-On her desk the phone had buzzed, three times, face-down, in the manner of an insect that wants to be freed.
+On her desk the phone had buzzed three times, face-down, like an insect that wants to be freed.
 
-The rain struck the tower like thrown gravel. She rose, left her headset on the chair, and went to the pantry window with her phone in her hand. Below, thirty-one floors down, Manila was a black bowl with a few lights swimming in it. She spoke then, as the lonely do, to the glass, and in verse, because there are hours when prose will not hold the weight:
+The rain struck the tower like thrown gravel. She rose, left her headset on the chair, and went to the pantry window with her phone in her hand. Thirty-one floors down, Manila was a black bowl with a few lights swimming in it. She spoke then, as the lonely do, to the glass, and in verse, because there are hours when prose will not hold the weight:
 
 > *Six hours a night I speak to strangers' ears.
 > I know their routers, daughters, dead wives' cups;
@@ -242,7 +242,7 @@ She read the message screen. There were three.
 
 But it was already an hour old.
 
-She went back to her desk. Walt, who had waited on the line through four minutes of silence, as only a man can who has learned what silence is for, said gently, "You went away, honey."
+She went back to her desk. Walt, who had waited on the line through four minutes of silence, said gently, "You went away, honey."
 
 "I'm sorry, Mr. Halvorsen."
 
@@ -267,7 +267,7 @@ At 4:10 the screen lit again.
 > **Gabriel:** *Isang trip pa, tapos diyan na ako. May sasabihin ako.*
 > *(One more trip, and then I'll be there. I have something to tell you.)*
 
-She sat very still. A thing went through her which was not hope, since hope is a lamp, and this was more like the moment before a lamp, when the wire is warm. *He has something to say.* The man who had not once in seven months spoken a word to her that could not be said before a nun had, in that rain, on that road, made an oath.
+She sat very still. Something went through her that was not hope, since hope is a lamp, and this was the moment before a lamp, when the wire is warm. *He has something to say.* The man who had not once in seven months spoken a word to her that could not be said before a nun had, in that rain, on that road, made an oath.
 
 She began to type.
 
@@ -282,11 +282,11 @@ It was her own, reflected in the dark glass.
 
 The rain slackened, and slackened, and then, a little before six, lifted off the city like a hand from a table.
 
-At 6:20 she took the stairs, since the lifts had failed, thirty-one floors. The lobby was a pond. A little behind the security desk, in a grey blanket from the school gym, with her wet hair stuck to her forehead, sat Joy Aquino, the librarian, with the biscuit tin from the dashboard held in her lap like a baby. She had walked the quarter-mile from the gym through water to the knee, because she had been told to.
+At 6:20 she took the stairs, since the lifts had failed, thirty-one floors. The lobby was a pond. A little behind the security desk, in a grey blanket from the school gym, with her wet hair stuck to her forehead, sat Joy Aquino, the librarian, with the biscuit tin from the dashboard held in her lap like a baby. She had waded a quarter-mile from the gym through water to the knee, because he had told her to bring it.
 
 Maricel stopped on the last step.
 
-"Hija," said Joy. "He has not come back to the gym." And that was all, for a while. There are some silences that a librarian knows better than a priest, since she has stood in them every day beside the shelves.
+"Hija," said Joy. "He has not come back to the gym." And that was all, for a while. There are silences that a librarian knows better than a priest, having stood in them every day beside the shelves.
 
 It was Joy who told it, afterward, and she told it exactly the same each time, because she had resolved that it should be told exactly. He had come to the roofs by Pandacan at one in the morning, with the water at the footboards and the wind trying to lift the roof off his chapel. He had taken thirteen people on the first trip, eleven on the second. On the fifth he took Joy herself, and the old, and the children, to the school gym on the high ground by Guadalupe, and put them down in the dry, and then turned the jeepney round for the one family whose roof was left.
 
@@ -298,7 +298,7 @@ It was Joy who told it, afterward, and she told it exactly the same each time, b
 
 She did not understand, then. She understood afterward that he had meant the coins: *sukli*, in the language of the street; what is left over; what is given back. The rest of the sentence belonged to the road.
 
-They found *Hiraya* at nine, when the water went down, at the foot of the underpass, with the Santo Niño still on the dashboard, red velvet, unspoiled, face to the glass. The family of the last roof was safe. He had lifted them, one by one, onto the dry ramp, the child with the cat last, and then the water had taken the chapel. That, reader, is the part of the story to hold: that seven people were counted at the gym that morning who would not have been counted at all.
+They found *Hiraya* at nine, when the water went down, at the foot of the underpass, with the Santo Niño still on the dashboard, unspoiled, face to the glass. The family of the last roof was safe. He had lifted them, one by one, onto the dry ramp, the child with the cat last, and then the water had taken the chapel. That, reader, is the part of the story to hold: that seven people stood on the dry ramp that morning who would not have stood anywhere at all.
 
 And on the rear panel, above the brown water, as bright as the day his father painted it, were the four words, which in the morning meant one thing, and now meant another, and never once ceased to mean both.
 

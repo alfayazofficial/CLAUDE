@@ -40,7 +40,7 @@ She had wanted to be a singer. She could sing exactly one note. It was an A, it 
 
 At the centre of the stage a young woman sat with her eyes closed.
 
-Oyun Dorj was twenty-seven, and she looked like her own instrument: long, dark, a little weathered, with a deep stillness in the neck. She was the finest *khöömei* singer of her generation, which is to say that she could do what the old herders call the *impossible* and the physicists call the *harmonic*: sing two notes at once, one drone from the floor of the belly, low as a quarry blasted in the next valley, and over it, impossibly, a high clear whistle, thin as a spider's thread, which the old people say is the voice of the wind itself, borrowed for the occasion.
+Oyun Dorj was twenty-seven, and she looked like her own instrument: long, dark, a little weathered, with a deep stillness in the neck. She was the finest *khöömei* singer of her generation. She could do what the old herders call the *impossible* and the physicists call the *harmonic*: sing two notes at once, one drone from the floor of the belly, low as a quarry blasted in the next valley, and over it, impossibly, a high clear whistle, thin as a spider's thread, which the old people say is the voice of the wind itself, borrowed for the occasion.
 
 She opened her eyes.
 
@@ -79,7 +79,7 @@ The winter had begun, as these winters do, with a lie.
 
 It was a mild October. It was a mild November. In the first weeks of December the herders of the steppe began to say, *It will be a good year,* and by the end of that month the snow had come, and thawed a little, and frozen again, in a crust as thick and hard as iron, so that the grass lay under it like a drowned thing under a lake. The horses, who can paw through snow but not through ice, stood in the white field and starved, with the whole green summer buried one hand's breadth beneath their hooves.
 
-They call it *dzud.* It is the old word for the winter that kills. It had killed, in this valley, ninety horses since the new year. The Munkh family had once had three hundred and forty.
+They call it *dzud.* It is the old word for the winter that kills. It had taken from the Munkh family alone two hundred and seventy horses of three hundred and forty.
 
 Oyun saw the first carcass from the road. It lay in the snow twenty paces off, a bay mare, quite whole, frozen into the posture of a gallop, with her neck outstretched and her legs flung wide. It looked as though she had been running toward something so hard that the cold had decided to let her keep it.
 
@@ -89,7 +89,7 @@ Oyun saw the first carcass from the road. It lay in the snow twenty paces off, a
 
 There were fourteen more before the ger.
 
-Baatar Munkh was standing in the yard, in a heavy *deel* of faded blue, with his hands behind him and a face like a closed door in a good house. He was twenty-nine. He was a horse trainer, as his father and grandfather had been, with the best racing colts in the province, and a patient manner with animals and a very impatient one, so far, with himself. He saw the jeep and did not move. A man does not run toward what he has trained himself for three winters not to need.
+Baatar Munkh was standing in the yard, in a heavy *deel* of faded blue, with his hands behind him and a face like a closed door in a good house. He was twenty-nine. He was a horse trainer, as his father and grandfather had been, with the best racing colts in the province, and a patient manner with animals and a very impatient one, so far, with himself. He saw the jeep and did not move. He did not run toward what he had trained himself, for three winters, not to need.
 
 "Oyun," he said.
 

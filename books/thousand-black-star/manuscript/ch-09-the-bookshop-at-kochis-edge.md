@@ -19,7 +19,7 @@ He had not told her. He had done the other thing, which is cheaper and takes lon
 
 She had found it. He knew that, because the following November she had come back and asked for the same annual, and the November after that, and every November since, with the unfailing punctuality of the tides. And every November he had copied the poem out afresh, in new pencil, on new paper, and tucked it between forty-one and forty-two.
 
-Neither had said a word of it. Seven years. It is the longest conversation in the history of Fort Kochi, and not a syllable has been spoken.
+Neither had said a word of it. Seven years. It is the longest conversation in the history of Fort Kochi, and not a syllable of it has been spoken.
 
 Here, since it is the thing itself and the reader is owed it, is the poem. It does not sound so well in English. Poems seldom do. They are like fish carried inland.
 
@@ -46,9 +46,9 @@ A voice from the doorway, brittle and anxious, made him jump.
 
 ---
 
-Hari Panicker, seventy-six, was a retired butcher, a large, anxious, soft-eyed man in a lungi and an undershirt, who had spent forty years in the confident trade of carving and the last seven in the unconfident one of worrying about a son who read. (He was a Panicker who had married into a Nair house, and been absorbed by it as a small stream is absorbed by a larger river; the boy had taken the river's name.) He stood at the top of the stairs holding the old brass scale that had hung in his shop for four decades, which he had brought to the bookshop and which now sat on the counter below, where it weighed, with great solemnity, the cheaper kind of paperback.
+Hari Panicker, seventy-six, was a retired butcher, a large, anxious, soft-eyed man in a lungi and an undershirt, who had spent forty years in the confident trade of carving and the last seven in the unconfident one of worrying about a son who read. (A Panicker by birth, he had married into a Nair house and been absorbed by it as a stream by a river; the boy had taken the river's name.) He stood at the top of the stairs holding the old brass scale that had hung in his shop for four decades, which he had brought to the bookshop and which now sat on the counter below, where it weighed, with great solemnity, the cheaper kind of paperback.
 
-"Appa," said Arjun. "It is two in the morning."
+"Achan," said Arjun. "It is two in the morning."
 
 "I could not sleep. The rain is coming in at the back wall. I have been listening to it. It says something."
 
@@ -105,7 +105,7 @@ There was a delicate pause.
 
 The rain, by noon, had stopped being weather and become geography.
 
-It poured on the harbour and the ferries, which crossed from Ernakulam with the dazed look of ducks in a bath. It came down on the Chinese fishing nets, those great wooden cantilevers that rise like the skeletons of enormous insects, with a roar that drowned the church bells and the muezzin and the temple drums alike.
+It poured on the harbour and the ferries, which crossed from Ernakulam with the dazed look of ducks in a bath. It came down on the Chinese fishing nets, those great wooden cantilevers, with a roar that drowned the church bells and the muezzin and the temple drums alike.
 
 "Madam!" shouted Vishnu Kurup, from the front of his auto-rickshaw. "I cannot take you down the lane! There is a river!"
 
@@ -132,11 +132,11 @@ She tucked up the border of the sari, which in Kerala is a thing a woman does th
 ### SCENE III
 *Karayil Books. A quarter to one. The tide in the lane has reached the doorstep, considered it, and come in.*
 
-There is a particular silence that falls over a bookshop when water enters it, and it is the silence of a very large congregation holding its breath.
+A particular silence falls over a bookshop when water enters it: that of a very large congregation holding its breath.
 
 Arjun stood in water to his shins with a stack of Malayalam poetry in his arms and an expression of calm despair. The lower shelves were already gone: the cookbooks, the maps, the volumes of Marxist theory that nobody had ever bought and nobody had ever sold. They stood in the brown flood like a row of drowned gentlemen. Somewhere at the back, with a wet slap, a shelf of Agatha Christie gave way, and forty murders were solved all at once, with no detective present.
 
-"Appa, take the dictionaries to the loft!"
+"Achan, take the dictionaries to the loft!"
 
 "I am *carrying* the dictionaries!"
 
@@ -148,7 +148,7 @@ The door banged open. A woman in an oilskin poncho and rubber boots strode in, c
 
 "Where is the problem?" said Sreeja Iyer.
 
-She was fifty-five, a plumber from Alappuzha, who had been called out for a quite different job in the next street, and had seen the shop's door standing open in a drowning lane with the instinct of her calling. She was a woman of the school of Kerala that regards a crisis as a personal compliment. Her hair was iron grey, her forearms were a mason's, and she had a way of saying "problem" that made the problem feel it had been *found out*.
+She was fifty-five, a plumber from Alappuzha, who had been called out for a quite different job in the next street, and had seen the shop's door standing open in a drowning lane with the instinct of her calling. She regarded a crisis as a personal compliment. Her hair was iron grey, her forearms were a mason's, and she had a way of saying "problem" that made the problem feel it had been *found out*.
 
 "The problem," said Arjun, "is the *sea.*"
 
@@ -178,7 +178,7 @@ They passed the books from hand to hand, hand over hand, up the stair, in the da
 
 And in the café next door, a young woman in a white apron watched through the window with her arms folded, delivering a commentary to a customer who had not asked for one.
 
-Lakshmi Panicker was twenty-seven, a waitress, and the café's principal asset. She was a woman of enormous good humour and no discretion whatsoever. She had been standing in the doorway since eleven, ostensibly serving banana fritters, in practice conducting a running broadcast to the lane.
+Lakshmi Panicker was twenty-seven, a waitress, and the café's principal asset, with enormous good humour and no discretion whatsoever. She had been standing in the doorway since eleven, ostensibly serving banana fritters, in practice conducting a running broadcast to the lane.
 
 "Look at that," said Lakshmi, to the customer. "Look at Arjun Chetta. The man has lifted four hundred books in the last half-hour, and he has not once looked at the one he is *afraid* of losing."
 
@@ -188,7 +188,7 @@ Lakshmi Panicker was twenty-seven, a waitress, and the café's principal asset. 
 
 "I see," said the tourist, who did not.
 
-"It is the greatest tragedy in Kerala," said Lakshmi, with deep satisfaction. "And nobody will do anything. *I* would, but I am a waitress. I only bring tea to history."
+"It is the greatest tragedy in Kerala. *I* would do something, but I am a waitress. I only bring tea to history."
 
 "What a lot of rain," said the tourist, politely.
 
@@ -198,7 +198,7 @@ Lakshmi Panicker was twenty-seven, a waitress, and the café's principal asset. 
 
 Arjun, at the head of the line, had not looked at Meera for seven minutes.
 
-This was not because he had not seen her. He had seen her at the instant she entered, as a man sees lightning before he hears the thunder, in the green sari with its hem tucked up and her braid coming loose and her face fierce with purpose. He had seen her seize a box of cookbooks and wade away with it as though it were a baby. He had seen her fall into step beside the great Sreeja Iyer and, in thirty seconds, be given the tone of command. He had thought, quite clearly: *I will never be able to speak to her again, because I have seen her in my shop, in a flood, and a man cannot be expected to survive that.*
+This was not because he had not seen her. He had seen her at the instant she entered, as one sees lightning before the thunder, in the green sari with its hem tucked up and her braid coming loose and her face fierce with purpose. He had seen her seize a box of cookbooks and wade away with it as though it were a baby. He had thought, quite clearly: *I will never be able to speak to her again, because I have seen her in my shop, in a flood, and a man cannot be expected to survive that.*
 
 So he gave her wide berth, in a foot of brown water, with a stack of Tagore.
 
@@ -246,23 +246,23 @@ And a voice from below, unmistakable, shouted: "Arjun! The dictionaries have gon
 
 He put the pencil back.
 
-*Reader, I do not blame him. A man with one hand on a poem and the other on the Oxford English Dictionary is a man pulled by both ends of language. Many have been torn so. Few have recovered.*
+*Reader, I do not blame him. A man with one hand on a poem and the other on the Oxford English Dictionary is pulled by both ends of language. Few have recovered.*
 
 ---
 
 By dusk the water had begun, grudgingly, to retreat.
 
-It left behind a thin brown shine on the floor, a smell of wet paper that would last a month, and a shop that was, by some miracle of human arms, almost entirely intact. The Marxist theory was ruined. The cookbooks were a complete loss. But upstairs in the loft, in tall dry stacks, with the dictionaries on top and the poetry at the summit, were four thousand books, and in the lane below were two hundred people who had saved them and who were now being fed by Lakshmi's café on the house.
+It left behind a thin brown shine on the floor, a smell of wet paper that would last a month, and a shop that was, by some miracle of human arms, nearly intact. The Marxist theory was ruined. The cookbooks were a complete loss. But upstairs in the loft, in tall dry stacks, with the dictionaries on top and the poetry at the summit, were four thousand books, and in the lane below were two hundred people who had saved them and who were now being fed by Lakshmi's café on the house.
 
-"I wish to record," announced Sreeja Iyer, wiping her hands on her poncho, "that this is the best flood I have been in. Normally the shop is *grateful.* Here everybody is *talking.* Gopal-sir! Come and look at the tide."
+"I wish to record," announced Sreeja Iyer, wiping her hands on her poncho, "that this is the best flood I have been in. Normally the householder is *grateful.* Here everybody is *talking.* Gopal-sir! Come and look at the tide."
 
-This was Gopal Varma, fifty-eight, a village vet from Alappuzha and the most unstoppable matchmaker in three districts. He had come that morning to propose to Hari Panicker a girl from Kottayam with a chemistry degree and a *jathakam* that matched Arjun's on nine points out of ten; he had been trapped in the loft since one o'clock, holding the Concise Oxford over his head, and had formed, in the interval, a different opinion.
+This was Gopal Varma, fifty-eight, a village vet from Alappuzha and the most unstoppable matchmaker in three districts. He had come that morning to propose to Hari Panicker a girl from Kottayam with a chemistry degree and a *jathakam* that matched Arjun's on nine points out of ten; he had been trapped in the loft since one o'clock, and had formed, in the interval, a different opinion.
 
 "I have been looking at the stars," said Gopal, with a thoughtful frown.
 
 "You cannot see stars. It is raining."
 
-"I have been looking at them *internally.*" He examined his folder. "The Kottayam girl's chart matches Arjun's on nine points. But I have also been observing this *other* young lady, in the green sari. I do not have her chart. But I have observed, in three hours, that when the boy drops a book, she picks it up, and when she drops a book, he picks it up, and neither has dropped a book at the same time. In forty years of horoscopes, I have never seen so *perfect* a synchrony." He closed the folder with a snap. "Hari-sir. I withdraw the girl from Kottayam. The stars have had an internal revision."
+"I have been looking at them *internally.* The Kottayam girl's chart matches Arjun's on nine points. But I have also been observing this *other* young lady, in the green sari. I do not have her chart. But I have observed, in three hours, that when the boy drops a book, she picks it up, and when she drops a book, he picks it up, and neither has dropped a book at the same time. In forty years of horoscopes, I have never seen so *perfect* a synchrony." He closed the folder. "Hari-sir. I withdraw the girl from Kottayam. The stars have had an internal revision."
 
 "What do the stars say?" said Hari, anxiously.
 
@@ -292,7 +292,7 @@ On the back seat, in the light of a dim bulb and the ticking of the rain, Meera 
 
 It was there: folded small, on onion-skin paper, in pencil.
 
-She read it by the light of passing shop-windows, as she had read it seven times, with her heart doing its usual absurd gymnastics. She came to the last verse, which she knew by heart, and which she read, nonetheless, with the old fresh shock of gladness.
+She read it by the light of passing shop-windows, as she had read it seven times, with her heart doing its usual absurd gymnastics. She came to the last verse, which she knew by heart, and read it nonetheless with the old fresh shock of gladness.
 
 *And if one year the page should come out blank…*
 
@@ -316,7 +316,7 @@ She stared at it. She turned it to the light. She could not read it.
 
 "Who?" said Vishnu.
 
-She did not answer. She was smiling at the rain, as one smiles at an old friend with whom one has at last made up one's mind.
+She did not answer. She was smiling at the rain, with the look of one who has at last made up her mind.
 
 ---
 
@@ -324,7 +324,7 @@ She did not answer. She was smiling at the rain, as one smiles at an old friend 
 
 > *Entry 0699 (Kochi): "I hid a poem in a book I knew you would buy." Entry 0153 (Kochi): "I buy that book every year to read the poem again."*
 >
-> *Mark that the Register places them five hundred and forty-six entries apart. It is not far. It is, in the matter of love, the width of a bookshelf, and I have known men to spend a lifetime in the aisle.*
+> *Mark that the Register places them five hundred and forty-six entries apart. It is not far. It is, in matters of the heart, the width of a bookshelf, and I have known men to spend a lifetime in the aisle.*
 >
 > *I will say this for the rain. It takes the last word, as it takes everything. But it cannot take what is already known. And the one thing a flood cannot wash from paper is the shape of the hand that wrote it.*
 

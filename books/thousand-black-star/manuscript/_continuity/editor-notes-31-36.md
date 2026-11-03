@@ -1,0 +1,7 @@
+- Ch 36 vs Ch 26/31: Andrei's torn-page wire in Ch 36 is 12 m high, 18 m long, no net (per Ch 36 continuity note), while Ch 31 promises a low 6 ft wire with net at the 14 June gala and Ch 26 says the April fall was from 9 m with a net. Ch 36 now uses Circul Aurora and the L1/L2 injury to match Ch 26, but the height/no-net/date logic should be reconciled (e.g. in Ch 26/31 or by treating Ch 36 as a separate, earlier night).
+- Ch 36 circus owner Ionut Radu (dentist, 43) and Elena Stanciu (77) are new in Ch 36; check Ch 26 cast for the Aurora's owner name.
+- Ch 31: Ioana's surname Dumitrescu vs her father the tailor Catalin Ionescu (#0988) per ledger; Ch 26/other chapters should state a reason (e.g. stepfather) or surname should be aligned.
+- Ch 31: Matteo Ricci (welder, #0675) was called Chiara's brother in draft; now her cousin. Check Ch 41 (Alessandro/Chiara proposal) for any reference to a brother.
+- Ch 31: Pizza-recipe feud now dated "four Easters ago" (was inconsistent two/four); Ch 41 should match.
+- Ch 33 vs Ch 43: seven people rescued are now described as standing on the dry ramp (not at the gym); the 197-coin tin is held by Joy.
+- Ch 35: Seraphine's first letter now says she stood in the lamp-room at twelve and again the previous August; Ch 56/60 references to her Galle visit should agree.

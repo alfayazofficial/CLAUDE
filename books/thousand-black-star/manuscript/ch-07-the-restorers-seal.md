@@ -8,23 +8,23 @@
 
 In Cairo it is said that everything is for sale, and that the only question is whether it is the thing you were told it was.
 
-Nowhere is the saying put to the test more cheerfully than in the Khan el-Khalili, that warren of brass and perfume and patient bargaining where for six hundred years the same lanes have sold the same lamps to the same astonished strangers. A man may buy there a coffee-pot that belonged to a pasha or a perfectly good tray that belongs to nobody at all, and he will leave happy in either case, which is the true miracle of the place.
+Nowhere is the saying tested more cheerfully than in the Khan el-Khalili, that warren of brass and perfume and patient bargaining where for six hundred years the same lanes have sold the same lamps to the same astonished strangers. A man may buy there a coffee-pot that belonged to a pasha or a tray that belongs to nobody at all, and leave happy in either case. This is the true miracle of the place.
 
-And in the narrowest, crookedest, most hospitable of its alleys, between a spice-seller's pyramids of red and gold and a boy who sold hibiscus in dripping glasses, stood a little shop with a green door and a sign painted in two languages: **HADDAD & SONS, ANTIQUITIES AND CURIOSITIES. EST. WHEN GOD WAS YOUNG.**
+And in the narrowest, crookedest of its alleys, between a spice-seller's pyramids of red and gold and a boy who sold hibiscus in dripping glasses, stood a little shop with a green door and a sign painted in two languages: **HADDAD & SONS, ANTIQUITIES AND CURIOSITIES. EST. WHEN GOD WAS YOUNG.**
 
 It had no sons. This was a matter on which the proprietor was sensitive, and on which the neighbours were not.
 
-"Sons," said Karim Fouad, potter, thirty-nine, fearless, who had known the proprietor since they were nine years old and had once been sold, by him, a scarab, a camel and a share in the Suez Canal. "The sign says *sons.* How many do you have, Omar?"
+"Sons," said Karim Fouad, potter, thirty-nine, fearless, who had known the proprietor since the proprietor was nine and had once been sold, by him, a scarab, a camel and a share in the Suez Canal. "The sign says *sons.* How many do you have, Omar?"
 
 "I have *potential.*"
 
 They were sitting in the long, mirrored, noisy room of Fishawi's café, where the glass has hung since the days of Napoleon's cousins and every gilt-framed reflection holds a different century. It was the hour of the afternoon prayer, and the air was thick with apple smoke and with mint. At the next table, upon a velvet cushion, in a suit that had been fashionable in nineteen-sixty, a very old man was holding court to nobody.
 
-"I am the greatest novelist in Egypt," announced Sherif Sabry, seventy-two, retired writer, vain as a peacock in a fountain, "whom nobody has read. This is the whole secret of my genius. Had I been *read,* I should have been *contradicted.* But what is *this?* This Register! A thousand confessions, and every one of them *better* than my novels, and all of them *under* one hundred words. It is an insult to a profession."
+"I am the greatest novelist in Egypt," announced Sherif Sabry, seventy-two, retired writer, vain as a peacock in a fountain, "whom nobody has read. This is the whole secret of my genius. Had I been *read,* I should have been *contradicted.* But this Register! A thousand confessions, every one *better* than my novels, and all of them under one hundred words. It is an insult to a profession."
 
 "Read us one," said Omar Haddad, and his voice, which had been light, went very quiet. "Read us *six hundred and forty.*"
 
-He was thirty-five, and he was beautiful in the way that a very good counterfeit is beautiful: so smooth, so apt, so exactly what one hoped to find, that it took a careful eye and a bad experience to look for the seam. He had a gold tooth he did not need, a ring he had not paid for, and the manner of a man who has never in his life been refused a table. He had once sold a tourist the same Fatimid door twice in a single afternoon.
+He was thirty-five, and he was handsome the way a very good counterfeit is handsome: so smooth, so apt, so exactly what one hoped to find, that it took a careful eye and a bad experience to look for the seam. He had a gold tooth he did not need and a ring he had not paid for, and he had once sold a tourist the same Fatimid door twice in a single afternoon.
 
 Sherif scrolled. "*Entry six hundred and forty. Cairo, Egypt.* 'I sold you a forgery and have never confessed.'" He lowered the phone. "Well, that's a *confession.* That's a very lazy one. Where are the details? Where is the *crime?*"
 
@@ -42,17 +42,15 @@ It was eleven centimetres tall, and made of bronze, and it sat upright upon a ba
 
 And she had paid. And had carried it home in a handkerchief, as one carries a bird.
 
-"It was a good one for the tourists," said Omar, rubbing his eyes. "I had it made by a man in Giza who had made six. I added the patina myself: vinegar, tea, a little cat-litter, a month in a drawer. I asked her name three times, because I wanted to *know* it. And she turned it in her hand, and looked at the base, and I thought: *she knows.* And I waited for her to say. And she said it was *lovely.* And she *paid.* I have been sixteen years in this trade, Karim, and I have never been paid for a thing by someone who knew it was a lie. So I assumed she did not know. What else is there to assume? She has kept my cat three years on the shelf over her lamp, and I have not been able to *sleep.*"
+"It was a good one for the tourists," said Omar, rubbing his eyes. "I had it made by a man in Giza who had made six. I added the patina myself: vinegar, tea, a little cat-litter, a month in a drawer. I asked her name three times, because I wanted to *know* it. She turned it in her hand, and looked at the base, and I thought: *she knows.* I waited for her to say. She said it was *lovely.* And she *paid.* I have been sixteen years in this trade, Karim, and I have never been paid for a thing by someone who knew it was a lie. So I assumed she did not know. She has kept my cat three years on the shelf over her lamp, and I have not been able to *sleep.*"
 
 "Why do you not simply tell her?"
 
 "Because she would look at me," said Omar Haddad, in a voice that none of them had ever heard him use, "as a restorer looks at a thing which has been made to deceive; with perfect attention and no hope."
 
-There was a long, smoky silence, in which three centuries peered from the mirrors.
-
 "So what will you do?" said Sherif, entirely sober.
 
-Omar rose. He stood a moment, with his hands upon the marble and his reflection standing behind him, at his shoulder, in a gilt frame, looking suddenly much older, and he spoke, not as he usually did, in the brisk glittering patter of the sales-floor, but slowly, as a man says a thing he has not yet decided to believe:
+Omar rose. His reflection rose with him in a gilt frame, looking suddenly much older, and he spoke, not in the brisk patter of the sales-floor, but slowly, as one says a thing one has not yet decided to believe:
 
 > *I will confess in the one grammar she respects.
 > She does not read men's words. She reads their hands,
@@ -76,15 +74,15 @@ Omar rose. He stood a moment, with his hands upon the marble and his reflection 
 
 "I should like to have written it."
 
-"You may," said Omar. "I will give you the credit, in the obituary."
+"I will give you the credit, in the obituary."
 
 ---
 
 **The Conservation Laboratory of the Museum of Islamic Art stands behind a green iron gate in a quiet street, and within it a very clean silence is kept.**
 
-It smelled of acetone and warm dust and old paper; it had white walls, a skylight, six benches, and on each bench a lamp. At the farthest bench, under the best of the lamps, a woman of thirty-two sat, with a loupe screwed into her right eye, a lacquered brush in her left hand, and a fragment of fourteenth-century glass held in a pair of tweezers to the light.
+It smelled of acetone and warm dust; it had white walls, a skylight, six benches, and on each bench a lamp. At the farthest bench, under the best of the lamps, a woman of thirty-two sat, with a loupe screwed into her right eye, a lacquered brush in her left hand, and a fragment of fourteenth-century glass held in a pair of tweezers to the light.
 
-Her name was Layla Mansour. She was exacting, dry, small, and immaculate; she wore a grey linen apron, with the sleeves rolled to exactly the same height, and she spoke to objects in the voice that other people use to speak to a nervous child. She had been called, in the journals, *the finest eye in North Africa.* She had been called, in the corridors, *the Ice Pharaoh.* She had once told a German professor to his face that a Mamluk lamp he had proudly authenticated was *twelve years old and from Marseille,* and had been proved right in eleven days.
+Her name was Layla Mansour. She was exacting, dry, small, and immaculate; she wore a grey linen apron, sleeves rolled to exactly the same height, and she spoke to objects in the voice that other people use to speak to a nervous child. She had been called, in the journals, *the finest eye in North Africa.* She had been called, in the corridors, *the Ice Pharaoh.* She had once told a German professor to his face that a Mamluk lamp he had proudly authenticated was *twelve years old and from Marseille,* and had been proved right in eleven days.
 
 On the shelf above her lamp, as it had sat for three years, sat a small bronze cat.
 
@@ -94,13 +92,13 @@ Dina, fourteen, was the granddaughter of the only woman cab-driver in Heliopolis
 
 "It is a *cat,* Dina."
 
-"It is a cat that *looks.* I think it knows you've read the Register. You read it on Monday, at your bench, with your lips, and went the colour of a boiled egg. Doctor Karim said, *Is something wrong, Madam Layla?* and you said, *It is the acetone.* But the acetone was in the cupboard."
+"It is a cat that *looks.* I think it knows you've read the Register. You read it on Monday, at your bench, with your lips, and went the colour of a boiled egg. the Director said, *Is something wrong, Madam Layla?* and you said, *It is the acetone.* But the acetone was in the cupboard."
 
 "Then say it to the *floor.*"
 
 "The floor is not interested," said Dina Shaker, with dignity, and swept.
 
-It is true that Layla had read it. She had read the whole of it, in her kitchen, on the Monday night, on a small cracked tablet, with a glass of hibiscus at her elbow and the call to prayer coming across the roofs; and she had found, beside the Register's long ribbon of Cairo, two entries she had known she would find. The first: *I sold you a forgery and have never confessed.* The second, which was her own, written on a night she did not wish to remember, to a stranger in England: *I knew it was false. I kept it because it was yours.*
+It is true that Layla had read it. She had read the whole of it, in her kitchen, on the Monday night, on a small cracked tablet, with a glass of hibiscus at her elbow; and she had found, beside the Register's long ribbon of Cairo, two entries she had known she would find. The first: *I sold you a forgery and have never confessed.* The second, which was her own, written on a night she did not wish to remember, to the Keeper in England: *I knew it was false. I kept it because it was yours.*
 
 "Madam Layla," said a voice in the doorway, with a trembling deference. "Forgive me. Did I come at a bad time?"
 
@@ -140,15 +138,13 @@ It was a small box of brass, inlaid with silver. He set it down upon the white c
 
 "A *qalamdan,*" said Omar. "Fourteenth century. Syrian work, I think; possibly Damascene; brought to Cairo in the time of Sultan Hasan. From a house in Giza. I believe it to be extremely fine."
 
-"Thank you, Mr. Haddad. I will see."
-
 "I should like your seal," said Omar, "upon it. If it is, as I hope, sound."
 
 There was a silence. Dina, in the corner, had forgotten her broom. Tarek Hassan, on his satchel, had gone the colour of the wall.
 
 Layla Mansour put down the glass, and screwed in the loupe.
 
-She did it as she always did: in order, in silence, by the book. She looked first at the whole, the proportion, the weight in the hand. She looked at the brass under the lamp, and then under the ultraviolet, where an old patina glows a dull amber and a young one flares like a cheat. She tapped the rim and listened for the ring. And then she did what the great forgers have always feared more than any machine: she *smelled* it.
+She did it as she always did: in order, in silence, by the book. She looked at the brass under the lamp, and then under the ultraviolet, where an old patina glows a dull amber and a young one flares like a cheat. She tapped the rim and listened for the ring. And then she did what the great forgers have always feared more than any machine: she *smelled* it.
 
 "It is modern," said Layla.
 
@@ -172,7 +168,7 @@ It was a very small repair. A hairline crack, in the brass at the pivot, such as
 
 Layla Mansour did not move.
 
-It was a mend she knew. It was a mend she had made. She had made it, in that very manner, on forty-one objects in the Museum of Islamic Art, over the course of nine years, against the advice of three directors and the horror of a German professor. It was her habit. It was her *signature.* She had never said so; she had never written about it; she had never, to her knowledge, told another living soul.
+It was a mend she knew. It was a mend she had made. She had made it, in that very manner, on forty-one objects in the Museum of Islamic Art, over the course of nine years, against the advice of three directors. It was her habit. It was her *signature.* She had never said so; she had never written about it; she had never, to her knowledge, told another living soul.
 
 "Who did this?" said Layla.
 
@@ -234,7 +230,7 @@ His voice cracked in the middle of the word like a plate.
 
 "Because it was yours," said Layla Mansour.
 
-There are silences in this world that are made of nothing, and there are silences that are made of everything, and in the Conservation Laboratory at that moment there was the second kind. Tarek Hassan, who had been sitting on his satchel in a state of spiritual collapse, took out a large clean handkerchief and blew his nose like a trumpet. Dina Shaker said, very loudly and to nobody: "I *knew* it."
+There are silences made of nothing and silences made of everything, and this was the second kind. Tarek Hassan, who had been sitting on his satchel in a state of spiritual collapse, took out a large clean handkerchief and blew his nose like a trumpet. Dina Shaker said, very loudly and to nobody: "I *knew* it."
 
 "So," said Omar, and sat down upon the nearest stool, which was Dina's, as though his strings had been cut, "I have been confessing for three years to a person who was *waiting for me to start.*"
 
@@ -258,7 +254,7 @@ Omar Haddad read it three times. He had the look of a man who has been given a k
 
 "I know."
 
-"Doctor Karim will wish to buy it. He will offer forty thousand pounds. I shall decline. It is not a museum piece; it is evidence."
+"The Director will wish to buy it. He will offer forty thousand pounds. I shall decline. It is not a museum piece; it is evidence."
 
 "Of what?"
 
@@ -268,7 +264,7 @@ Omar Haddad read it three times. He had the look of a man who has been given a k
 
 ---
 
-The door closed behind them. The skylight had turned a deep and dusty rose. The muezzin of the nearest mosque began, in a high clear thread of sound, to call the faithful to prayer; and outside, over the green iron gate, the whole of Old Cairo lay in the last long gold of the afternoon, like a city under glass.
+The door closed behind them. The skylight had turned a deep and dusty rose. Across the roofs a muezzin began, in a high clear thread of sound, to call the faithful to prayer, and the whole of Old Cairo lay in the last gold of the afternoon.
 
 Omar stood up. He did not know what to do with his hands.
 

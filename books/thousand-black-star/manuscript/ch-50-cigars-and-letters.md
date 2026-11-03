@@ -9,9 +9,9 @@
 ### SCENE I
 *Havana, Cuba. A cigar factory in the old city, ten o'clock in the morning. A long hall of high windows and tall green shutters; two hundred wooden tables; the smell of cured leaf, which is the smell of a very old library that has been set gently on fire.*
 
-At the head of the hall, on a little raised platform with a lamp and a glass of water, the director of the factory was reading the newspaper aloud to the rollers.
+At the head of the hall, on a little raised platform with a lamp and a glass of water, the factory's reader was reading the newspaper aloud to the rollers. On Fridays the reader was the director, who would let nobody else.
 
-It is an old Havana custom, and the hall was proud of it. For a hundred and fifty years a reader has sat above the tables and read to the workers while they work: the papers first, then a novel, a chapter a day, so that a man might spend thirty years rolling cigars and come out having heard all of Dumas twice. The director, Yoel Cabrera, fifty-five, had been a newsagent in Trinidad before the factory made him its master; he was bookish, and hopeless with time; and he read the headlines with such relish, and at such length, that the rollers depended on him as on weather.
+It is an old Havana custom, and the hall was proud of it. For a hundred and fifty years a reader has sat above the tables and read to the workers while they work: the papers first, then a novel, a chapter a day, so that a man might spend thirty years rolling cigars and come out having heard all of Dumas twice. The director, Yoel Cabrera, fifty-five, had been a newsagent in Trinidad before the factory made him its master; he was bookish, hopeless with time, and read the headlines with such relish that the rollers depended on him as on weather.
 
 At the fourth table from the window, under the great fan, a man of forty-four rolled a cigar.
 
@@ -19,7 +19,7 @@ Héctor Álvarez did it as he had done it for twenty-six years, with the round b
 
 He had done it for six years. He had sent out, by his own count, four thousand and twelve.
 
-"You have a face like a man composing," said Armando Delgado from the next table, thirty-three, a journalist, loyal, restless, and quite unable to say he was sorry for anything. "You are rolling a *sonnet.* I have a column in the paper. *The Cigar Roller Who Writes to Strangers.* Four hundred words and a photograph."
+"You have the face of a man composing," said Armando Delgado from the next table, thirty-three, a journalist, loyal, restless, and shameless. "You are rolling a *sonnet.* I have a column in the paper. *The Cigar Roller Who Writes to Strangers.* Four hundred words and a photograph."
 
 "Armando."
 
@@ -31,7 +31,7 @@ He had done it for six years. He had sent out, by his own count, four thousand a
 
 On the platform, Yoel Cabrera, who had reached the sporting results with unstoppable joy, said without looking up: "Is that a visitor at the door?"
 
-It was a woman. She was forty-one, in a plain blue dress, with a canvas bag on her shoulder and a battered letter in her hand, and she stood in the doorway with her back very straight, as people stand who have rehearsed a speech on a bus and forgotten it at the door. Her name was Rosa Hernández. She taught nine-year-olds at a school on the Malecón, and read aloud to them every Sunday evening on the sea-wall from a green book with a broken spine, because her classroom had no roof worth the name and the sea was free.
+It was a woman. She was forty-one, in a plain blue dress, with a canvas bag on her shoulder and a battered letter in her hand, and she stood in the doorway with her back very straight, like someone who has rehearsed a speech on a bus and forgotten it at the door. Her name was Rosa Hernández. She taught nine-year-olds at a school on the Malecón, and read aloud to them every Sunday evening on the sea-wall from a green book with a broken spine, because her classroom had no roof worth the name and the sea was free.
 
 "Excuse me," said Rosa. "I am looking for the man who writes the notes."
 
@@ -61,13 +61,13 @@ And then, in the fourth row, a man put down a blade.
 
 "I know it *now,*" said Héctor. "I am very pleased with it."
 
-There was a roar from the hall, the roar of two hundred cigar-rollers who have kept a secret for six years and would have died rather than tell. Armando Delgado, scarlet, leapt up on his stool and shouted, "I *knew* about it," and Yoel Cabrera, from the platform, said, with the air of one confronted by news of the greatest importance, "Madam, would you care to *read* it? Aloud. It is the custom. I am a newsagent. I recognise a headline."
+There was a roar from the hall, the roar of two hundred cigar-rollers who have kept a secret for six years and would have died rather than tell. Armando Delgado, scarlet, leapt up on his stool and shouted, "I *knew* about it," and Yoel Cabrera, from the platform, said, with the air of a man handed a headline, "Madam, would you care to *read* it? Aloud. It is the custom. I am a newsagent. I recognise a headline."
 
 "But it is *his,*" said Rosa.
 
 "A note," said Yoel, "that has crossed the Atlantic twice has the right to be heard."
 
-She did not know afterwards how she got up the three steps. She stood above two hundred tables and the great fan turning, with a scrap of paper in her hand, and found that the habit of reading aloud came to her aid as a handrail comes to an old person on a stair. She read it, as she read everything, steadily, to the back of the room. And the thing she read was this:
+She did not know afterwards how she got up the three steps. She stood above two hundred tables and the great fan turning, and found that the habit of reading aloud was a handrail. She read it, as she read everything, steadily, to the back of the room. And the thing she read was this:
 
 > *I do not know your name or street,
 > Nor if your coffee's sour or sweet;
@@ -78,7 +78,7 @@ She did not know afterwards how she got up the three steps. She stood above two 
 > To say what I have never said:
 > That someone sees you, and has read.*
 
-When she had finished, nobody spoke for a time. The fan turned. In the fourth row, an old man of seventy-five who had been Héctor's master, Raúl Delgado, who dreamed through most of the day and woke only at crises, lifted his head and murmured, quite distinctly: "At last."
+When she had finished, nobody spoke for a time. The fan turned. In the fourth row, Héctor's old master, Raúl Delgado, seventy-five, who dreamed through most of the day and woke only at crises, lifted his head and murmured, quite distinctly: "At last."
 
 "I have to tell you," said Rosa Hernández, from the platform, to the whole hall and to one man in an apron, "that I am not an easy woman. My sister left. She is in Madrid. I am still deciding if I may follow. I do not know if the answer is *here.*"
 
@@ -99,19 +99,19 @@ When she had finished, nobody spoke for a time. The fan turned. In the fourth ro
 
 The star was red.
 
-It was a five-pointed lantern of bamboo and paper, the kind that children carry at the Mid-Autumn Festival, with a candle in the middle and a thin red glow that makes the skin of whoever holds it look briefly well. Hà Trần had made ten thousand lanterns in her life. She made them in a workshop in Huế that smelled of paste and cut bamboo, by a method her grandmother taught her, and she was twenty-seven, and gentle, and luminous, and she was dying; and she had wished, as one wishes the last wish of a long list, to make one more.
+It was a five-pointed lantern of bamboo and paper, the kind that children carry at the Mid-Autumn Festival, with a candle in the middle and a thin red glow that makes the skin of whoever holds it look briefly well. Hà Trần had made ten thousand lanterns in her life, in a workshop in Huế that smelled of paste and cut bamboo, by a method her grandmother taught her. She was twenty-seven, gentle, luminous, and dying; and she had wished, as one makes the last wish on a long list, to make one more.
 
 "I did not want to be pitied," said Hà.
 
 "I know," said Quân.
 
-"I want you to remember I said it. Before anything else. I told you, on the first day, the day I did not tell you. I do not want people to look at me as though I were something to be sorry for."
+"I want you to remember I said it. I do not want people to look at me as though I were something to be sorry for."
 
 "I am not looking at you that way."
 
 "How are you looking at me?"
 
-"Like a man," said Quân Nguyễn, twenty-eight, street photographer, restless, romantic, and entirely out of excuses, "who has four hundred and twelve pictures of you in a box in Hanoi, and has never shown you one."
+"Like a man," said Quân Nguyễn, twenty-eight, street photographer, entirely out of excuses, "who has four hundred and twelve pictures of you in a box in Hanoi, and has never shown you one."
 
 She stood still. Beside her on the quay, Hương Bùi, thirty-six, a carpenter and her best friend, who had built the little wooden boat with her own hands and cried quietly over every plank, stepped back a pace into the shadows.
 
@@ -123,7 +123,7 @@ She stood still. Beside her on the quay, Hương Bùi, thirty-six, a carpenter a
 
 "Yes, you have." She smiled at him, and for a moment, under the red of the star, the illness was not in her face at all. "You have been carrying that bag since Hanoi. Show me, Quân."
 
-It was a flat box, in an oilcloth bag. He opened it on the stone beside the river, and the first print was of a young woman at a window in the thin gold light of early morning, with a strip of bamboo between her teeth and a paste-brush in one hand, completely intent; and the second, of the same woman, laughing at something out of the frame; and the third, her hands alone, the light moving through the thin paper; and the hundredth. She looked at every one. It took a long time. Behind them the festival went on, with its drums and its dragon-dancers and its smoke of burnt paper, and the river glowed with floating flowers.
+It was a flat box, in an oilcloth bag. He opened it on the stone beside the river, and the first print was of a young woman at a window in the thin gold light of early morning, with a strip of bamboo between her teeth and a paste-brush in one hand, completely intent; and the second, of the same woman, laughing at something out of the frame; and the third, her hands alone, the light moving through the thin paper; and the hundredth. She looked at every one. It took a long time. Behind them the festival went on, with its drums and dragon-dancers, and the river glowed with floating flowers.
 
 "I look," said Hà, at last, very slowly, "like someone who is not afraid."
 
@@ -133,7 +133,7 @@ It was a flat box, in an oilcloth bag. He opened it on the stone beside the rive
 
 She knelt, then, with a care that cost her, and lit the candle in the middle of the star. The red light came up and lit her face. Then Hương, without a word, slid the little boat into the water; and Hà set the lantern in it; and the river took it, as rivers do.
 
-It was not the best lantern she had ever made. It was a little crooked at the third point, where her hand had trembled. But it floated out into the black water beside ten thousand others, a small red star among stars, and caught, on its slow way down towards the sea, the light of the full moon, so that for a moment it seemed to be two.
+It was not the best lantern she had ever made. It was a little crooked at the third point, where her hand had trembled. But it floated out into the black water beside ten thousand others, a small red star among stars, and caught the light of the full moon, so that for a moment it seemed to be two.
 
 "Do not photograph this one," said Hà.
 
@@ -154,21 +154,21 @@ They are there still.
 
 For twenty years Youssef Benali had sold spices by memory.
 
-It was a remarkable accomplishment, and he had hidden it with great skill. He knew a hundred and forty spices by smell and colour and the weight of a handful, and the exact blend of the *ras el hanout* his father had sold, which had thirty-one ingredients and was said to turn bad news to good. What he did not know, because no one had ever been patient enough to teach him and he had been too proud to ask, was how to read the words on the sacks.
+It was a remarkable accomplishment, and he had hidden it with great skill. He knew a hundred and forty spices by smell and colour and the weight of a handful, and the exact blend of the *ras el hanout* his father had sold, which had twenty-seven ingredients and was said to turn bad news to good. What he did not know, because no one had ever been patient enough to teach him and he had been too proud to ask, was how to read the words on the sacks.
 
 Today, he was going to read a letter.
 
 "Do not look at me," said Youssef.
 
-"I am not looking at you," said Salma Idrissi, twenty-eight, calligrapher, exacting and kind, who stood at the counter with her hands behind her back and her whole attention on him, as a clock is not looking at a pendulum. "I'd like a quarter-kilo of patience."
+"I am not looking at you," said Salma Idrissi, twenty-eight, calligrapher, exacting and kind, who stood at the counter with her hands behind her back and her whole attention on him, in the way a clock is not looking at a pendulum. "I'd like a quarter-kilo of patience."
 
 "We have run out."
 
 "Then read."
 
-He held the paper at arm's length, in both hands, as one holds something that might go off. It was a half-sheet of thick cream, and on it, in black ink, in a hand that began rather bravely and grew less sure toward the foot, were forty-one words in Arabic. They had been written in ten days, with a reed pen she had given him, every stroke traced seventeen times in a notebook, in the back room of his shop, at night, under a single bulb.
+He held the paper at arm's length, in both hands, as if it might go off. It was a half-sheet of thick cream, and on it, in black ink, in a hand that began rather bravely and grew less sure toward the foot, were forty-one words in Arabic. They had been written in ten days, with a reed pen she had given him, every stroke traced seventeen times in a notebook, in the back room of his shop, at night, under a single bulb.
 
-On a pile of cumin sacks sat Mehdi Bennani, thirty-six, clockmender, bookish, and self-appointed examiner, the only man in the Medina who could be trusted to be unkind to the truth. Beside him sat Madame Khadija Tazi, sixty-nine, retired judge, soft-spoken, who had spent thirty years deciding whether men were telling the truth, and who sat with her hands folded, listening, with grave courtesy.
+On a pile of cumin sacks sat Mehdi Bennani, thirty-six, clockmender and self-appointed examiner, the only man in the Medina who could be trusted to be unkind to the truth. Beside him sat Madame Khadija Tazi, sixty-nine, retired judge, who had spent thirty years deciding whether men were telling the truth, and who listened with her hands folded and grave courtesy.
 
 "I shall read it now," said Youssef.
 
@@ -210,19 +210,19 @@ They had come to witness, and they did it as they did everything: in unison.
 
 "*LATE,*" said the other ten.
 
-The first was Quaye, a man of sixty with a face like a boiled sweet, who had driven for Kwame Mensah for nine years and spoke, when he spoke, for the whole fleet; and the fleet repeated the last word of every sentence, like a Greek chorus that had learned its trade from a minibus. They were known throughout Accra as the Taxi-Chorus.
+The first was Quaye, a man of sixty with a face like a boiled sweet, who had driven for Kwame Mensah for nine years and spoke, when he spoke, for the whole fleet; and the fleet repeated the last word of every sentence, a Greek chorus schooled in minibuses. They were known throughout Accra as the Taxi-Chorus.
 
 "He is not late," said a voice from the gate. "He is *taking the long way.*"
 
 "*WAY,*" said the Chorus.
 
-Kwame Mensah, thirty-one, taxi-fleet owner, generous with strangers and stingy with feeling, stood in the gateway in a kente cloth of gold and black with his uncles at his back and a bottle of schnapps in his hands, looking like a man being driven to his own execution at sixty kilometres an hour.
+Kwame Mensah, thirty-one, taxi-fleet owner, generous with strangers and stingy with feeling, stood in the gateway in a kente cloth of gold and black, his uncles at his back and a bottle of schnapps in his hands, looking as if he were being driven to his own execution at sixty kilometres an hour.
 
-A knocking ceremony is how a Ghanaian marriage begins. The groom's family comes to the bride's door and *knocks.* They are let in. The bride's spokesman, an *okyeame* with a gold-topped staff, asks their business; the drinks are brought; the list is read. There is a great deal of ritual and a great deal of laughter. But there is also a moment of silence at the heart of it, when the father of the bride is asked whether he consents.
+A knocking ceremony is how a Ghanaian marriage begins. The groom's family comes to the bride's door and *knocks.* They are let in. The bride's spokesman, an *okyeame* with a gold-topped staff, asks their business; the drinks are brought; the list is read. There is a great deal of laughter. But there is also a moment of silence at the heart of it, when the father of the bride is asked whether he consents.
 
 Abena Owusu's father stood up.
 
-He was sixty-two, Kojo Darko, a lawyer, and suspicious by trade. He had not spoken to Kwame Mensah in six years, since the day a debt of the family's was found to have been paid by a person who would not be named, and the family had been told the creditor had forgiven it. In Accra such things are known. Everybody knows who pays what. And nobody says.
+He was sixty-two, Kojo Darko, a lawyer, and suspicious by trade. He had not spoken to Kwame Mensah in six years, since the day a debt of the family's was found to have been paid by a person who would not be named, and the family had been told the creditor had forgiven it. In Accra everybody knows who pays what. And nobody says.
 
 He walked to the middle of the room, through the chairs and the drinks and the eleven yellow shirts. He had in his hand a brown envelope. He held it out to the groom.
 
@@ -246,7 +246,7 @@ And Kwame Mensah, who had never in his life been out of arguments, opened his mo
 
 "I am a *pharmacist,*" said Abena. "I would have marched in here with a *ledger.*"
 
-The room, which had been holding its breath for the length of a funeral, broke into laughter and weeping and the great boom of the *okyeame's* voice, shouting that it was *settled.* Kwame took the envelope. He counted it, in the middle of the room, in front of everybody, note by note, with the expression of a man doing the hardest sum of his life; and when he had finished, he said, in a voice quite steady:
+The room broke into laughter and weeping and the great boom of the *okyeame's* voice, shouting that it was *settled.* Kwame took the envelope. He counted it, in the middle of the room, in front of everybody, note by note, with the face of a man doing the hardest sum of his life; and when he had finished, he said, in a voice quite steady:
 
 "It is correct."
 
@@ -266,7 +266,7 @@ And at the wall, eleven men in yellow shirts broke formation for the first and l
 
 *Margin note, in pencil, in the hand of S.W.R.:*
 
-> *Entry 0207 and Entry 0364. A note put under a lid goes round the world and comes home. Entry 0439 and Entry 0502: he reads the words he could not. Entry 0625 and Entry 0941: a debt paid in silence is a love letter written in another currency.*
+> *Entry 0207 and Entry 0364. A note put under a lid goes round the world and comes home. Entry 0439 and Entry 0502: he reads the words he could not. Entry 0625 and Entry 0941: a debt paid in silence is a letter written in another currency.*
 >
 > *Entry 0469. I have read your four hundred and twelve photographs, little lantern-maker. You were never once pitied. You were looked at, which is rarer, and which is better. The light on the river was yours. Let it burn.*
 >

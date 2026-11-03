@@ -10,23 +10,23 @@
 
 > Lima lies under cloud nine months in twelve,
 > A rain so fine it wets no sleeve, yet blinds;
-> Whoever hunts the stars must leave the shelves
+> Who hunts the stars must leave the wettest shelves
 > Of sea-level and climb, and leave behind
 > The warm, the fed, the footsore, and the near.
 > We climb with one who flees a man with lunch,
-> And with that man, who follows her, for fear
-> That love, like fish, is spoiled by too long a hunch.
+> And with that man, who follows, pale with fear
+> That love, like fish, is ruined by a hunch.
 
 ---
 
 ### SCENE I
-*Surquillo, Lima. A cebichería called La Marea, eleven-forty in the morning. The garúa lies on the rooftops like a lid on a pot.*
+*Surquillo, Lima. A cebichería called La Marea, eleven-forty in the morning. The garúa lies on the rooftops like a lid.*
 
 Sergio Castillo, thirty, cook, believed three things: that fish must be bought before the sun, that a lime must be squeezed by hand and never twice, and that cebiche, like love and unlike taxes, must be finished before four in the afternoon, after which it is not food but evidence.
 
-He stood at the long steel table over a bowl of sea bass and watched the lime do its work. That is the secret nobody believes: there is no fire, only acid and time, and the fish goes from glass to silk in the length of a short hymn. Leave it three minutes and it is raw; five and it is rubber. The whole art is knowing when to stop waiting, and Sergio had practised it on fish for twelve years and on one woman for nine months, and the fish had always been the more cooperative.
+He stood at the long steel table over a bowl of sea bass and watched the lime do its work. That is the secret nobody believes: there is no fire, only acid and time, and the fish goes from glass to silk in the length of a short hymn. Leave it three minutes and it is raw; five and it is rubber. The whole art is knowing when to stop waiting, and Sergio had practised it on fish for twelve years and on one woman for nine months, and the fish had been the more cooperative.
 
-"Causa," said his younger brother Renzo, shaking out a black umbrella in the doorway, with the care of a man who has never in his life needed to. "I sold one."
+"Causa," said his younger brother Renzo, shaking out a black umbrella in the doorway, with great care, as a man does who has never needed to. "I sold one."
 
 "An umbrella? In Lima?"
 
@@ -34,9 +34,9 @@ He stood at the long steel table over a bowl of sea bass and watched the lime do
 
 "That is not a sale. That is a sermon with a receipt."
 
-"Such is commerce," said Renzo, and sat down to the best cebiche in the district, coughing a small, quiet cough that he had been taking to the doctor, in the spring, for three years.
+"Such is commerce," said Renzo, and sat down to the best cebiche in the district, coughing a small, quiet cough that he had been promising to take to the doctor, every spring, for three years.
 
-At the next table sat Rosa Chávez, forty-two, community spiritual leader of three streets and a stairwell, whom nothing had ever frightened except a decaffeinated morning. She had a thermos of tea she would drink until two a.m., and a saucer on which she was reading, with great concentration, the dregs of the last customer's lime.
+At the next table sat Rosa Chávez, forty-two, community spiritual leader of three streets and a stairwell, whom nothing had ever frightened except a decaffeinated morning. She had a thermos of tea and a saucer on which she was reading, with great concentration, the dregs of the last customer's lime.
 
 "The leaves say," announced Rosa, "that the star-woman is leaving the dome."
 
@@ -44,7 +44,7 @@ At the next table sat Rosa Chávez, forty-two, community spiritual leader of thr
 
 "Everything is a leaf, hijo, if you respect it." She lowered her voice to a whisper audible across the street. "You have watched that little black circle on your phone for nine months. I charge for less."
 
-He had. It was the public feed of the all-sky camera at the university's mountain station above Ticlio: a fisheye turned up to the night, the Milky Way across it like a spill of salt, and in one corner the edge of a dome with a small yellow window. That window was lit when Lucía Paredes was working. He knew its hours as other men know the prices of stocks. It was the only telescope he owned, and it showed him nothing, and he had found, as lovers do, that *nothing* can be enormously detailed.
+He had. It was the public feed of the all-sky camera at the university's mountain station above Ticlio: a fisheye turned up to the night, the Milky Way across it like a spill of salt, and in one corner the edge of a dome with a small yellow window. That window was lit when Lucía Paredes was working. He knew its hours as other men know the prices of stocks. It was the only telescope he owned, and he had found, as lovers do, that *nothing* can be enormously detailed.
 
 "There was snow on the camera," he said. "Three nights."
 
@@ -52,7 +52,7 @@ He had. It was the public feed of the all-sky camera at the university's mountai
 
 "And the window has been dark since Tuesday."
 
-"Hm." Rosa tipped the saucer and pronounced: "A dark window means a dead lamp. A dead lamp means a dead battery. A dead battery means *nobody has gone up with a new one.*" She looked at him with the terrible gentleness of the very fearless. "A star that is dark, hijo, is only a star waiting for somebody to bring it a lunch."
+"Hm." Rosa tipped the saucer and pronounced: "A dark window means a dead lamp. A dead lamp means a dead battery. A dead battery means *nobody has gone up with a new one.*" She looked at him with the gentleness of the truly fearless. "A star that is dark, hijo, is only a star waiting for somebody to bring it a lunch."
 
 Sergio, who had been given many oracles and never one so near to useful, put down the lime.
 
@@ -62,22 +62,22 @@ Sergio, who had been given many oracles and never one so near to useful, put dow
 
 "Then mind it with an umbrella."
 
-He filled a thermos with leche de tigre, the pale sharp milk of the marinade, which in Lima is drunk against hangovers, heartbreak and the general weight of existence, and which is said to raise the dead; and at the door the tea-seller Milagros Ramos, who kept her cart at the university gate, caught his sleeve.
+He filled a thermos with leche de tigre, the pale sharp milk of the marinade, which in Lima is drunk against hangovers, heartbreak and the general weight of existence; and at the door Milagros Ramos, the tea-seller who kept her cart at the university gate, caught his sleeve.
 
 "She sends the bowls back," said Milagros softly. "You know that? Washed. With a number in pencil on the rim."
 
 "I thought it was a code."
 
-"It is," said Milagros. "A telephone number, Sergio. Only it is a *star's.*" She smiled the smile of one who is jealous of the young and has decided, this once, to be generous. "Go and ask her which one."
+"It is," said Milagros. "A telephone number, Sergio. Only it is a *star's.*" She smiled, a little jealous of the young, and generous for once. "Go and ask her which one."
 
 ---
 
 ### SCENE II
-*Above Ticlio, 4,300 metres. Night. The dome is lit again, by a camp lantern. Inside, a woman alone.*
+*Above Ticlio, nearly 5,000 metres. Night. The dome is lit again, by a camp lantern. Inside, a woman alone.*
 
 Lucía Paredes had not slept for thirty hours, nor eaten properly for four days, and had written the same coordinates nineteen times in her notebook, and was, in her own estimation, perfectly well.
 
-The dome smelled of cold iron and old cardigan. She had come up on Monday with the technician, who had gone down on Tuesday for a new generator battery, and had left her a lantern, a sack of coca leaves, a tin of biscuits and a promise to return on Thursday, which had been, in the manner of Andean promises, an observation about the weather.
+The dome smelled of cold iron and old cardigan. She had come up on Monday with the technician, who had gone down on Tuesday for a new generator battery, leaving her a lantern, a sack of coca leaves, a tin of biscuits and a promise to return on Friday, which had been, in the manner of Andean promises, an observation about the weather.
 
 She was twenty-nine, small and quick, dressed in four jumpers, one of them her father's, and she was, for reasons she would not have defended aloud, speaking to the telescope.
 
@@ -103,13 +103,13 @@ She was twenty-nine, small and quick, dressed in four jumpers, one of them her f
 > Because it is the only way I know
 > To say the thing—
 
-She stopped. The word was in her mouth and she put it back, as one puts back a coin that is the wrong denomination for the shop.
+She stopped. The word was in her mouth, and she put it back like a coin of the wrong denomination.
 
 "*Yana quyllur,*" she said instead. Black star. It was what her father called it when she was seven and had asked why the sky had holes in it.
 
 She was reaching for the lantern when somebody knocked on the door of the dome.
 
-Nobody knocks on a mountain. The mountain does not have visitors; it has weather. The knock came a second time: three small taps, the knock of a man accustomed to asking whether the kitchen is open.
+Nobody knocks on a mountain. The mountain does not have visitors; it has weather. The knock came again: three small taps, the knock of a man accustomed to asking whether the kitchen is open.
 
 She slid back the bolt. On the step, leaning on the frame as though the frame were the only thing holding up the night, stood a young man with a thermos and lips the colour of a bruised plum.
 
@@ -129,13 +129,13 @@ She slid back the bolt. On the step, leaning on the frame as though the frame we
 
 "*Sit.*"
 
-He sat. She made mate de coca on a camp stove, bitter and green and warm, the old tea of the mountains that her grandmother had given to every guest and every child and, on one occasion, a goat; and she watched him drink it, and found that her own hand was shaking, which she attributed to the stove.
+He sat. She made mate de coca on a camp stove, bitter and green and warm, the old tea of the mountains that her grandmother had given to every guest and every child and, on one occasion, a goat; and she watched him drink it, and found that her own hand was shaking, which she blamed on the stove.
 
 "The night bus," said Sergio, between sips. "The conductor made bets on whether I would be sick before Ticlio."
 
 "Were you?"
 
-"After Ticlio. I was loyal to the wager." His colour, by degrees, began to come back, like dawn in a poorly run sky. "I saw on the camera that the light was out."
+"After Ticlio. I was loyal to the wager." His colour came back by degrees, like dawn in a poorly run sky. "I saw on the camera that the light was out."
 
 "You *watch* the camera?"
 
@@ -163,9 +163,9 @@ They looked at one another: two people discovering that the other had been stand
 
 "Wait," said Lucía. She turned to the screen, where a graph lay stretched like a sleeping animal. "It is four-oh-two. In ten minutes my star should lean. I have been waiting eleven days for this. If the cloud holds off—"
 
-She went to the slit. And the cloud, which had lain on the ridge all evening like a grey cat on a warm lap, rose, stretched, and with the contempt of its kind strolled away.
+She went to the slit. And the cloud, which had lain on the ridge all evening like a grey cat, rose, stretched, and with the contempt of its kind strolled away.
 
-The sky opened: the whole ceiling of the world, thick with fire, and through it the river of the Milky Way, and in the river, black as ink spilled on a bright cloth, the dark llama walking, with Alpha and Beta Centauri for her eyes.
+The sky opened: the whole ceiling of the world, thick with fire, and through it the river of the Milky Way, and in the river, black as ink spilled on a bright cloth, the dark llama walking, her two bright eyes, Alpha and Beta Centauri, only now clearing the eastern ridge.
 
 "The llama," said Sergio, from the floor. "You drew her on a napkin at my table, the first day. I had it framed."
 
@@ -205,7 +205,7 @@ Lucía Paredes, who had spent nine years studying the unseen and never heard it 
 
 He turned from the eyepiece. He did not say *love,* a word he had never managed to say sober, nor, at that altitude, upright. He said, his lips the colour of a plum going slowly to rose:
 
-"In cebiche, the lime does the cooking. You do not light a fire. You only have to know when to stop waiting. Four minutes more and it is ruined; four less and it is raw." He swallowed. "I have been waiting nine months. I do not know if that is four minutes too many or four minutes too few. I only know that I came up a mountain to ask you."
+"In cebiche, the lime does the cooking. You only have to know when to stop waiting." He swallowed. "I have been waiting nine months. I do not know if that is four minutes too many or four too few. I only know that I came up a mountain to ask you."
 
 "And if it is too many?"
 
@@ -243,7 +243,7 @@ Dr. Beatriz Lima had not slept since Tuesday, and it was Saturday, and she sat o
 
 "I am resting my eyes. They are contemplating."
 
-Carlos Mendes, thirty-three, sports physiotherapist, sat beside her with two cups of coffee and a paper bag of pão de queijo. His left hand had a narrow pale band of skin where a ring had been for seven years, and it was beginning, this winter, to tan.
+Carlos Mendes, thirty-three, sports physiotherapist, sat beside her with two cups of coffee and a paper bag of pão de queijo. His left hand had a narrow pale band of skin where a ring had been for seven years, and it was beginning, this spring, to tan.
 
 "You took it off," said Beatriz.
 
@@ -269,7 +269,7 @@ From the kerb a taxi sounded its horn: Seu Gustavo, sixty-four, who had driven C
 
 "Which half?" said Beatriz, with her eyes shut.
 
-"The *asking,* doutora!" said Seu Gustavo, with the radiance of one who has never in his life been wrong by accident.
+"The *asking,* doutora!" said Seu Gustavo, radiant, like a man who has never in his life been wrong on purpose.
 
 *In São Paulo the story stands open, like a door on a warm morning, which is nine parts of a welcome.*
 
@@ -292,7 +292,7 @@ He walked down three steps to the third row. His voice, which had hidden behind 
 
 "Paní Horáková," he said. "I have not a very big sentence. I have only a short one. I would like to be reviewed by you, for the rest of my life."
 
-Lucie opened her notebook and held her pen a moment above the page, as one holds a sword over a head one has decided not to remove.
+Lucie opened her notebook and held her pen a moment above the page.
 
 "I did not hear the middle," she said.
 
@@ -366,7 +366,7 @@ And the courtyard, which had been waiting for a thousand years, laughed and wept
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., beside Entry 0567:*
+*Margin note, in pencil, in the hand of S.W.R., beside Entries 0567 and 0958:*
 
 > *"Candidate. Unconfirmed. Observed once. Do not announce a discovery until it has been seen twice."*
 >

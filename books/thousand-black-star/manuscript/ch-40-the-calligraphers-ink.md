@@ -29,7 +29,7 @@ His jars carried no labels. They carried small, careful drawings: a crocus for s
 
 "Then I have left my *eyes* at home," said Youssef smoothly. "It is a hot day. Read on."
 
-Mehdi read on. The lie passed over them as it had passed over every day for twenty years, like a small, tame cloud. It was a good lie. It had a beautiful voice. It had never once been found out, and Youssef loved it and hated it, as one loves and hates a very old coat that has come to fit exactly the shape of one's shame.
+Mehdi read on. The lie passed over them as it had passed over every day for twenty years, like a small, tame cloud. It was a good lie. It had a beautiful voice. It had never once been found out, and Youssef loved it and hated it, as one hates an old coat that has come to fit the exact shape of one's shame.
 
 "Do you know what the trouble with you is?" said Mehdi, closing the ledger.
 
@@ -177,7 +177,7 @@ She turned her face aside. The scarf had slipped, a little. She put it right.
 
 "Come," said Salma. "You've earned a walk. The square is waking up."
 
-They walked, in the long copper evening, through Jemaa el-Fna, where the snake-charmers were packing and the storytellers were beginning, each in his circle of listeners like a pebble in still water. A hakawati with a voice like an old drum was telling the story of a merchant who lost his ship and found his wife, and Youssef stood at the edge of the ring, as he had stood a thousand evenings, and listened with his whole body.
+They walked, in the long copper evening, through Jemaa el-Fna, where the snake-charmers were packing and the storytellers were beginning, each in his circle of listeners like a pebble in still water. A storyteller with a voice like an old drum was telling the story of a merchant who lost his ship and found his wife, and Youssef stood at the edge of the ring, as he had stood a thousand evenings, and listened with his whole body.
 
 "You see?" said Salma softly. "There is more than one way to hold a story. The ears are very old. The eyes are only a *recent* arrival. My grandfather, who copied the Book in this hand sixty years, used to say that a letter well made is a courtesy to God and to the reader, but that the courtesy was first learned by those who *listened.* You are not behind, Youssef. You are *early.*"
 
@@ -187,7 +187,7 @@ At the end of the story the storyteller held out his cap, and Youssef dropped in
 
 "Which colour is that?" asked Youssef.
 
-"Ask your teacher," said the hakawati, and winked.
+"Ask your teacher," said the old man, and winked.
 
 That night, when the lane had gone to sleep and the jars stood in their rows like a congregation of small saints, Youssef sat alone at his stall under one bare bulb, with a reed, a pot of ink, and a sheet of cheap paper, and did what he had never done: he spoke to himself without a smile.
 
@@ -211,13 +211,13 @@ He drew it twice. Then, because the *ba* has a seed beneath it, he drew the seed
 ### SCENE IV
 *Mexico City. Coyoacán. A Saturday, eleven in the morning, and a church bell with no sense of time.*
 
-At the other side of the world, where the same sun was just climbing into an enormous blue sky, a man in a black wedding suit was standing on a ladder with a brush.
+Half a world away, in a city where it was still the morning, a man in a black wedding suit was standing on a ladder with a brush.
 
 This was not, strictly, how the programme had been planned.
 
 "Rafael!" shouted Camila Reyes, from the foot of the ladder, in a white dress and fury. "You are *married!* You have been married for forty-five minutes! There is a *mariachi!*"
 
-"I know," said Rafael Ortega, twenty-six, painter, romantic, a man who had once in his youth painted the same woman's face on a hundred walls without knowing her name. "I will be a minute."
+"I know," said Rafael Ortega, twenty-six, painter, romantic, who had once painted the same woman's face on a hundred and three walls without knowing her name. "I will be a minute."
 
 "You said that at the altar."
 
@@ -229,7 +229,7 @@ For they had been wed at the church of San Juan Bautista at ten o'clock, in the 
 
 And now the whole party had spilled out into the lane behind the house, where an old wall of lime plaster, prepared that week by the stonemason Ximena Salazar, a woman of sixty-three with forearms like cables and the severity of an Inca queen, stood white and waiting.
 
-"It is the hundred-and-fourth," said Rafael, not coming down. "I could not marry you and leave you on a hundred walls like a lost umbrella. There has to be one that is *finished.*"
+"It is the hundred-and-fourth," said Rafael, not coming down. "I could not marry you and leave you on a hundred and three walls like a lost umbrella. There has to be one that is *finished.*"
 
 "You have painted me a hundred times!"
 
@@ -267,9 +267,9 @@ Then, in her wedding dress, in front of the whole of Coyoacán, she took the lad
 
 And there, at the edge of the plaster, beside her painted self, a little crooked and a little too thick, with a lawyer's confidence and no training whatsoever, Camila Reyes painted the five long fingers of the man who had painted her: the left hand, the hand that held the brush, reaching up out of the corner of the wall as though to lift her down.
 
-The mariachi, who had been waiting since eleven, took it as a cue.
+The mariachi, who had been waiting since the end of the Mass, took it as a cue.
 
-"*¡Que vivan los novios!*" cried Ignacio Salazar, with tears running into his moustache.
+"*¡Que vivan los novios!*" cried Ignacio Ortega, with tears running into his moustache.
 
 "*¡Que vivan!*" shouted forty neighbours; and a nine-year-old flower girl named Renata Vargas, who had been told to scatter petals and had thrown them all at the policeman, threw the basket as well.
 

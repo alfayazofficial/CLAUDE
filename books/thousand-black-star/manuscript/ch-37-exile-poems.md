@@ -29,7 +29,7 @@ Dr. Hassan Idris, thirty-five, courteous to the point of illness, bent over the 
 
 "Yes. It is very hot. That is why you are coughing. It is also why I am asking you to breathe in."
 
-On his phone, which lay on the desk face-up, a voice note had come in from Omdurman. It had been arriving in pieces since seven, in a staccato of dropped syllables, like a man running over stepping-stones. *Hassan... Mama... the fever... the pharmacy is... no, the road to... Hassan, I cannot... do you hear...* His brother Osman, who made umbrellas and was therefore, in that country, a prophet. He had said it nine times, this morning, in nine different broken ways, and it came to the same thing: *Mother is not well. Come. Or do not come, and send the money, and say nothing.*
+On his phone, which lay on the desk face-up, a voice note had come in from Omdurman. It had been arriving in pieces since seven, in a staccato of dropped syllables. *Hassan... Mama... the fever... the pharmacy is... no, the road to... Hassan, I cannot... do you hear...* His brother Osman, who made umbrellas and was therefore, in that country, a prophet. He had said it nine times, this morning, in nine different broken ways, and it came to the same thing: *Mother is not well. Come. Or do not come, and send the money, and say nothing.*
 
 He had not said anything. He had gone on listening to the child's chest, which was clear.
 
@@ -47,7 +47,7 @@ It belonged to Old Zuhura, who had been the cleaner of this building since it wa
 
 It was her idea, too, that the walls of the waiting room should wear poems.
 
-She had had it in January, when a young Egyptian woman named Amal Yusuf had come, with an enormous bag and a face like a lit match, to ask whether the clinic would allow her to read verse to the patients on Thursday afternoons, *as waiting rooms are the only churches without sermons.* Hatim Babiker, the manager, a nurse of sixty-two from Omdurman who was superstitious and could not keep time, and who arrived every day at noon with a fresh omen to account for it, had consulted a cat, and said yes.
+She had had it in January, when a young Egyptian woman named Amal Yusuf had come, with an enormous bag and a face like a lit match, to ask whether the clinic would allow her to read verse to the patients on Thursday afternoons, *as waiting rooms are the only churches without sermons.* Hatim Babiker, the manager, a nurse of sixty-two from Omdurman who was superstitious and could not keep time, and who arrived every day at noon with a fresh omen to account for it, consulted a cat, and said yes.
 
 Since then the poems had begun, like moss, to appear. They were taped to the wall beside *WASH YOUR HANDS*; they were stuck up with plasters; and Zuhura, who could not read them, had decided, with great confidence, that they were *the prescriptions of the clinic's second doctor, the better one,* and had begun to dispense them by instinct.
 
@@ -71,9 +71,9 @@ On the other side of a desert, at a quarter to twelve, in a heat of forty-six de
 
 "Never. A telephone is a leash. A man at the other end of it wants something."
 
-The bridge was a footbridge, six hundred metres of steel and pale stone, from the old book-market at the bottom of Mutanabbi Street across the brown water to the Karkh shore, and it was due to open in the autumn, and was, at the moment, exactly two metres of air short of the far bank. A gap, like the gap in a child's smile. The two halves stood in the river, each reaching, and in the middle the Dijla went through, as slow as a thought.
+The bridge was a footbridge, six hundred metres of steel and pale stone, from the old book-market at the bottom of Mutanabbi Street across the brown water to the Karkh shore, and it was due to open in the autumn, and was, at the moment, exactly two metres of air short of the far bank. A gap, like the gap in a child's smile. The two halves stood in the river, each reaching, and between them the Dijla went through, slow as a thought.
 
-"*Habibti!*" came a roar from the quay, and up the steps, with a steaming foil parcel the size of a baby, came a short wide man in a stained apron, perspiring with the indignity of a fortune-teller whose predictions have been publicly mislaid. This was Zaid Jabbar, thirty-five, a butcher of Basra, who had driven eight hours with the lunch, and who made promises faster than he could keep them, a habit that had made him, at once, the best matchmaker in the south and its most unpopular. "I promised the kebabs by noon!"
+"*Habibti!*" came a roar from the quay, and up the steps, with a steaming foil parcel the size of a baby, came a short wide man in a stained apron, perspiring with indignity. This was Zaid Jabbar, thirty-five, a butcher of Basra, who had driven eight hours with the lunch, and who made promises faster than he could keep them, a habit that had made him, at once, the best matchmaker in the south and its most unpopular. "I promised the kebabs by noon!"
 
 "It is three minutes past," said Shaimaa.
 
@@ -91,13 +91,13 @@ The engineer put down his drawings.
 
 "Her father," he repeated.
 
-"On the five o'clock! He will not telephone, because he fears the telephone, he is seventy-eight, he was a lifeguard on the Shatt al-Arab for forty years and he has never in his life been willing to say a thing to a machine that he could say to a face! I have it from the cousin of the baker's wife. He is coming up to Baghdad, to see his daughter, for the *answer*." The butcher put down the kebabs. His voice dropped by an octave, which for him was a collapse. "She has until tomorrow midnight. The Italians, I am told, are impatient."
+"On the five o'clock! He will not telephone, because he fears the telephone, he is seventy-eight, he was a lifeguard on the Shatt al-Arab for forty years and he has never in his life been willing to say a thing to a machine that he could say to a face! I have it from the cousin of the baker's wife. He is coming up to Baghdad, to see his daughter, for the *answer*." The butcher put down the kebabs. His voice dropped by an octave, which for him was a collapse. "She has until tomorrow midnight. The Danes, I am told, are impatient."
 
 Nobody spoke. Down on the water a boy in a very small boat passed under the gap, singing to himself, and a pair of pigeons crossed the open air above the Dijla in a short, scornful line, unimpeded by engineering.
 
 For the past five months, Mustafa Karim had built a bridge. He had stood in the river at dawn with a surveyor's staff. He had drawn the piers and checked the tolerances and argued with a committee of sixteen. And on every one of those mornings, he had been joined, at six, with two glasses of sweet black tea, by the architect who had designed the lamps, the railings, and the little pavilion at the Rusafa end, in which a man could sit and read; Noor Hashim, thirty, ambitious, eloquent, with a pencil in her hair and a way of looking at a half-finished span as though it owed her an explanation.
 
-He had built the whole of it so that she should have somewhere to come back to. It was a sentence he had written to a stranger in a ledger, and not once said aloud.
+He had built the whole of it so that she should have somewhere to come back to. It was a sentence he had written to a stranger in a ledger, and had never once said aloud.
 
 "Eat the kebab," said Shaimaa Al-Obaidi, unexpectedly, in the voice of a woman who, for all her war against the telephone, was a good deal kinder than she let on. "It will get cold. The rest is the river's business."
 
@@ -124,7 +124,7 @@ Amal Yusuf was thirty-one. She was fierce and lyrical, and wrote, as she lived, 
 
 A silence settled over the waiting room, the kind that comes after a thing has touched the right bone. Somebody blew her nose.
 
-At the back, against the wall, with a clipboard he was not reading and a stethoscope that he had forgotten to take off, a man had gone entirely still.
+At the back, against the wall, with a clipboard he was not reading and a stethoscope he had forgotten to take off, a man had gone entirely still.
 
 "Is it about someone real?" said Nahid, from the third row, who had no talent for tact. "The doctor?"
 
@@ -154,7 +154,7 @@ Hassan Idris did not move. His stethoscope hung from his neck like a rope.
 
 It was the hour at which the building ceased to be a clinic and became a place of old tiles and good silence. The fan had stopped turning. The street below was a long yellow sleep of lamps. In the empty waiting room, in the chair by the window where the mothers sat, with a single bulb on, Dr. Hassan Idris sat with a brown envelope open on his knee, and read.
 
-There were thirty-one poems. They were written in a quick, black, impatient hand, as of one who writes at a kitchen table with a cigarette she is trying to give up. They told, in the future tense, the whole of a man's life, and he knew, from the first, that it was his. The long flight; the stairs; the room above the pharmacy. The sack in each hand. The sister-in-law's weeping in the voice note; the way he could not bear a woman's name said in a certain way. His mother's door. In the nineteenth poem, he found the bread; in the twenty-second, the wall; and in the twenty-seventh, with a clean stab of shock, a line about a boy of nine on a bad road, whom Hassan had never mentioned to a living soul.
+There were thirty-one poems. They were written in a quick, black, impatient hand, as of one who writes at a kitchen table with a cigarette she is trying to give up. They told, in the future tense, the whole of a man's life, and he knew, from the first, that it was his. The long flight; the stairs; the room above the pharmacy. The sack in each hand. Osman's breaking voice in the notes; the way he could not bear his mother's name said in a certain tone. His mother's door. In the nineteenth poem, he found the bread; in the twenty-second, the wall; and in the twenty-seventh, with a clean stab of shock, a line about a boy of nine on a bad road, whom Hassan had never mentioned to a living soul.
 
 *She could not have known.*
 

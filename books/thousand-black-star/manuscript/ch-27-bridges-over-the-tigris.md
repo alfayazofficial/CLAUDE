@@ -31,7 +31,7 @@ It was nearly done. The deck was laid. The cables sang, very faintly, in the eve
 
 Mustafa Karim stood on the western half and looked at the nothing.
 
-He was thirty-four, a civil engineer, and a man who believed in numbers because numbers, unlike people, could be checked. He had a pencil behind his ear, a hard hat in his hand, and a small, patient, stubborn face that had spent twelve years learning to look as though it had no feelings and had never once managed it. He had been awake since four. He had a spreadsheet in his head that told him the exact weight, in kilonewtons, that each cable would carry, and another, which he did not consult, that told him how many days it was until the woman who had drawn the bridge went away.
+He was thirty-four, a civil engineer, who believed in numbers because numbers, unlike people, could be checked. He had a pencil behind his ear, a hard hat in his hand, and a patient, stubborn face that had spent twelve years trying to look as though it had no feelings and had never once managed it. He had been awake since four. He had a spreadsheet in his head that told him the exact weight, in kilonewtons, that each cable would carry, and another, which he did not consult, that told him how many days it was until the woman who had drawn the bridge went away.
 
 "You are staring," said Shaimaa Al-Obaidi.
 
@@ -43,7 +43,7 @@ She was the stonemason, twenty-eight, broad of shoulder and dry of tongue, in a 
 
 "Shaimaa."
 
-"I carve stone, Engineer. I am not obliged to be tactful. It is the privilege of the trade. The stone cannot hear me and the public does not read the small print." She blew the dust from a letter. "Do you want to know what the committee wants me to write?"
+"I carve stone, Engineer. I am not obliged to be tactful. The stone cannot hear me and the public does not read the small print." She blew the dust from a letter. "Do you want to know what the committee wants me to write?"
 
 "I have read the draft."
 
@@ -71,7 +71,7 @@ Shaimaa laughed out loud. Mustafa, who was trying not to, took a long time to fi
 
 She came at sunset, as she always came. He would never have admitted that he knew the hour.
 
-Noor Hashim was thirty, an architect, and she walked like a woman who has been told, since the age of six, that she is going to be remarkable, and had made the best of it. She wore a long coat the colour of wet sand and carried a roll of drawings under one arm and, in her satchel, where it had lain for eleven days, an envelope with a foreign stamp.
+Noor Hashim was thirty, an architect, and she walked like someone who has been told since the age of six that she is going to be remarkable, and has made the best of it. She wore a long coat the colour of wet sand and carried a roll of drawings under one arm and, in her satchel, where it had lain for eleven days, an envelope with a foreign stamp.
 
 She had drawn the bridge. Not the cables and the weight; that was his. She had drawn the *way* of it: the long curve, the benches in the shade of the pylons, the lamps along the rail, each set in a small pierced shade of brass so that at night the light fell on the deck in the patterns of old Abbasid windows, stars within stars. A hundred and twelve lamps. She had drawn every one of them by hand.
 
@@ -127,9 +127,9 @@ She turned the glass in her fingers. In her satchel the envelope lay against her
 
 "I have had eleven days to practise."
 
-She laughed, not happily; she set down her glass. "You are *impossible.* You will not ask. You will not say stay. You will not even say that you will mind."
+She laughed, not happily, and set down her glass. "You are *impossible.* You will not ask. You will not say stay. You will not even say that you will mind."
 
-"If I said that I minded," said Mustafa, "you would stay. Out of kindness. And in a year you would be a woman who had stayed out of kindness, and you would look at this bridge, and you would not see a bridge. You would see a *wall.*" He turned to her at last, and his face, in the going light, was as plain and as gentle as a brick. "I would rather be a man you left than a man you were *kept* by."
+"If I said that I minded," said Mustafa, "you would stay. Out of kindness. And in a year you would be a woman who had stayed out of kindness, and you would look at this bridge, and you would not see a bridge. You would see a *wall.*" He turned to her at last, and his face, in the going light, was plain and gentle as a brick. "I would rather be a man you left than a man you were *kept* by."
 
 "And what if I come back?"
 
@@ -139,7 +139,7 @@ She laughed, not happily; she set down her glass. "You are *impossible.* You wil
 
 "It will be here. I will be somewhere near it." He tried a smile, and nearly managed. "I am an engineer. I only promise things that have been load-tested."
 
-She stood up. She walked to the very edge of the western span, where the white deck stopped, and stood there in her sand-coloured coat with the wind pulling at the roll of drawings, and looked across the gap to the other side, where the bookshops were putting out their lamps. A single boy was crossing the old stone arch at the end of the street, with a sack on his shoulder. He was very small at that distance. He looked, she thought, like a comma.
+She stood up. She walked to the very edge of the western span, where the white deck stopped, and stood there in her sand-coloured coat with the wind pulling at the roll of drawings, and looked across the gap to the other side, where the bookshops were putting out their lamps. A single boy was crossing the old stone arch at the end of the street, with a sack on his shoulder, very small at that distance. He looked, she thought, like a comma.
 
 "I will tell you what I will do," said Noor. "I will not answer tonight. And I will not answer tomorrow. I will answer *after.* After the bridge is opened. After I have walked across it. I want to know what it feels like, to cross a thing I have made, before I decide to cross a thing I have not."
 
@@ -169,7 +169,7 @@ She read it, and did not ask what it meant. It was the span of her stride.
 
 The women's field had been called to the line, and Selam Tesfaye was kneeling on the tarmac with her left leg stretched before her like an unpaid bill.
 
-"Do not look at it," said Abel Haile, the nurse who had been her friend for eleven years and her physiotherapist for the last four, and who was, at that moment, taping her knee with the grim concentration of a man defusing a clock. "It is looking at *you*, and it is not impressed."
+"Do not look at it," said Abel Haile, the nurse who had been her friend for eleven years and her physiotherapist for the last four, and who was, at that moment, taping her knee with the grim concentration of a bomb-disposal officer. "It is looking at *you*, and it is not impressed."
 
 "It has been looking at me for nine months."
 
@@ -179,23 +179,25 @@ The women's field had been called to the line, and Selam Tesfaye was kneeling on
 
 "And?"
 
-"I am not a tribunal, Abel. I do not rule on knees." Selam was thirty-three. She was lean and brown and fierce, with a long jaw and long thighs and a stillness at the centre of her that unsettled strangers; she had run for her country at three Games, and tomorrow, in all probability, would be able to run for her own convenience, and only that. "Four more hours. Then it may be as unhappy as it likes."
+"I am not a tribunal, Abel. I do not rule on knees." Selam was thirty-three, lean and brown and fierce, with a long jaw, long thighs and a stillness at the centre of her that unsettled strangers; she had run for her country at three Games, and after today, in all probability, would run only for her own convenience. "Three more hours. Then it may be as unhappy as it likes."
 
-"And the injection?" said Abel, with the air of a man asking a thing he already knows the answer to.
+"And the injection?" said Abel, who knew the answer.
 
 "No."
 
-At the barrier, a small, grey, exquisitely dressed man of sixty-two, with a spray of red roses held against his chest like a rifle, was watching her with an expression of deep suspicion. Yonas Mekonnen had been a florist for forty years and her coach for nineteen, and distrusted all things that could not be pruned.
+At the barrier, a small, grey, exquisitely dressed man of sixty-two, with a spray of red roses held against his chest like a rifle, was watching her with an expression of deep suspicion. Yonas Mekonnen had been a florist for forty years and her coach for nineteen, and distrusted anything that could not be pruned.
 
 "Take it," he said, pushing a rose through the barrier. "A rose in the pocket is a good-luck thing."
 
 "It will be crushed."
 
+"So will we all."
+
 "That is not a comfort, Yonas."
 
 "I did not say it was a comfort. I said it was a rose."
 
-Beside him, in a white netela shawl and a grey-brown headscarf, her prayer-cord wound twice round her fingers, stood the oldest and most terrible of her supporters: her mother, Tigist Girma, seventy-six, retired fishmonger, who had never been fooled by a daughter in her life and knew perfectly well that the knee was not the only thing the girl had decided not to mention. Tigist said nothing. She raised her cross, and kissed it, and held it for a moment above her daughter's head; then she lowered it, and put into Selam's hands a small twist of cloth in which were three roasted coffee beans.
+Beside him, in a white netela shawl and a grey-brown headscarf, her prayer-cord wound twice round her fingers, stood the oldest and most terrible of her supporters: her mother, Tigist Girma, seventy-six, retired fishmonger, who had never been fooled by a daughter in her life and knew perfectly well that the knee was not the only thing the girl had decided not to mention. Tigist said nothing. She kissed her cross, held it for a moment above her daughter's head, and put into Selam's hands a small twist of cloth holding three roasted coffee beans.
 
 "Chew them at the thirty-kilometre mark," said Tigist. "The beans know you."
 
@@ -207,19 +209,19 @@ Beside him, in a white netela shawl and a grey-brown headscarf, her prayer-cord 
 
 "Run like a woman who has *finished,*" said her mother, "not like a woman who is *finishing.* There is a difference. The first has already won."
 
-"I look forward to it," said Selam gravely.
+"I will try, Mama."
 
-"You will not even *be* here!"
+"Do not try. Trying is for those who are still afraid."
 
-"No," said Selam, and there was in it the whole of a long season. "I think that I won't."
+"No," said Selam, and there was in it the whole of a long season. "I think that I am not."
 
 At the very back of the crowd, behind the barrier, stood the man Selam did not look for.
 
-Samuel Bekele was thirty-six, a coffee exporter of Merkato, steady, proud, and extremely tired. His brother, who had died in October, had left him eleven thousand sacks of green Yirgacheffe, a warehouse with a mortgage, and an unbroken chain of polite and utterly merciless creditors. He had a meeting at ten o'clock with the landlady of the warehouse, a blunt woman of fifty-five named Rahel Girma, who had told him that he might have until noon and not an hour after. He had a buyer in Hamburg who would sign for a price that was a kind of robbery, by the same hour. He had a telephone in his pocket, which had been ringing since five. He had not slept. He was wearing the wrong shoes. He had come to see her run.
+Samuel Bekele was thirty-six, a coffee exporter of Merkato, steady, proud, and very tired. His brother, who had died in October, had left him eleven thousand sacks of green Yirgacheffe, a warehouse with a mortgage, and an unbroken chain of polite and utterly merciless creditors. He had a meeting at ten o'clock with the landlady of the warehouse, a blunt woman of fifty-five named Rahel Girma, who had told him that he might have until noon and not an hour after. He had a buyer in Hamburg who would sign for a price that was a kind of robbery, by the same hour. He had a telephone in his pocket, which had been ringing since five. He had not slept. He was wearing the wrong shoes. He had come to see her run.
 
 ---
 
-**The Gulele Road, kilometre thirty-eight. Two hours and fifty-one minutes after the start.**
+**The Gulele Road, kilometre thirty-eight. Two hours and thirty-one minutes after the start.**
 
 (*Dawit Tadesse, fifty-nine, librarian of Bahir Dar and a man who had never been to the sea, was sitting in a café on the corner with a transistor radio. He was a little vain. He had been given leave to narrate.*)
 
@@ -231,9 +233,9 @@ Samuel Bekele was thirty-six, a coffee exporter of Merkato, steady, proud, and e
 
 "How do you know there's a rose in her pocket?"
 
-"I have *imagination,*" said Dawit, with great dignity. "It is the chief function of the librarian."
+"I have *imagination,*" said Dawit, with dignity. "It is the chief function of the librarian."
 
-In truth, a mile and a half to the north, the race was no longer a matter for epic. At thirty-eight kilometres, a runner is not a hero; a runner is a small, hot, rhythmic debt, owing the road everything. Selam ran. Her breath came in two beats and went out in two. The sun was well up now, and the hills had turned the colour of honey; the crowds at the roadside had thinned, and then grown, and then become a single sound. Her left knee was no longer a joint. It was an argument, delivered at intervals, in the voice of a hot nail.
+In truth, out on the road, the race was no longer a matter for epic. At thirty-eight kilometres, a runner is not a hero; a runner is a small, hot, rhythmic debt, owing the road everything. Selam ran. Her breath came in two beats and went out in two. The sun was well up now, and the hills had turned the colour of honey; the crowds at the roadside had thinned, and then grown, and then become a single sound. Her left knee was no longer a joint. It was an argument, delivered at intervals, in the voice of a hot nail.
 
 She chewed her three beans.
 
@@ -253,7 +255,7 @@ At the thirty-ninth kilometre, on the corner by the old petrol station, there wa
 
 It was a plain steel thermos with a dent in it. The hand that held it was a man's, not young, tired, and quite steady. It held it out for the length of two strides, and she could have taken it, and did not; for to take it she would have had to look. She looked.
 
-Samuel Bekele was not saying anything. He had no breath to spare. He had run, she saw, along the barrier from the three-kilometre point, in the wrong shoes, in a jacket and a good tie, with a telephone buzzing like a trapped wasp in his pocket. His face was grey. He had never in his life looked less like a coffee merchant, and never more like a man.
+Samuel Bekele was not saying anything. He had no breath to spare. He had abandoned a minibus stuck in the crowds and run along the barrier for the last three kilometres, she saw, in the wrong shoes, in a jacket and a good tie, with a telephone buzzing like a trapped wasp in his pocket. His face was grey. He had never looked less like a coffee merchant, and never more like a man.
 
 "It is *buna,*" he gasped. "Black. No sugar. Mama said the beans know you, but the *coffee* knows me."
 
@@ -265,7 +267,7 @@ She laughed. It cost her a breath, and she paid it.
 
 "At ten."
 
-"It is nine-forty."
+"It is nine thirty-five."
 
 "You will be late."
 
@@ -279,7 +281,7 @@ She laughed. It cost her a breath, and she paid it.
 
 "I am going," said Samuel. And he kept running.
 
-He ran with her to the corner of the square. He ran when the barrier ended and the road narrowed, along the footpath, among the crowds. He ran the last four hundred metres on the pavement, a man in a tie, weeping and laughing and out of breath, while on the road beside him the woman he had not yet said a single word to about love gave her last whole self to the line. A hundred metres out her knee went, as a branch goes in a storm, and she did not stop. She did not stop; she ran on it, the leg dragging like a flag, and the crowd, who knew what it was seeing, rose up in one body and made a noise that Dawit, in his café, described as *the sound of Mount Entoto clearing its throat.*
+He ran when the barrier ended and the road narrowed, along the footpath, among the crowds. He ran the last four hundred metres on the pavement, a man in a tie, weeping and laughing and out of breath, while on the road beside him the woman he had not yet said a single word to about love gave her last whole self to the line. A hundred metres out her knee went, as a branch goes in a storm, and she did not stop. She did not stop; she ran on it, the leg dragging like a flag, and the crowd, who knew what it was seeing, rose in one body and made a noise that Dawit, in his café, described as *the sound of Mount Entoto clearing its throat.*
 
 She crossed the line in third place, in two hours and forty-one minutes, and sat down on the road.
 
@@ -303,9 +305,9 @@ But Samuel went through the barrier, at last, and gave her the coffee.
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R.:*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0076, 0165, 0233 and 0243:*
 
-> *Entry 0076 and Entry 0243. A bridge and a road. One is built that a person may return; the other is run that a person may leave. I have noticed that the builders and the runners of this world are, very often, the same people, at different hours.*
+> *A bridge and a road. One is built that a person may return; the other is run that a person may leave. I have noticed that the builders and the runners of this world are, very often, the same people, at different hours.*
 >
 > *I do not know whether Noor will cross. I know only that Mustafa drew a line the length of her stride, and that a man who does that has already said a great deal more than he thinks.*
 >

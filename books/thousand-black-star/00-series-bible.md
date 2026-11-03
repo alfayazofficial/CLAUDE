@@ -10,7 +10,7 @@ Astronomers speak of a **black star**: a sun whose light has gone out, yet whose
 
 In this novel, a black star is **the thing a person never said aloud** — the love, the apology, the confession kept behind the teeth. Everyone carries one.
 
-For forty-five years an astronomer named **Seraphine Wyndham-Rao** (born in Colombo, died in Cornwall) kept a private ledger called **The Register of Black Stars**. Anyone in the world could write her one letter, confessing the thing they had never said. She promised to keep each letter, never to name the writer, and to number them in the order they arrived. She stopped at one thousand.
+For forty-five years an astronomer named **Seraphine Wyndham-Rao** (born in Colombo, died in Cornwall) kept a private ledger called **The Register of Black Stars**. Anyone in the world could write her one letter, confessing the thing they had never said. She promised to keep each letter, never to name the writer, and to number them in the order she shelved them (not strictly the order they arrived). She stopped at one thousand.
 
 On the night she dies, her grand-niece **Nadeesha Fernando** opens the Register to the public online. For the first time the thousand letters are readable, searchable, and answerable. Strangers read each other's unsaid words. Some answer. Some are found. Some run.
 

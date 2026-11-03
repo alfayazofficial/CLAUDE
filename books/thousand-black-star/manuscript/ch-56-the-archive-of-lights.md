@@ -28,7 +28,7 @@ A light has a character, said the manual, and Ingrid Solberg, forty-seven, archi
 
 She had always thought it the most consoling sentence in the language.
 
-She sat at her high desk under a green-shaded lamp, in a grey wool cardigan with a pencil behind her ear, a precise, patient, slightly forbidding woman, with eyes the colour of cold water over stones, and entered into the catalogue the last of a box of lightkeepers' journals from Lofoten. *Light: Skrova. Character: Fl W 10s. Keeper's remarks: wind SW, force 7, seen a whale.* She had catalogued four thousand lights. She knew every one of them by its flash.
+She sat at her high desk under a green-shaded lamp, in a grey wool cardigan, a pencil behind her ear, a precise, patient, slightly forbidding woman with eyes the colour of cold water over stones, and entered into the catalogue the last of a box of lightkeepers' journals from Lofoten. *Light: Skrova. Character: Fl W 10s. Keeper's remarks: wind SW, force 7, seen a whale.* She had catalogued four thousand lights. She knew every one of them by its flash.
 
 "Fru Solberg!"
 
@@ -44,19 +44,19 @@ It was a large, cheerful, weather-beaten voice, and it came through the door ahe
 
 "I said it had flown to Denmark."
 
-"That is the correct answer. Now." He took off his cap, which with Dag was equivalent to a stage direction. "I am here on behalf of an old shipmate. He has a thing he wishes to give the Archive, and he is a coward, and I have undertaken to carry it in the door."
+"That is the correct answer. Now." He took off his cap, which with Dag was equivalent to a stage direction. "I am here for an old shipmate. He has something he wishes to give the Archive, and he is a coward, and I have undertaken to carry it in the door."
 
 "Who is the shipmate?"
 
-"A man," said Dag Ellingsen, with the delicacy of a ship's anchor coming down on a church floor, "named Nilsen."
+"A man," said Dag Ellingsen, with all the delicacy of an anchor on a church floor, "named Nilsen."
 
 Ingrid's pencil, which had been in her hand, was suddenly on the floor.
 
 ---
 
-He was in the car park. He had been in the car park for forty minutes, in an old blue seaman's coat, with a parcel under his arm wrapped in oilcloth and tied with a tarred string, and a face that looked as if it had been issued with the coat.
+He was in the car park. He had been there forty minutes, in an old blue seaman's coat, with a parcel under his arm wrapped in oilcloth and tied with tarred string, and a face that looked as if it had been issued with the coat.
 
-Anders Nilsen, fifty, retired captain. Gruff, long-boned, white-haired at the temples, hands like a pair of oars. He had retired two summers ago, with a bad back and a good pension, after thirty years of sea, and had since discovered that a man who has been bound for somewhere all his life is a poor tenant of the shore. He had a small flat in Grünerløkka and a cat that disapproved of him. And he had under his arm the last of his ship's logs, which the Archive of Lights would, a clerk had said with a sniff, be *happy to receive.*
+Anders Nilsen, fifty, retired captain: gruff, long-boned, white at the temples, hands like a pair of oars. He had retired two summers ago, with a bad back and a good pension, after thirty years at sea, and had since discovered that anyone who has been bound for somewhere all his life is a poor tenant of the shore. He had a small flat in Grünerløkka and a cat that disapproved of him. And he had under his arm the last of his ship's logs, which the Archive of Lights would, a clerk had said with a sniff, be *happy to receive.*
 
 He had read the name on the staff board three times. *I. Solberg, Archivist.* It is a common name, he had told the cat. The cat had declined to agree.
 
@@ -82,7 +82,7 @@ The door of the Archive opened. A woman stood in it, in a grey cardigan, with a 
 
 ---
 
-She took him, without a word, down the long room between the cabinets, past rows of green-bound journals, to a small steel drawer at the end, and opened it with a key from her belt. From it she lifted a log-book, black with age, stamped with an anchor, and laid it on the reading table under the lamp, and opened it, without searching, to a page that had been opened so often it would fall open on its own.
+She took him, without a word, down the long room between the cabinets to a small steel drawer at the end, and opened it with a key from her belt. From it she lifted a log-book, black with age, stamped with an anchor, and laid it on the reading table under the lamp. It fell open, without searching, to a page that had been opened so often it would do so on its own.
 
 *Bergen. 14 June. Alongside Bryggen 1800. Fair. Wind light N. Shore leave to 2200.*
 
@@ -92,9 +92,7 @@ And below, in a young hand, in a smaller, quicker ink, set a little apart from t
 
 "I was twenty-two," said Anders, to the page. "I was a third mate on a ship that was sailing at midnight, and you were nineteen, and the time was a quarter to ten, and I said nothing, I said *I do not know,* and you laughed, and said *the clock is behind you,* and it was. It was a clock on a post. And I turned back and you had gone. And I stood there with the name in my head, and I could think of nothing to do with it but write it in the one book I owned that nobody would ever read."
 
-"I read it," said Ingrid.
-
-"In two thousand and one. A box came from the shipping company, with fifty years of logs. I was a junior, cataloguing the rubbish. I opened the *Havørn* at random." She laid her hand on the page. "And there was my name, in a stranger's hand, and a quay I had stood on, and a boy who had said *I do not know,* whom I had thought for three years a very rude sailor." She smiled, or something very close to it. "I put it in this drawer. It was a theft, and I have committed it every day since, and the Archive has never missed it."
+"I read it," said Ingrid. "In two thousand and one. A box came from the shipping company, with fifty years of logs. I was a junior, cataloguing the rubbish. I opened the *Havørn* at random." She laid her hand on the page. "And there was my name, in a stranger's hand, and a quay I had stood on, and a boy who had said *I do not know,* whom I had thought for three years a very rude sailor." She smiled, or something very close to it. "I put it in this drawer. It was a theft, and I have committed it every day since, and the Archive has never missed it."
 
 "Twenty-five years," said Anders.
 
@@ -112,7 +110,7 @@ And below, in a young hand, in a smaller, quicker ink, set a little apart from t
 > It is a thing, to be written down. It is
 > Perhaps the only thing that I had wanted.*
 
-For a long time neither of them said anything. Outside, the wind blew a long note through the rigging of the harbour, and the lights of the city came on, one by one, like a patient and well-regulated sentence.
+For a long time neither of them said anything. Outside, the wind blew a long note through the rigging of the harbour, and the lights of the city came on, one by one, in good order.
 
 ---
 
@@ -123,17 +121,17 @@ In another city, in another dark, a man who had been a pianist in the same theat
 
 Dmitri Volkov, forty, courtly, rigid, had written a waltz for her and never asked her to dance; and Anya Petrova, thirty-eight, retired ballerina, proud, with a bad knee and a worse temper, had heard it from the wings of a gala and known at once that it was hers.
 
-They had danced once since, at the edge of a crowded floor, as people dance who are making a point. She had not forgotten it. Neither, he suspected, had her knee.
+They had danced once since, at the edge of a crowded floor, as people dance who are making a point. Her knee had not forgotten it.
 
 "You do not have to," said Dmitri.
 
 "I know that."
 
-"It is a very cold night. I merely wished—"
+"It is a cold night. I merely wished—"
 
 "Dmitri Volkov." She tapped the stick on the floor. "Sit. Play the first sixteen bars. And then stop. I shall tell you when."
 
-He played. The waltz came out of the Bechstein as it had come out of him in the spring, a little formal, a little startled, like a man in an evening suit who has found himself unexpectedly at the seaside. It went up, and turned, and came gently down. And on the sixteenth bar Anya Petrova laid her stick on the lid of the piano, as one lays down a sword.
+He played. The waltz came out of the Bechstein as it had come out of him in the spring, a little formal, a little startled, an evening suit that has wandered onto a beach. It went up, and turned, and came gently down. And on the sixteenth bar Anya Petrova laid her stick on the lid of the piano, like a duellist ending the quarrel.
 
 "Stop," she said.
 
@@ -147,7 +145,7 @@ He stopped.
 
 She hummed. It was not a trained sound; it was low, wry, a trifle flat; it was the sound a woman makes when she is opening a door in a house she has never entered and has always known the way to. Dmitri Volkov rose from the stool, in the single yellow lamp, and put his right hand on the small of her back, and they began, in the empty theatre, with the first snow tapping at the fly-tower, to waltz.
 
-She did it badly. The knee failed her, once, at the turn, and he held her, and she swore, richly, in a language the stage had known for three hundred years. Then she laughed, an astonished laugh, and they went on, round and round the bare boards where a hundred thousand people had watched her once, through the empty hush where the audience had been; and neither of them, afterwards, could say who had been leading.
+She did it badly. The knee failed her once, at the turn, and he held her, and she swore, richly, in a language the stage had known for three hundred years. Then she laughed, an astonished laugh, and they went on, round and round the bare boards where a hundred thousand people had once watched her; and neither of them, afterwards, could say who had been leading.
 
 "It is not a good dance," said Anya, out of breath, with her forehead on his shoulder.
 
@@ -164,7 +162,7 @@ She did it badly. The knee failed her, once, at the turn, and he held her, and s
 
 In the hills above Addis, a woman sat on a low stool beside a small brazier, roasting green beans in a pan, while a man who did not know how to be silent in her presence sat opposite her, silent.
 
-Selam Tesfaye, thirty-three, who had run her last race on a bad knee and had not yet decided what to do with the rest of her legs, shook the pan, and the beans, which were from his own warehouse, spat and smoked and gave off that dark, sweet, savage smell that is Ethiopia's single greatest argument. Samuel Bekele, thirty-six, coffee exporter, watched her do it with a respect that bordered on the religious.
+Selam Tesfaye, thirty-three, who had run her last race on a bad ankle and had not yet decided what to do with the rest of her legs, shook the pan, and the beans, which were from his own warehouse, spat and smoked and gave off the dark, sweet smell that is Ethiopia's single greatest argument. Samuel Bekele, thirty-six, coffee exporter, watched her with a respect that bordered on the religious.
 
 "The debts," said Selam.
 
@@ -205,7 +203,7 @@ He considered it a long time.
 
 "You are on the wrong side of the *channel.* Mind your lights."
 
-It was the only eleven minutes they would have that month: a Rotterdam-bound ship northward, a Singapore-bound ship south, passing in the dark off the Gulf of Suez, with their radios in range for the length of time it takes two moving things to be in the same place.
+It was the only eleven minutes they would have that month: a ship northward for Rotterdam, a ship southward for Singapore, passing in the dark off the Gulf of Suez, with their radios in range for the length of time it takes two moving things to be in the same place.
 
 "What is your position?" said Ivan Horvat.
 
@@ -213,7 +211,7 @@ It was the only eleven minutes they would have that month: a Rotterdam-bound shi
 
 "I can see your lights. Very bright. That is the deck, and that is the bridge, and I think that is *you.*"
 
-"It is the second officer's cabin. Someone has left the lamp on."
+"It is the second officer's cabin. He has left the lamp on again."
 
 "It is a good lamp," said Ivan. "Eleven minutes. What shall we do with them?"
 
@@ -225,7 +223,7 @@ It was the only eleven minutes they would have that month: a Rotterdam-bound shi
 
 "And if the schedules slip?"
 
-A long pause on the channel. Out on the black water, the light of the *Vela* slid slowly aft. Marija Kovač, second officer, stood on the wing of the bridge with the radio in her fist and the night wind in her face, and thought of the sea, who was faithful and could not be wounded, and of the man, who was neither.
+A long pause on the channel. Out on the black water, the light of the *Vela* slid slowly aft. Marija Kovač, chief officer, stood on the wing of the bridge with the radio in her fist and the night wind in her face, and thought of the sea, who was faithful and could not be wounded, and of the man, who was neither.
 
 "Then it will be the ninth of April," she said. "Or the ninth of May. I have decided to be a woman who is expected somewhere. It is not the same as being a woman who has arrived. But it is a start."
 
@@ -233,14 +231,14 @@ A long pause on the channel. Out on the black water, the light of the *Vela* sli
 
 "It is a position," said Marija. "Plot it."
 
-The signal began to thin. The *Vela's* lamps shrank to a spark, and then to a rumour, and then to a point, in the huge dark behind. Static rose like surf. On the bridge of the *Zagora* the radio hissed, and the watch went on, and the ships sailed apart, each toward the end of its charted day, with a church in Split, a long way off, unmoving in the mind.
+The signal began to thin. The *Vela's* lamps shrank to a spark, then a rumour, then a point in the huge dark behind. Static rose like surf. On the bridge of the *Zagora* the radio hissed and the watch went on, and the ships sailed apart, each toward the end of its charted day, with a church in Split, a long way off, unmoving in the mind.
 
 ---
 
 ### SCENE V
 *Bonwire, near Kumasi. A weaving shed under a tin roof. A loom, a lamp, a long morning.*
 
-A cloth of kente is not woven in one piece. It is woven in strips, narrow as a man's hand, and sewn together edge to edge, so that a wedding cloth may be sixty strips and a king's cloth a hundred, and every strip a month's patience.
+A cloth of kente is not woven in one piece. It is woven in strips, narrow as a man's hand, and sewn together edge to edge, so that a wedding cloth may be sixty strips, and every strip a month's patience.
 
 Kofi Boateng, thirty, weaver, sat at his loom in the shade with a shuttle in either hand and the thread of green and gold running through his fingers like water, and did not look up when a woman's shadow fell across the cloth.
 
@@ -248,13 +246,13 @@ Kofi Boateng, thirty, weaver, sat at his loom in the shade with a shuttle in eit
 
 The shuttle stopped. "To the scholarship."
 
-"To the scholarship. For two years. I fly on Tuesday." She was twenty-nine, a schoolteacher, with a bright, brave, difficult face, and she stood at the edge of the shed with a suitcase in one hand and a packet of boiled groundnuts in the other, as one holds on to what one knows. "I did not know how to say it. I wrote *I do not know how to say yes.* And then I said it to my mother, and she said, *Esi, a thing you cannot say to the one it is for, you say first to someone else.* So I said it to the cat."
+"To the scholarship. For two years. I fly on Tuesday." She was twenty-nine, a schoolteacher, with a bright, brave, difficult face, and she stood at the edge of the shed with a suitcase in one hand and a packet of boiled groundnuts in the other. "I did not know how to say it. I wrote *I do not know how to say yes.* And then I said it to my mother, and she said, *Esi, a thing you cannot say to the one it is for, you say first to someone else.* So I said it to the cat."
 
 "What did the cat say?"
 
 "It said," said Esi, "*Go.*"
 
-He laughed, softly, a little hoarse, the laugh of a man who has been told what he knew.
+He laughed, softly, a little hoarse.
 
 "I promised to wait," said Kofi, "and I am weaving it. See." He held up the strip beneath his hands, a handbreadth of green and gold, with a small black figure, a bird, looking back over its shoulder, woven into the edge: *sankofa,* the sign that says *go back and fetch it.* "A strip for every month you are gone. When you come home, I sew them together. It will be the size of your absence, Esi. Twenty-four strips. A cloth you can wrap yourself in."
 
@@ -272,7 +270,7 @@ She set down the suitcase, and went to the loom, and laid her hand on the edge o
 
 "I did not ask you to."
 
-On the tin roof the rain began. At the loom the weaver took up his shuttles again, and the thread ran through his fingers as it had for six hundred years, and the strip grew, a very little, on its frame.
+On the tin roof the rain began. At the loom the weaver took up his shuttles again, and the thread ran through his fingers as it had for centuries, and the strip grew, a very little, on its frame.
 
 ---
 
@@ -281,13 +279,13 @@ On the tin roof the rain began. At the loom the weaver took up his shuttles agai
 
 He had asked her to come at six.
 
-She came in a long blue coat, which she had last worn at nineteen in Bergen, and which still, by one of those small miracles of Norwegian wool, fitted; and she stood on the quay with a pencil behind her ear and her hand shading her eyes against a sun that had not yet risen.
+She came in a long blue coat, which she had last worn at nineteen in Bergen, and which still, by one of those small miracles of Norwegian wool, fitted; and she stood on the quay with her hand shading her eyes against a sun that had not yet risen.
 
 "The captain has been persuaded to lend the boat," said Anders Nilsen, from the gangway, in a clean shirt. "For an hour. He asks only that no one mention the parrot."
 
 "We are *parrotless,*" said Astri Dahl, from the stern, with dignity, "as a matter of principle."
 
-They went out through the mist, slowly, down the long grey water towards the islands, with the city dropping behind and the lights of the harbour going out one by one in the dawn. Neither spoke for a long time. It is the privilege of two people who have known each other a quarter of a century and six days that they may be silent without saying so.
+They went out through the mist, slowly, down the long grey water towards the islands, the lights of the harbour going out one by one behind them. Neither spoke for a long time. It is the privilege of two people who have known each other, on and off, for twenty-eight years and a handful of days that they may be silent without saying so.
 
 At the rail, Anders took from his coat the old black logbook. He had brought it out of the Archive that morning, on her own signature, which she had made with her pencil without once reading the form.
 
@@ -295,7 +293,7 @@ At the rail, Anders took from his coat the old black logbook. He had brought it 
 
 "You did go back."
 
-"It took me twenty-five years and a bad back."
+"It took me twenty-eight years and a bad back."
 
 "The back," said Ingrid Solberg, "was the quickest part."
 
@@ -313,7 +311,7 @@ She closed the book.
 
 "It is the technical term," said Ingrid, "for a light that does not go out."
 
-The sun came up over the fjord. It lit the water gold, and the mist, and the faces of five people on a small white boat, one of them a captain who was wiping his eye on his sleeve, and the parrotless crew, who had said nothing at all for six full minutes, which was a record.
+The sun came up over the fjord. It lit the water gold, and the mist, and the faces of five people on a small white boat: a captain wiping his eye on his sleeve, and the parrotless crew, who had said nothing at all for six full minutes, which was a record.
 
 ---
 

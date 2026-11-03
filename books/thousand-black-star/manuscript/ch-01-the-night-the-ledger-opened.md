@@ -4,7 +4,7 @@
 ### The Night the Ledger Opened
 
 > *"I forgave you years ago and never said so."*
-> — Register of Black Stars, Entry 0388
+> — Register of Black Stars, Entry 0086
 
 ---
 
@@ -50,7 +50,7 @@ She spoke then, not in prose, for the dying sometimes find their sentences fall 
 
 "A thousand letters," said Nadeesha. "I thought—"
 
-"You thought it was a few dozen love notes from sailors." Seraphine's laugh was a dry, small thing, like the rustle of a page. "A thousand people, child, over forty-five years. Each wrote me one letter, and each letter holds the one sentence its writer could never say to the person who needed to hear it. I numbered them in the order they came. I answered none. I kept every one." She paused. "The first, Entry 0001, I confess, was not a stranger's."
+"You thought it was a few dozen love notes from sailors." Seraphine's laugh was a dry, small thing, like the rustle of a page. "A thousand people, child, over forty-five years. Each wrote me one letter, and each letter holds the one sentence its writer could never say to the person who needed to hear it. I numbered them in the order I shelved them, which is not always the order they came; the heart keeps its own calendar. I answered none. I kept every one." She paused. "The first, Entry 0001, I confess, was not a stranger's."
 
 "Whose was it?"
 

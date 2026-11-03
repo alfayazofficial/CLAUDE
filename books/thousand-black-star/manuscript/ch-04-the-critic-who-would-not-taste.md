@@ -42,15 +42,15 @@ And for twenty minutes, while the room went quiet, the bowl sat, and steamed, an
 
 "He is counting?"
 
-"He is a man who has counted since he was a boy. I think he counts the way other men pray."
+"He has counted since he was a boy. I think he counts the way other men pray."
 
 At the stove, without turning round, Hiroshi lifted one finger from the ladle, lightly, as a conductor does. It meant: *you are speaking of what is mine.*
 
-Daichi shrank. Rin laughed. In the corner a very old woman in a quilted jacket, who had been shelling pickles for an hour into a steel bowl, said briskly, in the high dry voice of Kyoto, "*Honma, you boys are noisy. My son hears everything. He has been hearing everything since he was four years old. He just does not say.*"
+Daichi shrank. Rin laughed. In the corner a very old woman in a quilted jacket, who had been shelling pickles for an hour into a steel bowl, said briskly, in the high dry voice of Kyoto, which she had never surrendered, "*Honma, you boys are noisy. My son hears everything. He has been hearing everything since he was four years old. He just does not say.*"
 
 "Obā-san," said Rin, with deep respect. "You know the story?"
 
-Nanami Shimizu, seventy, retired welder, gossip, and Hiroshi's mother, placed a pickle in her mouth, looked at the ceiling, and said, with a profound air of withholding:
+Nanami Shimizu, seventy, retired schoolteacher, gossip, and Hiroshi's mother, placed a pickle in her mouth, looked at the ceiling, and said, with a profound air of withholding:
 
 "I know *some* of it."
 
@@ -64,7 +64,7 @@ Fourteen months ago she had had a fever, a common one, of the sort that arrives 
 
 Not weak. *Nothing.* A warm softness, as of wet cloth. Salt, a ghost of salt, there and then not. She had put down her chopsticks and had looked at the egg, which was yellow, and glistening, and perfectly made, and had understood that she was standing at the edge of a country from which she would not be permitted to return.
 
-"I'm *telling* you," said Nanami Yamamoto, from the sofa, with the severity of a woman who works the Tempozan ferry in all weathers and does not take back a word. "You are going to the doctor."
+"I'm *telling* you," said Nanami Yamamoto, from the sofa, with the severity of someone who works the Tempozan ferry in all weathers and never takes back a word. "You are going to the doctor."
 
 "I have been to six doctors."
 
@@ -150,9 +150,9 @@ She came to the curtain at eleven-thirty-eight.
 
 She did not go in. She stood at the gap between the cloth and the post, and looked.
 
-He was there. Of course he was there. He was in the white towel, with his back to the room and his hands upon the pot, a heavy, still, unhurried man, and she saw the shoulders that she had watched for two years, and a thing happened inside her that she had not been prepared for; a feeling like homesickness for a house she was standing in front of.
+He was there. Of course he was there. He was in the white towel, with his back to the room and his hands upon the pot, a heavy, still, unhurried man, and she saw the shoulders that she had watched for two years, and a thing happened inside her that she had not been prepared for; homesickness for a house she was standing in front of.
 
-The regulars were silent. The old woman at the end had stopped shelling pickles. The historian, with the wide eyes of a man who has seen the dead, was holding his phone aloft as though to capture a miracle.
+The regulars were silent. The old woman at the end had stopped shelling pickles. The historian, with the wide eyes of one who has seen the dead, was holding his phone aloft as though to capture a miracle.
 
 And then, at the exact stroke of eleven-forty, Hiroshi Tanabe lowered noodles into the water.
 
@@ -192,7 +192,7 @@ It was the first thing he had said, in her hearing, in three years that was not 
 
 She had meant to say it better. She had meant to say it with the whole of her critic's armoury of syntax and irony. What came instead was five words, flat on the counter like a dropped plate, and she heard them, and did not take them back.
 
-"I cannot taste," said Mei Sato. "Since last September. A fever. It has not come back. I am a woman who writes about food and cannot taste it, and I am so ashamed that I have not been able to walk down your street." Her eyes were stinging, which she found, in an odd detached way, to be very interesting. "I wrote a column every Sunday from *memory.* I am a fraud. I do not deserve a bowl. I do not deserve a *stool.* You should pour it down the sink."
+"I cannot taste," said Mei Sato. "Since September of last year. A fever. It has not come back. I write about food and cannot taste it, and I am so ashamed that I have not been able to walk down your street." Her eyes were stinging, which she found, in an odd detached way, to be very interesting. "I wrote a column every Sunday from *memory.* I am a fraud. I do not deserve a bowl. I do not deserve a *stool.* You should pour it down the sink."
 
 She waited for the blow.
 
@@ -208,13 +208,13 @@ In the shop, you could have heard a noodle fall.
 
 "I did not cook for the critic," said Hiroshi Tanabe. "I cooked for the woman who ate my noodles with her eyes closed."
 
-He set down the chopsticks on their rest. Then, because he was a man for whom great events could only be expressed in small adjustments, he turned the bowl, a quarter-turn, so that the handle of the spoon lay toward her right hand.
+He set down the chopsticks on their rest. Then, because great events, for him, could only be expressed in small adjustments, he turned the bowl, a quarter-turn, so that the handle of the spoon lay toward her right hand.
 
 "Eat," he said. "Not to taste. To be *fed.*"
 
 ---
 
-The old woman at the end of the counter had her hand upon her mouth. The historian had lowered the phone. Rin Hayashi, who had been a lifeguard for eight years and had pulled four swimmers from the Osaka surf, now found himself with a lump in the throat, and addressed it to the ceiling.
+The old woman at the end of the counter had her hand upon her mouth. The historian had lowered the phone. Rin Hayashi, who had been a lifeguard for eight years and had pulled four swimmers out of Osaka Bay, now found himself with a lump in the throat, and addressed it to the ceiling.
 
 Mei took up the chopsticks. They were light, and made of some pale wood, and they were warm from his hand.
 
@@ -230,7 +230,7 @@ She was a critic. She had been trained for a decade to name what she ate. And so
 
 "It is the warmest thing I have been given in a year."
 
-He did not answer. She heard the faint scrape of a ladle. When she opened her eyes, he was standing over her with the pot, and was, with a gentle, almost shy movement, filling the bowl again to the brim, as a man tops up the lamp of a vigil he has kept too long.
+He did not answer. She heard the faint scrape of a ladle. When she opened her eyes, he was standing over her with the pot, and was, with a gentle, almost shy movement, filling the bowl again to the brim, as one tops up the lamp of a vigil kept too long.
 
 "Kaedama," said Hiroshi. "Second noodles. Free."
 

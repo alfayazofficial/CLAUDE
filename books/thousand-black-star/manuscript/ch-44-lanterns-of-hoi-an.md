@@ -20,15 +20,15 @@ The yellow walls turn amber. The old merchants' houses, which have leaned over t
 
 In a workshop on a side lane, behind a turquoise door, a young woman sat cross-legged on a mat, stitching.
 
-Hà Trần was twenty-seven, from Huế, the old imperial city, where girls are taught to speak softly and to make things that last. She made lanterns. She had a rare, nearly religious gift for taking something frail and giving it a skeleton of bamboo, a skin of silk and a heart of fire. Her lanterns looked as though the light inside them had been *asked,* and had agreed.
+Hà Trần was twenty-seven, from Huế, the old imperial city, where girls are taught to speak softly and make things that last. She made lanterns. She had a rare, nearly religious gift for taking something frail and giving it a skeleton of bamboo, a skin of silk and a heart of fire. Her lanterns looked as though the light inside them had been *asked,* and had agreed.
 
-She was very pale tonight, under the red glow, with a silk scarf wound round her head. She had been tired, for eleven months, in the way sleep does not mend.
+She was very pale tonight, under the red glow, with a silk scarf wound round her head. She had been tired for eleven months, in the way sleep does not mend.
 
 "*Chị Hà,*" said a voice at the door, with a blast on a tin whistle. "The *Seven-Fifteen* has *arrived.*"
 
 "Thảo," said Hà, "you are not on the railway any more."
 
-"The railway is in my blood!" cried Thảo Đặng, twenty-four, formerly a guard on the Reunification Express and now the shop's errand-girl and professional noise. She blew one whistle to open the shop each morning, a second to close it, and a third, in moments of crisis, to announce that a crisis had begun. "A customer is *on the platform.* He has a camera. He says he has been photographing you for nine months."
+"The railway is in my blood!" cried Thảo Đặng, twenty-four, formerly a guard on the Reunification Express and now the shop's errand-girl and professional noise. She blew one whistle to open the shop each morning, a second to close it, and a third to announce that a crisis had begun. "A customer is *on the platform.* He has a camera. He says he has been photographing you for nine months."
 
 "He has been *what?*"
 
@@ -44,7 +44,7 @@ Hà laid down her needle. "Why?"
 
 "Because you are in every one of them," said Quân, "and I did not know how to say that to someone who was only looking at the lantern."
 
-Down the lane a street-singer, Mai Bùi, fifty-five, who had brokered more marriages on that lane than anyone cared to count, stopped in the middle of a song about a river, and listened to a silence she had been waiting six months to hear.
+Down the lane the street-singer Mai Bùi, fifty-five, who had brokered more marriages there than anyone cared to count, stopped in the middle of a song about a river and listened to a silence she had been waiting six months to hear.
 
 Hà stood. She stood too fast, and the room tilted, and the lantern in her hand went out of focus; and the next thing she knew was the bamboo floor, cool against her cheek, a whistle blasting the *crisis* signal over and over, and a pair of shaking hands turning her over, and a voice that was not at all the voice of a magazine photographer saying her name.
 
@@ -126,7 +126,7 @@ At the back, in a plain grey coat, with the notebook she had left in the car, sa
 
 "It is very good," whispered Martin, before it had begun, and settled himself.
 
-It was an old story: a clown loses his hat and looks for it all over the city, finding in each place a thing he had not been seeking. A candle. A stone. A child. At the end he sat down with nothing in his hands, and turned to the audience.
+It was an old story: a clown loses his hat and looks for it all over the city, finding in each place a thing he had not been seeking. A candle. A stone. A child. At the end he sat down with nothing in his hands.
 
 "I have found everything but the hat," he said, in his shaking, merry voice. "Perhaps that is the way it goes. One loses one thing and discovers one is wearing the rest."
 
@@ -136,7 +136,7 @@ Then the little figure turned to the back of the room.
 
 Lucie sat very still.
 
-"The clown has read a certain review. It said three things that were true and two that were cruel. He has been grateful for the three. He does not remember the two. He has found they take up very little room, once one has been told them by someone who was afraid."
+"The clown has read a certain review. It said three things that were true and two that were cruel. He has been grateful for the three. He does not remember the two."
 
 "The clown is very bad at speaking for himself, and so he has always used a hat. But there is a gentleman behind the screen who would like to say one thing without the help of any wood."
 
@@ -173,7 +173,7 @@ At the National Institute of Cardiovascular Diseases they said he was lucky in t
 
 The debt, which had been fourteen lakh, became nineteen.
 
-Fayaz did not weep. He sat in the corridor among the families asleep on newspapers, under a fluorescent tube that had never in living memory been off, and did the sums. His mother came in the afternoons with a tiffin, her breathing a little worse each time, and sat beside him, and did not ask. Tithi did her physics on her knee.
+Fayaz did not weep. He sat in the corridor among the families asleep on newspapers and did the sums. His mother came in the afternoons with a tiffin, her breathing a little worse each time, and sat beside him, and did not ask. Tithi did her physics on her knee.
 
 He did not look at his phone.
 
@@ -189,7 +189,7 @@ On the second Friday, at ten in the evening, he stood and looked at the clock ov
 
 Bunny, in a school shirt gone grey, with a flask of tea and unaccustomed gravity, sat down beside him.
 
-"That clock is wrong by fifteen minutes. I have checked." He poured. "Bhaiya. I am only the boy at the stall. But I know a timetable when I see one. A man who misses two trains in a row has not lost the *train.* He has lost his *nerve.* Send her a dot. One dot. It costs nothing."
+"That clock is wrong by fifteen minutes. I have checked." He poured. "Bhaiya, I am only the boy at the stall. But a man who misses two trains in a row has not lost the *train.* He has lost his *nerve.* Send her a dot. One dot. It costs nothing."
 
 Fayaz put his hand on the dead phone in his pocket. He did not take it out.
 
@@ -246,13 +246,13 @@ So she did. She sat at the table with a sheet of the lab's hand-made paper, thic
 >
 > *I have a problem in arithmetic. In Yogyakarta I was one hour ahead of you, and I told you from an hour ahead that you were kind. Here I am four hours behind. It is six for me when it is ten in Mirpur. So now you are four hours in my future. I did not plan it. It means, if I am logical, that you know what happens. I would be very grateful if you would tell me.*
 >
-> *I do not know why you are silent. I have decided not to guess. If it is your father, I am sorry, and I will not say more. If it is your mother, the same. If it is the debt, the same. If it is that you think you must not be a weather in my window, I shall tell you, since you will not ask: you are not weather. Weather passes. You are the window.*
+> *I do not know why you are silent. I have decided not to guess. If it is your father, I am sorry; if your mother, the same; if the debt, the same. If it is that you think you must not be a weather in my window, I shall tell you, since you will not ask: you are not weather. Weather passes. You are the window.*
 >
 > *I have begun the cloth. A hundred dots each Friday. Nine hundred so far. It needs a thousand, and then it has its name. I will not make the last hundred until I hear from you.*
 >
 > *I shall be at the table on Fridays at six. If you can only manage one letter, send a dot.*
 >
-> *Be on time. If you are late, I will say the clock was wrong. Four hours is a very big mistake, and I have been making it consistently.*
+> *Be on time. If you are late, I will say the clock was wrong.*
 >
 > *— E.*
 >

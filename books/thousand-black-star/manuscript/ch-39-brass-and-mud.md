@@ -17,15 +17,15 @@
 ---
 
 ### SCENE I
-*Marsden Road Ground, Manchester. Dawn, the last Saturday of the season. Drizzle, as ordered.*
+*Marsden Road Ground, Manchester. Dawn, one week before the last match. Drizzle, as ordered.*
 
 There are two kinds of grass in Manchester: the kind that is grown, and the kind that is *kept*. The first needs only rain, of which the city has a surplus. The second needs a man.
 
 William Hartley was that man. He was thirty, he had been at Marsden Road since the age of sixteen, when he had been handed a roller as big as a bus and told to make the world flat, and he knew every blade of the pitch the way a shepherd knows a flock: by temperament. The left wing sulked in October. The penalty spot drank water like a Methodist at a wedding. The centre circle, which he had painted ten thousand times with a chalk-wheel and a steady hand, had a slight tilt to the east, as though even the middle of things were leaning toward something else.
 
-This morning he mowed it for the last time.
+This morning he mowed it for the second-to-last time, which is a sadness of its own.
 
-He did it slowly, as a man eats the last of anything. Up the length of the pitch, a stripe dark where the grass bent away; back again, a stripe pale where it bent toward him. Behind him the stands rose, grey and empty and a little rusted, like the ribs of some patient animal that had been told it was to be put down and had decided to be dignified about it. On the east gate a banner, already tired, said: **MARSDEN GARDENS: 214 LUXURY APARTMENTS. COMING SOON.**
+He did it slowly, as one eats the last of anything. Up the length of the pitch, a stripe dark where the grass bent away; back again, a stripe pale where it bent toward him. Behind him the stands rose, grey and empty and a little rusted, like the ribs of a patient animal told it was to be put down, and resolved to be dignified. On the east gate a banner, already tired, said: **MARSDEN GARDENS: 214 LUXURY APARTMENTS. COMING SOON.**
 
 "Coming soon," William told the roller. "They always say *soon*. Nobody says *sorry*."
 
@@ -37,7 +37,7 @@ Out of the tunnel, with a bunch of keys the size of a small bagpipe and a flat c
 
 "Pennywhistle."
 
-"Will! A word. Two words. Three, if you will pay for them." He leaned on the rail, panting, all anxious elbows. "I have news. Poppy Ashworth has been seen in the bandroom at six in the morning, *alone*, playing the one piece she says she has not played since Easter. A woman who plays by herself at dawn, William, is a woman with a thing on her mind."
+"Will! A word. Two words. Three, if you will pay for them." He leaned on the rail, panting, all anxious elbows. "I have news. Poppy Ashworth has been seen in the bandroom at six in the morning, *alone*, playing the one piece she says she will never play in public. A woman who plays by herself at dawn, William, is a woman with a thing on her mind."
 
 "She practises."
 
@@ -49,7 +49,7 @@ Out of the tunnel, with a bunch of keys the size of a small bagpipe and a flat c
 
 "It is not Providence. It is a pun."
 
-"Providence *is* a pun, William. It is the pun God makes when He is too tired to explain." He wagged a finger. "You have been mowing round that centre circle as though you were afraid of it. Mark me. If a man will not look at his own middle, he will not look at anything."
+"Providence *is* a pun, William. It is the pun God makes when He is too tired to explain." He wagged a finger. "You have been mowing round that centre circle as though you were afraid of it. Mind me. If a man will not look at his own middle, he will not look at anything."
 
 William did look at it. The circle sat in the green, pale and perfect, a whole round O, and for a moment he thought that it looked like nothing so much as a note.
 
@@ -106,7 +106,7 @@ At the touchline stood a girl of thirteen in a school coat three sizes too wide,
 ---
 
 ### SCENE III
-*Kisumu, on Lake Victoria. The same hour of the clock, which in Kenya is three hours further into the day. The beach at Dunga, before sunrise. The lake the colour of weak tea; the sky preparing something larger.*
+*Kisumu, on Lake Victoria. The same week. The beach at Dunga, before sunrise. The lake the colour of weak tea; the sky preparing something larger.*
 
 *Mark this, reader, for we must cross a continent between two paragraphs. Pack lightly.*
 
@@ -118,7 +118,7 @@ She had taken the first flight from Nairobi. She had not told him. She had come 
 
 "You are standing in my light," said a voice from a boat.
 
-Otieno Odhiambo, twenty-nine, was sitting in the stern of a wooden boat called *Mama Akinyi* (after his grandmother, who had fished this gulf for sixty years and had never once worn a cape). He was untangling a net. He did not wear the cape either. He wore a torn grey sweater and the expression of a man who had been very loud for a long time and had recently discovered how pleasant it is to be quiet.
+Otieno Odhiambo, twenty-nine, was sitting in the stern of a wooden boat called *Mama Akinyi* (after his grandmother, who had fished this gulf for sixty years and had never once worn a cape). He was untangling a net. He did not wear the cape either. He wore a torn grey sweater and the look of someone who had been very loud for a long time and had lately discovered how pleasant quiet is.
 
 "Wanjiru."
 
@@ -132,7 +132,7 @@ He looked at her for a long moment, and the sun, which had been waiting politely
 
 "Get in," said Otieno. "The omena do not run for apologies."
 
-They went out. He rowed first, and then ran the little motor, and the gulf opened round them, wide as a held breath, papyrus along the margin and water hyacinth drifting in green islands, with egrets standing on them like waiters who had not been told the party was over. He told her he had posted nothing in four months. He told her the truth about the persona, which was that Captain Kali had begun as a joke to sell dried fish, and then the joke had begun to sell *him*, and then there was a day he could not find where the Captain stopped and he began.
+They went out. He rowed first, then ran the little motor, and the gulf opened round them, papyrus along the margin and water hyacinth drifting in green islands, with egrets standing on them like waiters who had not been told the party was over. He told her he had posted nothing in four months. He told her the truth about the persona, which was that Captain Kali had begun as a joke to sell dried fish, and then the joke had begun to sell *him*, and then there was a day he could not find where the Captain stopped and he began.
 
 "The hippo story?" said Wanjiru.
 
@@ -187,7 +187,7 @@ They lost two–one in the ninety-third minute, which the crowd agreed was the o
 
 Then, as the referee's whistle died, the old tunnel doors swung open and out marched the Marsden Town Silver Band, twenty-six strong, in their maroon jackets gone to the colour of old wine, with Poppy Ashworth at the front.
 
-She was twenty-nine, she was loud in every sense a woman can be, and her cornet was dented from a fall off a coach in 2019 and played all the better for it. She marched with her chin up and her eyes straight ahead, which is how you march when you are afraid to look at the thing you most want to see.
+She was twenty-nine, she was loud in every sense a woman can be, and her cornet was dented from a fall off a coach in 2019 and played all the better for it. She marched with her chin up and her eyes straight ahead, which is how one marches when afraid to look at the thing one most wants to see.
 
 Behind her came Callum Brown, the euphonium, forty and shy as a clam, who was William's best friend and who had once spent an entire wedding trying to ask a bridesmaid to dance and had asked the cake instead. Behind him came the basses, the trombones, the old man on the bass drum who had played at the Cup final in a blizzard and had never let anyone forget it.
 
@@ -211,7 +211,7 @@ For this is what William Hartley had done on the last morning of his craft. He h
 
 A whole note. A semibreve. The longest thing in music, the one you hold until the conductor lets you go. And on a stave in the treble clef, the third line is **B**.
 
-It was the note Poppy had been practising, alone, at six every morning since Easter. It was the note that began the piece the band had never played in public because she said it was too private. And only one man in the whole of Manchester knew that she played it, because only one man had been standing outside the bandroom window at dawn every day for seven months pretending to check the drains.
+It was the note Poppy had been practising, alone, at six every morning since Easter. It was the note that began the piece the band had never played in public because she said it was too private. And only one man in the whole of Manchester knew that she played it, because only one man had been standing outside the bandroom window at dawn every day for seven weeks pretending to check the drains.
 
 The band reached the centre. They turned. Callum lifted his baton, because the conductor had gone home with a cold, and nodded to Poppy.
 
@@ -221,7 +221,7 @@ William did not wave. He did not smile. He only nodded, very slightly, the way y
 
 She played.
 
-Mark this, reader, if you have never heard a cornet in the rain. It is not a sweet sound. It is a *bright* one, a bright hard thread pulled through the wet air, and it climbed out of the old ground in one long note that held and held and would not let go, past the rusted stands, past the banner, past the cranes already waiting beyond the wall; and when she ran out of breath and had to lift her lip, the whole band took it up beneath her, twenty-six brass voices in the mud, and the crowd who had come to bury a football ground found that it had been given instead a hymn.
+If you have never heard a cornet in the rain: it is not a sweet sound. It is a *bright* one, a bright hard thread pulled through the wet air, and it climbed out of the old ground in one long note that held and held and would not let go, past the rusted stands, past the banner, past the cranes already waiting beyond the wall; and when she ran out of breath and had to lift her lip, the whole band took it up beneath her, twenty-six brass voices in the mud, and the crowd who had come to bury a football ground found that it had been given instead a hymn.
 
 Nobody left. Ten thousand people stood in the rain and sang a tune they had known all their lives, and the groundsman stood at the edge of the grass he had made and wept, very quietly, into his cap.
 
@@ -256,7 +256,7 @@ They looked at each other.
 
 "Hannah Hughes has no respect for privacy."
 
-"She's *thirteen*, William. She is the only honest person in Salford."
+"She's *thirteen*, William. She is the only honest person on Marsden Road."
 
 He laughed, and it came out of him like a held breath. Then, because it was the sort of evening on which everyone had said too much, he said a little more.
 

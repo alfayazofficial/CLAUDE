@@ -23,7 +23,7 @@ The boat, whose name was *Ragnhild*, did not reply. She was eleven metres of tar
 
 The engine considered this, and coughed.
 
-Lars Eriksen was thirty years old. He was tall and square and weathered beyond his years, with hands like folded oars and eyes the grey of the fjord at its least forthcoming. He was the third of his name to fish out of Bergen, and he would, it was generally agreed, be the last, since the *Ragnhild* owed the bank four hundred and twelve thousand kroner, the quota for his class of vessel had been trimmed twice in three years, and the sea, which had once been a sort of savings account, had become a sort of overdraft.
+Lars Eriksen was thirty years old, tall and square and weathered beyond his years, with hands like folded oars and eyes the grey of the fjord at its least forthcoming. He was the third of his name to fish out of Bergen, and he would, it was generally agreed, be the last, since the *Ragnhild* owed the bank four hundred and twelve thousand kroner, the quota for his class of vessel had been trimmed twice in three years, and the sea, which had once been a sort of savings account, had become a sort of overdraft.
 
 He was a man of very few words. These he spent as a poor man spends his coins, one at a time, with a look of faint regret afterward.
 
@@ -62,7 +62,7 @@ He had married Lars's mother late in both their lives, and had buried her six wi
 
 There is a woman at the corner of the Fisketorget who sells umbrellas, and she is not popular.
 
-Her name was Solveig Dahl. She was thirty-six, an umbrella maker from Ålesund, who had come south to Bergen on the theory that if one has to sell umbrellas it is wise to sell them in the one city on earth that requires them. Her stall carried a hand-lettered sign that said, in two languages, *UNBREAKABLE*.
+Her name was Solveig Dahl. She was thirty-six, an umbrella maker from Ålesund, who had come south on the theory that if one must sell umbrellas it is wise to sell them in the one city that requires them. Her stall carried a hand-lettered sign that said, in two languages, *UNBREAKABLE*.
 
 "Excuse me," said a tourist, a large and aggrieved gentleman from Ohio, holding up a skeletal wreck that had, a few moments before, been an umbrella. "Your sign says unbreakable."
 
@@ -130,13 +130,13 @@ Sigrid sat down on her chair without taking off her oilskin. She did not tear th
 
 She read the paragraph twice, as one reads a map one hopes to be wrong.
 
-*Fourteen months.* In Ny-Ålesund, in the high Arctic, where the sun does not rise for four months of the year, and the nearest city is a thousand kilometres of black water away. A post of a lifetime. Everything she had ever wished for; everything she had spent her twenties writing grant applications to be offered; and, laid on a desk in the rain in a cream envelope, it had the exact weight of a stone.
+*Fourteen months.* In Ny-Ålesund, in the high Arctic, where the sun does not rise for four months of the year, and the nearest city is a thousand kilometres of black water away. A post of a lifetime. Everything she had spent her twenties writing applications to be offered; and, laid on a desk in a cream envelope, it had the exact weight of a stone.
 
 *And if I take it,* thought Sigrid, who could do such sums in her head faster than she could control her feelings, *I will not be back for a year and a quarter. And if the programme grows, as such programmes do, I may not be back at all.*
 
 "Sigrid."
 
-She turned. A man stood in the door of her office, a slender, dry, dark-haired man in a surgeon's green scrubs with a raincoat over them, holding a sheet of paper in one hand and a coffee in the other. He did not enter. He did not speak again. He held up the paper.
+She turned. A man stood in the door of her office, a slender, dry, dark-haired man in a surgeon's green scrubs with a raincoat over them, holding a sheet of paper in one hand and a coffee in the other. He did not enter. He did not speak. He held up the paper.
 
 The paper said, in black marker: **HOW ARE YOU?**
 
@@ -144,7 +144,7 @@ The paper said, in black marker: **HOW ARE YOU?**
 
 He shrugged and held up a second sheet, which he had evidently prepared for the occasion: **I TRIED TO TELEPHONE. I CANNOT. I CAME IN PERSON.**
 
-"It is three hundred metres from the hospital."
+"It is three kilometres from the hospital."
 
 **IT IS A LONG WAY WHEN YOU ARE AFRAID.**
 
@@ -193,13 +193,13 @@ It was the best day of her week. She knew it; she was a scientist, and had at la
 
 And then the engine coughed.
 
-It coughed once, with a sound like an old man being asked to climb a stair. Lars, at the wheel, did not move. Sigrid, who was watching him, saw that his shoulders had gone very still, in the way a horse's will when it hears something the rider does not.
+It coughed once, like an old man being asked to climb a stair. Lars, at the wheel, did not move. Sigrid saw that his shoulders had gone very still, as a horse's do when it hears something the rider does not.
 
 It coughed again.
 
-And then the *Ragnhild* made a sound that was not a cough, but a long, descending, apologetic sigh, like a great beast lying down, and the engine, which had borne them across forty thousand miles of grey water, went silent.
+And then the *Ragnhild* made a sound that was not a cough, but a long, descending, apologetic sigh, like a great beast lying down, and the engine, which had borne them through a hundred grey mornings, went silent.
 
-The silence that followed was enormous. The water lapped. A gull remarked upon the situation and flew away. Somewhere behind them the fog slid over the city, which went out like a candle.
+The silence that followed was enormous. The water lapped. A gull remarked upon the situation and flew away. Behind them the fog slid over the city, which went out like a candle.
 
 "Lars," said Sigrid.
 
@@ -248,9 +248,9 @@ Lars put his forehead against its cold green flank. He stayed there some time. T
 
 By the time he came up, the dark had come down.
 
-The dark comes early in the north: a short grey afternoon, a long blue dusk, and then the black, with only the lights of the far shore laid out along the water like beads on a thread. They drifted in a pocket of clear air, with the whole city shining three miles off, and seven hundred feet of water beneath them.
+The dark comes early in the north: a short grey afternoon, a long blue dusk, and then the black, with only the lights of the far shore laid out along the water like beads on a thread. They drifted in a pocket of clear air, with the whole city shining three miles off, and five hundred feet of water beneath them.
 
-Sigrid had turned on the cabin lamp. She had put the kettle on the little stove. She had found, in a locker, a bag of *skolebrød*, the sweet custard buns of Bergen, rather stale, and set two of them on a saucer, with that particular dignity people give to a meal when everything else has gone wrong.
+Sigrid had turned on the cabin lamp. She had put the kettle on the little stove. She had found, in a locker, a bag of *skolebrød*, the sweet custard buns of Bergen, rather stale, and set two of them on a saucer, as people do when everything else has gone wrong.
 
 "We could call," she said.
 
@@ -290,7 +290,7 @@ He was silent for a long time. The kettle began to mutter. Out on the black wate
 
 "Then," said Sigrid, softly, "I will not either."
 
-It was the most they had said to one another in six months. The kettle sang. She poured two cups of tea, and handed one across; and for a moment their fingers touched on the warm china, and withdrew, each with the air of a party that has been formally introduced.
+It was the most they had said to one another in six months. She poured two cups of tea, and handed one across; and for a moment their fingers touched on the warm china, and withdrew, each with the air of a party that has been formally introduced.
 
 And Sigrid Haugen, who could not keep a foot still, who had never in her life kept a secret for longer than a week, felt the cream envelope lie in her pocket like a sleeping coal. *Fourteen months. By the fifteenth of January.* She opened her mouth to tell him. She had always told everyone everything. It was a fault.
 
@@ -317,11 +317,11 @@ His name was Espen Lund, he was forty-nine, he wrote the weather-poems that were
 
 "I am not yet dead."
 
-"It is a *preventive* poem. It is hard to rhyme with 'diesel'."
+"It is a *preventive* poem. Nothing rhymes with 'diesel'."
 
 "Then throw the rope."
 
-On the quay a small crowd had assembled, for in Bergen a breakdown is a public entertainment. Marit Strand was there, Kristian's daughter and Lars's friend since the cradle, a train guard of thirty-eight in a very good coat, who arrived in the middle of a sentence she had evidently been conducting alone for some time.
+On the quay a small crowd had assembled, for in Bergen a breakdown is a public entertainment. Marit Strand was there, Kristian's daughter and Lars's step-sister since the cradle, a train guard of thirty-eight in a very good coat, who arrived in the middle of a sentence she had evidently been conducting alone for some time.
 
 "—and I said to the stationmaster, a woman of my position cannot be told that the eight-fifteen is *philosophically late*. Lars! You have grease on your face, it is very *attractive*—who is this? Oh, you are the *biologist.* Lars says nothing but I can read it in his eyebrows. Is that a plum umbrella? How *sensible*—"
 
@@ -333,7 +333,7 @@ On the quay a small crowd had assembled, for in Bergen a breakdown is a public e
 
 "I *am* breathing, I am breathing *through* it, it is an art—"
 
-And the young woman in the yellow oilskin, who had a letter in her pocket and a stale bun in her satchel and a left foot which, she noticed with surprise, had at last stopped tapping, looked once across the black water at a tall, silent man being hugged by a talking train guard, and thought, with a clarity that astonished her:
+And the young woman in the yellow oilskin, who had a letter in her pocket and a left foot which, she noticed with surprise, had at last stopped tapping, looked once across the black water at a tall, silent man being hugged by a talking train guard, and thought, with a clarity that astonished her:
 
 *I would like to be on that boat again on Tuesday.*
 
@@ -347,7 +347,7 @@ And then, a second later, with the dread of the scientist at the moment the data
 
 > *Entry 0443: "My boat is failing and so am I." Entry 0610: "My grant ends in spring and I may not return."*
 >
-> *They were posted on different nights, one winter and two postboxes apart, by two people who did not know that each had written the other's reply. A boat is a promise made of wood. A grant is a promise made of paper. I have been an astronomer for forty-five years, and I will tell you which of them floats: neither. It is the one who stays on board who keeps the boat afloat.*
+> *They were posted on different nights by two people who did not know that each had written the other's reply. A boat is a promise made of wood. A grant is a promise made of paper. I have watched skies for forty-five years, and I will tell you which of them floats: neither. It is the one who stays on board who keeps the boat afloat.*
 >
 > *They will have to decide which of the two of them is the boat.*
 

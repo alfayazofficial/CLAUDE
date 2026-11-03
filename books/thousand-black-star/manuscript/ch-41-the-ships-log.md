@@ -25,9 +25,9 @@
 > **LOG OF THE M/V *MARJAN*, bulk carrier, Split. Entry in the hand of Ivan Horvat, deck rating.**
 > *1900. All stores aboard. Crew complete but for the cook, who is late and is, he says, "not late, merely *anticipated.*" Wind S, force 4, jugo. Barometer falling. Spirits: high. Heart: not recorded; the form has no column.*
 
-The Dalmatians have a word, *fjaka*, for the blessed state in which a man, on a warm afternoon, is neither working nor resting nor thinking, but simply *being,* as an olive is being on a branch. The jugo brings it. It lay now over the whole Riva like a damp, sweet blanket, and the palm trees stood in it motionless, and the old men on the benches argued about football in the unhurried way of men who have been wrong together for sixty years.
+The Dalmatians have a word, *fjaka*, for the blessed state in which a man, on a warm afternoon, is neither working nor resting nor thinking, but simply *being,* as an olive is being on a branch. The jugo brings it. It lay over the Riva like a damp blanket, the palm trees stood in it motionless, and the old men on the benches argued about football, as men do who have been wrong together for sixty years.
 
-Through it, at a rapid, determined pace, strode Marija Kovač, thirty, second officer of the *Sveti Duje*, in her blue shore-uniform and a face from which no emotion had ever been permitted to escape without a pass.
+Through it, at a rapid, determined pace, strode Marija Kovač, thirty, second officer of the *Sveti Duje*, in her blue shore-uniform and a face from which no emotion was permitted to escape without a pass.
 
 "You are late," said Ivan Horvat.
 
@@ -35,7 +35,7 @@ Through it, at a rapid, determined pace, strode Marija Kovač, thirty, second of
 
 "For the *sea,*" said Ivan. "For me, a woman who is nine minutes early is nine minutes *late* in a better coat."
 
-He was thirty-three, brown as a walnut, with the loose, windblown look of a man whose smile had been rubbed smooth by weather, like a stone at the foot of a quay. He sat on the sea wall with his legs swinging, an enormous canvas bag at his feet, and a paper bag of fritule in his lap, and he held it out to her, and she took one, because refusing him anything was a thing she had never learned to do properly.
+He was thirty-three, brown as a walnut, with a smile rubbed smooth by weather like a stone at the foot of a quay. He sat on the sea wall with his legs swinging, an enormous canvas bag at his feet, and a paper bag of fritule in his lap, and he held it out to her, and she took one, because refusing him anything was a thing she had never learned to do properly.
 
 "Six months," said Ivan.
 
@@ -63,7 +63,7 @@ She looked out at the water. Beyond the harbour, low and violet in the haze, lay
 
 "I know."
 
-"Then why," said Ivan, and he did not stop smiling, because he was the kind of man who smiled as a ship keeps its lights on in a gale, "why are you looking at me like a woman reading out a sentence?"
+"Then why," said Ivan, and he did not stop smiling, because he smiled as a ship keeps its lights on in a gale, "why are you looking at me like a woman reading out a sentence?"
 
 "Because," said Marija, "I wrote to an astronomer in England, three winters ago, and it was the only honest sentence I have ever written. It is in the Register. I will not tell you which number."
 
@@ -94,11 +94,11 @@ She said, very low, "I wanted you to be angry. I wanted you to *ask me to stay.*
 ### SCENE II
 *The same night. A quay, a hundred paces down the harbour. A tall gangway, a large man, and a very large supper.*
 
-> *2130. Cook arrived. Reports he was "detained by destiny." Destiny, on inquiry, turned out to be a barmaid in Kaštela. Wind backing SW, force 5. Visibility moderate. Cook says it is the first time in thirty years he has been seasick *before* sailing.*
+> *2130. Cook arrived. Reports he was "detained by destiny." Destiny, on inquiry, turned out to be a barmaid in Kaštela. Wind backing SW, force 5. Visibility moderate. Cook says it is the first time in five years he has been seasick *before* sailing.*
 
-The ship's cook of the *Marjan* was a man called Luka Matić, fifty-five, from Zagreb, who had never in his life been outdone in vanity by anyone but his own moustache. He was a chef of great and terrible talent. He had once, he claimed, been dismissed from a presidential luncheon for "being too delicious," and had taken to the sea at fifty because "a man who will not be a legend on land must be one at sea, where no one can check."
+The ship's cook of the *Marjan* was a man called Luka Matić, fifty-five, from Zagreb, who had never in his life been outdone in vanity by anyone but his own moustache. He was a chef of great and terrible talent, once dismissed, he claimed, from a presidential luncheon for "being too delicious," and had taken to the sea at fifty because "a man who will not be a legend on land must be one at sea, where no one can check."
 
-He stood now at the foot of the gangway with a stockpot in his arms, regarding the departing deck rating with a long, shrewd, meddling eye.
+He stood now at the foot of the gangway with a stockpot in his arms, regarding the deck rating with a shrewd, meddling eye.
 
 "You have *told* her."
 
@@ -108,7 +108,7 @@ He stood now at the foot of the gangway with a stockpot in his arms, regarding t
 
 "Luka. She has been offered the sea."
 
-"The sea!" Luka threw up his hands. "The sea is a *brute.* The sea has no manners. It will not remember her birthday. It has never once thanked me for a meal." He lowered his voice; his hand, Ivan noticed, went briefly to his side, below the ribs, and came away again, in the quick way of a man brushing off a crumb. "The truth is, boy, that most people spend their whole lives choosing between two things they love, and the thing they *lose* is whichever they were too busy to hold. Do not stand there like a bollard. Go and *do* something."
+"The sea!" Luka threw up his hands. "The sea is a *brute.* It will not remember her birthday. It has never once thanked me for a meal." He lowered his voice; his hand, Ivan noticed, went briefly to his side, below the ribs, and came away again, in the quick way of a man brushing off a crumb. "The truth is, boy, that most people spend their whole lives choosing between two things they love, and the thing they *lose* is whichever they were too busy to hold. Do not stand there like a bollard. Go and *do* something."
 
 "What?"
 
@@ -116,7 +116,7 @@ He stood now at the foot of the gangway with a stockpot in his arms, regarding t
 
 He picked up the pot and went up the gangway, humming, a little unsteadily.
 
-Ivan stood alone on the dark quay. Above him the *Marjan* creaked at her lines. Along the Riva, a klapa of six old men in white shirts had begun to sing in the close harmony of that coast, about a girl who waited by the sea and a sailor who could not say when he would come. He listened. Then he walked to the waterfront bar, borrowed a pen, and did a stupid thing.
+Ivan stood alone on the dark quay. Above him the *Marjan* creaked at her lines. Along the Riva, a klapa of six old men in white shirts had begun to sing in the close harmony of that coast, about a girl who waited by the sea. He listened. Then he walked to the waterfront bar, borrowed a pen, and did a stupid thing.
 
 ---
 
@@ -151,7 +151,7 @@ She looked at him. She looked at the sea beyond him, wide and cold and bright, a
 
 "For one rotation. At the end of it I will tell you if I stay."
 
-The Captain's eyebrows travelled up his forehead like two caterpillars discovering a new leaf.
+The Captain's eyebrows climbed his forehead like two caterpillars discovering a leaf.
 
 "Is it a man?"
 
@@ -161,7 +161,7 @@ The Captain's eyebrows travelled up his forehead like two caterpillars discoveri
 
 "Yes," said Marija. "I know."
 
-He looked at her for a long time, and then, being a man who had been in love twice and wrong only once, he grunted and went up the gangway.
+He looked at her for a long time, and then, having been in love twice and wrong only once, he grunted and went up the gangway.
 
 ---
 
@@ -170,13 +170,13 @@ He looked at her for a long time, and then, being a man who had been in love twi
 
 Elsewhere, where the Nile slides under the old bridges like a slow brown thought, a wedding was beginning.
 
-I must be brief, reader, for it was a very long wedding. The *zaffa* began at six: drums, tambourines, a reed pipe that could weep and make you dance in the same bar, forty cousins with candles; and in front of them, in a cream-coloured jacket cut by a tailor who had not been paid and was only attending to see he would be, walked **Omar Haddad,** thirty-five, antiques dealer, and the finest liar in the whole of Egypt, with the look of a man who had, for the first time in his life, nothing to sell.
+I must be brief, reader, for it was a very long wedding. The *zaffa* began at six: drums, tambourines, a reed pipe that could weep and make you dance in the same bar, forty cousins with candles; and in front of them, in a cream-coloured jacket cut by a tailor who had not been paid and was only attending to see he would be, walked **Omar Haddad,** thirty-five, antiques dealer, and the finest liar in the whole of Egypt, looking like one who had, for the first time in his life, nothing to sell.
 
 The *katb el-kitab,* the signing of the contract, was done in the courtyard of the bride's family house, beneath a trellis hung with jasmine. The officiant was a venerable sheikh with a beard like a cloud. The witnesses were Karim, a potter, built like a wardrobe and weeping like a fountain, and Tarek Hassan, a librarian of forty-one, who drank tea at every hour and had read too many contracts to trust any of them.
 
 "Read the conditions," said the sheikh kindly.
 
-Tarek unrolled the paper. Layla Mansour, thirty-two, the bride, in a gown of ivory silk, sat beneath her veil with a back as straight as an argument. For she was a restorer of antiquities, and the Islamic law, in its wisdom, permits a bride to add her own conditions to the contract; and this one had added her own with the exactness of one cataloguing a tomb.
+Tarek unrolled the paper. Layla Mansour, thirty-two, the bride, in a gown of ivory silk, sat beneath her veil with a back as straight as an argument. For she was a restorer of antiquities, and an Egyptian bride may add her own conditions to the contract; this one had done it with the exactness of one cataloguing a tomb.
 
 "*'The first,'*" read Tarek, with a quiver, "*'that the husband shall never sell the wife anything without a receipt.'*"
 
@@ -190,7 +190,7 @@ Tarek unrolled the paper. Layla Mansour, thirty-two, the bride, in a gown of ivo
 
 They proceeded. The bride said yes. The bridegroom said yes, a little louder than needed, as a man says yes who has had much practice saying no to himself. And the women in the courtyard let loose the *zaghareet,* that long, high, trembling trill of joy that goes up from the throat of Egypt like a flock of white birds, and for one long minute the whole of Cairo seemed to be ululating.
 
-There was a gift. Omar's was a small clay lamp from the Fayoum, plain, chipped, entirely genuine, with a certificate of provenance signed by three experts and a customs officer.
+There were gifts. Omar's was a small clay lamp from the Fayoum, plain, chipped, entirely genuine, with a certificate of provenance signed by three experts and a customs officer.
 
 "It is *real,*" said Omar. "I swear it on every receipt I ever lost."
 
@@ -208,14 +208,14 @@ At the back of the courtyard, among the aunts, a fourteen-year-old girl named Di
 
 "Why are you smiling like a cat in a dairy?" asked her aunt.
 
-"It is the blush of the wicked," said Tarek, passing with fresh tea. "A child who has done good in secret and cannot bear it. I am a librarian. I know where the bodies are shelved."
+"It is the blush of the wicked," said Tarek, passing with fresh tea. "A child who has done good in secret. I am a librarian. I know where the bodies are shelved."
 
 ---
 
 ### SCENE V
 *Naples. The Via dei Tribunali. A pizzeria older than the street's last three governments. A Saturday night, queue to the door, and a baker in a state.*
 
-I promised a third wedding, did I not? It is not a wedding. It is the thing before: the question.
+A third wedding, you will say. It is not a wedding. It is the thing before: the question.
 
 > **Alessandro Greco** was thirty-three and had spent six years in a war with a pastry chef. It had involved a stolen recipe, a rigged contest, and one very memorable incident with a hundred kilos of flour and a Vespa.
 
@@ -229,7 +229,7 @@ Now he stood in his own pizzeria, with a clean white apron, a hand that was not 
 
 "A pizza," said Alessandro, "is open. A pizza is a thing that shows you everything. A *calzone* is a pizza that has closed its heart and is only waiting for the right person to cut it."
 
-Paolo wiped an eye. "It is almost *sacred.* Shall I sing? I have composed a short aria."
+Paolo wiped an eye. "It is almost *sacred.* Shall I sing? I have composed an aria."
 
 "Paolo, if you sing, I will bake you."
 
@@ -267,14 +267,14 @@ She took the knife. She cut it, and the steam rose, and out of the ricotta and t
 
 "That is *not an answer.*"
 
-"It is the beginning of one," said Chiara Esposito, and put the ring on her finger, and the whole of the Via dei Tribunali, which had heard nothing in the last four minutes but its own heart, burst into noise. Paolo Ricci began his aria, which was dreadful. Nobody stopped him. Alessandro, at last, was crying into a bowl of flour, and being kissed, once, on the forehead, by a woman who tasted of cinnamon and fury.
+"It is the beginning of one," said Chiara Esposito, and put the ring on her finger, and the whole of the Via dei Tribunali, which had heard nothing in the last four minutes but its own heart, burst into noise. Paolo Ricci began his aria, which was dreadful. Nobody stopped him. Alessandro, at last, was crying into a bowl of flour, and being kissed, once, on the forehead, by a woman who smelled of cinnamon and fury.
 
 "*Ué, guagliò,*" breathed the lottery man, wiping his eyes. "Now *that* is a Saturday."
 
 ---
 
 ### SCENE VI
-*Night. The open Adriatic, a hundred miles from any shore. Two ships, a mile apart, on opposite courses. The VHF radio on the bridge of the* Sveti Duje*, in the dark.*
+*Night, nine days on. The open Adriatic, far from any lit shore. Two ships, a mile apart, on opposite courses. The VHF radio on the bridge of the* Sveti Duje*, in the dark.*
 
 > *0140. Wind NW, force 4. Sea slight. The* Marjan *has just been raised on the radar, bearing 232, range 1.4 miles, steering a reciprocal course.*
 > *0141. I have not slept since Wednesday.*
@@ -300,9 +300,9 @@ There was a crackle. The sea hissed along the hull. A long, very long, ten secon
 
 "Affirmative. Over."
 
-Another long, hissing silence. On the *Marjan,* a hundred miles from anywhere, a deck rating who ought to have been asleep stood on the wing of a dark bridge with a radio in his hand and a cook breathing down his neck. "*Say it!*" whispered Luka, from the shadow of the funnel. "*Say anything stupid!*"
+Another long, hissing silence. On the *Marjan,* miles from anywhere, a deck rating who ought to have been asleep stood on the wing of a dark bridge with a radio in his hand and a cook breathing down his neck. "*Say it!*" whispered Luka, from the shadow of the funnel. "*Say anything stupid!*"
 
-"*Sveti Duje.*" Ivan's voice was careful as a man crossing a plank. "I have a message. Did you receive my paper bag? Over."
+"*Sveti Duje.*" Ivan's voice was careful as a plank-walker's. "I have a message. Did you receive my paper bag? Over."
 
 "Received. Over."
 

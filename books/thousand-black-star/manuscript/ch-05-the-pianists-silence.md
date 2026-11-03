@@ -18,7 +18,7 @@ It was issued that Thursday at four in the afternoon, upon the Fontanka, upon th
 
 The theatre at that hour was a cavern of dust and half-light, full of ladders and the smell of size and varnish and hot lamps. In the pit, at a black Bechstein with a cracked lid and a candle-stub on the music-desk (against all regulations, and by common consent of the fire-marshal, who was a patron), sat the pianist, in the stiff dark jacket he had worn to every rehearsal for sixteen years, and he was running through the programme, which he had printed on a single sheet and pinned to the wall like a bill of indictment.
 
-He was forty. He had a long grave face with a good deal of forehead in it, a pair of hands that looked as though they had been borrowed from a much taller man, and a manner of courtesy so rigid that it could have been used for scaffolding. He rose when women entered rooms. He apologised to doors. He had accompanied, in his time, four hundred performances of the repertory and one funeral, and had never once been heard to say what he thought of any of them.
+He was forty. He had a long grave face with a good deal of forehead in it, a pair of hands that seemed borrowed from a much taller man, and a courtesy so rigid it could have served as scaffolding. He rose when women entered rooms. He apologised to doors. He had accompanied, in his time, four hundred performances of the repertory and one funeral, and had never once been heard to say what he thought of any of them.
 
 "Number nine," said Sergei, reading the sheet over his shoulder, for he read everything over everybody's shoulder; it was a vice, and a devout one, for he said that God had given him two eyes so that one might guard the other. "*Waltz.* Composer: *Anonymous.* Dmitri Andreyevich, you cannot do this. A gala is for the *famous* dead. Nobody will know whose it is."
 
@@ -62,7 +62,7 @@ Above the theatre, on the fourth floor, in a studio with a bare wooden floor and
 
 "I shall say stop when you have *earned* it."
 
-The boy was twelve, thin as a blade of grass, with a cough he had had since October and a determination to conceal it that touched her more than she would allow. His name was Yuri Orlov. He was the best pupil in the school and the worst liar, and she did not mention the cough. She had her reasons. She was a woman who had been told by doctors, when she was thirty-two, that a knee is a hinge and a dancer's knee a hinge made of glass, and she had learned in the long winter afterward which truths to press and which to leave, like a sheet, folded.
+The boy was twelve, thin as a blade of grass, with a cough he had had since October and a determination to conceal it that touched her more than she would allow. His name was Yuri Orlov. He was the best pupil in the school and the worst liar, and she did not mention the cough. She had her reasons. She had been told by doctors, when she was thirty-two, that a knee is a hinge and a dancer's knee a hinge made of glass, and she had learned in the long winter afterward which truths to press and which to leave, like a sheet, folded.
 
 She had been, for ten years, the first dancer of the Nevsky. They had written about her in four languages. They had compared her to a candle, to a bird, to a thing seen once in a childhood dream; and then one night in the second act of a ballet she had danced two hundred times, the left knee had gone out beneath her, quietly, like a lamp in the next room, and she had finished the act on one leg and sat down in the wings, and had not stood on a stage since.
 
@@ -206,7 +206,7 @@ There was silence.
 
 Eleven hundred people sat in it. They did not know why. A man in the front row, a retired admiral with a chestful of ribbons, was found afterward to have taken off his glasses and to be unable to find them. A woman in a green dress said, loudly, "*Well!*" and was hushed. And then somebody began to clap, a single pair of hands, high in the gods, and then the house.
 
-Dmitri Volkov rose. He bowed, rigidly, to the dark. He did not look into the wings, because he did not know that anyone was in them. He turned, with his formal and perfect exactness, and walked off the opposite side, and the lights went up on an elderly baritone, who looked at the pianist's departing back with the deep and venomous envy of a man who has been following an act he cannot follow.
+Dmitri Volkov rose. He bowed, rigidly, to the dark. He did not look into the wings, because he did not know that anyone was in them. He turned, with his formal and perfect exactness, and walked off the opposite side, and the lights went up on an elderly baritone, who looked at the pianist's departing back with the deep and venomous envy of a man who must follow an act he cannot follow.
 
 By the time the pianist had reached the stage-door, and stood there in the cold, with the snow on his shoulders and his long hands trembling, and the whole of the river dark beyond the lamp, the gala was nearly over; and the woman in the wings had gone.
 
@@ -220,13 +220,13 @@ It was the voice of a man who has been doing something he is ashamed of for some
 
 "By whom?"
 
-"By *nobody.*" He cleared his throat. "Under the stage-door lamp. In the snow. By a person with a slight hesitation on the left foot, who did not wait. And I should tell you, as an honest Christian, that I have read it, because it was folded, and an unfolded letter is an invitation, and I am a man of weak will."
+"By *nobody.*" He cleared his throat. "Under the stage-door lamp. In the snow. By a person with a slight hesitation on the left foot, who did not wait. And I should tell you, as an honest Christian, that I have read it, because it was folded, and an unfolded letter is an invitation, and I am weak."
 
 "Sergei."
 
 "I have *read it.* It is four lines. I want you to know, Dmitri Andreyevich, that I wept like a calf."
 
-Dmitri took the envelope. His hands were not steady, and he disliked the fact, and looked at it. Then, with the tact of a man who had, for forty years, been apologising to doors, he drew out a single sheet, white as the snow, and unfolded it beneath the lamp.
+Dmitri took the envelope. His hands were not steady, and he disliked the fact, and looked at it. Then, with the tact of one who had apologised to doors all his life, he drew out a single sheet, white as the snow, and unfolded it beneath the lamp.
 
 There were four lines. They were written in a quick, proud, upright hand, with a pen pressed hard.
 

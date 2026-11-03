@@ -10,9 +10,9 @@
 
 The Circul Aurora kept its winter quarters in a tin-roofed hangar beside the Dâmbovița, where the river ran the colour of weak tea and the pigeons nested in the trapeze rigging, on the theory that if a man may fly for a living, a bird may do it for free.
 
-It was nearly spring. The hangar smelled of sawdust, horse, resin, and the hot sugar of the popcorn machine that Mihai Stanciu, the company carpenter, kept running for no reason except that a circus without the smell of sugar is only a barn with ambitions. High above the ring, nine metres up under the iron rafters, a wire was strung. On the wire, in grey training clothes and bare feet, with a balance pole across his palms like a man carrying a sleeping child, walked Andrei Popescu.
+The hangar smelled of sawdust, horse, resin, and the hot sugar of the popcorn machine that Mihai Stanciu, the company carpenter, kept running because a circus without the smell of sugar is only a barn with ambitions. High above the ring, nine metres up under the iron rafters, a wire was strung. On the wire, in grey training clothes and bare feet, with a balance pole across his palms like a man carrying a sleeping child, walked Andrei Popescu.
 
-He was thirty-one, and he was the best the company had. Everyone said so, including the posters, which were a little out of date and showed him ten years younger. He had walked the wire in Prague and Lyon and Tbilisi, and once across a courtyard in the rain with a lit candle on his head, without losing a drop of wax. Now he walked it as other men walk to the kitchen, thinking of nothing, humming a tune that was most probably a lullaby.
+He was thirty-one, and he was the best the company had. Everyone said so, including the posters, which showed him ten years younger. He had walked the wire in Prague and Lyon and Tbilisi, and once across a courtyard in the rain with a lit candle on his head, without losing a drop of wax. Now he walked it as other men walk to the kitchen, thinking of nothing, humming a tune that was most probably a lullaby.
 
 In the front row of the empty seats, as she had been every morning for three weeks, sat a librarian.
 
@@ -163,17 +163,13 @@ By Sana Ahmed. A long article, three pages, with photographs: of a dry channel, 
 
 "Sana."
 
-"I know what you will say."
-
-"You do not."
-
 "You will say that I should be careful."
 
 "I was going to say," said Hamza gently, "that you have not eaten."
 
 She stared at him. Then, to her own great surprise, she laughed, a short unwilling laugh, which turned in the middle into something else; and he put the paper down on the bare pitch, under a stone, and put into her hands, instead, a paper cup of chai that had been brewed by the sea wind on a kerosene stove and was, in consequence, the best she had ever tasted.
 
-At the wall, Sana's mother, Mrs. Hira Shah, seventy-five, retired lifeguard of Clifton beach and the only person in Karachi who had pulled eleven strangers and one husband from the Arabian Sea, had come up quietly behind her daughter and set her hand between her shoulder-blades, the place where one checks a swimmer's breathing.
+At the wall, Sana's mother, Mrs. Hira Shah, seventy-five, retired lifeguard of Clifton beach and the only person in Karachi who had pulled eleven strangers and one husband from the Arabian Sea, had come up quietly behind her daughter and set her hand between her shoulder-blades, where one checks a swimmer's breathing.
 
 "Beta," said Hira. "You are home."
 
@@ -193,7 +189,7 @@ Then, from the lane, the sound of a car, slow and grey, that did not belong to a
 
 Ji-woo Han, twenty-six, hanbok tailor, was pinning a sleeve and not thinking about the man who was late.
 
-She was exact. All her life she had been exact. She had measured the bride from Busan and the grandmother from Daegu and the boy of three who would not stand still for his first-birthday *dol*; she knew the width of every shoulder in the lane, and the tilt of every neck, and which woman in the district had lately lost, in sorrow, an inch round the waist. She had measured the whole city, one citizen at a time, and not once had she measured Daniel Cho.
+She was exact. She had measured the bride from Busan and the grandmother from Daegu and the boy of three who would not stand still for his first-birthday *dol*; she knew the width of every shoulder in the lane, and the tilt of every neck, and which woman in the district had lately lost, in sorrow, an inch round the waist. She had measured the whole district, one citizen at a time, and never once Daniel Cho.
 
 This she regarded as a professional lapse.
 

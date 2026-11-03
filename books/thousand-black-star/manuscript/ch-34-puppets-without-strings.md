@@ -20,9 +20,9 @@ The Golden Hare held sixty-three seats, a stage the size of a generous kitchen, 
 
 For Petr was a person to whom words came easily, as long as there was something wooden between them and the world. Give him a Kašpárek, the little red-capped fool of every Czech childhood, and he would be funny, wise, cruel, tender, and shrewd for two hours, in a dozen voices. Take the puppet away, and he would say, *Yes. Thank you. That is correct,* and go and stand in the corner like an umbrella.
 
-His brother Vojtěch, a cobbler, who had the wit that a man gets from spending his life at other people's feet, put it best. "Most human trouble," he liked to say, "is a matter of soles. The rest is a matter of souls. And people confuse the two at their peril. You cannot mend a heart with leather, Petr. But you can sometimes get it to walk."
+His brother Vojtěch, a cobbler, who had the wit that comes of spending a life at other people's feet, put it best. "Most human trouble," he liked to say, "is a matter of soles. The rest is a matter of souls. And people confuse the two at their peril. You cannot mend a heart with leather, Petr. But you can sometimes get it to walk."
 
-He had come that evening with a dozen pairs of tiny shoes, to be glued to tiny feet, and was now seated cross-legged in the wings with a pot of glue and the absent-minded air of a man who has forgotten whether he is wearing his own.
+He had come that evening with a dozen pairs of tiny shoes, to be glued to tiny feet, and was now seated cross-legged in the wings with a pot of glue, wearing the absent-minded air of a man who has forgotten whether he has his own.
 
 "Strawberry-coloured heels for the Queen," said Vojtěch. "Are you sure?"
 
@@ -30,7 +30,7 @@ He had come that evening with a dozen pairs of tiny shoes, to be glued to tiny f
 
 "Good. Certainty is for cobblers who have never met a foot."
 
-Beside him, a girl of fifteen with a stage-hand's black T-shirt and a pencil through her bun was threading a silk line through the head of a dragon. This was Jana, Petr's niece, and she was watching him in the way that the young watch the old when they have decided to make a project of them.
+Beside him, a girl of fifteen with a stage-hand's black T-shirt and a pencil through her bun was threading a silk line through the head of a dragon. This was Jana, Petr's niece, and she was watching him as the young watch the old when they have decided to make a project of them.
 
 "Uncle," said Jana.
 
@@ -99,13 +99,13 @@ Sixty heads went round in the dark, like a field of sunflowers. In F7, Lucie Hor
 
 And from behind the curtain, in a spill of lamplight, with the puppet dangling forgotten at his side and nothing between himself and sixty strangers but his own forty years, stepped a tall, thin, shy man in a black jumper, who said, to the room, in a voice which shook like a ladder:
 
-"Thank you for coming."
+"*Děkuji, že jste přišli.*" Thank you for coming.
 
-It was four words in Czech. It was the first speech of his life. A woman in the third row began to clap, and then a child, and then, like rain on a roof, the whole house.
+It was four words in Czech, and the first speech of his life. A woman in the third row began to clap, and then a child, and then, like rain on a roof, the whole house.
 
 In F7, a critic put her pencil on her knee and did not write one word.
 
-She was gone before the second curtain-call, hat and scarf and all. Markéta, at the cloakroom, returned the coat with the air of one returning a rescued infant. There was an envelope on the counter, with a coin in it that was far too large.
+She was gone before the second curtain-call, hat and scarf and all. Markéta returned the coat at the cloakroom as one returns a rescued infant. There was an envelope on the counter, with a coin in it that was far too large.
 
 "For the dignity," said Markéta.
 
@@ -131,7 +131,7 @@ Jana began to laugh, and could not stop, and had to sit on the dragon.
 
 **Crete. The same week, in the hills above Chania, before the sun was well awake.**
 
-Kostas Mavros, forty-four, taxi driver, had one eye on the road and the other on his passenger, which on a Cretan mountain road is an arrangement that has made orphans of whole families, and which he deployed with serene indifference.
+Kostas Mavros, forty-four, taxi driver, had one eye on the road and the other on his passenger, an arrangement that has made orphans of whole families on Cretan mountain roads, and which he practised with serene indifference.
 
 "Women," said Kostas, as the old Mercedes took a bend at the speed of an argument, "are like the White Mountains. You do not conquer them. You wait for the snow to melt."
 
@@ -145,9 +145,9 @@ Kostas Mavros, forty-four, taxi driver, had one eye on the road and the other on
 
 There was a goat. There had been a goat for some time, and it was now a little behind them, in the mirror, wearing the look of a creature that has just seen the hereafter.
 
-George was a man whom the sun and the olives had made into one piece, with a face like a good boot, and a heavy hand that had been taught to be gentle by thirty years of branches. He sat very straight in his one good suit, with a wooden crate across his knees. In the crate were two things. The first was a tin of oil from the first pressing of the year, the green, peppery *agiourelaio* that has been known to make grown men cough and ask for their mothers. The second, tied with kitchen string, was a bundle of thirty letters, which had come back to him, one winter morning, in the hands of a niece who would not meet his eyes: every one that he had written to Eleni Stavrou, in the thirty springs since she left, returned unopened.
+George had been made by sun and olives into one piece, with a face like a good boot and a heavy hand taught to be gentle by thirty years of branches. He sat very straight in his one good suit, with a wooden crate across his knees. In the crate were two things. The first was a tin of oil from the first pressing of the year, the green, peppery *agiourelaio* that has been known to make grown men cough and ask for their mothers. The second, tied with kitchen string, was a bundle of thirty letters, which had come back to him, one winter morning, in the hands of a niece who would not meet his eyes: every one that he had written to Eleni Stavrou, in the thirty springs since she left, returned unopened.
 
-He had not read them since. He had not needed to. He knew them as a man knows a field he has ploughed.
+He had not reread them. He had not needed to. He knew them as he knew his own terraces.
 
 "You will go in," said Kostas, "and you will say, *Eleni, I am here.* And she will say, *George, what is this, a tragedy?* And you will say, *No, a delivery.* Ha! Because you have the oil! You see? I have the whole thing arranged. All you have to do is open your mouth."
 
@@ -171,7 +171,7 @@ On a stool in the doorway, with her arms folded and the expression of a magistra
 
 "I am an olive man."
 
-"Mrs. Eleni cried in the storeroom when the postman brought the box back. I heard it. She said it was the dust." The girl surveyed him, from boots to hat, with merciless attention. "Is it true you wrote thirty letters?"
+"Mrs. Eleni cries in the storeroom every April, when the almond flowers. I have heard it. She says it is the dust." The girl surveyed him, from boots to hat, with merciless attention. "Is it true you wrote thirty letters?"
 
 "It is true."
 
@@ -191,7 +191,7 @@ On a stool in the doorway, with her arms folded and the expression of a magistra
 
 Katerina went, looking back over her shoulder like a comet.
 
-Eleni Stavrou stood in the doorway of her own storeroom, fifty-eight, in a black cardigan, a widow of six years, with a carved wooden spoon in one hand like a sceptre. She had hair that had gone silver before she had permitted it, and she was not a handsome woman, but she was a *finished* one, as a good wall is finished, and the two of them stood and looked at each other across a floor of cold stone and thirty springs.
+Eleni Stavrou stood in the doorway of her own storeroom, fifty-eight, in a black cardigan, a widow of six years, with a carved wooden spoon in one hand like a sceptre. Her hair had gone silver before she had permitted it, and she was not a handsome woman, but a *finished* one, as a good wall is finished, and the two of them stood and looked at each other across a floor of cold stone and thirty springs.
 
 "You have got fat," said Eleni.
 
@@ -216,7 +216,7 @@ At the end of it, when the cup was empty and the light on the harbour had turned
 > *Thirty springs I sent my blossoms down the road to you;
 > The post said "not at this address," but still the blossom grew.*
 
-It was a *mantinada*, one of those rhyming couplets that the Cretans fling at one another across a table like olives: a verse that does not ask a question, only leaves a space where an answer might sit.
+It was a *mantinada*, one of those rhyming couplets the Cretans fling at one another across a table like olives: a verse that asks no question, only leaves a space where an answer might sit.
 
 Eleni did not look up. The wooden spoon lay on the table. A long breath came out of her, and then, quite quietly, in a dry, half-broken voice which belonged entirely to the girl of twenty-eight who had left, she gave the answer. It was the old rule of the form, that you must not leave a couplet standing alone:
 

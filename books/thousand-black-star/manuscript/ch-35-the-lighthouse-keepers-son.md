@@ -12,7 +12,7 @@ At the south-western tip of the old Dutch fort, where the ramparts run out of wa
 
 On the morning that concerns us, it was failing.
 
-"It is the bearing," said Anil Perera, thirty-two, lighthouse keeper's son, lying on his back beneath the great lens with a torch in his teeth, so that what he said came out in the shape of a hum. "The monsoon got into the housing in March. It has been grinding for a month. Last night it stopped."
+"It is the bearing," said Anil Perera, thirty-two, lighthouse keeper's son, lying on his back beneath the great lens with a torch in his teeth, so that what he said came out in the shape of a hum. "The last monsoon got into the housing in February. It has been grinding for two months. Last night it stopped."
 
 "What does that mean?" said the young woman who was holding the other torch.
 
@@ -42,15 +42,15 @@ What she had not got was a place to put down the torch. And so, when the tall qu
 
 At which moment there was a great clanking on the stair, and a voice that came before its owner like a crier before a king: "*Aney, aney,* the god-blessed Perera boy and the nurse madam! I have brought *offerings!*"
 
-Chaminda Abeywardena, forty-seven, proprietor of the newsagent's by the clock tower, was a devout man in the same sense that a sponge is a wet one. He carried in his arms, with the care of a procession, six king coconuts, a flask of tea, a bundle of white thread, and the front page of a newspaper dated the fourth of February 1989. "I have kept every paper since the day I started," he declared, "and today I thought: what is a lighthouse but a very old newspaper? It tells the news, and warns of danger. It is the same trade."
+Chaminda Abeywardena, forty-seven, proprietor of the newsagent's by the clock tower, was devout in the way a sponge is wet. He carried in his arms, with the care of a procession, six king coconuts, a flask of tea, a bundle of white thread, and the front page of a newspaper dated the fourth of February 1989. "I have kept every paper since the day I started," he declared, "and today I thought: what is a lighthouse but a very old newspaper? It tells the news and warns of danger. It is the same trade."
 
 "Chaminda," said Anil, from the floor, "why have you brought the *paper*?"
 
-"For the pirith! I will bless the lamp. I have brought the sacred thread. And for the *luck* I have brought the paper of the day the lamp was last repaired." He unfolded it. "This," he said, with great tenderness, "is Wimbledon."
+"For the pirith! I will bless the lamp. I have brought the sacred thread. And for the *luck* I have brought the paper of the day the lamp was last repaired." He unfolded it. "This," he said, with great tenderness, "is the Independence Day parade."
 
 "Chaminda, the lamp was last repaired in 1994."
 
-"Then I have brought the *wrong* Wimbledon," said the newsagent, calmly, and sat down on the floor and began, in a noble baritone, to chant.
+"Then I have brought the *wrong* parade," said the newsagent, calmly, and sat down on the floor and began, in a noble baritone, to chant.
 
 It was in the eleventh minute of this blessing, with Anil swearing quietly in two languages at a seized housing, and the sea behind the great curved glass the colour of a very old coin, that Nadeesha, who had been lying on her stomach holding a torch into the cavity behind the lens pedestal, said, in an entirely different voice:
 
@@ -58,7 +58,7 @@ It was in the eleventh minute of this blessing, with Anil swearing quietly in tw
 
 ---
 
-It was an old biscuit tin, with a faded painting of a coach and four on its lid, and it had been placed in the hollow behind the brickwork so long ago that the rust had bonded it to the wall. They had to cut it out. Anil did it with a chisel, as gently as a man delivers a calf, and when it came free, he carried it to the window as one carries a sleeping child.
+It was an old biscuit tin, with a faded painting of a coach and four on its lid, and it had been placed in the hollow behind the brickwork so long ago that the rust had bonded it to the wall. They had to cut it out. Anil did it with a chisel, as gently as a man delivers a calf, and when it came free he carried it to the window like a sleeping child.
 
 Inside lay the letters.
 
@@ -72,7 +72,7 @@ Nadeesha did not touch them. She sat on the bottom step of the gallery stair, wi
 
 It was she who opened the first. It had been written in the summer of 1964, by a girl of eighteen about to go to London to study the stars:
 
-*Dear Mr. Perera. Thank you for letting me stand in your lamp-room last August, and for not laughing when I asked what the light was for. You said, "for the ships." I have been thinking since. I think it is for the ones who do not know they need it. I am going to London. I shall write to you. You need not answer. A keeper is not expected to. A light does not reply, it only goes on being there. — Seraphine W.-R.*
+*Dear Mr. Perera. Thank you for letting me stand in your lamp-room when I was twelve, and again last August, and for not laughing when I asked what the light was for. You said, "for the ships." I have been thinking since. I think it is for the ones who do not know they need it. I am going to London. I shall write to you. You need not answer. A keeper is not expected to. A light does not reply, it only goes on being there. — Seraphine W.-R.*
 
 She read it aloud. Chaminda had stopped chanting, which, in an age of miracles, was perhaps the whole miracle. When she had finished she held it against her chest.
 
@@ -80,19 +80,19 @@ She read it aloud. Chaminda had stopped chanting, which, in an age of miracles, 
 
 ---
 
-The afternoon went. The bearing went in, a new bronze one that had come up from Colombo on a bus, on the knee of Nadeesha's brother Sampath, who had sold tea to the driver all the way. Anil set it with a tenderness that was almost indecent. The brass housing was oiled; the lens, which was the size of a small room and held all its glass in the exact attitude in which it had been set by a foundry long ago, was released.
+The afternoon went. The bearing went in, a new bronze one that had come up from Colombo on a bus, on the knee of Nadeesha's brother Sampath, who had sold tea to the driver all the way. Anil set it with a tenderness that was almost indecent. The housing was oiled; the lens, the size of a small room, was released.
 
-At half past six, with the tropical dusk coming down like a cloth on a table, a girl of fifteen with a basket of jasmine appeared at the foot of the stair and shrieked something up the well of the tower. This was Kumari Senanayake, who had been telling the whole of the Fort for a month that the lighthouse keeper looked at the sea when the nurse was not there, and at the nurse when she was not looking.
+At half past six, with the dusk coming down like a cloth on a table, a girl of fifteen with a basket of jasmine appeared at the foot of the stair and shrieked something up the well of the tower. This was Kumari Senanayake, who had been telling the whole of the Fort for a month that the lighthouse keeper looked at the sea when the nurse was not there, and at the nurse when she was not looking.
 
 "What did she say?" said Nadeesha.
 
-"I did not hear it," said Anil, who had. He went to the switch. His father, who had kept the Galle Light for thirty-eight years and whose eyes were now two milk-white moons, stood in the doorway of the lamp-room in his old white jacket, with one hand on the rail and his head tilted, as a man listens to a thing he has heard ten thousand times. Nobody had asked him to come up the stairs. Nobody had been able to stop him.
+"I did not hear it," said Anil, who had. He went to the switch. His father, who had kept the Galle Light for thirty-eight years and whose eyes were now two milk-white moons, stood in the doorway of the lamp-room in his old white jacket, with one hand on the rail and his head tilted, listening. Nobody had asked him to come up the stairs. Nobody had been able to stop him.
 
 "Throw it, putha," said Mr. Perera.
 
 Anil threw it.
 
-For a moment there was nothing but the light, white and round and enormous in the glass. Then, with a faint sigh, like a deep breath let out after a long swim, the lens began to turn. The beam swung out across the sea, a hard bright road laid down on the water, and went round, and found the horizon, and went on. Far below, on the ramparts, on the beach, on the road of the fort, people looked up, as a congregation looks up when the bell is finally rung.
+For a moment there was nothing but the light, white and round and enormous in the glass. Then, with a faint sigh, the lens began to turn. The beam swung out across the sea, a hard bright road laid down on the water, and went round, and found the horizon, and went on. Far below, on the ramparts and the beach and the fort road, people looked up, as a congregation looks up when the bell is finally rung.
 
 "Twelve seconds," said Mr. Perera, listening. He had counted it by ear. "Twelve. Same as always." His blind face turned, with great accuracy, toward the nurse. "Madam. Your aunt used to stand at the rail where you are standing. She was twelve, I think. My father allowed it. She never once said thank you. She only looked."
 
@@ -106,9 +106,9 @@ She went down. It seemed the only thing to do. She went out through the old iron
 
 Behind her, high up, the beam went round.
 
-It found her, as it passed. It left her. It came back. Twelve seconds, a circle of light, a long turn of dark, and again the light on her wet face, and again the dark, a pulse like the beat of a slow heart. She could not have said why this should comfort her. Perhaps because something in the world had been turned, at last, in the right direction and was going on being turned whether or not she could stand it.
+It found her, as it passed. It left her. It came back. Twelve seconds, a circle of light, a long turn of dark, and again the light on her wet face, a pulse like a slow heart. She could not have said why this should comfort her. Perhaps because something in the world had been turned, at last, in the right direction and would go on being turned whether or not she could stand it.
 
-Above her, in the gallery, with a spanner still hanging forgotten from his belt and his father humming softly beside him, Anil stood at the rail and watched the small figure on the rock. Each time the light passed over her, he saw her face for the length of a breath. Then the dark. Then, twelve seconds on, the face. He found he had begun to count. He found that it was the longest he had ever waited for anything, and the shortest.
+Above her, in the gallery, with a spanner still hanging forgotten from his belt and his father humming softly beside him, Anil stood at the rail and watched the small figure on the rock. Each time the light passed over her, he saw her face for the length of a breath. Then the dark. Then, twelve seconds on, the face. He found he had begun to count. It was the longest he had ever waited for anything, and the shortest.
 
 He spoke then, quietly, as men do who have kept silent for a very long time and find that the night is not listening, and are mistaken:
 
@@ -156,7 +156,7 @@ She folded it.
 
 "You were not *asked*," said Nadeesha. "You came with a spanner and a torch and a king coconut." And then, because there are limits to what a person can carry in one evening, she laughed, and wiped her face with the heel of her hand, and walked across the room and put her hand on the brass rail of the lens beside his own.
 
-They did not speak. The great glass turned above them, and every twelve seconds the room flashed white and dark and white again, and in each flash the two of them were standing a little closer, as in a flickering reel of film, until at the last their hands lay together on the rail, which was warm from the lamp, and neither one said anything at all.
+They did not speak. The great glass turned above them, and every twelve seconds the room flashed white and dark and white again, and in each flash the two of them were standing a little closer, until at the last their hands lay together on the rail, which was warm from the lamp, and neither one said anything at all.
 
 In the corner, Chaminda Abeywardena, who had been present throughout and had been entirely forgotten, took out the front page of the fourth of February 1989 and, with the greatest delicacy, laid it over his face.
 
@@ -168,7 +168,7 @@ The workshop of Kenji Watanabe smelled of cypress and glue and the old sweet dus
 
 They were all of one family: the long pale women of the Noh stage, with brows high-painted and mouths like closed leaves; the old men with beards of horsehair; the demons with gold eyes; the girl called *ko-omote*, whose face is neither smiling nor weeping and has been copied, by carver after carver, for six hundred years. They watched the room with the patience of the dead.
 
-"You may not touch the chisel today," said Daichi Kobayashi, twenty-five, apprentice, drinker of too much tea at night, and a young man of strong superstitions, to a figure bent over a workbench in the corner. "It is *Butsumetsu*. It is a day of ill omen. A man who carves on Butsumetsu will make a face that will not look at him."
+"You may not touch the chisel today," said Daichi Kobayashi, twenty-five, apprentice, tea-drinker, and a young man of strong superstitions, to a figure bent over a workbench in the corner. "It is *Butsumetsu*. It is a day of ill omen. A man who carves on Butsumetsu will make a face that will not look at him."
 
 "I am not carving," said Kenji. "I am finishing."
 
@@ -180,7 +180,7 @@ On the bench before him, wrapped in a square of purple silk, lay the thing that 
 
 "Master," said a voice at the door, "the wood you ordered has come."
 
-It was Yuto Shimizu, the river-boatman from Arashiyama, a hot-tempered man of twenty-nine who believed what he was told by anyone who looked sure of themselves, and who had brought with him, on a handcart, an enormous slab of timber with the air of a man presenting a firstborn. "Genuine three-hundred-year-old cypress. From a temple that burned down. My cousin's friend got it. Look at the *grain.*"
+It was Yuto Shimizu, the river-boatman from Arashiyama, a hot-tempered man of twenty-nine who believed whatever he was told by anyone who looked sure of themselves, and who had brought on a handcart an enormous slab of timber, presenting it like a firstborn. "Genuine three-hundred-year-old cypress. From a temple that burned down. My cousin's friend got it. Look at the *grain.*"
 
 Kenji looked at the grain. He tapped the slab. He bent and smelled it.
 
@@ -190,13 +190,13 @@ Kenji looked at the grain. He tapped the slab. He bent and smelled it.
 
 "There is a small fish-scale in the corner."
 
-"It is a mark of *age!*" said Yuto, and sat down on the handcart, abruptly, with the expression of a man betrayed by a cousin and a cousin's friend. "I paid four hundred thousand yen."
+"It is a mark of *age!*" said Yuto, and sat down on the handcart, abruptly, betrayed by a cousin and a cousin's friend. "I paid four hundred thousand yen."
 
 "You were robbed," said Daichi, with delight.
 
 "I was *educated*," said Yuto, with dignity.
 
-The door slid, and there was a hush, because there is always a hush when a certain kind of person comes into a room. She came in as she always came, without sound. She was twenty-six. She wore a plain grey kimono and her hair up, and there was a small, correct, immovable smile on her face that she wore through the streets, and the station, and her mother's table, and the green-room of every theatre in the city, like a mask she'd never learned to remove.
+The door slid, and there was a hush, because there is always a hush when a certain kind of person comes into a room. She came in as she always came, without sound. She was twenty-six. She wore a plain grey kimono and her hair up, and there was a small, correct, immovable smile on her face that she wore through the streets, and the station, and her mother's table, and the green-room of every theatre in the city.
 
 Haruka Mori was a Noh actress, and a very fine one, in a tradition that had not been built for her. On the stage she could, in the turn of a head, be a ghost of a thousand years. Off it she was a woman with a polished smile, who said *Yes, of course,* and *It was nothing,* and *Please don't trouble,* and who had told no one in six years what it cost.
 

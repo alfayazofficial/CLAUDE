@@ -17,11 +17,11 @@
 ---
 
 ### SCENE I
-*Bonwire, outside Kumasi, in the hills of Asante. A weaving shed with a tin roof, four looms, and a smell of cotton, dust and groundnut soup. August; the long rains drumming overhead like a hundred small fists.*
+*Bonwire, outside Kumasi, in the hills of Asante. A weaving shed with a tin roof, four looms, and a smell of cotton, dust and groundnut soup. August; an afternoon shower drumming overhead like a hundred small fists.*
 
 The loom said *clack*, and then it said *clack* again.
 
-It is a narrow thing, the kente loom, and an ancient one: a frame of wood, a weight of stone, two pedals worked by the feet, and a warp of thread stretched away into the dark of the shed like a road that had decided to be a rumour. The weaver sits at the near end and throws the shuttle through the shed with his right hand and beats the weft with his left, and his feet, meanwhile, go up and down like a man pedalling steadily toward a place he has not told anyone about. What comes out is not cloth. It is a *strip*, four fingers wide, no more; and a hundred strips sewn edge to edge make the cloth that kings are buried in, and the cloth a girl wears to be named, and the cloth that a young man, in his thirtieth year, is weaving now, with a promise in it.
+It is a narrow thing, the kente loom, and an ancient one: a frame of wood, a weight of stone, two pedals worked by the feet, and a warp of thread stretched away into the dark of the shed like a road that had decided to be a rumour. The weaver sits at the near end and throws the shuttle through the shed with his right hand and beats the weft with his left, and his feet, meanwhile, go up and down as if pedalling steadily toward a place he has not told anyone about. What comes out is not cloth. It is a *strip*, four fingers wide, no more; and a hundred strips sewn edge to edge make the cloth that kings are buried in, and the cloth a girl wears to be named, and the cloth that a young man, in his thirtieth year, is weaving now, with a promise in it.
 
 Kofi Boateng sat at the loom. He had sat there since four o'clock. He was thirty and patient, which in Asante is an old and honoured combination, and proud, which in Asante is a young man's one acknowledged vice. Beside him, on a stool, with her handbag on her knee and her glasses at the end of her nose, sat his mother, Akosua Asante, sixty-one, a lawyer. She was reading a contract. It was his.
 
@@ -33,7 +33,7 @@ Kofi Boateng sat at the loom. He had sat there since four o'clock. He was thirty
 
 "It is not a contract. It is a cloth."
 
-"It is a *warp*," said his mother, with the air of a woman who has cross-examined a hundred thieves, and found her son the most elusive. "I counted it. Do not think I did not. One hundred and forty yards. You wound that warp on Monday. A man does not wind a warp of one hundred and forty yards for a market stall; he winds it for a *term*. Twenty-four months. That is how long her scholarship runs."
+"It is a *warp*," said his mother, with the air of one who has cross-examined a hundred thieves and found her son the most elusive. "I counted it. Do not think I did not. One hundred and forty yards. You wound that warp on Monday. A man does not wind a warp of one hundred and forty yards for a market stall; he winds it for a *term*. Twenty-four months. That is how long her scholarship runs."
 
 Kofi's hands did not stop. *Clack.* "You have been in my shed."
 
@@ -68,7 +68,7 @@ She did not need to. It said what it had said on Monday: that she, Esi Appiah of
 
 "You have not said yes," said a voice from the window.
 
-Below, with a thermos on his hip and a tray of sugar bread on his head, stood Kojo Asante, thirty-three, tea-seller, her oldest friend, and a deeply devout man who had a habit of spending money that was not his on things that were holy. He had been, that week, a hundred cedis into the church building fund on borrowed sugar, and he had asked God for a decision on the matter, and God, so far, had been silent.
+Below, with a thermos on his hip and a tray of sugar bread on his head, stood Kojo Asante, thirty-three, tea-seller, her oldest friend, and a deeply devout man with a habit of spending money that was not his on things that were holy. That week he was a hundred cedis into the church building fund on borrowed sugar. He had asked God for a ruling on the matter, and God, so far, had been silent.
 
 "I have not said anything," said Esi.
 
@@ -76,7 +76,7 @@ Below, with a thermos on his hip and a tray of sugar bread on his head, stood Ko
 
 "*Especially* not to Kofi."
 
-"Then you are *both* very quiet." Kojo clasped his hands. "Madam. I will tell you what my grandmother told me, and then I will sell you a tea. She said, there are two things you cannot do to a person: you cannot ask them to stay, and you cannot tell them to go. You can only stand in the door and hold it open for whichever way they walk."
+""Then you are *both* very quiet." Kojo clasped his hands. "Madam. I will tell you what my grandmother told me, and then I will sell you a tea. She said, there are two things you cannot do to a person: you cannot ask them to stay, and you cannot tell them to go. You can only stand in the door and hold it open for whichever way they walk."
 
 "That is very profound."
 
@@ -104,7 +104,7 @@ She did not hear the shed door open, nor the footsteps on the damp laterite. She
 
 "The warp."
 
-"It is a hundred and forty yards. It is wound for twenty-four months. I did not mean you to know until the cloth was finished." He put the parcel on her desk. His hands, which had never trembled at a loom in his life, trembled at the string. "It is a strip. It is the first. It is the width of one month. I thought, if you go, I would weave one every month you are away, and send you a hand's breadth, and at the end of two years, there is a cloth. And if you stay—" His voice caught on the word, like a shuttle on a snagged thread. "If you stay, I will cut the warp and burn it, and you will never need to know."
+"It is a hundred and forty yards. It is wound for twenty-four months. I did not mean you to know until the cloth was finished." He put the parcel on her desk. His hands, which had never trembled at a loom in his life, trembled at the string. "It is a strip. It is the first. It is the width of one month. I thought, if you go, I would weave one every month you are away, and send you a hand's breadth, and at the end of two years, there is a cloth. And if you stay—" His voice caught on the word. "If you stay, I will cut the warp and burn it, and you will never need to know."
 
 She opened the paper. The strip lay in her hands, four fingers wide, gold and green and black. In the weave, very small, there was a pattern she had not seen before, and he named it, as weavers do, in the old way, with a proverb.
 
@@ -118,7 +118,7 @@ She opened the paper. The strip lay in her hands, four fingers wide, gold and gr
 
 "Do not say it. Do not say yes or no, not to me. I do not ask you for a promise. I am only telling you that the thread is long. It is longer than it looks."
 
-She stood very still with the strip lying across her palms. She was a woman who had never in her life failed to answer a direct question, and she found that she had no answer except to put one hand, lightly, over his, where it lay on the desk.
+She stood very still with the strip lying across her palms. She had never in her life failed to answer a direct question, and she found now that she had no answer except to put one hand, lightly, over his, where it lay on the desk.
 
 "I will write to Scotland on Friday," said Esi.
 
@@ -149,13 +149,13 @@ There was one now. The radio station, whose night show had begun as a joke betwe
 
 "I don't know!" wailed Thandi. "That is the *problem.*"
 
-At the front of the hall, in a dress of blue shweshwe the colour of a deep pool, with a gold necklace from her landlady Palesa Zulu round her throat, Naledi Khumalo stood in the hush of two hundred guests and one microphone. She was twenty-nine. She was warm, and wry, and a radio host, and she had never in her life been at a loss for a word.
+At the front of the hall, in a dress of deep-blue shweshwe, with a gold necklace from her landlady Palesa Zulu round her throat, Naledi Khumalo stood in the hush of two hundred guests and one microphone. She was twenty-nine. She was warm, and wry, and a radio host, and she had never in her life been at a loss for a word.
 
 Beside her stood Thabo Dlamini, thirty-one, saxophonist, shy offstage as a deer, in a black suit with a thin gold tie and a saxophone slung at his hip.
 
-Neither of them had a speech. That was the arrangement. In the pause before the priest began, an old man in the second row, very thin, in a grey coat too heavy for the heat, rose up unbidden and said, in the quavering voice of eighty winters, "Excuse me. Before it starts. I wish to say that I have listened every night. I cannot read. Never learned. The radio was my newspaper and my church and my friend. I wish to thank the lady." He sat down. Tshepo Radebe, sixty-six, retired newsagent, had been listening for four years, and had come to the front on the arm of a taxi-driver, and it was observed that the bride wept before the ceremony began.
+Neither of them had a speech. That was the arrangement. In the pause before the priest began, an old man in the second row, very thin, in a grey coat too heavy for the warm hall, rose up unbidden and said, in a quavering voice, "Excuse me. Before it starts. I wish to say that I have listened every night. I cannot read. Never learned. The radio was my newspaper and my church and my friend. I wish to thank the lady." He sat down. Tshepo Radebe, sixty-six, retired newsagent, had been listening for four years, and had come to the front on the arm of a taxi-driver, and it was observed that the bride wept before the ceremony began.
 
-It was a short ceremony and a loud one, as Soweto weddings are: with the ululation going up from the aunts at the vows like a flock of birds that had been waiting all year to be asked, and a choir in the corner singing in three languages at once. The vows were not long. Naledi went first, because she was the voice, and said them to the microphone and the man and the city, in the plain measure that the heart finds when it has been practising for years:
+It was a short ceremony and a loud one, as Soweto weddings are: with the ululation going up from the aunts at the vows, and a choir in the corner singing in three languages at once. The vows were not long. Naledi went first, because she was the voice, and said them to the microphone and the man and the city, in the plain measure that the heart finds when it has been practising for years:
 
 > *For four years I have sent a song into the dark
 > And never known the one who heard it best.
@@ -167,11 +167,11 @@ It was a short ceremony and a loud one, as Soweto weddings are: with the ululati
 
 Then Thabo, who had no voice for it, lifted the saxophone to his mouth.
 
-He did not speak. He played. It was a slow, warm, impossible tune, the one that had come down the wires to her on a hundred nights, and it went up through the corrugated roof and through the open door and down the length of the street, where people had stopped; and down the length of the city, where cars had pulled over, and minibus-taxis had turned off their engines in the middle of the road with the driver's hand still on the wheel, and a hundred thousand people were listening to a stranger propose, in the one language that has no accent, to a woman he had never failed to know.
+He did not speak. He played. It was a slow, warm, impossible tune, the one that had come down the wires to her on a hundred nights, and it went up through the corrugated roof and through the open door and down the length of the street, where people had stopped; and down the length of the city, where cars had pulled over, and minibus-taxis had turned off their engines in the middle of the road with the driver's hand still on the wheel, and a hundred thousand people were listening to a man propose, in the one language that has no accent, to a woman he had never failed to know.
 
 When the last note went out, the hall was entirely silent.
 
-Then Jabu Mokoena took out the ring from his shoe, with an expression of great suffering, and a cheer rose that could be heard in Pretoria. *Mark this, reader.* They say that at a taxi rank on Bree Street the whole thing was played from a single car radio, and a hundred people stood with their heads bare in the sun, and no one, afterwards, could remember who had taken up the collection, or for what.
+Then Jabu Mokoena took out the ring from his shoe, with an expression of great suffering, and a cheer rose that could be heard in Pretoria. They say that at a taxi rank on Bree Street the whole thing was played from a single car radio, and a hundred people stood with their heads bare in the sun, and no one, afterwards, could remember who had taken up the collection, or for what.
 
 ---
 
@@ -190,7 +190,7 @@ It was the most expensive delivery van in Antioquia. Sebastián Torres, twenty-n
 
 "I will ride like a man who has been told to ride *carefully* by a woman who is afraid," said Sebastián, "which is the most dangerous kind of careful there is."
 
-Daniela Ruiz was twenty-eight and a flower farmer, and she was bright, and proud, and in debt. In the greenhouse behind the house the roses had a blight, and in the bank in town a man named Julián Gómez, fifty-one, a notary's scribe, loyal to the point of agony and quite unable to say goodbye, held a paper from a buyer that would take the whole farm, house and ground and mountain, for a sum that was both fair and a catastrophe. He had brought it up the hill on Thursday. He had stood on the porch for an hour holding it, and gone down again without handing it over, and returned on Friday, and done the same.
+Daniela Ruiz was twenty-eight and a flower farmer, and she was bright, and proud, and in debt. In the greenhouse behind the house the roses had a blight, and in a notary's office in town a man named Julián Gómez, fifty-one, a scribe, loyal to the point of agony and quite unable to deliver bad news, held a paper from a buyer that would take the whole farm, house and ground and mountain, for a sum that was both fair and a catastrophe. He had brought it up the hill on Thursday. He had stood on the porch for an hour holding it, and gone down again without handing it over, and returned on Friday, and done the same.
 
 "It is a very *hard* paper to deliver," Julián had explained, nearly weeping.
 
@@ -212,7 +212,7 @@ Now, on the Sunday of the parade, the farm's last silleta, a great wooden chair 
 
 "Mariana."
 
-"I am a butcher. I carry the whole side of a cow and nobody gives me flowers." She sniffed. "Who is going to carry it? Not you; you have a bad knee. Not *him*; he has a bad *spine.*"
+"I am a butcher. I carry the whole side of a cow and nobody gives me flowers." She sniffed. "Who is going to carry it? Not you; you have a bad knee. Not *him*; he has a plaster still on his *wrist.*"
 
 "I will," said Daniela.
 
@@ -220,7 +220,7 @@ Now, on the Sunday of the parade, the farm's last silleta, a great wooden chair 
 
 "Then I will die with an orchid." She put her hand on the carved arm of the chair. It was the kind of line that could be said in a house that is about to be sold. "Sebastián will ride behind me down the mountain, and every kilometre I will think: *I have not lost it yet.*"
 
-He did, in the end. All the way down, past the roadside shrines and the vultures and the little tin kiosks selling *arepas*, behind a woman with a seventy-kilo mountain on her back, he rode at walking pace, a bicycle at the speed of a funeral; and she never once stopped, nor spoke, nor looked back, and the sun came up over the whole green valley and caught the petals, so that she seemed to walk into the city carried by a small blazing garden. Somewhere at the bottom of the hill a team manager from Spain stood waiting with a contract that would send Sebastián across an ocean for four years, and somewhere on the same hill a notary's scribe sat on a rock with his two pages, weeping at last, because he had finally decided to deliver them.
+He did, in the end. All the way down, past the roadside shrines and the vultures and the little tin kiosks selling *arepas*, behind a woman with a seventy-kilo mountain on her back, he rode at walking pace, a racing bicycle at the speed of a funeral; and she never once stopped, nor spoke, nor looked back, and the sun came up over the whole green valley and caught the petals, so that she seemed to walk into the city carried by a small blazing garden. Somewhere at the bottom of the hill a team manager from Spain stood waiting with a contract that would send Sebastián across an ocean for four years, and somewhere on the same hill a notary's scribe sat on a rock with his two pages, weeping at last, because he had finally decided to deliver them.
 
 "Don't read it yet," said Daniela, over her shoulder, not knowing which paper she meant, and not turning. "Ride with me to the end of the parade. Whatever they say, we will decide it at the bottom."
 
@@ -235,6 +235,8 @@ It was, said the Keeper later, a very good answer.
 *Margin note, in pencil, in the hand of S.W.R.:*
 
 > *Entry 0281 and Entry 0532. A weaver measures a promise in yards. A radio host measures it in frequencies. A cyclist measures it in kilometres, and a farmer in the weight of a flower on her back. They are all the same unit. It is called: how far are you willing to go with your hand still open?*
+>
+> *Entry 0466 and Entry 0749. A saxophone has no words, which is why it was believed.*
 >
 > *Entry 0586 and Entry 0360. The wheel is still turning. I will not say which way.*
 

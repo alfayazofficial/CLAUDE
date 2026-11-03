@@ -6,11 +6,11 @@
 
 ---
 
-The week after the dead have been fed, Mexico City smells of marigolds.
+Long after the dead have been fed, Mexico City still smells of marigolds.
 
-They are everywhere: heaped in the Jamaica market in orange mountains, crushed in the gutters of the Roma, caught in the grilles of tram-stops and the hair of small girls, and long after the last candle has guttered on the last altar, their bitter gold perfume goes on hanging in the thin high air, as if the city were not yet quite sure that the visitors had gone home.
+They are everywhere: heaped in the Jamaica market in orange mountains, crushed in the gutters of the Roma, caught in the grilles of bus shelters and the hair of small girls, and weeks after the last candle has guttered on the last altar, their bitter gold perfume goes on hanging in the thin high air, as if the city were not yet quite sure that the visitors had gone home.
 
-It was in this week, upon a scaffold of rusted pipe on the Calle Zacatecas, at ten minutes before dawn, that a young man named Rafael Ortega stood with a bucket of cobalt blue in his left hand, a radio blasting a ranchera into the whole sleeping neighbourhood, and the end of a very large nose upon his right.
+It was in this season, upon a scaffold of rusted pipe on the Calle Zacatecas, in the blue hour before dawn, that a young man named Rafael Ortega stood with a bucket of cobalt blue in his left hand, a radio blasting a ranchera into the whole sleeping neighbourhood, and the end of a very large nose upon his right.
 
 It was the nose of a woman. It was thirty feet high. It was one of a hundred and three.
 
@@ -24,7 +24,7 @@ It was the nose of a woman. It was thirty feet high. It was one of a hundred and
 
 He was twenty-six, loud, broad in the shoulder and long in the leg, with a mop of black hair stiff with a decade of paint and a pair of eyes in which every emotion arrived at once and nobody was ever in charge. He painted as other men argue: with his whole body, at the top of his lungs. In two years he had covered, without a permit, without a sponsor, and without, as far as anyone could tell, any plan, a hundred and three walls of the capital with a single face.
 
-It was always the same. A young woman on a bench, reading. Her hair fell forward over one shoulder; her mouth was set in a line of ferocious concentration; her head was bowed, and her eyes, upon every one of the hundred and three, were *closed.* The critics called it *La Lectora.* The children called it *La Señorita Que No Se Cansa.* The city, which will make a saint of anyone who stays in one place long enough, had begun to leave small offerings at the foot of her bigger walls: a marigold; a pencil; once, on the Calle Chihuahua, a copy of the Civil Code.
+It was always the same. A young woman on a bench, reading. Her hair fell forward over one shoulder; her mouth was set in a line of ferocious concentration; her head was bowed, and her eyes, upon every one of the hundred and three, were *closed.* The critics called it *La Lectora.* The children called it *La Señorita Que No Se Cansa.* The city had begun to leave small offerings at the foot of her bigger walls: a marigold; a pencil; once, on the Calle Chihuahua, a copy of the Civil Code.
 
 "And why," said Marisol, who was forty-five, and a painter, and had known him since he was a boy with chalk on his knees, "are the *eyes* shut?"
 
@@ -68,7 +68,7 @@ He was a very fine policeman. He had a moustache of formidable architecture, a b
 
 "She is twenty-five."
 
-"A *young* girl," said Alejandro Hernández, with a shiver of indignant satisfaction, "with *my* jaw." He took out his citation book. He wrote, for a long time. Then he tore the sheet out and handed it up on the end of his baton, which was long enough, and said gruffly, in the manner of a man who has had a lot to bear and a very little to say: "That is a fine for the scaffold. For the *painting,* I make no comment."
+"A *young* girl," said Alejandro Hernández, with a shiver of indignant satisfaction, "with *my* jaw." He took out his citation book. He wrote, for a long time. Then he tore the sheet out and handed it up on the end of his baton, which was long enough, and said gruffly, like one who has had a lot to bear and very little to say: "That is a fine for the scaffold. For the *painting,* I make no comment."
 
 "Thank you."
 
@@ -80,7 +80,7 @@ He was a very fine policeman. He had a moustache of formidable architecture, a b
 
 ---
 
-Eleven kilometres to the south, in an apartment in the Colonia Narvarte with a map of the capital pinned to the kitchen wall, a young woman was losing an argument with her best friend, and enjoying it.
+Three kilometres to the south, in an apartment in the Colonia Narvarte with a map of the capital pinned to the kitchen wall, a young woman was losing an argument with her best friend, and enjoying it.
 
 "It is *circumstantial,*" said Camila Reyes.
 
@@ -100,7 +100,7 @@ Eleven kilometres to the south, in an apartment in the Colonia Narvarte with a m
 
 Camila Reyes, twenty-five, fourth-year student of law at the National University, and the most disciplined human being in the south of the city, shut her eyes. She was a small, plain, intense young woman with her hair twisted up in a pencil, a flat voice that she used on judges, and a heart that she kept, by long habit, in the same drawer as the list. She had lived all her life by the principle that a fact is a fact and a feeling is an *allegation.* She had noticed the first wall two Decembers ago, on the Avenida Álvaro Obregón, when she was walking home with her books, and had stopped dead in the middle of the pavement, and had stood there for twenty minutes with a bag of oranges, because a thirty-foot woman with her own mouth was reading her own case-book, in the rain, with her eyes shut.
 
-She had been very *angry.* It had taken her a month to understand why. It is an uncomfortable thing to be seen by a stranger, and to be seen *accurately.*
+She had been very *angry.* It had taken her a month to understand why: it is uncomfortable to be seen by a stranger, and seen *accurately.*
 
 "Read me his," said Lupita softly.
 
@@ -122,7 +122,7 @@ Camila took the phone.
 *Entry 0121 — Mexico City, Mexico.*
 *"I have walked to every wall to find the hand that painted me."*
 
-She had written it at three in the morning, after the eighty-ninth wall, and posted it to England in a general despair. It was a very unlawyerly sentence. It contained no conditionals, no reservations, and no precedent. It was the single honest line in her entire body of written work.
+She had written it at three in the morning, after the eighty-ninth wall, and posted it to England in a general despair. It was a very unlawyerly sentence, with no conditionals, no reservations and no precedent: the single honest line in her entire body of written work.
 
 "There is a new wall," said Lupita, scrolling, with the finger of a conspirator. "On Zacatecas, in the Roma. It went up *last night.* The one that was at the top of the page. Everyone says it is the biggest. Everyone says—" she paused "—it has a *tag.*"
 
@@ -134,15 +134,15 @@ Camila Reyes stood perfectly still, in her kitchen, with a map on the wall behin
 
 "What time," she said, "is the light?"
 
-"Six," said Lupita, who was a chef and knew about mornings. "He paints at six."
+"Half past six," said Lupita, who was a chef and knew about mornings. "He paints at first light."
 
-"It is five-twenty."
+"It is ten to six."
 
 "I know."
 
 "I am going to need a coat."
 
-"I have brought you," said Lupita, with the dignity of one who has been right in advance, "*two.*"
+"I have brought you," said Lupita, who had been right in advance, "*two.*"
 
 ---
 
@@ -150,15 +150,15 @@ Camila Reyes stood perfectly still, in her kitchen, with a map on the wall behin
 
 *(Between the two cities and the two walls: a small thing, a pulse of light. Let us listen.)*
 
-In the corner of a lane in Mirpur, under a tin awning loud with the late rain, a tea-stall boy named Bunny, thirteen, was explaining the art of the *cha* to a customer who had not asked.
+In the corner of a lane in Mirpur, under a tin awning thick with the smoke of evening stoves, a tea-stall boy named Bunny, thirteen, was explaining the art of the *cha* to a customer who had not asked.
 
 "The secret," said Bunny, "is not the leaf. The secret is the *wait.* You must let it sit exactly as long as it takes a man to decide whether he is going to be a coward. And then you pour. Here, Bhaiya."
 
-Fayaz Rahman, twenty-six, took the glass with the weary courtesy of a man who has just worked a fourteen-hour day on a contract in a currency that was not his own. He had walked here from his flat with a laptop that smelled of hot dust, and he was sitting on a bench with his sleeves down and his shoes wet, looking at his phone without looking at it, as men do who have been waiting for a week without admitting it.
+Fayaz Rahman, twenty-six, took the glass with the weary courtesy of someone just home from a fourteen-hour day on a contract paid in a currency not his own. He had walked here from his flat with a laptop that smelled of hot dust, and he sat on a bench with his sleeves down and his shoes grey with dust, looking at his phone without looking at it, as men do who have been waiting for a week without admitting it.
 
-For eight nights he had read the Register on his phone. He had read the line beside his own, and then he had read it again. He had not written to the girl who had written it. He had begun, perhaps forty times. He had typed *Dear* and deleted it; he had typed *Hello* and deleted it; he had once typed *I don't wish to intrude* and had deleted that so hard the whole screen went white. It is an unfortunate thing to be polite in an hour of need: one has so many ways of not saying it.
+For eight nights he had read the Register on his phone. He had read the line beside his own, and then he had read it again. He had not written to the girl who had written it. He had begun, perhaps forty times. He had typed *Dear* and deleted it; he had typed *Hello* and deleted it; he had once typed *I don't wish to intrude* and had deleted that so hard the whole screen went white. Politeness, in an hour of need, offers so many ways of not saying it.
 
-And then the phone, in his hand, in the lane, under the tin and the rain, gave a small pale shiver.
+And then the phone, in his hand, in the lane, under the tin and the smoke, gave a small pale shiver.
 
 It was not a ring. It was only the tiniest of lights, an envelope, a name.
 
@@ -180,13 +180,13 @@ Behind his shoulder, in the steam of the stall, Bunny, who was a boy of the most
 
 "She is a stranger," said Bunny, "who has an hour to *spare* and has *sent* it to you. That is not an ordinary thing. Say *hello* with *dignity.*"
 
-"I am a man," said Fayaz, with a faint despairing smile, "who apologises to a vending machine."
+"I am a person," said Fayaz, with a faint despairing smile, "who apologises to a vending machine."
 
 He did not say that. He typed, in the end, a thing that took him three minutes and cost him a pound of nerves and read, when it was done, exactly like the work of a man who had spent three minutes on it, which is to say, honestly:
 
 > **Fayaz Rahman:** Sorry. (Reflex. It was not about the hour.) Hello, Yogyakarta. I would tell you everything, if I were free to. May I tell you a little?
 
-He looked at it. His thumb hovered. A bead of rain ran off the awning and down his wrist.
+He looked at it. His thumb hovered. A bead of steam ran off the awning and down his wrist.
 
 He sent it.
 
@@ -216,7 +216,7 @@ And then, because it was a night in which courage was in the air like a smell of
 
 ---
 
-**Calle Zacatecas, Colonia Roma. Six o'clock.**
+**Calle Zacatecas, Colonia Roma. Half past six.**
 
 The light came up over the Roma as it comes up over every Mexican morning: not as a dawn, but as an *announcement,* the whole east flushing from lemon to rose to a gold so fierce it seemed to have been purchased. The pigeons rose off the roofs in a clatter.
 
@@ -234,11 +234,11 @@ Up on the scaffold, thirty feet above the traffic, with a brush in his hand and 
 
 "You've given me a nose like a *heron,*" said Camila.
 
-For a moment nothing moved upon the Calle Zacatecas. The ranchera on the radio had gone on to its second verse. A dog barked. A bus went by, with a grinding of gears, and was gone.
+For a moment nothing moved upon the Calle Zacatecas. The ranchera on the radio had gone on to its second verse. A dog barked.
 
 Then the scaffolding, which had been designed by an optimist, creaked; and Rafael Ortega began, with a haste that put every regulation in the country to shame, to come down it.
 
-He came down three ladders and a pipe. He came down the last six feet by a means known only to painters and the fallen. He landed in the street, with paint to the elbows and a smear of ochre across his forehead, and stood before her with his arms at his sides and his mouth open, for once with nothing in it.
+He came down the last six feet by a means known only to painters and the fallen. He landed in the street, with paint to the elbows and a smear of ochre across his forehead, and stood before her with his arms at his sides and his mouth open, for once with nothing in it.
 
 "I—" said Rafael.
 
@@ -272,7 +272,7 @@ He opened his mouth. He closed it. Something went across his face that was too l
 
 "They do not *do* anything."
 
-"Camila Reyes," said Rafael, staring at her eyes with the unashamed devouring attention of a man who has been hungry for two years, "I have been looking at them for four seconds, and I would like it to be known that they have *already* done *everything.*"
+"Camila Reyes," said Rafael, staring at her eyes with the unashamed attention of someone starved for two years, "I have been looking at them for four seconds, and I would like it to be known that they have *already* done *everything.*"
 
 It is unseemly to burst into tears in the Colonia Roma at six in the morning, in front of a stranger, a pigeon and a hundred and fifty gallons of paint. She did it nonetheless: a short, furious sob, like a flood out of a locked cellar, and then another, and then she laughed, and put both hands over her face.
 
