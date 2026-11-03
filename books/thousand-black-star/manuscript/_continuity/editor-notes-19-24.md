@@ -1,0 +1,6 @@
+- Ch 19/24 vs continuity-ch20-25 note: Ch 24 Elif/Ahmed first exchange now says "about a hundred words" (the continuity note's "thirty-one words" did not match the dialogue); any later chapter citing "thirty-one words" should be harmonised.
+- Ch 19 Istanbul brawl moved from Eminonu quay to the Uskudar pier (to match Ch 13/24, where Elif's ticket window and Sema's cafe are at Uskudar); check Ch 25+ and Ch 44/47 references to the feud geography.
+- Ch 20: Lars's storm is now off Hernar (not Fedje) with Sigrid reading buoy data from Fedje; Ch 7/8 references to the fishing grounds should not contradict. Kristian Strand is Lars's stepfather (Ch 8), Marit Strand his stepsister; Ch 20 keeps this.
+- Ch 21: Thabo's "green door" on Kerk Street is now the stage door of the Blue Rand; Ch 31 (Thabo/Naledi meeting) should keep the door and the quarter-to-midnight dedication.
+- Ch 23: goldsmith renamed Bashir Yakubu (was Aminu Yakubu) to avoid clash with Aminu Danjuma, the baker; Ch 26/other chapters mentioning the Kano goldsmith (if any) should use Bashir.
+- Ch 24: Mehmet Sahin is now Captain of the Nilufer (not a radio man); Ch 13/19 call him Elif's uncle, consistent. Margaux in Ch 24 has eaten one loaf (the witness basket at end of Ch 12), not thirteen.

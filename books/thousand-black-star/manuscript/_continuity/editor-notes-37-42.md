@@ -1,0 +1,4 @@
+- Ch 37 vs continuity-ch33-38.md: the continuity note says Noor accepted a Turin scholarship; Ch 27 and Ch 47 both say Copenhagen, so Ch 37 keeps Copenhagen (changed "the Italians are impatient" to "the Danes"). The continuity note is wrong; no chapter change needed elsewhere.
+- Ch 40 vs continuity-ch39-44.md: note says Rafael painted the "101st wall"; Ch 6 and Ch 18 say Camila walked to 103 walls, so Ch 40 uses 103 painted walls and the new one as the 104th.
+- Ch 39: the Chorus and Ch 49/54 should treat Marsden Road as the ground's address; Hannah Hughes now lives on Marsden Road (was "Salford"). Mr. Lowe (#0769) remains of Salford.
+- Ch 42/Ch 43+: the dzud killed 270 of the Munkh family's 340 horses (previously the text said 90 since new year); later chapters citing herd numbers should use ~70 left.

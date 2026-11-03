@@ -1,0 +1,1001 @@
+reg,id,name,gender,age,city,country,job,story,role,traits,flaw,star
+1,S60A,Edmund Ashby,M,81,Cornwall,England,Retired astronomer (Register 0001),60,Principal,"Courtly, evasive",,I left because I was afraid of how much I would love you.
+2,B143,Ifeoma Bello,F,60,Ibadan,Nigeria,Sailor,10,Mentor,wry,never forgets an insult,I cannot give you what you want.
+3,B845,Najib Karimi,M,37,Mississauga,Canada,Ferry hand,58,Rival,gentle,cannot say goodbye,I am not a stranger to you; I am your son.
+4,B723,Yuto Kobayashi,M,58,Osaka,Japan,Mechanic,49,Employer or landlord,hot-tempered,spends money that is not theirs,I blamed you for what was mine.
+5,B375,Hina Kato,F,17,Kobe,Japan,Schoolchild,25,Young witness,restless,spends money that is not theirs,I miss the person I was before I met you.
+6,B153,Colette Vidal,F,38,Marseille,France,Tour guide,11,Sibling of the man,gentle,hides behind jokes,I think of you every time the kettle boils.
+7,B016,Akosua Tetteh,F,60,Accra,Ghana,Chef,2,Parent of the man,absent-minded,fears the telephone,I have never told you your mother's last words.
+8,B573,Ruth Clarke,F,21,Salford,England,Writer,39,Sibling of the man,devout,hides behind jokes,I remember the song you hummed.
+9,B656,Hoàng Vũ,M,72,Hoi An,Vietnam,Retired pilot,44,Elder who keeps a secret,blunt,trusts the wrong people,I miss the person I was before I met you.
+10,B443,Nayeem Mia,M,62,Narayanganj,Bangladesh,Lifeguard,30,Mentor,superstitious,tells lies for fun,I kept your photograph.
+11,B635,Thandiwe Mumba,F,51,Lusaka,Zambia,Train guard,43,Rival,loyal,trusts the wrong people,"I am not sure I believe in love, but I believe in you."
+12,B654,Hải Lê,M,43,Hoi An,Vietnam,Judge,44,Former love,stubborn,cannot keep time,I never learned to read well.
+13,B546,Mohamed Elhassan,M,42,Omdurman,Sudan/Egypt,Teacher,37,Best friend of the woman,blunt,talks over everyone,I dreamed of a different life and was ashamed of it.
+14,B559,Deepak Gupta,M,24,Delhi,India,Judge,38,Sibling of the woman,bookish,cannot apologise,I lied about where I was that night.
+15,B866,Bill Polglase,M,74,St Ives,England,Retired pharmacist,59,Elder who keeps a secret,fearless,avoids the doctor,I was proud of you and told you it was nothing.
+16,S09A,Carlos Mendes,M,33,São Paulo,Brazil,Sports physiotherapist,9,Principal,"Warm, evasive; still wears a ring",,I am a widower pretending to be a free man.
+17,S04B,Anya Petrova,F,38,St Petersburg,Russia,Retired ballerina,4,Principal,"Proud; a bad knee, a worse temper",,I heard the waltz and knew it was mine.
+18,B008,Duarte Costa,M,63,Porto,Portugal,Newsagent,1,Mentor,patient,cannot apologise,I still keep your first letter.
+19,B863,Jenifer Penhale,F,45,St Ives,England,Dentist,59,Employer or landlord,soft-spoken,reads other people's post,I am waiting for a ship that will not come.
+20,B222,Seán Doyle,M,38,Salthill,Ireland,Judge,15,Former love,absent-minded,tells lies for fun,I should have said yes.
+21,B814,Astri Strand,F,28,Bergen,Norway,Choir director,56,Sibling of the woman,wry,drinks too much tea at night,I will always be an hour behind you.
+22,B189,Kerem Arslan,M,44,Istanbul,Türkiye,Grocer,13,Comic fool,tender,cannot say goodbye,I put your name in the prayer.
+23,B362,Hina Yamamoto,F,71,Sapporo,Japan,Retired train guard,25,Parent of the woman,patient,tells lies for fun,I have never been to the sea and I am too ashamed to say it.
+24,B832,Gladys Torres,F,51,Lima,Peru,Police officer,57,Mentor,generous,drinks too much tea at night,I am waiting for a ship that will not come.
+25,S15A,Liam O'Connor,M,32,Galway,Ireland,Pub musician,15,Principal,"Garrulous, sings when afraid",,"There is a song I cannot finish, and it is about you."
+26,B705,Étienne Vidal,M,29,Marseille,France,Goldsmith,48,Rival,fearless,spends money that is not theirs,I need help and cannot ask.
+27,S22B,Valentina Cruz,F,33,Buenos Aires,Argentina,Tango teacher,22,Principal,"Proud, guarded",,"She was my sister, and you were hers, and I am still jealous."
+28,B400,Zaid Jabbar,M,35,Basra,Iraq,Butcher,27,Matchmaker and gossip,hot-tempered,makes promises too fast,I cannot give you what you want.
+29,S25A,Kenji Watanabe,M,27,Kyoto,Japan,Mask maker,25,Principal,"Quiet, meticulous",,I carve faces because I cannot show my own.
+30,B495,Grace Ocampo,F,11,Manila,Philippines,Schoolchild,33,Young witness,hot-tempered,meddles in other people's love,I am not as brave as I appear.
+31,B307,Mandla Mokoena,M,41,Soweto,South Africa,Lawyer,21,Rival,superstitious,avoids the doctor,I wanted to be a singer.
+32,S20A,Nikolai Ivanov,M,38,Sofia,Bulgaria,Border guard,20,Principal,"Dutiful, haunted",,I once looked away and let a child cross.
+33,B268,Enzo Conti,M,52,Verona,Italy,Scribe,18,Neighbour,soft-spoken,spends money that is not theirs,I dreamed of a different life and was ashamed of it.
+34,B287,Georgi Kolev,M,60,Sofia,Bulgaria,Photographer,20,Parent of the woman,restless,fears the telephone,I think you are wiser than I am.
+35,B281,Hira Malik,F,38,Lahore,Pakistan,Bus conductor,19,Employer or landlord,loyal,is proud to the point of ruin,I let you go because I thought it was kind.
+36,B453,Anna Gallo,F,38,Mantua,Italy,Translator,31,Sibling of the man,theatrical,trusts the wrong people,I was the one who sent the letter.
+37,B427,Kiprono Otieno,M,29,Mombasa,Kenya,Electrician,29,Rival,romantic,never forgets an insult,"I cannot say it, so I wrote it."
+38,S55B,Funmi Balogun,F,30,Ibadan,Nigeria,Poultry entrepreneur,55,Principal,"Sharp, funny",,I am drowning in loans and smiling at everyone.
+39,B720,Sora Hayashi,M,57,Kobe,Japan,Librarian,49,Mentor,romantic,hoards old letters,I wanted to be a pilot.
+40,B563,Kavita Mehra,F,51,Jaipur,India,Electrician,38,Mentor,gossipy,is proud to the point of ruin,"I cannot say it, so I wrote it."
+41,B727,Dailén Rodríguez,F,74,Trinidad,Cuba,Retired florist,50,Parent of the man,absent-minded,is jealous of the young,I am not a stranger to you; I am your son.
+42,B767,Bayu Pratama,M,40,Solo,Indonesia,Waiter,52,Neighbour,severe,makes promises too fast,I opened your sealed letter and wish I had not.
+43,B229,Seo-yeon Yoon,F,35,Suwon,South Korea,Clockmender,16,Sibling of the woman,anxious,meddles in other people's love,I need help and cannot ask.
+44,B695,Nazanin Sadeghi,F,56,Isfahan,Iran,Pharmacist,47,Employer or landlord,suspicious,tells lies for fun,I did not want you to win.
+45,S33B,Maricel Dela Cruz,F,26,Manila,Philippines,Call-centre agent,33,Principal,"Resilient, funny",,I speak six hours a night to strangers and never to you.
+46,B765,Rizky Saputra,M,66,Jakarta,Indonesia,Retired ferry hand,52,Employer or landlord,hot-tempered,avoids the doctor,I am afraid the best days are behind me.
+47,B446,Shirin Khan,F,40,Sylhet,Bangladesh,Dressmaker,30,Employer or landlord,fearless,fears the telephone,I loved your mother before you were born.
+48,B310,Bongani Zulu,M,45,Pretoria,South Africa,Cobbler,21,Matchmaker and gossip,generous,withholds praise,I dreamed of a different life and was ashamed of it.
+49,B065,Marisol García,F,45,Coyoacán,Mexico,Painter,5,Best friend of the man,gossipy,never forgets an insult,I walked past your door a hundred times.
+50,B027,Nii Boateng,M,40,Kumasi,Ghana,Lawyer,2,Former love,theatrical,hides behind jokes,I cannot give you what you want.
+51,S10A,Emeka Okafor,M,28,Lagos,Nigeria,Fintech founder,10,Principal,"Ambitious, impatient",,My company is dead and I keep paying salaries from my own pocket.
+52,B167,Joanna Pawlak,F,56,Wrocław,Poland,Ferry hand,12,Parent of the woman,suspicious,trusts the wrong people,I forgave my father too late.
+53,S01B,Inês Carvalho,F,27,Lisbon,Portugal,Postwoman,1,Principal,"Reads every address twice; nosy, kind",,I kept one letter that was never mine.
+54,B088,Nour Fouad,F,59,Giza,Egypt,Radio technician,6,Neighbour,patient,trusts the wrong people,I loved your mother before you were born.
+55,B547,Wafa Mahdi,F,43,Omdurman,Sudan/Egypt,Community spiritual leader,37,Rival,dreamy,fears the telephone,I would give up my pride if you asked.
+56,B729,Odalys Rivero,F,34,Santiago de Cuba,Cuba,Florist,50,Sibling of the man,punctual,reads other people's post,I still keep your first letter.
+57,B101,Thea Larsen,F,51,Ålesund,Norway,Bus conductor,7,Employer or landlord,hospitable,withholds praise,I am afraid the best days are behind me.
+58,B773,Mike Flynn,M,39,Boston,USA,Professor,53,Best friend of the man,restless,makes promises too fast,I have never been to the sea and I am too ashamed to say it.
+59,B282,Bilal Chaudhry,M,43,Lahore,Pakistan,Nurse,19,Former love,hospitable,withholds praise,I am not as brave as I appear.
+60,B425,Juma Njenga,M,42,Nairobi,Kenya,Plumber,29,Best friend of the man,superstitious,hoards old letters,I stopped writing because I thought you stopped reading.
+61,B290,Plamen Dimitrov,M,27,Plovdiv,Bulgaria,Chef,20,Best friend of the man,patient,hoards old letters,I let you go because I thought it was kind.
+62,B376,Ionuț Stanciu,M,58,Sibiu,Romania,Cab driver,26,Parent of the man,wry,tells lies for fun,I think you are wiser than I am.
+63,B615,Erdene Sukhbaatar,M,65,Erdenet,Mongolia,Lifeguard,42,Parent of the man,devout,never forgets an insult,I am proud to be your friend.
+64,B452,Luca Bruno,M,72,Verona,Italy,Retired radio technician,31,Parent of the woman,romantic,gambles when afraid,I was happy once and did not notice.
+65,B311,Palesa Zulu,F,44,Johannesburg,South Africa,Goldsmith,21,Employer or landlord,shrewd,fears the telephone,I am afraid of being forgotten.
+66,B298,Desislava Kolev,F,67,Plovdiv,Bulgaria,Retired boat mender,20,Neighbour,devout,is jealous of the young,I took the blame for what you did.
+67,B184,Ayşe Arslan,F,31,Üsküdar,Türkiye,Dressmaker,13,Sibling of the woman,dreamy,drinks too much tea at night,I wish I had told you at the station.
+68,B756,Hendra Wijaya,M,73,Jakarta,Indonesia,Retired kiosk owner,52,Parent of the woman,romantic,hoards old letters,I never learned to read well.
+69,B145,Amaka Ogunleye,F,51,Enugu,Nigeria,Clockmender,10,Matchmaker and gossip,stubborn,hoards old letters,"I cannot say it, so I wrote it."
+70,B629,Natasha Mbewe,F,54,Kitwe,Zambia,Newsagent,43,Parent of the man,bookish,spends money that is not theirs,I was proud of you and told you it was nothing.
+71,B325,Ramiro Romero,M,67,Buenos Aires,Argentina,Retired choir director,22,Matchmaker and gossip,blunt,is jealous of the young,I should have said no.
+72,B782,Mike Kennedy,M,66,Boston,USA,Retired judge,53,Elder who keeps a secret,patient,cannot keep time,I will not live to see you married.
+73,S56A,Anders Nilsen,M,50,Oslo,Norway,Retired sea captain,56,Principal,"Gruff, poetic",,I wrote your name in the ship's log in 1998.
+74,B587,Abdelilah Alaoui,M,60,Marrakech,Morocco,Fishmonger,40,Parent of the woman,bookish,hides behind jokes,I did not want you to win.
+75,B850,Zarmina Amiri,F,29,Toronto,Canada,Dentist,58,Former love,devout,gambles when afraid,I will always be an hour behind you.
+76,S27A,Mustafa Karim,M,34,Baghdad,Iraq,Civil engineer,27,Principal,"Hopeful, practical",,I am building a bridge so you will have somewhere to come back to.
+77,B746,Nayeem Hossain,M,38,Sylhet,Bangladesh,Musician,51,Best friend of the woman,severe,spends money that is not theirs,I never thanked you for the bread.
+78,S24B,Eleni Stavrou,F,58,Crete,Greece,"Widow, shopkeeper",24,Principal,"Stern, funny",,I kept every letter unopened because I was afraid they were kind.
+79,B415,Lukas Bauer,M,37,Vienna,Austria,Bus conductor,28,Matchmaker and gossip,blunt,cannot apologise,I wanted you to win.
+80,B758,Agus Santoso,M,40,Jakarta,Indonesia,Cab driver,52,Sibling of the woman,dreamy,trusts the wrong people,I was proud of you and told you it was nothing.
+81,B494,Rey Bautista,M,77,Manila,Philippines,Retired professor,33,Elder who keeps a secret,bookish,is jealous of the young,I have never told you your mother's last words.
+82,S53B,Ellen Walsh,F,38,Boston,USA,ER nurse,53,Principal,"Sardonic, exhausted",,I lost my brother to a fire and I cannot say the word.
+83,S51B,Nusrat Jahan,F,29,Sylhet,Bangladesh,Tea-garden doctor,51,Principal,"Compassionate, tireless",,I heal everyone else and have never been healed.
+84,B572,Lucy Wilson,F,59,Manchester,England,Pilot,39,Parent of the woman,tender,avoids the doctor,I stayed when I should have gone.
+85,B536,Juan Ramírez,M,41,Medellín,Colombia,Ferry hand,36,Employer or landlord,restless,is jealous of the young,I envy your freedom.
+86,B320,Milagros Sosa,F,25,Buenos Aires,Argentina,Professor,22,Best friend of the man,gentle,avoids the doctor,I forgave you years ago and never said so.
+87,B708,Mathieu Vidal,M,58,Marseille,France,Librarian,48,Matchmaker and gossip,gossipy,trusts the wrong people,I am afraid of being forgotten.
+88,B472,Hamdan Al-Habsi,M,29,Muscat,UAE/Oman,Teacher,32,Rival,generous,fears the telephone,I need help and cannot ask.
+89,B058,Olga Smirnov,F,54,St Petersburg,Russia,Umbrella maker,4,Neighbour,devout,is proud to the point of ruin,I wanted to be a pilot.
+90,S54B,Katrin Tamm,F,39,Tallinn,Estonia,Choir singer,54,Principal,"Resolute, bruised",,My voice failed and I do not know who I am without it.
+91,B569,Neha Mehra,F,88,Delhi,India,Retired photographer,38,Elder who keeps a secret,anxious,withholds praise,I loved your mother before you were born.
+92,B663,Karin Holm,F,44,Stockholm,Sweden,Trader,45,Rival,vain,makes promises too fast,I was the one who sent the letter.
+93,B607,Tomislav Perić,M,28,Split,Croatia,Baker,41,Rival,hospitable,gambles when afraid,I should have said yes.
+94,B634,Kelvin Mwansa,M,39,Lusaka,Zambia,Dressmaker,43,Best friend of the woman,restless,fears the telephone,I wish I had stayed.
+95,B097,Kristian Hansen,M,41,Ålesund,Norway,Dentist,7,Rival,severe,withholds praise,I stopped writing because I thought you stopped reading.
+96,B861,Tamsin Trevithick,F,49,Truro,England,Fishmonger,59,Comic fool,loyal,hides behind jokes,"I am grateful, and I cannot say how much."
+97,B051,Oleg Popov,M,30,St Petersburg,Russia,Police officer,4,Best friend of the woman,wry,withholds praise,I would give up my work if you asked.
+98,B283,Nida Shah,F,48,Lahore,Pakistan,Hotelier,19,Neighbour,hot-tempered,spends money that is not theirs,I wish I had stayed.
+99,B781,Colleen Donnelly,F,53,Quincy,USA,Lawyer,53,Neighbour,loyal,tells lies for fun,I wish I had told you at the station.
+100,B132,Leandro Souza,M,36,Campinas,Brazil,Farmer,9,Former love,suspicious,gambles when afraid,I put your name in the prayer.
+101,B337,Aminu Danjuma,M,43,Kaduna,Nigeria,Baker,23,Rival,superstitious,withholds praise,I walked past your door a hundred times.
+102,B799,Yetunde Adebayo,F,36,Ibadan,Nigeria,Locksmith,55,Sibling of the man,superstitious,gambles when afraid,I still keep your first letter.
+103,B331,Maryam Yakubu,F,63,Zaria,Nigeria,Lifeguard,23,Parent of the man,generous,reads other people's post,I think of you every time the kettle boils.
+104,B265,Silvia Gallo,F,47,Salerno,Italy,Bus conductor,18,Matchmaker and gossip,wry,tells lies for fun,I am waiting for a ship that will not come.
+105,B540,Paola Ramírez,F,10,Cali,Colombia,Schoolchild,36,Young witness,hospitable,meddles in other people's love,I wanted to be a singer.
+106,B228,Yu-na Kim,F,29,Seoul,South Korea,Clockmender,16,Sibling of the man,absent-minded,hoards old letters,I was happy once and did not notice.
+107,B702,Antoine Lefèvre,M,43,Villeurbanne,France,Photographer,48,Sibling of the woman,romantic,cannot say goodbye,I dreamed of a different life and was ashamed of it.
+108,B255,Bethlehem Girma,F,12,Addis Ababa,Ethiopia,Schoolchild,17,Young witness,gentle,cannot keep time,I am afraid of being forgotten.
+109,B091,Kristian Strand,M,78,Bergen,Norway,Retired waiter,7,Parent of the man,severe,hides behind jokes,I lied about where I was that night.
+110,B651,Thảo Đặng,F,24,Hoi An,Vietnam,Train guard,44,Comic fool,loyal,cannot keep time,I need help and cannot ask.
+111,B124,Marcela Rocha,F,42,Santos,Brazil,Radio technician,9,Sibling of the woman,anxious,spends money that is not theirs,I was too shy to ask for a dance.
+112,B203,Rekha Gupta,F,55,Delhi,India,Lawyer,14,Mentor,funny,makes promises too fast,I cannot give you what you want.
+113,B804,Dayo Eze,M,58,Ibadan,Nigeria,Singer,55,Mentor,generous,trusts the wrong people,I should have said no.
+114,B807,Tunde Obi,M,50,Enugu,Nigeria,Dentist,55,Employer or landlord,fearless,withholds praise,I am proud to be your friend.
+115,B591,Soufiane El Amrani,M,26,Marrakech,Morocco,Poet,40,Best friend of the woman,funny,hides behind jokes,I was too shy to ask for a dance.
+116,B122,Pedro Rocha,M,60,São Paulo,Brazil,Chef,9,Parent of the woman,gossipy,is proud to the point of ruin,I am waiting for a ship that will not come.
+117,B004,Rita Rocha,F,32,Lisbon,Portugal,Journalist,1,Sibling of the woman,wry,cannot say goodbye,I was the one who sent the letter.
+118,B295,Radka Petrov,F,49,Sofia,Bulgaria,Kiosk owner,20,Matchmaker and gossip,loyal,cannot say goodbye,I would give up my pride if you asked.
+119,B560,Rohit Bansal,M,43,Agra,India,Butcher,38,Best friend of the man,bookish,reads other people's post,"I am not sure I believe in love, but I believe in you."
+120,B523,Nuwan Senanayake,M,45,Kandy,Sri Lanka,Locksmith,35,Neighbour,absent-minded,hoards old letters,I have been writing you answers for years.
+121,S05B,Camila Reyes,F,25,Mexico City,Mexico,Law student,5,Principal,"Disciplined, secretly sentimental",,I have walked to every wall to find the hand that painted me.
+122,B869,Amelia Lowe,F,31,Manchester,England,Train guard,60,Sibling of the man,gossipy,trusts the wrong people,"I cannot hear you, and I have not told you."
+123,B784,Triin Saar,F,58,Tallinn,Estonia,Dockworker,54,Parent of the woman,severe,never forgets an insult,"I am grateful, and I cannot say how much."
+124,B248,Yonas Mekonnen,M,62,Addis Ababa,Ethiopia,Florist,17,Mentor,suspicious,trusts the wrong people,"I am not sure I believe in love, but I believe in you."
+125,B069,Alejandro Hernández,M,45,Coyoacán,Mexico,Police officer,5,Comic fool,vain,cannot apologise,I am saving money to disappear.
+126,B498,Vojtěch Dvořák,M,26,Prague,Czechia,Cobbler,34,Sibling of the man,absent-minded,hides behind jokes,I opened your sealed letter and wish I had not.
+127,B582,Thomas Lowe,M,33,Salford,England,Rickshaw puller,39,Former love,generous,cannot say goodbye,I never learned to read well.
+128,B208,Kavita Khanna,F,29,Agra,India,Kiosk owner,14,Neighbour,severe,talks over everyone,I wish I had told you at the station.
+129,B828,Jorge Huamán,M,29,Cusco,Peru,Singer,57,Sibling of the woman,bookish,withholds praise,I should have said yes.
+130,B514,Sampath Silva,M,34,Galle,Sri Lanka,Tea seller,35,Sibling of the woman,gentle,fears the telephone,I remember the exact day.
+131,B245,Selamawit Worku,F,36,Adama,Ethiopia,Historian,17,Best friend of the man,anxious,trusts the wrong people,I think of you every time the kettle boils.
+132,B562,Rohit Tiwari,M,30,Jaipur,India,Farmer,38,Rival,dreamy,meddles in other people's love,I did not want you to win.
+133,S43A,Joseph Tembo,M,38,Lusaka,Zambia,Schoolmaster,43,Principal,"Solemn, kind",,"I am a widower raising two children, and I see you."
+134,B100,Magnus Strand,M,63,Ålesund,Norway,Potter,7,Matchmaker and gossip,romantic,is proud to the point of ruin,I forgave you years ago and never said so.
+135,B034,Haruto Takahashi,M,43,Sapporo,Japan,Librarian,3,Sibling of the woman,anxious,is jealous of the young,I was happy once and did not notice.
+136,B168,Agnieszka Wiśniewski,F,33,Kraków,Poland,Singer,12,Sibling of the man,soft-spoken,never forgets an insult,I let you go because I thought it was kind.
+137,S26B,Ioana Dumitrescu,F,28,Bucharest,Romania,Nurse,26,Principal,"Practical, protective",,I read your scans. I know what you hide.
+138,B640,Loveness Mumba,F,35,Ndola,Zambia,Nurse,43,Former love,tender,talks over everyone,"I cannot hear you, and I have not told you."
+139,S42A,Baatar Munkh,M,29,Ulaanbaatar,Mongolia,Horse trainer,42,Principal,"Stoic, shy",,Our herd is dying; I cannot ask you to stay.
+140,B067,Paloma García,F,28,Xochimilco,Mexico,Tailor,5,Rival,punctual,cannot apologise,"I cannot hear you, and I have not told you."
+141,S52B,Dewi Anggraini,F,26,Ubud,Indonesia,Weaver (Ermis's cousin),52,Principal,"Calm, funny",,My cousin has taught me patience; I am still learning.
+142,B478,Khalid Al-Mazrouei,M,65,Muscat,UAE/Oman,Florist,32,Neighbour,dreamy,gambles when afraid,I found your sealed letter and did not open it.
+143,B432,Mercy Mutua,F,32,Kisumu,Kenya,Potter,29,Former love,severe,avoids the doctor,I have never been to the sea and I am too ashamed to say it.
+144,B092,Kristian Johansen,M,66,Ålesund,Norway,Retired tour guide,7,Parent of the woman,stubborn,is jealous of the young,I cannot give you what you want.
+145,B512,Shanika Senanayake,F,64,Kandy,Sri Lanka,Chef,35,Parent of the woman,shrewd,cannot apologise,I opened your sealed letter and wish I had not.
+146,B076,Tarek Sabry,M,64,Alexandria,Egypt,Librarian,6,Parent of the man,theatrical,cannot say goodbye,I am saving money to disappear.
+147,B424,Mercy Kiplagat,F,24,Nairobi,Kenya,Lawyer,29,Sibling of the woman,theatrical,hides behind jokes,I remember the exact day.
+148,B740,Dailén Fernández,F,80,Trinidad,Cuba,Retired weaver,50,Elder who keeps a secret,romantic,is jealous of the young,I remember the exact day.
+149,B280,Hira Khan,F,47,Lahore,Pakistan,Electrician,19,Matchmaker and gossip,wry,is proud to the point of ruin,I took the blame for what you did.
+150,B513,Kasun Rajapaksa,M,35,Colombo,Sri Lanka,Choir director,35,Sibling of the man,bookish,talks over everyone,I loved your mother before you were born.
+151,B603,Katarina Vuković,F,42,Hvar,Croatia,Lawyer,41,Sibling of the man,fearless,never forgets an insult,I cannot give you what you want.
+152,B404,Huda Al-Tamimi,F,73,Baghdad,Iraq,Retired electrician,27,Elder who keeps a secret,suspicious,cannot say goodbye,I would give up my pride if you asked.
+153,S08B,Meera Menon,F,26,Kochi,India,Schoolteacher,8,Principal,"Brave, teasing",,I buy that book every year to read the poem again.
+154,B479,Salim Al-Balushi,M,83,Dubai,UAE/Oman,Retired community spiritual leader,32,Elder who keeps a secret,theatrical,spends money that is not theirs,I remember the song you hummed.
+155,B385,Ionuț Constantin,M,61,Bucharest,Romania,Bus conductor,26,Matchmaker and gossip,superstitious,meddles in other people's love,I stopped writing because I thought you stopped reading.
+156,B510,Jana Dvořák,F,15,Prague,Czechia,Schoolchild,34,Young witness,loyal,gambles when afraid,I wish I had told you at the station.
+157,B732,Dailén Rivero,F,25,Santiago de Cuba,Cuba,Butcher,50,Best friend of the woman,superstitious,gambles when afraid,"I am not sure I believe in love, but I believe in you."
+158,B183,Cem Koç,M,40,Kadıköy,Türkiye,Apprentice,13,Sibling of the man,fearless,gambles when afraid,I asked the stars about you.
+159,B575,Callum Brown,M,39,Manchester,England,Musician,39,Best friend of the man,loyal,is proud to the point of ruin,I was too shy to ask for a dance.
+160,B593,Khadija Tazi,F,69,Casablanca,Morocco,Retired judge,40,Mentor,soft-spoken,hides behind jokes,I left the door unlocked on purpose.
+161,B155,Rémi Roux,M,37,Villeurbanne,France,Trader,11,Best friend of the man,tender,cannot apologise,I will not live to see you married.
+162,B247,Tigist Assefa,F,26,Adama,Ethiopia,Choir director,17,Rival,generous,never forgets an insult,I blamed you for what was mine.
+163,B382,Vlad Ionescu,M,46,Bucharest,Romania,Mechanic,26,Rival,vain,talks over everyone,I would give up my pride if you asked.
+164,B223,Grainne Quinn,F,41,Salthill,Ireland,Baker,15,Neighbour,stubborn,cannot keep time,I should have said no.
+165,S27B,Noor Hashim,F,30,Baghdad,Iraq,Architect,27,Principal,"Ambitious, eloquent",,I won a scholarship abroad and have not answered.
+166,B413,Florian Steiner,M,58,Vienna,Austria,Clerk,28,Mentor,stubborn,meddles in other people's love,I dreamed of a different life and was ashamed of it.
+167,B672,Ama Ofori,F,63,Kumasi,Ghana,Vet,46,Parent of the woman,punctual,gambles when afraid,I am proud to be your friend.
+168,B139,Kemi Bello,F,30,Enugu,Nigeria,Weaver,10,Sibling of the woman,restless,cannot say goodbye,I took the blame for what you did.
+169,B410,Stefan Gruber,M,37,Vienna,Austria,Vet,28,Best friend of the man,punctual,hides behind jokes,I lied about where I was that night.
+170,B497,Martin Horák,M,74,Prague,Czechia,Retired tour guide,34,Parent of the woman,generous,spends money that is not theirs,I should have said yes.
+171,B357,Sophia Kalogeropoulos,F,43,Heraklion,Greece,Kiosk owner,24,Former love,superstitious,avoids the doctor,I stopped writing because I thought you stopped reading.
+172,B871,Amelia Evans,F,25,Liverpool,England,Electrician,60,Best friend of the man,devout,is proud to the point of ruin,I was the one who sent the letter.
+173,B277,Nida Raza,F,34,Lahore,Pakistan,Chef,19,Rival,superstitious,fears the telephone,I am not as brave as I appear.
+174,B511,Chamari Gunawardena,F,77,Colombo,Sri Lanka,Retired writer,35,Parent of the man,blunt,makes promises too fast,I miss the person I was before I met you.
+175,B156,Claire Moreau,F,37,Lyon,France,Singer,11,Best friend of the woman,anxious,never forgets an insult,I have never been to the sea and I am too ashamed to say it.
+176,B233,Min-jun Yoon,M,56,Suwon,South Korea,Sailor,16,Mentor,soft-spoken,is proud to the point of ruin,I wish I had stayed.
+177,B284,Adnan Chaudhry,M,83,Lahore,Pakistan,Retired cab driver,19,Elder who keeps a secret,hot-tempered,hoards old letters,I blamed you for what was mine.
+178,B856,Nick Tregenza,M,28,Truro,England,Scribe,59,Sibling of the woman,vain,talks over everyone,I am afraid of being forgotten.
+179,B242,Tigist Girma,F,76,Adama,Ethiopia,Retired fishmonger,17,Parent of the woman,devout,withholds praise,I am ill and I have told no one.
+180,B126,Larissa Rocha,F,38,São Paulo,Brazil,Boat mender,9,Best friend of the woman,hospitable,hides behind jokes,I took the blame for what you did.
+181,S37A,Hassan Idris,M,35,Cairo,Egypt (from Khartoum),Doctor in exile,37,Principal,"Weary, courteous",,I left my family behind to save strangers.
+182,B564,Pooja Singh,F,34,Jaipur,India,Baker,38,Comic fool,generous,hides behind jokes,I should have said yes.
+183,B755,Putri Pratama,F,63,Solo,Indonesia,Baker,52,Parent of the man,superstitious,gambles when afraid,I think you are wiser than I am.
+184,B172,Wojciech Lewandowski,M,54,Kraków,Poland,Apprentice,12,Rival,dreamy,spends money that is not theirs,"I cannot hear you, and I have not told you."
+185,B318,Ramiro Sosa,M,20,Rosario,Argentina,Tea seller,22,Sibling of the man,blunt,hides behind jokes,I left the door unlocked on purpose.
+186,B877,George Brown,M,59,Liverpool,England,Tailor,60,Employer or landlord,hot-tempered,hoards old letters,I blamed you for what was mine.
+187,B178,Magdalena Zieliński,F,31,Kraków,Poland,Shopkeeper,12,Neighbour,tender,hides behind jokes,"I am grateful, and I cannot say how much."
+188,B220,Niall Doyle,M,68,Galway,Ireland,Retired midwife,15,Matchmaker and gossip,superstitious,trusts the wrong people,I cannot give you what you want.
+189,B519,Chaminda Abeywardena,M,47,Galle,Sri Lanka,Newsagent,35,Comic fool,devout,hoards old letters,"I cannot hear you, and I have not told you."
+190,B596,Abdelilah Chraibi,M,64,Casablanca,Morocco,Ferry hand,40,Employer or landlord,gossipy,tells lies for fun,I opened your sealed letter and wish I had not.
+191,B396,Rana Al-Obaidi,F,33,Basra,Iraq,Surgeon,27,Best friend of the woman,hospitable,hoards old letters,I have never told you your mother's last words.
+192,B258,Francesca Conti,F,40,Verona,Italy,Poet,18,Sibling of the man,bookish,meddles in other people's love,I am afraid of being forgotten.
+193,B177,Wojciech Pawlak,M,44,Kraków,Poland,Baker,12,Former love,gossipy,hoards old letters,I was happy once and did not notice.
+194,S23B,Hauwa Garba,F,30,Kano,Nigeria,Midwife,23,Principal,"Resolute, tender",,I know whose dress it is and I am waiting.
+195,B609,Luka Matić,M,55,Zagreb,Croatia,Chef,41,Comic fool,vain,meddles in other people's love,I am ill and I have told no one.
+196,B610,Luka Kralj,M,55,Hvar,Croatia,Historian,41,Matchmaker and gossip,hospitable,cannot keep time,I have never been to the sea and I am too ashamed to say it.
+197,B827,Renzo Huamán,M,25,Lima,Peru,Umbrella maker,57,Sibling of the man,restless,avoids the doctor,I remember the song you hummed.
+198,S37B,Amal Yusuf,F,31,Cairo,Egypt,Poet,37,Principal,"Fierce, lyrical",,I am writing your story before you have lived it.
+199,B420,Elisabeth Bauer,F,17,Salzburg,Austria,Schoolchild,28,Young witness,funny,fears the telephone,"I cannot hear you, and I have not told you."
+200,B645,Dũng Nguyễn,M,28,Huế,Vietnam,Translator,44,Sibling of the man,punctual,is jealous of the young,I am not as brave as I appear.
+201,B384,Roxana Ionescu,F,51,Bucharest,Romania,Librarian,26,Comic fool,devout,fears the telephone,I let you go because I thought it was kind.
+202,B036,Nanami Yamamoto,F,31,Osaka,Japan,Ferry hand,3,Best friend of the woman,severe,meddles in other people's love,I miss the person I was before I met you.
+203,B367,Nanami Ito,F,32,Kobe,Japan,Goldsmith,25,Rival,funny,is proud to the point of ruin,I am afraid the best days are behind me.
+204,B276,Hira Chaudhry,F,37,Hyderabad,Pakistan,Pharmacist,19,Best friend of the woman,hot-tempered,never forgets an insult,I opened your sealed letter and wish I had not.
+205,B112,Rajesh Kurup,M,35,Kochi,India,Singer,8,Rival,tender,is proud to the point of ruin,I did not want you to win.
+206,B448,Rumana Sarker,F,48,Sylhet,Bangladesh,Rickshaw puller,30,Neighbour,bookish,avoids the doctor,I stayed when I should have gone.
+207,S50A,Héctor Álvarez,M,44,Havana,Cuba,Cigar roller,50,Principal,"Romantic, wry",,I roll one note into every box for you.
+208,S24A,George Papadakis,M,60,Crete,Greece,Olive grower,24,Principal,"Stubborn, sentimental",,I have written to you every spring for thirty years.
+209,B730,Odalys Delgado,F,31,Havana,Cuba,Painter,50,Sibling of the woman,romantic,avoids the doctor,"I cannot say it, so I wrote it."
+210,B378,Carmen Moldovan,F,33,Cluj,Romania,Pilot,26,Sibling of the man,blunt,avoids the doctor,I should have said yes.
+211,S13A,Ahmed Yilmaz,M,28,Istanbul,Türkiye,Ferry captain's son,13,Principal,"Hot-blooded, loyal",,I love a daughter of the house my father swore to ruin.
+212,B659,Mattias Holm,M,38,Uppsala,Sweden,Florist,45,Sibling of the man,loyal,fears the telephone,I kept your photograph.
+213,B342,Musa Yakubu,M,26,Kano,Nigeria,Poet,23,Former love,gossipy,tells lies for fun,I opened your sealed letter and wish I had not.
+214,B215,Sinéad Murphy,F,24,Salthill,Ireland,Electrician,15,Best friend of the man,loyal,reads other people's post,"I am not sure I believe in love, but I believe in you."
+215,B200,Rekha Bansal,F,38,Lucknow,India,Pilot,14,Best friend of the man,absent-minded,makes promises too fast,I was proud of you and told you it was nothing.
+216,B344,Bashir Garba,M,86,Zaria,Nigeria,Retired kiosk owner,23,Elder who keeps a secret,absent-minded,never forgets an insult,I wanted to be a singer.
+217,B272,Hira Shah,F,75,Lahore,Pakistan,Retired lifeguard,19,Parent of the woman,punctual,withholds praise,I put your name in the prayer.
+218,B104,Solveig Berg,F,80,Ålesund,Norway,Retired fishmonger,7,Elder who keeps a secret,restless,tells lies for fun,I was happy once and did not notice.
+219,B878,Callum Hughes,M,36,Liverpool,England,Bus conductor,60,Former love,hot-tempered,tells lies for fun,I miss the person I was before I met you.
+220,B080,Karim Fouad,M,39,Giza,Egypt,Potter,6,Best friend of the man,fearless,hides behind jokes,I have never told you your mother's last words.
+221,B129,Fábio Santos,M,30,Campinas,Brazil,Choir director,9,Comic fool,stubborn,hoards old letters,I was happy once and did not notice.
+222,B785,Helena Saar,F,32,Pärnu,Estonia,Potter,54,Sibling of the man,dreamy,reads other people's post,I have been writing you answers for years.
+223,S35B,Nadeesha Fernando,F,29,Galle,Sri Lanka,Nurse; Seraphine's grand-niece,35,Principal,"Brave, grieving",,I opened the Register and now I cannot close it.
+224,B592,Mehdi Alaoui,M,52,Marrakech,Morocco,Chef,40,Rival,generous,talks over everyone,I forgave you years ago and never said so.
+225,B460,Francesca Fontana,F,56,Mantua,Italy,Apprentice,31,Matchmaker and gossip,punctual,avoids the doctor,I think you are wiser than I am.
+226,B594,Mehdi Bennani,M,36,Casablanca,Morocco,Clockmender,40,Comic fool,bookish,trusts the wrong people,I know what you did and I love you anyway.
+227,S34B,Lucie Horáková,F,36,Prague,Czechia,Theatre critic,34,Principal,"Harsh, ashamed",,I wrote the review that nearly closed your theatre and I regret it.
+228,S47A,Ali Rezaei,M,36,Isfahan,Iran,Tile master,47,Principal,"Meditative, patient",,A pattern that never repeats is the closest thing to you.
+229,B078,Khaled Fouad,M,21,Giza,Egypt,Surgeon,6,Sibling of the man,tender,trusts the wrong people,I wanted to be a pilot.
+230,S22A,Mateo Fernández,M,35,Buenos Aires,Argentina,Tango dancer,22,Principal,"Arrogant, graceful",,I cannot dance with anyone but my dead partner.
+231,B018,Yaw Addo,M,23,Tema,Ghana,Waiter,2,Sibling of the man,gossipy,cannot keep time,I wanted to be a singer.
+232,B359,Maria Vasilakis,F,81,Heraklion,Greece,Retired tailor,24,Elder who keeps a secret,generous,reads other people's post,I asked the stars about you.
+233,S17A,Samuel Bekele,M,36,Addis Ababa,Ethiopia,Coffee exporter,17,Principal,"Steady, proud",,My brother died owing everyone; now I owe everyone.
+234,S04A,Dmitri Volkov,M,40,St Petersburg,Russia,Theatre pianist,4,Principal,"Courtly, rigid",,I wrote a waltz for you and never asked you to dance.
+235,B780,Beth Hayes,F,45,Boston,USA,Librarian,53,Former love,devout,avoids the doctor,I put your name in the prayer.
+236,B045,Rin Kobayashi,F,12,Kobe,Japan,Schoolchild,3,Young witness,funny,withholds praise,I will not live to see you married.
+237,B625,Erdene Dorj,M,56,Darkhan,Mongolia,Sailor,42,Employer or landlord,superstitious,trusts the wrong people,"I am grateful, and I cannot say how much."
+238,B194,Gül Şahin,F,89,Kadıköy,Türkiye,Retired choir director,13,Elder who keeps a secret,romantic,makes promises too fast,I am afraid the best days are behind me.
+239,B159,Mathieu Lefèvre,M,59,Villeurbanne,France,Clockmender,11,Comic fool,punctual,reads other people's post,I lied about where I was that night.
+240,B253,Dawit Assefa,M,45,Addis Ababa,Ethiopia,Translator,17,Neighbour,restless,is proud to the point of ruin,I was happy once and did not notice.
+241,B671,Akosua Asante,F,61,Kumasi,Ghana,Lawyer,46,Parent of the man,restless,hides behind jokes,I stayed when I should have gone.
+242,B099,Solveig Dahl,F,36,Ålesund,Norway,Umbrella maker,7,Comic fool,wry,cannot apologise,I am saving money to disappear.
+243,S17B,Selam Tesfaye,F,33,Addis Ababa,Ethiopia,Marathon runner,17,Principal,"Fierce, disciplined",,This is my last race. After it my knee is finished.
+244,B395,Huda Al-Saadi,F,25,Basra,Iraq,Poet,27,Best friend of the man,devout,cannot keep time,I let you go because I thought it was kind.
+245,B308,Bongani Sithole,M,53,Johannesburg,South Africa,Stonemason,21,Mentor,loyal,talks over everyone,I am ill and I have told no one.
+246,B274,Adnan Malik,M,44,Karachi,Pakistan,Clockmender,19,Sibling of the woman,blunt,fears the telephone,I remember the exact day.
+247,B059,Irina Orlov,F,71,St Petersburg,Russia,Retired surgeon,4,Elder who keeps a secret,bookish,drinks too much tea at night,I still keep your first letter.
+248,B714,Miyu Yamamoto,F,73,Osaka,Japan,Retired midwife,49,Parent of the woman,fearless,hides behind jokes,I would give up my work if you asked.
+249,B726,Daichi Hayashi,M,77,Sapporo,Japan,Retired welder,49,Elder who keeps a secret,theatrical,never forgets an insult,I asked the stars about you.
+250,B577,Oliver Clarke,M,55,Liverpool,England,Lifeguard,39,Rival,fearless,withholds praise,I miss the person I was before I met you.
+251,B794,Andres Pärn,M,28,Tartu,Estonia,Librarian,54,Former love,theatrical,hides behind jokes,I should have said no.
+252,B795,Priit Kukk,M,60,Tallinn,Estonia,Community spiritual leader,54,Neighbour,punctual,cannot keep time,I will not live to see you married.
+253,B637,Loveness Zulu,F,38,Lusaka,Zambia,Baker,43,Comic fool,vain,cannot say goodbye,I am not a stranger to you; I am your son.
+254,S16A,Daniel Cho,M,27,Seoul,South Korea,Esports coach,16,Principal,"Analytical, awkward",,I am quitting the team. I want a quiet life with you.
+255,B847,Najib Sultani,M,25,Scarborough,Canada,Writer,58,Comic fool,devout,spends money that is not theirs,I will not live to see you married.
+256,B146,Amaka Afolabi,F,65,Ibadan,Nigeria,Police officer,10,Employer or landlord,patient,hoards old letters,I remember the song you hummed.
+257,B644,Hải Đặng,M,66,Huế,Vietnam,Retired retired teacher,44,Parent of the woman,vain,is jealous of the young,I did not want you to win.
+258,B190,Cem Demir,M,37,Üsküdar,Türkiye,Farmer,13,Matchmaker and gossip,hospitable,never forgets an insult,I miss the person I was before I met you.
+259,B631,Mwila Phiri,M,25,Lusaka,Zambia,Potter,43,Sibling of the man,superstitious,is proud to the point of ruin,I left the door unlocked on purpose.
+260,B123,Rodrigo Ribeiro,M,34,São Paulo,Brazil,Waiter,9,Sibling of the man,suspicious,talks over everyone,I loved your mother before you were born.
+261,B779,Beth Sullivan,F,44,Quincy,USA,Lawyer,53,Employer or landlord,romantic,avoids the doctor,I cannot give you what you want.
+262,B068,Ximena Salazar,F,63,Coyoacán,Mexico,Stonemason,5,Mentor,shrewd,hoards old letters,I should have said yes.
+263,B180,Joanna Wiśniewski,F,13,Wrocław,Poland,Schoolchild,12,Young witness,suspicious,tells lies for fun,I think of you every time the kettle boils.
+264,B241,Selamawit Girma,F,78,Addis Ababa,Ethiopia,Retired dockworker,17,Parent of the man,patient,talks over everyone,I wanted to be a pilot.
+265,B718,Sora Yamamoto,M,38,Osaka,Japan,Singer,49,Best friend of the woman,shrewd,gambles when afraid,"I am grateful, and I cannot say how much."
+266,S59A,Harry Whitcombe,M,70,Cornwall,England,Retired postman,59,Principal,"Humble, gossipy",,There are forty letters I never delivered.
+267,B193,Ayşe Aksoy,F,66,Üsküdar,Türkiye,Retired locksmith,13,Neighbour,theatrical,fears the telephone,I think you are wiser than I am.
+268,B335,Aisha Danjuma,F,28,Kaduna,Nigeria,Bus conductor,23,Best friend of the man,shrewd,hides behind jokes,I opened your sealed letter and wish I had not.
+269,B484,Mylene Bautista,F,42,Manila,Philippines,Poet,33,Sibling of the woman,wry,spends money that is not theirs,I am not a stranger to you; I am your daughter.
+270,B023,Kojo Ofori,M,63,Accra,Ghana,Teacher,2,Mentor,loyal,reads other people's post,I think of you every time the kettle boils.
+271,B505,Petra Horák,F,35,Prague,Czechia,Farmer,34,Matchmaker and gossip,hot-tempered,is jealous of the young,I am waiting for a ship that will not come.
+272,B835,Jorge Flores,M,52,Lima,Peru,Florist,57,Employer or landlord,romantic,is jealous of the young,I blamed you for what was mine.
+273,B647,Linh Phạm,F,39,Hanoi,Vietnam,Hairdresser,44,Best friend of the man,tender,reads other people's post,I was happy once and did not notice.
+274,B581,Thomas Brown,M,41,Liverpool,England,Photographer,39,Employer or landlord,romantic,gambles when afraid,I will always be an hour behind you.
+275,B490,Ramon Garcia,M,39,Quezon City,Philippines,Weaver,33,Matchmaker and gossip,wry,makes promises too fast,I dreamed of a different life and was ashamed of it.
+276,B162,Claire Girard,F,40,Marseille,France,Butcher,11,Former love,punctual,is proud to the point of ruin,I stopped writing because I thought you stopped reading.
+277,B436,Nasrin Hossain,F,68,Dhaka,Bangladesh,Retired vet,30,Parent of the man,dreamy,cannot keep time,I am afraid the best days are behind me.
+278,B271,Sadia Siddiqui,F,62,Karachi,Pakistan,Innkeeper,19,Parent of the man,funny,is jealous of the young,I cannot give you what you want.
+279,B543,Osman Mahdi,M,40,Omdurman,Sudan/Egypt,Umbrella maker,37,Sibling of the man,shrewd,is jealous of the young,I am afraid of being forgotten.
+280,B769,Tom Murray,M,54,Somerville,USA,Professor,53,Parent of the man,shrewd,withholds praise,I did not want you to win.
+281,S46A,Kofi Boateng,M,30,Kumasi,Ghana,Kente weaver,46,Principal,"Patient, proud",,I promised to wait and I am weaving the promise.
+282,B217,Fergal Walsh,M,45,Salthill,Ireland,Street vendor,15,Rival,severe,fears the telephone,I lied about where I was that night.
+283,B557,Pankaj Bansal,M,75,Jaipur,India,Retired scribe,38,Parent of the woman,romantic,cannot apologise,I wanted to be a pilot.
+284,B879,Hannah Clarke,F,66,Manchester,England,Retired lawyer,60,Neighbour,severe,makes promises too fast,I did not want you to win.
+285,B680,Adwoa Boateng,F,58,Accra,Ghana,Surgeon,46,Matchmaker and gossip,blunt,reads other people's post,I should have said no.
+286,B380,Mihai Stanciu,M,25,Sibiu,Romania,Carpenter,26,Best friend of the man,anxious,is jealous of the young,I stayed when I should have gone.
+287,B675,Araba Addo,F,40,Tema,Ghana,Stonemason,46,Best friend of the man,hospitable,cannot apologise,I never learned to read well.
+288,B475,Rashid Al-Harthy,M,51,Dubai,UAE/Oman,Kiosk owner,32,Matchmaker and gossip,anxious,trusts the wrong people,I walked past your door a hundred times.
+289,B751,Farzana Khan,F,61,Dhaka,Bangladesh,Tea seller,51,Employer or landlord,romantic,trusts the wrong people,I envy your freedom.
+290,B161,Sylvie Moreau,F,65,Lyon,France,Grocer,11,Employer or landlord,dreamy,fears the telephone,I remember the exact day.
+291,B293,Tsvetana Petrov,F,65,Plovdiv,Bulgaria,Farmer,20,Mentor,bookish,meddles in other people's love,I am ill and I have told no one.
+292,S38B,Sunita Verma,F,39,Delhi,India,Teacher,38,Principal,"Wry, resolute",,I wait at platform six each evening. You know why.
+293,B707,Colette Lefèvre,F,31,Marseille,France,Plumber,48,Comic fool,patient,cannot say goodbye,I am waiting for a ship that will not come.
+294,B305,Jabu Mokoena,M,29,Pretoria,South Africa,Shopkeeper,21,Best friend of the man,absent-minded,hides behind jokes,I would give up my pride if you asked.
+295,B095,Marit Strand,F,38,Bergen,Norway,Train guard,7,Best friend of the man,vain,talks over everyone,I will always be an hour behind you.
+296,S49A,Takumi Ishikawa,M,37,Sapporo,Japan,Snow sculptor,49,Principal,"Quiet, whimsical",,"Everything I make will melt, and I have kept you anyway."
+297,B550,Samah Ahmed,F,40,Omdurman,Sudan/Egypt,Judge,37,Matchmaker and gossip,shrewd,cannot say goodbye,I will not live to see you married.
+298,B409,Elisabeth Pichler,F,23,Graz,Austria,Florist,28,Sibling of the woman,anxious,makes promises too fast,"I cannot say it, so I wrote it."
+299,S05A,Rafael Ortega,M,26,Mexico City,Mexico,Mural painter,5,Principal,"Impulsive, romantic, loud",,Your face is on a hundred walls and you do not know.
+300,B315,Palesa Mokoena,F,16,Johannesburg,South Africa,Schoolchild,21,Young witness,fearless,spends money that is not theirs,I have never been to the sea and I am too ashamed to say it.
+301,B753,Farzana Sarker,F,59,Chittagong,Bangladesh,Electrician,51,Neighbour,generous,talks over everyone,I found your sealed letter and did not open it.
+302,B457,Paola Costa,F,49,Salerno,Italy,Rickshaw puller,31,Rival,vain,never forgets an insult,I am afraid the best days are behind me.
+303,B590,Hamid Chraibi,M,37,Rabat,Morocco,Professor,40,Best friend of the man,anxious,gambles when afraid,I think you are wiser than I am.
+304,B524,Iresha Senanayake,F,80,Kandy,Sri Lanka,Retired professor,35,Elder who keeps a secret,vain,cannot keep time,"I cannot say it, so I wrote it."
+305,B697,Farhad Jafari,M,65,Shiraz,Iran,Radio technician,47,Neighbour,soft-spoken,withholds praise,I would give up my pride if you asked.
+306,B665,Sofia Holm,F,28,Gothenburg,Sweden,Tea seller,45,Comic fool,romantic,never forgets an insult,"I am grateful, and I cannot say how much."
+307,B487,Mylene Mendoza,F,41,Cebu,Philippines,Retired teacher,33,Rival,anxious,hoards old letters,"I am not sure I believe in love, but I believe in you."
+308,B819,Ragnhild Strand,F,47,Ålesund,Norway,Writer,56,Comic fool,wry,is proud to the point of ruin,I dreamed of a different life and was ashamed of it.
+309,B602,Ante Marić,M,77,Split,Croatia,Retired surgeon,41,Parent of the woman,restless,cannot say goodbye,I miss the person I was before I met you.
+310,B169,Krzysztof Lewandowski,M,33,Kraków,Poland,Train guard,12,Sibling of the woman,hot-tempered,spends money that is not theirs,I have never been to the sea and I am too ashamed to say it.
+311,B361,Shun Shimizu,M,59,Sapporo,Japan,Waiter,25,Parent of the man,blunt,cannot apologise,I will always be an hour behind you.
+312,B417,Katharina Wagner,F,29,Salzburg,Austria,Community spiritual leader,28,Former love,romantic,drinks too much tea at night,I have never told you your mother's last words.
+313,B022,Efua Quaye,F,52,Kumasi,Ghana,Librarian,2,Rival,generous,cannot apologise,I was happy once and did not notice.
+314,B434,Kiprono Wafula,M,81,Nairobi,Kenya,Retired boat mender,29,Elder who keeps a secret,funny,makes promises too fast,I am waiting for a ship that will not come.
+315,B789,Andres Rebane,M,32,Pärnu,Estonia,Innkeeper,54,Rival,stubborn,drinks too much tea at night,I took the blame for what you did.
+316,S48B,Camille Bernard,F,33,Marseille,France,Ferry pilot,48,Principal,"Calm, dry",,I may have started the fire with one cigarette.
+317,B862,Pascoe Tregenza,M,57,Penzance,England,Midwife,59,Matchmaker and gossip,gossipy,hoards old letters,I forgave my father too late.
+318,B075,Renata Vargas,F,9,Mexico City,Mexico,Schoolchild,5,Young witness,punctual,is proud to the point of ruin,I still keep your first letter.
+319,B706,Océane Clément,F,53,Villeurbanne,France,Vet,48,Mentor,fearless,reads other people's post,I am not a stranger to you; I am your son.
+320,B648,Hương Bùi,F,36,Huế,Vietnam,Carpenter,44,Best friend of the woman,generous,drinks too much tea at night,I wanted you to win.
+321,B774,Beth Murray,F,39,Somerville,USA,Pilot,53,Best friend of the woman,theatrical,talks over everyone,I wish I had stayed.
+322,B387,Simona Stanciu,F,25,Bucharest,Romania,Pharmacist,26,Former love,vain,withholds praise,"I am not sure I believe in love, but I believe in you."
+323,B650,Ngọc Trần,F,74,Huế,Vietnam,Retired train guard,44,Mentor,absent-minded,drinks too much tea at night,I will not live to see you married.
+324,B316,Gonzalo Romero,M,61,Rosario,Argentina,Train guard,22,Parent of the man,theatrical,fears the telephone,I forgave you years ago and never said so.
+325,B089,Sherif Sabry,M,72,Giza,Egypt,Retired writer,6,Elder who keeps a secret,vain,trusts the wrong people,I am afraid of being forgotten.
+326,B195,Burak Aydın,M,14,Istanbul,Türkiye,Schoolchild,13,Young witness,bookish,fears the telephone,I am afraid of being forgotten.
+327,B166,Ewa Wiśniewski,F,55,Kraków,Poland,Painter,12,Parent of the man,severe,reads other people's post,I wish I had told you at the station.
+328,B806,Amaka Adebayo,F,66,Lagos,Nigeria,Retired sailor,55,Matchmaker and gossip,anxious,is proud to the point of ruin,I dreamed of a different life and was ashamed of it.
+329,B817,Ragnhild Larsen,F,49,Ålesund,Norway,Singer,56,Rival,patient,spends money that is not theirs,I am proud to be your friend.
+330,B264,Francesca Costa,F,50,Mantua,Italy,Weaver,18,Comic fool,anxious,drinks too much tea at night,I am not as brave as I appear.
+331,B636,Thandiwe Mbewe,F,71,Kitwe,Zambia,Retired translator,43,Mentor,vain,gambles when afraid,I wanted to be a pilot.
+332,S58B,Fatima Noori,F,25,Toronto,Canada,Nursing student,58,Principal,"Determined, quick",,I learned your language so I could say this.
+333,B435,Mercy Njenga,F,16,Nairobi,Kenya,Schoolchild,29,Young witness,theatrical,cannot keep time,I forgave you years ago and never said so.
+334,B539,Mariana Vélez,F,81,Bogotá,Colombia,Retired chef,36,Elder who keeps a secret,generous,is proud to the point of ruin,I dreamed of a different life and was ashamed of it.
+335,B509,Petra Němec,F,75,Prague,Czechia,Retired street vendor,34,Elder who keeps a secret,restless,tells lies for fun,I asked the stars about you.
+336,B488,Joel Ocampo,M,65,Cebu,Philippines,Lifeguard,33,Mentor,dreamy,fears the telephone,I am not a stranger to you; I am your son.
+337,B858,Demelza Nancarrow,F,28,Truro,England,Tour guide,59,Best friend of the woman,patient,is proud to the point of ruin,I wanted you to win.
+338,B548,Rawan Elhassan,F,71,Cairo,Sudan/Egypt,Retired painter,37,Mentor,romantic,reads other people's post,I wish I had stayed.
+339,B870,George Evans,M,33,Manchester,England,Cobbler,60,Sibling of the woman,suspicious,reads other people's post,"I am not sure I believe in love, but I believe in you."
+340,B096,Henrik Strand,M,31,Bergen,Norway,Surgeon,7,Best friend of the woman,wry,fears the telephone,I have been writing you answers for years.
+341,B329,Julieta Romero,F,80,Buenos Aires,Argentina,Retired ferry hand,22,Elder who keeps a secret,gentle,spends money that is not theirs,I took the blame for what you did.
+342,B744,Imran Sarker,M,42,Chittagong,Bangladesh,Chef,51,Sibling of the woman,tender,is proud to the point of ruin,I wanted to be a pilot.
+343,S19B,Sana Ahmed,F,27,Karachi,Pakistan,Journalist,19,Principal,"Fearless, impatient",,A man has threatened me and I pretend I am not afraid.
+344,B466,Mariam Al-Harthy,F,73,Dubai,UAE/Oman,Retired teacher,32,Parent of the man,gossipy,hoards old letters,I forgave you years ago and never said so.
+345,B865,Alan Carne,M,49,Falmouth,England,Welder,59,Neighbour,severe,never forgets an insult,"I cannot say it, so I wrote it."
+346,B158,Océane Fontaine,F,72,Marseille,France,Retired clerk,11,Mentor,suspicious,talks over everyone,I let you go because I thought it was kind.
+347,B813,Ragnhild Berg,F,29,Bergen,Norway,Community spiritual leader,56,Sibling of the man,vain,drinks too much tea at night,I took the blame for what you did.
+348,B330,Lucrecia Medina,F,14,La Boca,Argentina,Schoolchild,22,Young witness,suspicious,meddles in other people's love,I would give up my work if you asked.
+349,B113,Sreeja Iyer,F,55,Alappuzha,India,Plumber,8,Mentor,fearless,meddles in other people's love,I am afraid the best days are behind me.
+350,B742,Shakil Hossain,M,70,Sylhet,Bangladesh,Retired tour guide,51,Parent of the woman,patient,tells lies for fun,I would give up my work if you asked.
+351,S16B,Ji-woo Han,F,26,Seoul,South Korea,Hanbok tailor,16,Principal,"Patient, exact",,I have measured everyone in this city but you.
+352,B605,Ivo Kralj,M,24,Zagreb,Croatia,Librarian,41,Best friend of the man,fearless,withholds praise,I never thanked you for the bread.
+353,S31A,Alessandro Greco,M,33,Naples,Italy,Pizzaiolo,31,Principal,"Competitive, loud",,I stole your recipe and I am sorry.
+354,B164,Océane Moreau,F,68,Villeurbanne,France,Retired grocer,11,Elder who keeps a secret,gentle,cannot say goodbye,I put your name in the prayer.
+355,B598,Anouar Chraibi,M,53,Casablanca,Morocco,Nurse,40,Neighbour,superstitious,spends money that is not theirs,I asked the stars about you.
+356,B064,Ignacio López,M,19,Xochimilco,Mexico,Tour guide,5,Sibling of the woman,stubborn,is proud to the point of ruin,I walked past your door a hundred times.
+357,B322,Florencia Díaz,F,37,La Boca,Argentina,Lifeguard,22,Rival,restless,gambles when afraid,I blamed you for what was mine.
+358,B205,Kavita Tiwari,F,66,Lucknow,India,Retired boat mender,14,Matchmaker and gossip,dreamy,talks over everyone,I never thanked you for the bread.
+359,B699,Rémi Fontaine,M,63,Lyon,France,Dressmaker,48,Parent of the man,patient,fears the telephone,I think you are wiser than I am.
+360,S36B,Daniela Ruiz,F,28,Medellín,Colombia,Flower farmer,36,Principal,"Bright, proud",,My farm is dying and so is my pride.
+361,B696,Zahra Ahmadi,F,43,Shiraz,Iran,Lawyer,47,Former love,suspicious,never forgets an insult,I think you are wiser than I am.
+362,B849,Mariam Nazari,F,61,Toronto,Canada,Potter,58,Employer or landlord,fearless,gambles when afraid,I was the one who sent the letter.
+363,S38A,Ravi Chaudhary,M,41,Delhi,India,Train driver,38,Principal,"Punctual, patient",,I drive past your platform twice a day and never stop.
+364,S50B,Rosa Hernández,F,41,Havana,Cuba,Schoolteacher,50,Principal,"Practical, secretly poetic",,My sister left and I am still deciding whether I may follow.
+365,B149,Tunde Adebayo,M,69,Ibadan,Nigeria,Retired choir director,10,Elder who keeps a secret,suspicious,trusts the wrong people,"I cannot hear you, and I have not told you."
+366,B496,Jana Veselý,F,55,Plzeň,Czechia,Historian,34,Parent of the man,vain,reads other people's post,I am not a stranger to you; I am your son.
+367,B515,Sampath Wickramasinghe,M,31,Kandy,Sri Lanka,Grocer,35,Best friend of the man,stubborn,talks over everyone,I remember the song you hummed.
+368,B185,Mehmet Çelik,M,32,Üsküdar,Türkiye,Butcher,13,Best friend of the man,gentle,tells lies for fun,I never learned to read well.
+369,B719,Daichi Yamamoto,M,33,Sapporo,Japan,Newsagent,49,Rival,generous,is jealous of the young,I am afraid the best days are behind me.
+370,B246,Abel Haile,M,29,Addis Ababa,Ethiopia,Nurse,17,Best friend of the woman,hot-tempered,gambles when afraid,I blamed you for what was mine.
+371,B216,Niamh Quinn,F,41,Galway,Ireland,Fishmonger,15,Best friend of the woman,gentle,cannot say goodbye,I kept your photograph.
+372,B456,Paola Fontana,F,25,Mantua,Italy,Lifeguard,31,Best friend of the woman,stubborn,tells lies for fun,I have been writing you answers for years.
+373,B693,Reza Jafari,M,57,Shiraz,Iran,Trader,47,Comic fool,stubborn,hoards old letters,I am not a stranger to you; I am your daughter.
+374,B150,Kemi Adebayo,F,15,Enugu,Nigeria,Schoolchild,10,Young witness,shrewd,never forgets an insult,I stopped writing because I thought you stopped reading.
+375,B198,Pankaj Gupta,M,30,Lucknow,India,Ferry hand,14,Sibling of the man,wry,meddles in other people's love,"I am not sure I believe in love, but I believe in you."
+376,B541,Wafa Elhassan,F,77,Omdurman,Sudan/Egypt,Retired midwife,37,Parent of the man,punctual,never forgets an insult,I envy your freedom.
+377,B429,Njeri Wafula,F,25,Nairobi,Kenya,Trader,29,Comic fool,loyal,hoards old letters,I remember the song you hummed.
+378,B107,Vishnu Pillai,M,62,Kozhikode,India,Train guard,8,Parent of the woman,theatrical,avoids the doctor,I wanted you to win.
+379,B507,Lenka Černý,F,27,Brno,Czechia,Tour guide,34,Former love,theatrical,cannot keep time,I wish I had told you at the station.
+380,B872,Megan Hughes,F,42,Manchester,England,Community spiritual leader,60,Best friend of the woman,anxious,cannot say goodbye,I miss the person I was before I met you.
+381,B012,Rui Costa,M,38,Lisbon,Portugal,Plumber,1,Former love,shrewd,makes promises too fast,I did not want you to win.
+382,B841,Zahir Nazari,M,19,Scarborough,Canada,Scribe,58,Sibling of the man,dreamy,trusts the wrong people,I should have said yes.
+383,B128,Gustavo Oliveira,M,64,Santos,Brazil,Cab driver,9,Mentor,superstitious,avoids the doctor,I took the blame for what you did.
+384,B752,Sabina Mia,F,31,Narayanganj,Bangladesh,Boat mender,51,Former love,suspicious,fears the telephone,I wish I had told you at the station.
+385,S55A,Victor Adeyemi,M,32,Ibadan,Nigeria,Agri-scientist,55,Principal,"Curious, earnest",,I breed seeds and I cannot grow a way to say your name.
+386,B450,Nasrin Islam,F,12,Dhaka,Bangladesh,Schoolchild,30,Young witness,hot-tempered,never forgets an insult,I dreamed of a different life and was ashamed of it.
+387,B343,Zainab Mohammed,F,41,Kano,Nigeria,Tailor,23,Neighbour,suspicious,hides behind jokes,I asked the stars about you.
+388,B111,Vishnu Kurup,M,45,Kochi,India,Rickshaw puller,8,Best friend of the woman,severe,hides behind jokes,"I cannot say it, so I wrote it."
+389,B485,Ariel Reyes,M,41,Cebu,Philippines,Farmer,33,Best friend of the man,romantic,fears the telephone,"I cannot say it, so I wrote it."
+390,B617,Munkhzul Batbayar,F,37,Darkhan,Mongolia,Police officer,42,Sibling of the man,hospitable,cannot apologise,I am not a stranger to you; I am your son.
+391,B823,Astri Dahl,F,39,Ålesund,Norway,Sailor,56,Neighbour,funny,drinks too much tea at night,I am afraid the best days are behind me.
+392,B676,Kojo Asante,M,33,Kumasi,Ghana,Tea seller,46,Best friend of the woman,devout,spends money that is not theirs,I should have said no.
+393,B643,Nam Nguyễn,M,55,Da Nang,Vietnam,Plumber,44,Parent of the man,shrewd,cannot apologise,I am ill and I have told no one.
+394,B416,Johanna Moser,F,63,Vienna,Austria,Tea seller,28,Employer or landlord,superstitious,cannot apologise,I remember the exact day.
+395,B626,Temuulen Batbayar,M,37,Darkhan,Mongolia,Retired teacher,42,Former love,gossipy,avoids the doctor,I have never been to the sea and I am too ashamed to say it.
+396,B837,Pilar Huamán,F,60,Arequipa,Peru,Innkeeper,57,Neighbour,blunt,cannot say goodbye,I forgave my father too late.
+397,B204,Pooja Tiwari,F,27,Jaipur,India,Writer,14,Comic fool,gossipy,gambles when afraid,I am not a stranger to you; I am your daughter.
+398,B014,Rui Silva,M,67,Lisbon,Portugal,Retired journalist,1,Elder who keeps a secret,punctual,is proud to the point of ruin,I would give up my pride if you asked.
+399,B768,Dimas Hidayat,M,75,Surabaya,Indonesia,Retired electrician,52,Elder who keeps a secret,romantic,reads other people's post,I think you are wiser than I am.
+400,B106,Hari Panicker,M,76,Kozhikode,India,Retired butcher,8,Parent of the man,anxious,withholds praise,I am afraid the best days are behind me.
+401,B880,Hannah Evans,F,79,Manchester,England,Retired scribe,60,Elder who keeps a secret,anxious,hides behind jokes,I would give up my pride if you asked.
+402,B682,Kweku Ofori,M,28,Accra,Ghana,Plumber,46,Former love,absent-minded,tells lies for fun,I am proud to be your friend.
+403,B015,João Silva,M,11,Sintra,Portugal,Schoolchild,1,Young witness,suspicious,meddles in other people's love,I think you are wiser than I am.
+404,B520,Shanika Jayasuriya,F,39,Colombo,Sri Lanka,Stonemason,35,Matchmaker and gossip,shrewd,is proud to the point of ruin,I envy your freedom.
+405,B725,Sakura Yamamoto,F,48,Kobe,Japan,Retired teacher,49,Neighbour,soft-spoken,trusts the wrong people,I think you are wiser than I am.
+406,B786,Marten Kask,M,40,Tallinn,Estonia,Butcher,54,Sibling of the woman,severe,gambles when afraid,I should have said yes.
+407,B084,Tarek Hassan,M,41,Alexandria,Egypt,Librarian,6,Comic fool,anxious,drinks too much tea at night,I remember the exact day.
+408,B355,Kostas Mavros,M,44,Rethymno,Greece,Cab driver,24,Matchmaker and gossip,punctual,hides behind jokes,I wish I had stayed.
+409,B049,Natalia Lebedev,F,35,Kronstadt,Russia,Innkeeper,4,Sibling of the woman,hot-tempered,trusts the wrong people,I have never told you your mother's last words.
+410,B854,Nick Trelawny,M,77,St Ives,England,Retired cobbler,59,Parent of the woman,gentle,makes promises too fast,I would give up my work if you asked.
+411,B657,Linnea Svensson,F,63,Uppsala,Sweden,Photographer,45,Parent of the man,tender,avoids the doctor,I think of you every time the kettle boils.
+412,B840,Bashir Safi,M,70,Scarborough,Canada,Retired dressmaker,58,Parent of the woman,fearless,meddles in other people's love,I wanted to be a pilot.
+413,B517,Anusha Senanayake,F,30,Galle,Sri Lanka,Street vendor,35,Rival,fearless,is jealous of the young,I envy your freedom.
+414,B864,Loveday Polglase,F,28,Penzance,England,Potter,59,Former love,gentle,meddles in other people's love,I envy your freedom.
+415,B028,Kwabena Tetteh,M,59,Accra,Ghana,Vet,2,Neighbour,wry,drinks too much tea at night,I think of you every time the kettle boils.
+416,B182,Mehmet Şahin,M,63,Kadıköy,Türkiye,Radio technician,13,Parent of the woman,shrewd,trusts the wrong people,I am waiting for a ship that will not come.
+417,B225,Siobhán Kelly,F,15,Salthill,Ireland,Schoolchild,15,Young witness,gentle,cannot keep time,I lied about where I was that night.
+418,S34A,Petr Novák,M,40,Prague,Czechia,Puppeteer,34,Principal,Shy; speaks only through puppets,,My puppets are braver than I am.
+419,B589,Rachid Chraibi,M,42,Marrakech,Morocco,Singer,40,Sibling of the woman,shrewd,cannot apologise,I will not live to see you married.
+420,B544,Samah Taha,F,26,Omdurman,Sudan/Egypt,Dockworker,37,Sibling of the woman,punctual,reads other people's post,I should have said no.
+421,B694,Hossein Ahmadi,M,48,Yazd,Iran,Train guard,47,Matchmaker and gossip,generous,never forgets an insult,I will not live to see you married.
+422,B601,Josip Jurić,M,72,Zagreb,Croatia,Retired carpenter,41,Parent of the man,shrewd,reads other people's post,I wish I had stayed.
+423,B041,Sora Kato,M,55,Osaka,Japan,Ferry hand,3,Employer or landlord,bookish,fears the telephone,"I cannot say it, so I wrote it."
+424,B458,Matteo Conti,M,53,Mantua,Italy,Police officer,31,Mentor,gossipy,cannot keep time,I opened your sealed letter and wish I had not.
+425,B839,Sami Sultani,M,74,Scarborough,Canada,Retired locksmith,58,Parent of the man,fearless,is proud to the point of ruin,I am waiting for a ship that will not come.
+426,B857,Tamsin Nancarrow,F,37,Penzance,England,Waiter,59,Best friend of the man,blunt,is proud to the point of ruin,I would give up my work if you asked.
+427,B358,Despina Mavros,F,37,Chania,Greece,Dressmaker,24,Neighbour,gentle,trusts the wrong people,I was the one who sent the letter.
+428,B206,Amit Mehra,M,45,Jaipur,India,Teacher,14,Employer or landlord,blunt,cannot apologise,I was proud of you and told you it was nothing.
+429,B739,Mercedes Delgado,F,66,Santiago de Cuba,Cuba,Retired fishmonger,50,Neighbour,gentle,spends money that is not theirs,I would give up my pride if you asked.
+430,B800,Ifeoma Ogunleye,F,30,Lagos,Nigeria,Journalist,55,Sibling of the woman,punctual,cannot keep time,I opened your sealed letter and wish I had not.
+431,B445,Tahmina Khan,F,48,Chittagong,Bangladesh,Welder,30,Matchmaker and gossip,soft-spoken,spends money that is not theirs,I miss the person I was before I met you.
+432,B470,Latifa Al-Habsi,F,42,Sharjah,UAE/Oman,Journalist,32,Best friend of the man,patient,makes promises too fast,I will always be an hour behind you.
+433,B584,Grace Taylor,F,79,Manchester,England,Retired pharmacist,39,Elder who keeps a secret,soft-spoken,is proud to the point of ruin,I need help and cannot ask.
+434,B568,Pooja Bansal,F,30,Jaipur,India,Lawyer,38,Neighbour,generous,drinks too much tea at night,I did not want you to win.
+435,B508,Eva Horák,F,37,Prague,Czechia,Writer,34,Neighbour,soft-spoken,gambles when afraid,I left the door unlocked on purpose.
+436,B057,Igor Orlov,M,41,Pushkin,Russia,Potter,4,Former love,generous,is proud to the point of ruin,I think you are wiser than I am.
+437,B462,Luca Ricci,M,25,Mantua,Italy,Train guard,31,Former love,soft-spoken,cannot apologise,I cannot give you what you want.
+438,B048,Yuri Morozov,M,21,Kronstadt,Russia,Professor,4,Sibling of the man,soft-spoken,fears the telephone,I think of you every time the kettle boils.
+439,S40A,Youssef Benali,M,30,Casablanca,Morocco,Spice trader,40,Principal,"Honey-voiced, proud",,I cannot read well and I have hidden it for twenty years.
+440,B724,Ren Shimizu,M,45,Osaka,Japan,Electrician,49,Former love,gossipy,drinks too much tea at night,I took the blame for what you did.
+441,B493,Ate Aquino,F,66,Quezon City,Philippines,Retired cobbler,33,Neighbour,suspicious,is proud to the point of ruin,I am ill and I have told no one.
+442,B566,Rekha Joshi,F,42,Agra,India,Butcher,38,Employer or landlord,stubborn,trusts the wrong people,I took the blame for what you did.
+443,S07A,Lars Eriksen,M,30,Bergen,Norway,Fisherman,7,Principal,"Stoic, stubborn",,My boat is failing and so am I.
+444,B131,Aline Ribeiro,F,48,Campinas,Brazil,Clerk,9,Employer or landlord,romantic,cannot keep time,I am saving money to disappear.
+445,S52A,Putu Wirawan,M,28,Ubud,Indonesia,Baris dancer,52,Principal,"Graceful, humble",,I dance for the gods and I think of you.
+446,B821,Tor Hansen,M,46,Stavanger,Norway,Goldsmith,56,Employer or landlord,punctual,gambles when afraid,I am afraid of being forgotten.
+447,S25B,Haruka Mori,F,26,Kyoto,Japan,Noh actress,25,Principal,"Luminous, guarded",,I wear the mask offstage too.
+448,B848,Najib Rahimi,M,61,Toronto,Canada,Rickshaw puller,58,Matchmaker and gossip,generous,hoards old letters,I took the blame for what you did.
+449,B354,Despina Vasilakis,F,48,Heraklion,Greece,Street vendor,24,Comic fool,hot-tempered,cannot keep time,I kept your photograph.
+450,S28A,Jonas Müller,M,36,Vienna,Austria,Violin maker,28,Principal,"Meticulous, shy",,I made a violin that only you can play.
+451,B250,Bethlehem Alemu,F,63,Addis Ababa,Ethiopia,Carpenter,17,Matchmaker and gossip,romantic,talks over everyone,I have never been to the sea and I am too ashamed to say it.
+452,B874,George Wilson,M,67,Salford,England,Retired carpenter,60,Mentor,loyal,meddles in other people's love,I have been writing you answers for years.
+453,B632,Mwila Zulu,M,40,Lusaka,Zambia,Locksmith,43,Sibling of the woman,hospitable,avoids the doctor,I am afraid of being forgotten.
+454,B324,Agustina Benítez,F,54,Rosario,Argentina,Tea seller,22,Comic fool,gentle,cannot say goodbye,I stayed when I should have gone.
+455,B851,Zahir Karimi,M,49,Mississauga,Canada,Bus conductor,58,Neighbour,funny,reads other people's post,I am waiting for a ship that will not come.
+456,B098,Espen Lund,M,49,Bergen,Norway,Poet,7,Mentor,bookish,hides behind jokes,I know what you did and I love you anyway.
+457,S45B,Astrid Lindqvist,F,32,Gothenburg,Sweden,Nurse,45,Principal,"Playful, blunt",,I dressed your burn and I have not forgotten your pulse.
+458,B551,Hatim Babiker,M,62,Omdurman,Sudan/Egypt,Nurse,37,Employer or landlord,superstitious,cannot keep time,I am waiting for a ship that will not come.
+459,B686,Nazanin Jafari,F,70,Shiraz,Iran,Retired hotelier,47,Parent of the woman,punctual,drinks too much tea at night,I should have said yes.
+460,B333,Maryam Lawal,F,29,Kaduna,Nigeria,Teacher,23,Sibling of the man,romantic,talks over everyone,I should have said no.
+461,B419,Florian Pichler,M,80,Vienna,Austria,Retired fishmonger,28,Elder who keeps a secret,romantic,withholds praise,I walked past your door a hundred times.
+462,B638,Natasha Chileshe,F,62,Kitwe,Zambia,Rickshaw puller,43,Matchmaker and gossip,suspicious,is jealous of the young,I forgave my father too late.
+463,B532,Julián Gómez,M,51,Medellín,Colombia,Scribe,36,Rival,loyal,cannot say goodbye,I never learned to read well.
+464,B558,Rekha Khanna,F,28,Lucknow,India,Surgeon,38,Sibling of the man,fearless,spends money that is not theirs,I am saving money to disappear.
+465,B649,Ngọc Đặng,F,36,Hanoi,Vietnam,Midwife,44,Rival,punctual,cannot say goodbye,I am proud to be your friend.
+466,S21A,Thabo Dlamini,M,31,Johannesburg,South Africa,Saxophonist,21,Principal,"Smooth, shy offstage",,I play every night for a voice I only know from the radio.
+467,B197,Deepak Joshi,M,67,Delhi,India,Retired dockworker,14,Parent of the woman,hot-tempered,fears the telephone,I wish I had told you at the station.
+468,B232,Min-jun Choi,M,48,Suwon,South Korea,Dentist,16,Rival,vain,withholds praise,I am afraid the best days are behind me.
+469,S44B,Hà Trần,F,27,Huế,Vietnam,Lantern maker,44,Principal,"Gentle, luminous",,I am ill and I do not want to be pitied.
+470,B526,Mauricio Zapata,M,67,Medellín,Colombia,Retired retired teacher,36,Parent of the man,shrewd,fears the telephone,I think of you every time the kettle boils.
+471,S12A,Jakub Nowak,M,24,Kraków,Poland,Clockmaker's apprentice,12,Principal,"Precise, gentle",,I repaired the watch that has your name engraved on it.
+472,B397,Haider Al-Obaidi,M,26,Basra,Iraq,Umbrella maker,27,Rival,wry,is jealous of the young,I stayed when I should have gone.
+473,B345,Musa Danjuma,M,9,Kano,Nigeria,Schoolchild,23,Young witness,generous,is proud to the point of ruin,I would give up my work if you asked.
+474,S44A,Quân Nguyễn,M,28,Hanoi,Vietnam,Street photographer,44,Principal,"Restless, romantic",,I photographed you and never showed you.
+475,B554,Mohamed Babiker,M,77,Omdurman,Sudan/Egypt,Retired professor,37,Elder who keeps a secret,funny,cannot keep time,I blamed you for what was mine.
+476,B120,Sreeja Nambiar,F,14,Kochi,India,Schoolchild,8,Young witness,anxious,drinks too much tea at night,I need help and cannot ask.
+477,B055,Alexei Morozov,M,64,Kronstadt,Russia,Weaver,4,Matchmaker and gossip,superstitious,hoards old letters,I blamed you for what was mine.
+478,B471,Majid Al-Mazrouei,M,33,Sharjah,UAE/Oman,Choir director,32,Best friend of the woman,funny,is proud to the point of ruin,I would give up my pride if you asked.
+479,B783,Anu Kukk,F,61,Pärnu,Estonia,Street vendor,54,Parent of the man,hospitable,drinks too much tea at night,I have been writing you answers for years.
+480,B692,Shirin Jafari,F,70,Shiraz,Iran,Retired painter,47,Mentor,tender,talks over everyone,I walked past your door a hundred times.
+481,B237,Hyun-woo Park,M,25,Incheon,South Korea,Locksmith,16,Former love,dreamy,avoids the doctor,I am afraid of being forgotten.
+482,B116,Remya Iyer,F,45,Kozhikode,India,Professor,8,Employer or landlord,theatrical,fears the telephone,I was too shy to ask for a dance.
+483,S29A,Otieno Odhiambo,M,29,Kisumu,Kenya,Fisherman and vlogger,29,Principal,"Funny, performative",,The man on my videos is not me.
+484,B102,Magnus Johansen,M,42,Bergen,Norway,Grocer,7,Former love,punctual,fears the telephone,I will always be an hour behind you.
+485,B002,Sofia Pereira,F,75,Porto,Portugal,Retired lifeguard,1,Parent of the woman,hospitable,withholds praise,I would give up my pride if you asked.
+486,S31B,Chiara Esposito,F,31,Naples,Italy,Pastry chef,31,Principal,"Fiery, quick-witted",,I wrote that recipe for you to find.
+487,B810,Bisi Obi,F,84,Lagos,Nigeria,Retired poet,55,Elder who keeps a secret,soft-spoken,makes promises too fast,I think you are wiser than I am.
+488,B279,Ayesha Raza,F,54,Karachi,Pakistan,Retired teacher,19,Comic fool,vain,spends money that is not theirs,I never learned to read well.
+489,B218,Maeve Ryan,F,72,Spiddal,Ireland,Retired train guard,15,Mentor,hospitable,is jealous of the young,I am ill and I have told no one.
+490,B411,Lena Steiner,F,38,Salzburg,Austria,Baker,28,Best friend of the woman,fearless,meddles in other people's love,I lied about where I was that night.
+491,B673,Yaw Boateng,M,33,Tema,Ghana,Writer,46,Sibling of the man,restless,hides behind jokes,I think you are wiser than I am.
+492,B226,Ji-ah Park,F,71,Suwon,South Korea,Retired retired teacher,16,Parent of the man,theatrical,spends money that is not theirs,I blamed you for what was mine.
+493,B349,Anastasia Georgiou,F,25,Heraklion,Greece,Street vendor,24,Sibling of the woman,theatrical,meddles in other people's love,I will not live to see you married.
+494,B585,Hannah Hughes,F,13,Salford,England,Schoolchild,39,Young witness,severe,spends money that is not theirs,I asked the stars about you.
+495,B370,Shun Ito,M,61,Osaka,Japan,Pilot,25,Matchmaker and gossip,shrewd,gambles when afraid,I think you are wiser than I am.
+496,B044,Haruto Kato,M,70,Kyoto,Japan,Retired pilot,3,Elder who keeps a secret,tender,makes promises too fast,I am not a stranger to you; I am your son.
+497,B412,Johanna Pichler,F,37,Graz,Austria,Dressmaker,28,Rival,gentle,spends money that is not theirs,I blamed you for what was mine.
+498,B270,Francesca Gallo,F,10,Naples,Italy,Schoolchild,18,Young witness,severe,spends money that is not theirs,I wanted you to win.
+499,B402,Ali Al-Hashimi,M,30,Basra,Iraq,Bus conductor,27,Former love,loyal,hoards old letters,I think you are wiser than I am.
+500,B224,Siobhán Byrne,F,85,Salthill,Ireland,Retired dentist,15,Elder who keeps a secret,hot-tempered,hides behind jokes,I forgave my father too late.
+501,B003,Sofia Teixeira,F,33,Lisbon,Portugal,Hotelier,1,Sibling of the man,hospitable,withholds praise,I think of you every time the kettle boils.
+502,S40B,Salma Idrissi,F,28,Marrakech,Morocco,Calligrapher,40,Principal,"Exacting, kind",,"I would teach you every letter, if you asked."
+503,B351,Anastasia Vasilakis,F,35,Chania,Greece,Weaver,24,Best friend of the woman,blunt,talks over everyone,I need help and cannot ask.
+504,S18A,Marco Bellini,M,34,Verona,Italy,Opera tenor,18,Principal,"Vain, funny, dramatic",,I am terrified of the stage I am famous on.
+505,B371,Aoi Ito,F,38,Osaka,Japan,Newsagent,25,Employer or landlord,vain,meddles in other people's love,I wish I had told you at the station.
+506,B110,Sreenath Thomas,M,28,Alappuzha,India,Carpenter,8,Best friend of the man,tender,talks over everyone,I should have said yes.
+507,B379,Ionuț Ionescu,M,19,Cluj,Romania,Locksmith,26,Sibling of the woman,loyal,cannot apologise,I forgave my father too late.
+508,B352,Yannis Georgiou,M,34,Heraklion,Greece,Dressmaker,24,Rival,dreamy,reads other people's post,I am not a stranger to you; I am your daughter.
+509,B736,Alina Pérez,F,53,Trinidad,Cuba,Community spiritual leader,50,Matchmaker and gossip,gentle,never forgets an insult,I was too shy to ask for a dance.
+510,S03A,Hiroshi Tanabe,M,34,Osaka,Japan,Ramen chef,3,Principal,"Perfectionist, near-silent",,I cook one bowl each night for the woman who never returned.
+511,B542,Osman Ahmed,M,69,Cairo,Sudan/Egypt,Retired train guard,37,Parent of the woman,severe,makes promises too fast,I am proud to be your friend.
+512,B273,Sadia Khan,F,23,Lahore,Pakistan,Clockmender,19,Sibling of the man,funny,fears the telephone,I am waiting for a ship that will not come.
+513,B461,Stefano Costa,M,47,Salerno,Italy,Painter,31,Employer or landlord,restless,drinks too much tea at night,I am not as brave as I appear.
+514,B426,Mwangi Mutua,M,43,Nairobi,Kenya,Lawyer,29,Best friend of the woman,gentle,talks over everyone,I left the door unlocked on purpose.
+515,B583,Thomas Evans,M,33,Liverpool,England,Stonemason,39,Neighbour,suspicious,gambles when afraid,I am proud to be your friend.
+516,S18B,Giulia Rossi,F,31,Verona,Italy,Balcony tour guide,18,Principal,Cynic with a soft centre,,I write the replies to the letters left on the wall.
+517,B303,Nomsa Maseko,F,23,Johannesburg,South Africa,Journalist,21,Sibling of the man,soft-spoken,fears the telephone,"I am not sure I believe in love, but I believe in you."
+518,B160,Océane Roux,F,55,Villeurbanne,France,Journalist,11,Matchmaker and gossip,suspicious,cannot keep time,I am afraid of being forgotten.
+519,B545,Ammar Osman,M,27,Cairo,Sudan/Egypt,Electrician,37,Best friend of the man,fearless,makes promises too fast,I need help and cannot ask.
+520,B005,Nuno Pereira,M,27,Lisbon,Portugal,Mechanic,1,Best friend of the man,romantic,tells lies for fun,I forgave you years ago and never said so.
+521,B209,Pankaj Singh,M,73,Agra,India,Retired chef,14,Elder who keeps a secret,romantic,hides behind jokes,I opened your sealed letter and wish I had not.
+522,B240,Tae-yang Kang,M,9,Suwon,South Korea,Schoolchild,16,Young witness,bookish,trusts the wrong people,I miss the person I was before I met you.
+523,B192,Emre Arslan,M,41,Istanbul,Türkiye,Tea seller,13,Former love,gentle,talks over everyone,I loved your mother before you were born.
+524,B683,Araba Ofori,F,34,Tema,Ghana,Pharmacist,46,Neighbour,superstitious,drinks too much tea at night,I need help and cannot ask.
+525,B796,Priit Pärn,M,80,Tallinn,Estonia,Retired tour guide,54,Elder who keeps a secret,dreamy,trusts the wrong people,I am ill and I have told no one.
+526,B476,Shaikha Al-Hinai,F,62,Sharjah,UAE/Oman,Butcher,32,Employer or landlord,superstitious,avoids the doctor,I should have said no.
+527,B502,Martin Kučera,M,50,Plzeň,Czechia,Community spiritual leader,34,Rival,tender,cannot say goodbye,I blamed you for what was mine.
+528,B518,Nuwan Rajapaksa,M,65,Galle,Sri Lanka,Choir director,35,Mentor,blunt,meddles in other people's love,I dreamed of a different life and was ashamed of it.
+529,B561,Pankaj Tiwari,M,24,Lucknow,India,Judge,38,Best friend of the woman,punctual,is proud to the point of ruin,I was the one who sent the letter.
+530,B070,Itzel Martínez,F,38,Mexico City,Mexico,Stonemason,5,Matchmaker and gossip,suspicious,trusts the wrong people,I walked past your door a hundred times.
+531,B043,Miyu Hayashi,F,54,Kobe,Japan,Tea seller,3,Neighbour,dreamy,gambles when afraid,I dreamed of a different life and was ashamed of it.
+532,S46B,Esi Appiah,F,29,Kumasi,Ghana,Schoolteacher,46,Principal,"Bright, brave",,I won a scholarship overseas and I do not know how to say yes.
+533,B571,Oliver Hughes,M,58,Liverpool,England,Retired teacher,39,Parent of the man,devout,makes promises too fast,I opened your sealed letter and wish I had not.
+534,S20B,Elena Georgieva,F,34,Sofia,Bulgaria,Translator,20,Principal,"Discreet, precise",,There is a forged passport in my coat for someone I love.
+535,B876,Ruth Hughes,F,65,Liverpool,England,Butcher,60,Matchmaker and gossip,hot-tempered,drinks too much tea at night,I am not a stranger to you; I am your daughter.
+536,B829,Rosa Quispe,F,43,Cusco,Peru,Judge,57,Best friend of the man,punctual,reads other people's post,I would give up my work if you asked.
+537,B764,Sari Susanto,F,52,Surabaya,Indonesia,Scribe,52,Matchmaker and gossip,devout,talks over everyone,I stayed when I should have gone.
+538,B787,Liis Saar,F,42,Pärnu,Estonia,Pilot,54,Best friend of the man,superstitious,reads other people's post,I wish I had stayed.
+539,B039,Daichi Ito,M,34,Kobe,Japan,Historian,3,Comic fool,superstitious,cannot apologise,I envy your freedom.
+540,B090,Dina Shaker,F,14,Alexandria,Egypt,Schoolchild,6,Young witness,theatrical,spends money that is not theirs,I was the one who sent the letter.
+541,B809,Ngozi Obi,F,66,Abuja,Nigeria,Retired farmer,55,Neighbour,gentle,hoards old letters,I was the one who sent the letter.
+542,S39B,Poppy Ashworth,F,29,Manchester,England,Brass-band cornetist,39,Principal,"Bright, loud",,The band is folding and you are the only thing I would keep.
+543,B263,Elena Gallo,F,74,Mantua,Italy,Retired newsagent,18,Mentor,tender,meddles in other people's love,I still keep your first letter.
+544,B301,Sipho Maseko,M,59,Soweto,South Africa,Newsagent,21,Parent of the man,devout,hoards old letters,I was the one who sent the letter.
+545,B701,Mathieu Fontaine,M,23,Villeurbanne,France,Photographer,48,Sibling of the man,romantic,cannot say goodbye,I am saving money to disappear.
+546,B093,Marit Dahl,F,44,Ålesund,Norway,Rickshaw puller,7,Sibling of the man,bookish,cannot apologise,I should have said no.
+547,B721,Nanami Hayashi,F,46,Sapporo,Japan,Chef,49,Comic fool,fearless,never forgets an insult,I blamed you for what was mine.
+548,S53A,Patrick Murphy,M,40,Boston,USA,Firefighter,53,Principal,"Rough, tender",,I carried a stranger out of a fire and thought of you.
+549,B623,Munkhzul Bold,F,25,Erdenet,Mongolia,Ferry hand,42,Comic fool,dreamy,is jealous of the young,I wanted to be a singer.
+550,B030,Nii Darko,M,9,Kumasi,Ghana,Schoolchild,2,Young witness,bookish,tells lies for fun,I stayed when I should have gone.
+551,S42B,Oyun Dorj,F,27,Ulaanbaatar,Mongolia,Throat singer,42,Principal,"Mystic, direct",,I leave for Europe in spring. I have not told the horses.
+552,B691,Mehdi Ahmadi,M,39,Shiraz,Iran,Lawyer,47,Rival,loyal,gambles when afraid,"I am grateful, and I cannot say how much."
+553,B083,Rania Shaker,F,63,Giza,Egypt,Cab driver,6,Mentor,romantic,makes promises too fast,I am saving money to disappear.
+554,B576,Harvey Evans,M,42,Liverpool,England,Pharmacist,39,Best friend of the woman,patient,avoids the doctor,I lied about where I was that night.
+555,B312,Ayanda Nkosi,F,42,Pretoria,South Africa,Weaver,21,Former love,punctual,never forgets an insult,I wanted to be a singer.
+556,S49B,Yuki Nakamura,F,35,Sapporo,Japan,Ice-cream shop owner,49,Principal,"Cheerful, stubborn",,"My father's shop is all I have, and it is all I fear losing."
+557,B118,Divya Pillai,F,61,Kozhikode,India,Lawyer,8,Neighbour,anxious,tells lies for fun,I walked past your door a hundred times.
+558,B465,Lucia Bruno,F,9,Verona,Italy,Schoolchild,31,Young witness,loyal,talks over everyone,I opened your sealed letter and wish I had not.
+559,B735,Alina Fernández,F,25,Trinidad,Cuba,Tea seller,50,Comic fool,restless,never forgets an insult,I found your sealed letter and did not open it.
+560,B473,Fatma Al-Maktoum,F,51,Dubai,UAE/Oman,Tour guide,32,Mentor,severe,trusts the wrong people,I need help and cannot ask.
+561,S14B,Priya Sharma,F,27,Jaipur,India,Textile heiress,14,Principal,"Dutiful, quietly rebellious",,"I want to design, not inherit."
+562,B688,Farhad Hosseini,M,26,Isfahan,Iran,Bus conductor,47,Sibling of the woman,stubborn,cannot say goodbye,I wanted to be a pilot.
+563,B144,Ngozi Nwosu,F,59,Enugu,Nigeria,Community spiritual leader,10,Comic fool,punctual,cannot apologise,I opened your sealed letter and wish I had not.
+564,B468,Latifa Al-Harthy,F,19,Sharjah,UAE/Oman,Butcher,32,Sibling of the man,patient,spends money that is not theirs,I am afraid the best days are behind me.
+565,B489,Joy Aquino,F,56,Manila,Philippines,Librarian,33,Comic fool,patient,trusts the wrong people,I stopped writing because I thought you stopped reading.
+566,B639,Natasha Mwansa,F,39,Ndola,Zambia,Choir director,43,Employer or landlord,tender,cannot apologise,I need help and cannot ask.
+567,S57B,Lucía Paredes,F,29,Lima,Peru,Astronomer,57,Principal,"Absorbed, shy",,I am chasing a dark star because I am afraid to look at you.
+568,B261,Giorgio Costa,M,33,Mantua,Italy,Welder,18,Best friend of the woman,bookish,gambles when afraid,I am ill and I have told no one.
+569,B805,Segun Afolabi,M,60,Enugu,Nigeria,Professor,55,Comic fool,wry,trusts the wrong people,I am waiting for a ship that will not come.
+570,B619,Solongo Bold,F,38,Darkhan,Mongolia,Musician,42,Best friend of the man,generous,talks over everyone,"I cannot hear you, and I have not told you."
+571,B853,Bill Tregenza,M,69,St Ives,England,Retired plumber,59,Parent of the man,vain,spends money that is not theirs,I took the blame for what you did.
+572,B728,Mireya Fernández,F,65,Havana,Cuba,Choir director,50,Parent of the woman,romantic,fears the telephone,I am proud to be your friend.
+573,B646,Hoàng Phạm,M,37,Da Nang,Vietnam,Midwife,44,Sibling of the woman,superstitious,tells lies for fun,I kept your photograph.
+574,B658,Johan Eriksson,M,77,Uppsala,Sweden,Retired street vendor,45,Parent of the woman,stubborn,cannot say goodbye,I never thanked you for the bread.
+575,B297,Boris Kolev,M,32,Sofia,Bulgaria,Writer,20,Former love,wry,hoards old letters,I envy your freedom.
+576,B703,Océane Lefèvre,F,29,Lyon,France,Police officer,48,Best friend of the man,generous,cannot say goodbye,I left the door unlocked on purpose.
+577,B620,Nomin Dorj,F,36,Erdenet,Mongolia,Librarian,42,Best friend of the woman,generous,avoids the doctor,I will always be an hour behind you.
+578,B763,Bayu Saputra,M,53,Yogyakarta,Indonesia,Scribe,52,Comic fool,gentle,spends money that is not theirs,I wanted you to win.
+579,B152,Étienne Lefèvre,M,70,Lyon,France,Retired grocer,11,Parent of the woman,vain,hides behind jokes,I cannot give you what you want.
+580,B394,Huda Jabbar,F,36,Basra,Iraq,Journalist,27,Sibling of the woman,bookish,makes promises too fast,I let you go because I thought it was kind.
+581,B674,Efua Darko,F,38,Tema,Ghana,Teacher,46,Sibling of the woman,bookish,meddles in other people's love,I was too shy to ask for a dance.
+582,B236,Ji-ah Choi,F,64,Incheon,South Korea,Journalist,16,Employer or landlord,dreamy,hides behind jokes,I would give up my work if you asked.
+583,B025,Adwoa Addo,F,66,Tema,Ghana,Retired street vendor,2,Matchmaker and gossip,severe,drinks too much tea at night,I think of you every time the kettle boils.
+584,B613,Ante Matić,M,33,Split,Croatia,Radio technician,41,Neighbour,wry,withholds praise,I dreamed of a different life and was ashamed of it.
+585,S48A,Hugo Martin,M,35,Marseille,France,Fish seller,48,Principal,"Boisterous, loyal",,The market burned and I smiled so no one would see.
+586,S36A,Sebastián Torres,M,29,Bogotá,Colombia,Professional cyclist,36,Principal,"Stubborn, humorous",,I crashed because I was thinking of you.
+587,B709,Claire Clément,F,43,Villeurbanne,France,Newsagent,48,Employer or landlord,romantic,never forgets an insult,I was the one who sent the letter.
+588,B826,Álvaro Mendoza,M,72,Cusco,Peru,Retired cobbler,57,Parent of the woman,hospitable,cannot apologise,I forgave my father too late.
+589,B430,Atieno Kariuki,F,67,Nairobi,Kenya,Retired midwife,29,Matchmaker and gossip,soft-spoken,trusts the wrong people,I blamed you for what was mine.
+590,B608,Ana Jurić,F,68,Hvar,Croatia,Retired singer,41,Mentor,loyal,fears the telephone,I am afraid of being forgotten.
+591,B053,Yuri Kuznetsov,M,75,St Petersburg,Russia,Retired pharmacist,4,Mentor,punctual,is proud to the point of ruin,I am not as brave as I appear.
+592,B712,Julien Girard,M,66,Lyon,France,Retired singer,48,Elder who keeps a secret,hospitable,spends money that is not theirs,I wanted you to win.
+593,B421,Kevin Mutua,M,58,Mombasa,Kenya,Stonemason,29,Parent of the man,punctual,trusts the wrong people,I am not a stranger to you; I am your daughter.
+594,B060,Yuri Orlov,M,12,Kronstadt,Russia,Schoolchild,4,Young witness,superstitious,withholds praise,I am ill and I have told no one.
+595,S47B,Parisa Karimi,F,31,Isfahan,Iran,Architect-restorer,47,Principal,"Precise, warm",,I restore the ruins because I do not know how to restore myself.
+596,B213,Maeve Murphy,F,32,Spiddal,Ireland,Rickshaw puller,15,Sibling of the man,gossipy,is proud to the point of ruin,I will always be an hour behind you.
+597,B859,Morwenna Trevithick,F,47,St Ives,England,Journalist,59,Rival,devout,drinks too much tea at night,I miss the person I was before I met you.
+598,B873,George Clarke,M,26,Salford,England,Clockmender,60,Rival,superstitious,hoards old letters,I was the one who sent the letter.
+599,B459,Paolo Ricci,M,30,Salerno,Italy,Choir director,31,Comic fool,gossipy,cannot apologise,"I am grateful, and I cannot say how much."
+600,B317,Gonzalo Benítez,M,62,Rosario,Argentina,Singer,22,Parent of the woman,tender,talks over everyone,I wish I had stayed.
+601,B578,Callum Lowe,M,61,Manchester,England,Clerk,39,Mentor,wry,cannot keep time,I wish I had told you at the station.
+602,B151,Baptiste Roux,M,67,Villeurbanne,France,Retired potter,11,Parent of the man,vain,avoids the doctor,I will not live to see you married.
+603,S41A,Ivan Horvat,M,33,Split,Croatia,Merchant sailor,41,Principal,"Windblown, jovial",,Six months at sea is long when you are the only thing on shore.
+604,B685,Hossein Rahimi,M,59,Isfahan,Iran,Tailor,47,Parent of the man,wry,spends money that is not theirs,I am not a stranger to you; I am your daughter.
+605,B267,Elena Fontana,F,42,Verona,Italy,Police officer,18,Former love,wry,hoards old letters,I should have said no.
+606,S54A,Mikhail Sokolov,M,42,Tallinn,Estonia,Engineer,54,Principal,"Withdrawn, courteous",,My house is silent and I am afraid of that quiet.
+607,B398,Ali Al-Rubaie,M,49,Basra,Iraq,Potter,27,Mentor,devout,withholds praise,I dreamed of a different life and was ashamed of it.
+608,B621,Altan Gankhuyag,F,46,Erdenet,Mongolia,Lawyer,42,Rival,tender,cannot apologise,"I cannot hear you, and I have not told you."
+609,S12B,Zofia Kowalska,F,23,Kraków,Poland,Violinist,12,Principal,"Fragile, luminous",,I am losing my hearing and I have told no one.
+610,S07B,Sigrid Haugen,F,29,Bergen,Norway,Marine biologist,7,Principal,"Restless, restless, restless",,My grant ends in spring and I may not return.
+611,B516,Shanika Wickramasinghe,F,28,Kandy,Sri Lanka,Butcher,35,Best friend of the woman,stubborn,never forgets an insult,I am saving money to disappear.
+612,B252,Rahel Alemu,F,45,Addis Ababa,Ethiopia,Dressmaker,17,Former love,wry,is jealous of the young,I am ill and I have told no one.
+613,B314,Tshepo Radebe,M,66,Johannesburg,South Africa,Retired newsagent,21,Elder who keeps a secret,shrewd,cannot say goodbye,I never learned to read well.
+614,B336,Sani Danjuma,M,33,Kaduna,Nigeria,Tailor,23,Best friend of the woman,funny,gambles when afraid,I took the blame for what you did.
+615,B257,Giorgio Gallo,M,68,Naples,Italy,Retired lifeguard,18,Parent of the woman,stubborn,talks over everyone,"I cannot say it, so I wrote it."
+616,B071,Emilio García,M,54,Mexico City,Mexico,Dressmaker,5,Employer or landlord,funny,avoids the doctor,I should have said no.
+617,B428,Juma Kiplagat,M,59,Kisumu,Kenya,Stonemason,29,Mentor,generous,cannot keep time,I am not a stranger to you; I am your daughter.
+618,S51A,Rahim Chowdhury,M,33,Chittagong,Bangladesh,Ship-breaking foreman,51,Principal,"Hard, honest",,A man died on my watch and I have not forgiven myself.
+619,B191,Merve Demir,F,41,Üsküdar,Türkiye,Goldsmith,13,Employer or landlord,romantic,drinks too much tea at night,I am afraid the best days are behind me.
+620,B791,Toomas Rebane,M,35,Pärnu,Estonia,Weaver,54,Comic fool,romantic,gambles when afraid,I am afraid the best days are behind me.
+621,B599,Mehdi Lahlou,M,85,Fez,Morocco,Retired plumber,40,Elder who keeps a secret,hospitable,cannot say goodbye,I remember the exact day.
+622,B743,Nayeem Talukdar,M,44,Chittagong,Bangladesh,Florist,51,Sibling of the man,vain,reads other people's post,I am not a stranger to you; I am your daughter.
+623,B073,Lupita Salazar,F,26,Coyoacán,Mexico,Singer,5,Neighbour,hospitable,is jealous of the young,I wanted to be a singer.
+624,B319,Nicolás Sosa,M,30,Buenos Aires,Argentina,Dressmaker,22,Sibling of the woman,restless,talks over everyone,I put your name in the prayer.
+625,S02A,Kwame Mensah,M,31,Accra,Ghana,Taxi-fleet owner,2,Principal,"Generous with strangers, stingy with feeling",,I paid your father's debt and let you think it was forgiven.
+626,S14A,Vikram Rathore,M,30,Jaipur,India,Heritage guide,14,Principal,"Theatrical, vain",,I am the heir of a haveli with no roof.
+627,B529,Mariana Rojas,F,44,Medellín,Colombia,Butcher,36,Sibling of the woman,funny,drinks too much tea at night,I am not as brave as I appear.
+628,B741,Nayeem Sarker,M,59,Dhaka,Bangladesh,Farmer,51,Parent of the man,generous,cannot apologise,I miss the person I was before I met you.
+629,B633,Chanda Mwansa,M,38,Ndola,Zambia,Trader,43,Best friend of the man,superstitious,tells lies for fun,"I am not sure I believe in love, but I believe in you."
+630,S35A,Anil Perera,M,32,Colombo,Sri Lanka,Lighthouse keeper's son,35,Principal,"Steady, quiet",,I keep the lamp lit for ships and for you.
+631,B391,Zaid Al-Obaidi,M,63,Basra,Iraq,Dressmaker,27,Parent of the man,wry,gambles when afraid,I opened your sealed letter and wish I had not.
+632,B844,Zahir Safi,M,35,Toronto,Canada,Butcher,58,Best friend of the woman,blunt,meddles in other people's love,I should have said no.
+633,B618,Saran Sukhbaatar,F,42,Ulaanbaatar,Mongolia,Trader,42,Sibling of the woman,dreamy,is jealous of the young,I walked past your door a hundred times.
+634,B441,Shakil Khan,M,36,Dhaka,Bangladesh,Scribe,30,Best friend of the woman,blunt,meddles in other people's love,I found your sealed letter and did not open it.
+635,B588,Abdelilah Tazi,M,22,Casablanca,Morocco,Poet,40,Sibling of the man,gossipy,makes promises too fast,I dreamed of a different life and was ashamed of it.
+636,B474,Saeed Al-Balushi,M,58,Sharjah,UAE/Oman,Plumber,32,Comic fool,anxious,hides behind jokes,I loved your mother before you were born.
+637,B286,Vesela Petrov,F,78,Sofia,Bulgaria,Retired innkeeper,20,Parent of the man,vain,cannot keep time,I did not want you to win.
+638,B383,Roxana Moldovan,F,61,Sibiu,Romania,Baker,26,Mentor,stubborn,reads other people's post,I forgave my father too late.
+639,S39A,William Hartley,M,30,Manchester,England,Stadium groundsman,39,Principal,"Dry wit, sentimental",,The ground is closing; so is my reason to stay.
+640,S06A,Omar Haddad,M,35,Cairo,Egypt,Antiques dealer,6,Principal,Charming trickster,,I sold you a forgery and have never confessed.
+641,B820,Espen Larsen,M,45,Bergen,Norway,Professor,56,Matchmaker and gossip,hot-tempered,talks over everyone,I remember the song you hummed.
+642,B710,Manon Girard,F,34,Marseille,France,Bus conductor,48,Former love,wry,never forgets an insult,I am afraid the best days are behind me.
+643,B127,Rodrigo Santos,M,27,São Paulo,Brazil,Ferry hand,9,Rival,dreamy,talks over everyone,I dreamed of a different life and was ashamed of it.
+644,B199,Pankaj Khanna,M,34,Jaipur,India,Midwife,14,Sibling of the woman,wry,never forgets an insult,I think of you every time the kettle boils.
+645,B338,Zainab Suleiman,F,66,Zaria,Nigeria,Retired bus conductor,23,Mentor,dreamy,makes promises too fast,I am ill and I have told no one.
+646,B652,Mai Bùi,F,55,Hoi An,Vietnam,Singer,44,Matchmaker and gossip,loyal,never forgets an insult,I lied about where I was that night.
+647,B350,Eleftheria Stefanakis,F,35,Chania,Greece,Hairdresser,24,Best friend of the man,suspicious,cannot say goodbye,I am not a stranger to you; I am your daughter.
+648,B074,Marisol Hernández,F,73,Xochimilco,Mexico,Retired train guard,5,Elder who keeps a secret,absent-minded,spends money that is not theirs,"I cannot hear you, and I have not told you."
+649,B678,Naa Asante,F,75,Accra,Ghana,Retired scribe,46,Mentor,punctual,hides behind jokes,"I am not sure I believe in love, but I believe in you."
+650,B403,Hussein Al-Saadi,M,38,Mosul,Iraq,Clockmender,27,Neighbour,shrewd,hides behind jokes,I need help and cannot ask.
+651,B340,Zainab Bello,F,69,Kano,Nigeria,Retired pharmacist,23,Matchmaker and gossip,gossipy,gambles when afraid,I walked past your door a hundred times.
+652,B455,Anna Costa,F,38,Mantua,Italy,Street vendor,31,Best friend of the man,hospitable,makes promises too fast,I remember the exact day.
+653,B842,Sami Nazari,M,24,Mississauga,Canada,Locksmith,58,Sibling of the woman,absent-minded,never forgets an insult,I wish I had stayed.
+654,B501,Martin Černý,M,40,Plzeň,Czechia,Tailor,34,Best friend of the woman,stubborn,spends money that is not theirs,I am waiting for a ship that will not come.
+655,B266,Lucia Ricci,F,50,Mantua,Italy,Newsagent,18,Employer or landlord,dreamy,tells lies for fun,"I am grateful, and I cannot say how much."
+656,B822,Solveig Johansen,F,38,Ålesund,Norway,Hotelier,56,Former love,theatrical,trusts the wrong people,I never thanked you for the bread.
+657,B627,Nomin Gankhuyag,F,61,Erdenet,Mongolia,Butcher,42,Neighbour,shrewd,trusts the wrong people,I am not a stranger to you; I am your daughter.
+658,B176,Magdalena Lewandowski,F,56,Zakopane,Poland,Umbrella maker,12,Employer or landlord,bookish,makes promises too fast,I think of you every time the kettle boils.
+659,B373,Shun Kato,M,44,Sapporo,Japan,Teacher,25,Neighbour,absent-minded,meddles in other people's love,I have never told you your mother's last words.
+660,B449,Rafiq Islam,M,81,Narayanganj,Bangladesh,Retired apprentice,30,Elder who keeps a secret,fearless,talks over everyone,I will not live to see you married.
+661,B031,Nanami Shimizu,F,70,Kyoto,Japan,Retired welder,3,Parent of the man,gossipy,fears the telephone,I dreamed of a different life and was ashamed of it.
+662,S43B,Grace Banda,F,35,Lusaka,Zambia,Maize seller; widow,43,Principal,"Gentle, funny",,I sell maize and I sell nothing of what I feel.
+663,B670,Sofia Svensson,F,67,Stockholm,Sweden,Retired waiter,45,Elder who keeps a secret,suspicious,avoids the doctor,I cannot give you what you want.
+664,B239,Tae-yang Lee,M,88,Incheon,South Korea,Retired professor,16,Elder who keeps a secret,gossipy,trusts the wrong people,I wanted you to win.
+665,S28B,Clara Weber,F,32,Vienna,Austria,Conductor,28,Principal,"Imperious, secretly kind",,You are the one flat note in my perfect life.
+666,S06B,Layla Mansour,F,32,Cairo,Egypt,Antiquities restorer,6,Principal,"Exacting, dry",,I knew it was false. I kept it because it was yours.
+667,B666,Gustav Nilsson,M,65,Stockholm,Sweden,Musician,45,Matchmaker and gossip,dreamy,hoards old letters,I wish I had told you at the station.
+668,S56B,Ingrid Solberg,F,47,Oslo,Norway,Lighthouse archivist,56,Principal,"Precise, patient",,I have kept your log for twenty-five years.
+669,B114,Lakshmi Panicker,F,27,Kochi,India,Waiter,8,Comic fool,loyal,hides behind jokes,I stayed when I should have gone.
+670,B063,Emilio Vargas,M,28,Mexico City,Mexico,Photographer,5,Sibling of the man,generous,makes promises too fast,I left the door unlocked on purpose.
+671,B056,Oleg Morozov,M,43,Pushkin,Russia,Dentist,4,Employer or landlord,stubborn,never forgets an insult,I was the one who sent the letter.
+672,B506,Jan Kučera,M,66,Prague,Czechia,Retired trader,34,Employer or landlord,absent-minded,drinks too much tea at night,I think of you every time the kettle boils.
+673,B339,Aminu Yakubu,M,50,Zaria,Nigeria,Goldsmith,23,Comic fool,funny,cannot apologise,"I am grateful, and I cannot say how much."
+674,B642,Mulenga Mbewe,M,89,Kitwe,Zambia,Retired librarian,43,Elder who keeps a secret,restless,is jealous of the young,I was too shy to ask for a dance.
+675,B454,Matteo Ricci,M,26,Naples,Italy,Welder,31,Sibling of the woman,tender,meddles in other people's love,I blamed you for what was mine.
+676,B171,Wojciech Wiśniewski,M,40,Zakopane,Poland,Welder,12,Best friend of the woman,loyal,spends money that is not theirs,I never thanked you for the bread.
+677,B531,Esteban Gómez,M,25,Bogotá,Colombia,Lifeguard,36,Best friend of the woman,restless,talks over everyone,I loved your mother before you were born.
+678,B772,Dana Donnelly,F,23,Boston,USA,Scribe,53,Sibling of the woman,stubborn,withholds praise,I would give up my work if you asked.
+679,B761,Rizky Santoso,M,31,Yogyakarta,Indonesia,Bus conductor,52,Rival,devout,avoids the doctor,I wanted to be a singer.
+680,S58A,Idris Hakimi,M,27,Toronto,Canada (from Kabul),Refugee engineer,58,Principal,"Stoic, dry",,My family is still there. I cannot settle until they are here.
+681,B825,Pilar Chávez,F,73,Cusco,Peru,Retired carpenter,57,Parent of the man,vain,makes promises too fast,I have never told you your mother's last words.
+682,B690,Zahra Jafari,F,41,Yazd,Iran,Weaver,47,Best friend of the woman,blunt,avoids the doctor,I cannot give you what you want.
+683,B860,Nick Trevithick,M,53,Penzance,England,Radio technician,59,Mentor,soft-spoken,tells lies for fun,I am afraid of being forgotten.
+684,B481,Noel Reyes,M,58,Manila,Philippines,Dentist,33,Parent of the man,restless,reads other people's post,I would give up my pride if you asked.
+685,B262,Francesca Ricci,F,34,Salerno,Italy,Street vendor,18,Rival,absent-minded,reads other people's post,I stayed when I should have gone.
+686,B604,Josip Kralj,M,20,Split,Croatia,Carpenter,41,Sibling of the woman,wry,withholds praise,"I cannot say it, so I wrote it."
+687,B309,Thandi Zulu,F,30,Pretoria,South Africa,Street vendor,21,Comic fool,punctual,avoids the doctor,I never thanked you for the bread.
+688,B033,Haruto Hayashi,M,37,Osaka,Japan,Cab driver,3,Sibling of the man,loyal,hides behind jokes,I should have said no.
+689,B300,Tsvetana Dimitrov,F,15,Plovdiv,Bulgaria,Schoolchild,20,Young witness,hospitable,gambles when afraid,I envy your freedom.
+690,B816,Astri Larsen,F,32,Bergen,Norway,Newsagent,56,Best friend of the woman,loyal,spends money that is not theirs,I let you go because I thought it was kind.
+691,B535,Esteban Rojas,M,66,Bogotá,Colombia,Retired pilot,36,Matchmaker and gossip,tender,tells lies for fun,I found your sealed letter and did not open it.
+692,B668,Elin Andersson,F,34,Uppsala,Sweden,Innkeeper,45,Former love,romantic,talks over everyone,I stopped writing because I thought you stopped reading.
+693,B528,Juan Zapata,M,43,Bogotá,Colombia,Hotelier,36,Sibling of the man,superstitious,drinks too much tea at night,I should have said no.
+694,B221,Niall Walsh,M,50,Spiddal,Ireland,Fishmonger,15,Employer or landlord,gossipy,hoards old letters,I asked the stars about you.
+695,B580,Hannah Brown,F,41,Manchester,England,Florist,39,Matchmaker and gossip,devout,is proud to the point of ruin,I cannot give you what you want.
+696,B661,Fredrik Andersson,M,30,Uppsala,Sweden,Lifeguard,45,Best friend of the man,gentle,is jealous of the young,I kept your photograph.
+697,S26A,Andrei Popescu,M,31,Bucharest,Romania,Circus acrobat,26,Principal,"Fearless in the air, timid on the ground",,My back is broken and I perform anyway.
+698,B477,Aisha Al-Hinai,F,37,Dubai,UAE/Oman,Pilot,32,Former love,tender,never forgets an insult,I was happy once and did not notice.
+699,S08A,Arjun Nair,M,27,Kochi,India,Bookshop owner,8,Principal,"Shy, bookish",,I hid a poem in a book I knew you would buy.
+700,B731,Armando Delgado,M,33,Santiago de Cuba,Cuba,Journalist,50,Best friend of the man,restless,cannot apologise,I remember the exact day.
+701,B875,Grace Lowe,F,60,Liverpool,England,Baker,60,Comic fool,devout,withholds praise,I will not live to see you married.
+702,B037,Sakura Takahashi,F,36,Kyoto,Japan,Newsagent,3,Rival,severe,fears the telephone,I am not as brave as I appear.
+703,B504,Markéta Veselý,F,45,Prague,Czechia,Lifeguard,34,Comic fool,vain,withholds praise,I have been writing you answers for years.
+704,B186,Selim Şahin,M,45,Üsküdar,Türkiye,Lawyer,13,Best friend of the woman,gossipy,drinks too much tea at night,I envy your freedom.
+705,B833,Rosa Chávez,F,42,Lima,Peru,Community spiritual leader,57,Comic fool,fearless,drinks too much tea at night,I am ill and I have told no one.
+706,B032,Sakura Hayashi,F,54,Kobe,Japan,Surgeon,3,Parent of the woman,gossipy,trusts the wrong people,I would give up my pride if you asked.
+707,B038,Daichi Kato,M,48,Kyoto,Japan,Tour guide,3,Mentor,loyal,fears the telephone,I found your sealed letter and did not open it.
+708,B760,Putri Susanto,F,40,Surabaya,Indonesia,Ferry hand,52,Best friend of the woman,tender,gambles when afraid,I still keep your first letter.
+709,B040,Aoi Yamamoto,F,66,Kyoto,Japan,Retired choir director,3,Matchmaker and gossip,hospitable,talks over everyone,I took the blame for what you did.
+710,B356,Stavros Vasilakis,M,46,Rethymno,Greece,Plumber,24,Employer or landlord,blunt,tells lies for fun,I need help and cannot ask.
+711,B214,Sinéad Quinn,F,24,Spiddal,Ireland,Clerk,15,Sibling of the woman,devout,is proud to the point of ruin,I wish I had told you at the station.
+712,B024,Ama Boateng,F,60,Kumasi,Ghana,Lifeguard,2,Comic fool,punctual,hides behind jokes,I never learned to read well.
+713,S30A,Fayaz Rahman,M,26,Dhaka,Bangladesh,Freelance developer; failed-startup founder,30,Principal,"Quiet humour, dry puns, over-apologises; stubborn pride",,I would tell you everything if I were free to.
+714,S30B,Ermis Larasati,F,24,Yogyakarta,Indonesia,Batik and textile designer,30,Principal,"Warm, rapid, direct; fearless about work, shy about feeling",,I am an hour ahead of you and I keep looking back.
+715,B525,Kumari Senanayake,F,15,Galle,Sri Lanka,Schoolchild,35,Young witness,gossipy,gambles when afraid,I remember the exact day.
+716,B117,Vishnu Thomas,M,33,Kozhikode,India,Poet,8,Former love,shrewd,trusts the wrong people,I dreamed of a different life and was ashamed of it.
+717,B010,Sofia Rocha,F,67,Porto,Portugal,Retired poet,1,Matchmaker and gossip,patient,trusts the wrong people,I walked past your door a hundred times.
+718,B009,Duarte Rocha,M,26,Porto,Portugal,Librarian,1,Comic fool,theatrical,cannot apologise,I remember the exact day.
+719,B148,Dayo Bello,M,70,Abuja,Nigeria,Retired newsagent,10,Neighbour,severe,tells lies for fun,I wish I had stayed.
+720,B748,Farzana Hossain,F,56,Sylhet,Bangladesh,Radio technician,51,Mentor,shrewd,meddles in other people's love,I miss the person I was before I met you.
+721,B165,Baptiste Lefèvre,M,13,Villeurbanne,France,Schoolchild,11,Young witness,severe,cannot apologise,"I cannot hear you, and I have not told you."
+722,B323,Gonzalo Díaz,M,49,Rosario,Argentina,Historian,22,Mentor,absent-minded,avoids the doctor,I am ill and I have told no one.
+723,B042,Aoi Kato,F,36,Kyoto,Japan,Poet,3,Former love,tender,cannot say goodbye,I wish I had told you at the station.
+724,B486,Joy Navarro,F,24,Manila,Philippines,Community spiritual leader,33,Best friend of the woman,suspicious,is jealous of the young,I asked the stars about you.
+725,B836,César Torres,M,41,Arequipa,Peru,Bus conductor,57,Former love,superstitious,gambles when afraid,I dreamed of a different life and was ashamed of it.
+726,B830,Milagros Ramos,F,39,Lima,Peru,Tea seller,57,Best friend of the woman,gentle,is jealous of the young,I took the blame for what you did.
+727,B713,Haruto Shimizu,M,76,Sapporo,Japan,Retired nurse,49,Parent of the man,loyal,hoards old letters,I envy your freedom.
+728,B444,Shakil Sarker,M,29,Dhaka,Bangladesh,Lifeguard,30,Comic fool,hospitable,trusts the wrong people,I should have said yes.
+729,B641,Chipo Chileshe,F,61,Ndola,Zambia,Waiter,43,Neighbour,patient,cannot say goodbye,I am not a stranger to you; I am your daughter.
+730,S23A,Yusuf Abdullahi,M,33,Kano,Nigeria,Tailor,23,Principal,"Devout, modest",,I am sewing your wedding dress for another man's bride.
+731,B418,Georg Hofer,M,68,Salzburg,Austria,Retired shopkeeper,28,Neighbour,gentle,reads other people's post,"I cannot say it, so I wrote it."
+732,S13B,Elif Kaya,F,26,Istanbul,Türkiye,Ticket clerk; secret poet,13,Principal,"Quick, secret, defiant",,I write poems to the boy on the other ferry.
+733,B553,Nahid Elhassan,F,43,Khartoum,Sudan/Egypt,Stonemason,37,Neighbour,shrewd,never forgets an insult,I will not live to see you married.
+734,B138,Bisi Adebayo,F,33,Ibadan,Nigeria,Writer,10,Sibling of the man,devout,is proud to the point of ruin,I am proud to be your friend.
+735,B431,Brian Njenga,M,64,Kisumu,Kenya,Boat mender,29,Employer or landlord,devout,spends money that is not theirs,I have never been to the sea and I am too ashamed to say it.
+736,B202,Kavita Joshi,F,53,Lucknow,India,Bus conductor,14,Rival,stubborn,drinks too much tea at night,I am not as brave as I appear.
+737,B406,Hanna Hofer,F,77,Graz,Austria,Retired photographer,28,Parent of the man,patient,reads other people's post,I cannot give you what you want.
+738,B066,Lupita Hernández,F,25,Xochimilco,Mexico,Chef,5,Best friend of the woman,superstitious,never forgets an insult,I am not as brave as I appear.
+739,B254,Tewodros Worku,M,69,Addis Ababa,Ethiopia,Retired shopkeeper,17,Elder who keeps a secret,gentle,never forgets an insult,I wish I had told you at the station.
+740,B499,Tereza Horák,F,33,Prague,Czechia,Tea seller,34,Sibling of the woman,romantic,tells lies for fun,I have been writing you answers for years.
+741,B346,Stavros Stefanakis,M,60,Rethymno,Greece,Fishmonger,24,Parent of the man,tender,cannot say goodbye,I forgave my father too late.
+742,B612,Katarina Babić,F,41,Split,Croatia,Teacher,41,Former love,soft-spoken,gambles when afraid,I know what you did and I love you anyway.
+743,B715,Rin Takahashi,F,20,Kyoto,Japan,Hotelier,49,Sibling of the man,stubborn,is proud to the point of ruin,"I am grateful, and I cannot say how much."
+744,B717,Yuto Takahashi,M,27,Osaka,Japan,Newsagent,49,Best friend of the man,gossipy,talks over everyone,I am proud to be your friend.
+745,B574,Harvey Clarke,M,39,Manchester,England,Fishmonger,39,Sibling of the woman,superstitious,drinks too much tea at night,I kept your photograph.
+746,B439,Rafiq Mia,M,34,Dhaka,Bangladesh,Dressmaker,30,Sibling of the woman,patient,never forgets an insult,I wish I had told you at the station.
+747,B600,Fatima El Amrani,F,11,Fez,Morocco,Schoolchild,40,Young witness,severe,trusts the wrong people,I miss the person I was before I met you.
+748,B256,Giorgio Bruno,M,71,Verona,Italy,Retired bus conductor,18,Parent of the man,absent-minded,meddles in other people's love,I am saving money to disappear.
+749,S21B,Naledi Khumalo,F,29,Johannesburg,South Africa,Radio host,21,Principal,"Warm, wry",,I dedicate one song each night to a man I have never met.
+750,B653,Dũng Phạm,M,39,Hanoi,Vietnam,Translator,44,Employer or landlord,dreamy,fears the telephone,I still keep your first letter.
+751,B777,Laura Hayes,F,40,Somerville,USA,Community spiritual leader,53,Comic fool,gossipy,gambles when afraid,I am not as brave as I appear.
+752,B463,Matteo Bruno,M,37,Verona,Italy,Pilot,31,Neighbour,hospitable,withholds praise,I am proud to be your friend.
+753,S01A,Tomás Villaverde,M,29,Lisbon,Portugal,Tram mechanic,1,Principal,Jokes to hide fear; talks to engines,,I wrote to a woman whose face I have never seen.
+754,B537,Mariana Castro,F,40,Medellín,Colombia,Ferry hand,36,Former love,punctual,cannot say goodbye,I am waiting for a ship that will not come.
+755,B624,Naran Enkhbat,M,57,Ulaanbaatar,Mongolia,Train guard,42,Matchmaker and gossip,loyal,talks over everyone,I know what you did and I love you anyway.
+756,B251,Rahel Girma,F,55,Addis Ababa,Ethiopia,Scribe,17,Employer or landlord,blunt,fears the telephone,I am not a stranger to you; I am your daughter.
+757,B745,Shirin Islam,F,31,Chittagong,Bangladesh,Newsagent,51,Best friend of the man,hospitable,cannot keep time,I took the blame for what you did.
+758,B013,João Ferreira,M,51,Porto,Portugal,Tea seller,1,Neighbour,devout,is jealous of the young,I remember the exact day.
+759,B360,Katerina Nikolaidis,F,12,Chania,Greece,Schoolchild,24,Young witness,hot-tempered,cannot say goodbye,I would give up my pride if you asked.
+760,B771,Kelly Donnelly,F,41,Somerville,USA,Ferry hand,53,Sibling of the man,superstitious,talks over everyone,I am waiting for a ship that will not come.
+761,B046,Pavel Kuznetsov,M,59,Pushkin,Russia,Lawyer,4,Parent of the man,stubborn,drinks too much tea at night,I left the door unlocked on purpose.
+762,B808,Ngozi Bello,F,28,Lagos,Nigeria,Radio technician,55,Former love,hospitable,tells lies for fun,I dreamed of a different life and was ashamed of it.
+763,B082,Heba Ibrahim,F,48,Giza,Egypt,Tour guide,6,Rival,hospitable,spends money that is not theirs,I forgave you years ago and never said so.
+764,B677,Kweku Boateng,M,35,Kumasi,Ghana,Farmer,46,Rival,bookish,talks over everyone,I let you go because I thought it was kind.
+765,B163,Julien Roux,M,34,Marseille,France,Clerk,11,Neighbour,shrewd,cannot say goodbye,I stayed when I should have gone.
+766,B570,Shweta Bansal,F,16,Agra,India,Schoolchild,38,Young witness,patient,meddles in other people's love,"I cannot hear you, and I have not told you."
+767,B142,Ikenna Adebayo,M,49,Ibadan,Nigeria,Shopkeeper,10,Rival,fearless,talks over everyone,I lied about where I was that night.
+768,B077,Karim Sabry,M,71,Alexandria,Egypt,Retired train guard,6,Parent of the woman,dreamy,cannot say goodbye,I am afraid the best days are behind me.
+769,B579,George Lowe,M,45,Salford,England,Writer,39,Comic fool,anxious,makes promises too fast,I left the door unlocked on purpose.
+770,B867,Megan Wilson,F,65,Salford,England,Photographer,60,Parent of the man,patient,is proud to the point of ruin,I cannot give you what you want.
+771,B141,Ngozi Afolabi,F,33,Ibadan,Nigeria,Mechanic,10,Best friend of the woman,patient,is jealous of the young,I would give up my pride if you asked.
+772,B306,Thandi Mokoena,F,44,Pretoria,South Africa,Librarian,21,Best friend of the woman,hot-tempered,never forgets an insult,I let you go because I thought it was kind.
+773,B173,Katarzyna Wójcik,F,61,Wrocław,Poland,Cab driver,12,Mentor,stubborn,spends money that is not theirs,I forgave you years ago and never said so.
+774,B555,Nahid Osman,F,15,Khartoum,Sudan/Egypt,Schoolchild,37,Young witness,bookish,is jealous of the young,I am saving money to disappear.
+775,B140,Ifeoma Nwosu,F,34,Lagos,Nigeria,Sailor,10,Best friend of the man,vain,never forgets an insult,I should have said yes.
+776,B231,Yu-na Yoon,F,28,Incheon,South Korea,Painter,16,Best friend of the woman,stubborn,cannot apologise,"I cannot hear you, and I have not told you."
+777,B733,Yamila González,F,37,Trinidad,Cuba,Lawyer,50,Rival,devout,is proud to the point of ruin,I found your sealed letter and did not open it.
+778,B698,Azadeh Ahmadi,F,87,Isfahan,Iran,Retired street vendor,47,Elder who keeps a secret,hot-tempered,spends money that is not theirs,I took the blame for what you did.
+779,B321,Lautaro Sosa,M,43,Rosario,Argentina,Pharmacist,22,Best friend of the woman,anxious,cannot apologise,I was too shy to ask for a dance.
+780,B669,Linnea Holm,F,62,Uppsala,Sweden,Butcher,45,Neighbour,devout,spends money that is not theirs,I miss the person I was before I met you.
+781,B734,Raúl Delgado,M,75,Havana,Cuba,Retired apprentice,50,Mentor,dreamy,drinks too much tea at night,I stayed when I should have gone.
+782,B759,Rina Pratama,F,30,Yogyakarta,Indonesia,Dockworker,52,Best friend of the man,suspicious,hides behind jokes,I am afraid of being forgotten.
+783,B503,Ondřej Černý,M,56,Prague,Czechia,Kiosk owner,34,Mentor,dreamy,is proud to the point of ruin,I should have said no.
+784,B664,Anders Eriksson,M,60,Gothenburg,Sweden,Welder,45,Mentor,restless,tells lies for fun,I forgave you years ago and never said so.
+785,B062,Paloma Morales,F,59,Xochimilco,Mexico,Hairdresser,5,Parent of the woman,severe,tells lies for fun,I was happy once and did not notice.
+786,B630,Natasha Phiri,F,57,Kitwe,Zambia,Bus conductor,43,Parent of the woman,blunt,spends money that is not theirs,I forgave my father too late.
+787,B212,Colm Kelly,M,76,Salthill,Ireland,Retired clockmender,15,Parent of the woman,absent-minded,trusts the wrong people,I still keep your first letter.
+788,B313,Lindiwe Mokoena,F,47,Pretoria,South Africa,Waiter,21,Neighbour,tender,reads other people's post,I would give up my pride if you asked.
+789,B085,Heba Sabry,F,37,Alexandria,Egypt,Professor,6,Matchmaker and gossip,gentle,hides behind jokes,I would give up my pride if you asked.
+790,B815,Solveig Hansen,F,32,Stavanger,Norway,Fishmonger,56,Best friend of the man,superstitious,drinks too much tea at night,I will always be an hour behind you.
+791,B278,Waqar Khan,M,50,Lahore,Pakistan,Mechanic,19,Mentor,generous,meddles in other people's love,I cannot give you what you want.
+792,B137,Ikenna Bello,M,67,Abuja,Nigeria,Retired tailor,10,Parent of the woman,devout,gambles when afraid,I walked past your door a hundred times.
+793,B121,Fernanda Barbosa,F,69,Campinas,Brazil,Retired cobbler,9,Parent of the man,funny,cannot keep time,I think you are wiser than I am.
+794,B660,Linnea Pettersson,F,21,Gothenburg,Sweden,Pharmacist,45,Sibling of the woman,gossipy,avoids the doctor,I remember the exact day.
+795,B094,Magnus Hansen,M,45,Ålesund,Norway,Umbrella maker,7,Sibling of the woman,shrewd,drinks too much tea at night,I still keep your first letter.
+796,B762,Dimas Susanto,M,63,Solo,Indonesia,Translator,52,Mentor,wry,trusts the wrong people,I blamed you for what was mine.
+797,B050,Yuri Lebedev,M,34,Pushkin,Russia,Shopkeeper,4,Best friend of the man,theatrical,is jealous of the young,I lied about where I was that night.
+798,B019,Kwabena Addo,M,35,Tema,Ghana,Shopkeeper,2,Sibling of the woman,wry,cannot apologise,I opened your sealed letter and wish I had not.
+799,B174,Piotr Krawczyk,M,39,Wrocław,Poland,Umbrella maker,12,Comic fool,generous,fears the telephone,"I cannot say it, so I wrote it."
+800,B243,Abel Girma,M,39,Addis Ababa,Ethiopia,Cab driver,17,Sibling of the man,wry,meddles in other people's love,I should have said yes.
+801,B288,Georgi Marinov,M,42,Sofia,Bulgaria,Sailor,20,Sibling of the man,hospitable,cannot keep time,I put your name in the prayer.
+802,B716,Yuto Kato,M,41,Kobe,Japan,Lifeguard,49,Sibling of the woman,generous,is jealous of the young,I never learned to read well.
+803,B852,Najib Amiri,M,71,Toronto,Canada,Retired rickshaw puller,58,Elder who keeps a secret,patient,cannot say goodbye,I think you are wiser than I am.
+804,B533,Paola Ortiz,F,49,Cali,Colombia,Goldsmith,36,Mentor,absent-minded,cannot apologise,I walked past your door a hundred times.
+805,B467,Majid Al-Hinai,M,56,Sharjah,UAE/Oman,Clockmender,32,Parent of the woman,wry,withholds praise,I was proud of you and told you it was nothing.
+806,B365,Daichi Kobayashi,M,25,Kyoto,Japan,Retired teacher,25,Best friend of the man,superstitious,drinks too much tea at night,I am saving money to disappear.
+807,B017,Kojo Darko,M,62,Accra,Ghana,Lawyer,2,Parent of the woman,suspicious,reads other people's post,I was proud of you and told you it was nothing.
+808,B492,Noel Aquino,M,32,Quezon City,Philippines,Street vendor,33,Former love,blunt,is jealous of the young,I am saving money to disappear.
+809,B679,Kwabena Quaye,M,50,Tema,Ghana,Electrician,46,Comic fool,punctual,never forgets an insult,I forgave my father too late.
+810,S03B,Mei Sato,F,33,Osaka,Japan,Food critic,3,Principal,"Wry, lonely; writes from memory",,"I can no longer taste a thing, and I am ashamed."
+811,B029,Ama Tetteh,F,82,Tema,Ghana,Retired welder,2,Elder who keeps a secret,absent-minded,meddles in other people's love,I never thanked you for the bread.
+812,B451,Stefano Fontana,M,64,Verona,Italy,Tour guide,31,Parent of the man,patient,is jealous of the young,I wanted you to win.
+813,B386,Ionuț Radu,M,43,Bucharest,Romania,Dentist,26,Employer or landlord,hospitable,cannot say goodbye,I asked the stars about you.
+814,B606,Ana Vuković,F,27,Zagreb,Croatia,Dockworker,41,Best friend of the woman,gossipy,avoids the doctor,I never thanked you for the bread.
+815,B292,Vesela Kolev,F,45,Varna,Bulgaria,Cobbler,20,Rival,shrewd,fears the telephone,"I cannot say it, so I wrote it."
+816,B483,Joel Bautista,M,38,Quezon City,Philippines,Tailor,33,Sibling of the man,gossipy,never forgets an insult,I would give up my pride if you asked.
+817,B442,Imran Khan,M,41,Narayanganj,Bangladesh,Innkeeper,30,Rival,soft-spoken,hoards old letters,I asked the stars about you.
+818,S09B,Beatriz Lima,F,31,São Paulo,Brazil,Surgeon,9,Principal,"Commanding, exhausted",,I lost the patient you taught to walk.
+819,B187,Gül Koç,F,30,Kadıköy,Türkiye,Librarian,13,Rival,superstitious,reads other people's post,I have never been to the sea and I am too ashamed to say it.
+820,B778,Dana Flynn,F,41,Quincy,USA,Retired teacher,53,Matchmaker and gossip,blunt,is jealous of the young,I cannot give you what you want.
+821,B035,Rin Hayashi,F,33,Osaka,Japan,Lifeguard,3,Best friend of the man,anxious,withholds praise,I found your sealed letter and did not open it.
+822,B302,Jabu Maseko,M,69,Pretoria,South Africa,Retired shopkeeper,21,Parent of the woman,severe,hoards old letters,I am not as brave as I appear.
+823,B304,Jabu Sithole,M,35,Soweto,South Africa,Judge,21,Sibling of the woman,suspicious,meddles in other people's love,I am saving money to disappear.
+824,B328,Lucrecia Díaz,F,38,Buenos Aires,Argentina,Dockworker,22,Neighbour,romantic,meddles in other people's love,I am saving money to disappear.
+825,B210,Amit Gupta,M,9,Lucknow,India,Schoolchild,14,Young witness,gentle,talks over everyone,I forgave my father too late.
+826,S29B,Wanjiru Kamau,F,27,Nairobi,Kenya,Tech journalist,29,Principal,"Skeptical, exact",,I fell for the man on the videos.
+827,B238,Seo-jun Yoon,M,69,Incheon,South Korea,Retired boat mender,16,Neighbour,loyal,hoards old letters,I am waiting for a ship that will not come.
+828,B020,Nii Tetteh,M,43,Tema,Ghana,Choir director,2,Best friend of the man,devout,tells lies for fun,I wanted you to win.
+829,B616,Temuulen Tserendorj,M,57,Erdenet,Mongolia,Poet,42,Parent of the woman,vain,spends money that is not theirs,"I am grateful, and I cannot say how much."
+830,B399,Shaimaa Al-Obaidi,F,28,Baghdad,Iraq,Stonemason,27,Comic fool,wry,fears the telephone,I was too shy to ask for a dance.
+831,B614,Nikolina Perić,F,76,Split,Croatia,Retired boat mender,41,Elder who keeps a secret,loyal,trusts the wrong people,I stayed when I should have gone.
+832,B521,Shanika Rajapaksa,F,48,Galle,Sri Lanka,Pharmacist,35,Employer or landlord,wry,tells lies for fun,I know what you did and I love you anyway.
+833,B538,Andrés Vélez,M,40,Cali,Colombia,Locksmith,36,Neighbour,loyal,tells lies for fun,I am waiting for a ship that will not come.
+834,B211,Maeve Kelly,F,58,Galway,Ireland,Dentist,15,Parent of the man,hospitable,spends money that is not theirs,"I cannot say it, so I wrote it."
+835,B021,Adwoa Tetteh,F,44,Accra,Ghana,Kiosk owner,2,Best friend of the woman,restless,never forgets an insult,I should have said yes.
+836,B667,Anders Karlsson,M,59,Stockholm,Sweden,Dockworker,45,Employer or landlord,suspicious,cannot say goodbye,I remember the exact day.
+837,B369,Yuto Shimizu,M,29,Kobe,Japan,Ferry hand,25,Comic fool,hot-tempered,trusts the wrong people,I should have said yes.
+838,B422,Njoroge Njenga,M,56,Nairobi,Kenya,Tailor,29,Parent of the woman,soft-spoken,drinks too much tea at night,I should have said no.
+839,B775,Kevin Hayes,M,35,Boston,USA,Potter,53,Rival,romantic,trusts the wrong people,I asked the stars about you.
+840,B797,Chinedu Obi,M,76,Lagos,Nigeria,Retired clockmender,55,Parent of the man,gentle,reads other people's post,I put your name in the prayer.
+841,B790,Liis Mägi,F,52,Tartu,Estonia,Farmer,54,Mentor,patient,spends money that is not theirs,I did not want you to win.
+842,B770,Kevin Donnelly,M,73,Boston,USA,Retired ferry hand,53,Parent of the woman,patient,cannot apologise,I cannot give you what you want.
+843,B348,Sophia Nikolaidis,F,42,Chania,Greece,Stonemason,24,Sibling of the man,blunt,spends money that is not theirs,"I cannot say it, so I wrote it."
+844,S11A,Pierre Dubois,M,45,Lyon,France,Baker,11,Principal,"Gruff, tender; widower",,I still bake my wife's bread every Sunday.
+845,B401,Zaid Al-Rubaie,M,38,Mosul,Iraq,Musician,27,Employer or landlord,restless,talks over everyone,I asked the stars about you.
+846,B534,Esteban Ortiz,M,48,Cali,Colombia,Journalist,36,Comic fool,soft-spoken,gambles when afraid,I wanted to be a pilot.
+847,B363,Hina Shimizu,F,26,Sapporo,Japan,Rickshaw puller,25,Sibling of the man,wry,withholds praise,I lied about where I was that night.
+848,B700,Étienne Fontaine,M,56,Marseille,France,Painter,48,Parent of the woman,hospitable,never forgets an insult,I am waiting for a ship that will not come.
+849,B244,Mulugeta Girma,M,31,Addis Ababa,Ethiopia,Ferry hand,17,Sibling of the woman,shrewd,meddles in other people's love,I wanted to be a pilot.
+850,B788,Anu Pärn,F,37,Tallinn,Estonia,Historian,54,Best friend of the woman,severe,never forgets an insult,I walked past your door a hundred times.
+851,B259,Paolo Bruno,M,36,Naples,Italy,Ferry hand,18,Sibling of the woman,hospitable,spends money that is not theirs,I wanted to be a singer.
+852,B414,Theresa Hofer,F,49,Salzburg,Austria,Apprentice,28,Comic fool,wry,talks over everyone,I will not live to see you married.
+853,B464,Anna Bruno,F,78,Verona,Italy,Retired rickshaw puller,31,Elder who keeps a secret,patient,cannot say goodbye,I have never told you your mother's last words.
+854,B440,Rafiq Talukdar,M,42,Chittagong,Bangladesh,Sailor,30,Best friend of the man,absent-minded,spends money that is not theirs,I would give up my pride if you asked.
+855,B235,Sung-min Jung,M,50,Suwon,South Korea,Teacher,16,Matchmaker and gossip,stubborn,hoards old letters,"I am grateful, and I cannot say how much."
+856,B299,Plamen Todorov,M,67,Varna,Bulgaria,Retired goldsmith,20,Elder who keeps a secret,loyal,hides behind jokes,I remember the song you hummed.
+857,B054,Sergei Orlov,M,57,Kronstadt,Russia,Dressmaker,4,Comic fool,devout,reads other people's post,I forgave my father too late.
+858,B480,Aisha Al-Mazrouei,F,11,Sharjah,UAE/Oman,Schoolchild,32,Young witness,vain,cannot say goodbye,I lied about where I was that night.
+859,B052,Svetlana Lebedev,F,36,Pushkin,Russia,Innkeeper,4,Rival,shrewd,is jealous of the young,I wish I had told you at the station.
+860,B722,Rin Yamamoto,F,68,Kyoto,Japan,Retired butcher,49,Matchmaker and gossip,anxious,makes promises too fast,I have never been to the sea and I am too ashamed to say it.
+861,B157,Antoine Moreau,M,41,Lyon,France,Vet,11,Rival,hospitable,drinks too much tea at night,I wanted to be a pilot.
+862,B219,Niamh Murphy,F,34,Spiddal,Ireland,Tailor,15,Comic fool,generous,reads other people's post,I would give up my work if you asked.
+863,B366,Daichi Shimizu,M,44,Sapporo,Japan,Midwife,25,Best friend of the woman,wry,gambles when afraid,I miss the person I was before I met you.
+864,B565,Pooja Khanna,F,68,Jaipur,India,Retired waiter,38,Matchmaker and gossip,bookish,talks over everyone,I blamed you for what was mine.
+865,B154,Baptiste Vidal,M,20,Lyon,France,Shopkeeper,11,Sibling of the woman,vain,is proud to the point of ruin,I loved your mother before you were born.
+866,B812,Marit Berg,F,64,Ålesund,Norway,Boat mender,56,Parent of the woman,fearless,cannot say goodbye,I forgave my father too late.
+867,B234,Ji-ah Yoon,F,58,Suwon,South Korea,Goldsmith,16,Comic fool,funny,makes promises too fast,I left the door unlocked on purpose.
+868,B843,Shabnam Karimi,F,34,Scarborough,Canada,Midwife,58,Best friend of the man,bookish,fears the telephone,I am afraid of being forgotten.
+869,B294,Desislava Marinov,F,22,Varna,Bulgaria,Singer,20,Comic fool,shrewd,fears the telephone,I walked past your door a hundred times.
+870,B179,Joanna Mazur,F,70,Wrocław,Poland,Retired judge,12,Elder who keeps a secret,tender,gambles when afraid,I never learned to read well.
+871,B433,Juma Wafula,M,50,Mombasa,Kenya,Goldsmith,29,Neighbour,hospitable,meddles in other people's love,"I cannot hear you, and I have not told you."
+872,B482,Joel Navarro,M,58,Cebu,Philippines,Teacher,33,Parent of the woman,shrewd,trusts the wrong people,I know what you did and I love you anyway.
+873,B364,Sakura Ito,F,22,Sapporo,Japan,Dentist,25,Sibling of the woman,gentle,cannot apologise,I think of you every time the kettle boils.
+874,S33A,Gabriel Santos,M,28,Manila,Philippines,Jeepney driver,33,Principal,"Cheerful, generous",,I fear every typhoon that finds you at your night shift.
+875,B347,Anastasia Stefanakis,F,71,Chania,Greece,Retired umbrella maker,24,Parent of the woman,patient,spends money that is not theirs,I forgave you years ago and never said so.
+876,B711,Antoine Roux,M,29,Villeurbanne,France,Mechanic,48,Neighbour,severe,hoards old letters,I loved your mother before you were born.
+877,B207,Deepak Bansal,M,43,Lucknow,India,Bus conductor,14,Former love,absent-minded,is jealous of the young,I dreamed of a different life and was ashamed of it.
+878,B447,Tanvir Khan,M,36,Chittagong,Bangladesh,Sailor,30,Former love,loyal,trusts the wrong people,I am afraid of being forgotten.
+879,B109,Vishnu Nambiar,M,33,Kochi,India,Scribe,8,Sibling of the woman,blunt,withholds praise,I would give up my work if you asked.
+880,B332,Sani Yakubu,M,54,Kaduna,Nigeria,Boat mender,23,Parent of the woman,dreamy,withholds praise,"I am grateful, and I cannot say how much."
+881,B289,Yana Dimitrov,F,25,Varna,Bulgaria,Waiter,20,Sibling of the woman,loyal,never forgets an insult,"I am not sure I believe in love, but I believe in you."
+882,B838,Yesenia Torres,F,67,Arequipa,Peru,Retired weaver,57,Elder who keeps a secret,wry,spends money that is not theirs,I think of you every time the kettle boils.
+883,B119,Divya Kurup,F,71,Kochi,India,Retired surgeon,8,Elder who keeps a secret,hospitable,talks over everyone,I am waiting for a ship that will not come.
+884,B818,Ragnhild Dahl,F,48,Ålesund,Norway,Welder,56,Mentor,loyal,meddles in other people's love,I was too shy to ask for a dance.
+885,B567,Kavita Singh,F,27,Lucknow,India,Writer,38,Former love,hospitable,spends money that is not theirs,I think of you every time the kettle boils.
+886,B405,Ahmed Al-Jubouri,M,10,Baghdad,Iraq,Schoolchild,27,Young witness,hot-tempered,fears the telephone,I think you are wiser than I am.
+887,B135,Leandro Ribeiro,M,16,Santos,Brazil,Schoolchild,9,Young witness,patient,cannot say goodbye,I would give up my pride if you asked.
+888,S19A,Hamza Qureshi,M,29,Karachi,Pakistan,Cricket coach,19,Principal,"Optimistic, stubborn",,The flood took my academy and I smile so the boys will not weep.
+889,B133,Fábio Cardoso,M,39,Santos,Brazil,Police officer,9,Neighbour,suspicious,is proud to the point of ruin,I think of you every time the kettle boils.
+890,B662,Frida Svensson,F,27,Gothenburg,Sweden,Sailor,45,Best friend of the woman,hot-tempered,trusts the wrong people,I will always be an hour behind you.
+891,B681,Kojo Boateng,M,63,Accra,Ghana,Carpenter,46,Employer or landlord,dreamy,avoids the doctor,I opened your sealed letter and wish I had not.
+892,B086,Karim Ibrahim,M,48,Alexandria,Egypt,Historian,6,Employer or landlord,dreamy,is proud to the point of ruin,I walked past your door a hundred times.
+893,B103,Ingeborg Lund,F,68,Ålesund,Norway,Retired tour guide,7,Neighbour,superstitious,avoids the doctor,I stayed when I should have gone.
+894,B846,Sami Ahmadi,M,61,Toronto,Canada,Hotelier,58,Mentor,hospitable,cannot say goodbye,I lied about where I was that night.
+895,B285,Waqar Shah,M,11,Karachi,Pakistan,Schoolchild,19,Young witness,loyal,makes promises too fast,I was too shy to ask for a dance.
+896,B522,Dilani Jayasuriya,F,31,Kandy,Sri Lanka,Farmer,35,Former love,soft-spoken,drinks too much tea at night,I wish I had stayed.
+897,B389,Elena Stanciu,F,77,Bucharest,Romania,Retired hotelier,26,Elder who keeps a secret,stubborn,talks over everyone,I should have said no.
+898,B802,Dayo Afolabi,M,31,Enugu,Nigeria,Kiosk owner,55,Best friend of the woman,dreamy,spends money that is not theirs,I found your sealed letter and did not open it.
+899,B007,Rui Ferreira,M,36,Lisbon,Portugal,Librarian,1,Rival,vain,reads other people's post,I wanted to be a pilot.
+900,B181,Kerem Aydın,M,73,Istanbul,Türkiye,Retired mechanic,13,Parent of the man,devout,cannot keep time,I miss the person I was before I met you.
+901,B291,Vesela Iliev,F,37,Sofia,Bulgaria,Dockworker,20,Best friend of the woman,superstitious,cannot keep time,I never learned to read well.
+902,B776,Dana Sullivan,F,65,Boston,USA,Apprentice,53,Mentor,funny,is jealous of the young,I left the door unlocked on purpose.
+903,B368,Hina Takahashi,F,66,Sapporo,Japan,Retired scribe,25,Mentor,punctual,cannot say goodbye,I did not want you to win.
+904,B134,Marcela Oliveira,F,86,Santos,Brazil,Retired electrician,9,Elder who keeps a secret,severe,is proud to the point of ruin,I should have said no.
+905,B868,George Hughes,M,59,Liverpool,England,Hairdresser,60,Parent of the woman,shrewd,hides behind jokes,I am not a stranger to you; I am your son.
+906,B341,Sani Lawal,M,44,Zaria,Nigeria,Community spiritual leader,23,Employer or landlord,patient,spends money that is not theirs,I remember the exact day.
+907,B811,Kristian Larsen,M,74,Ålesund,Norway,Retired farmer,56,Parent of the man,vain,is jealous of the young,I think you are wiser than I am.
+908,S11B,Margaux Laurent,F,42,Lyon,France,Florist,11,Principal,"Gentle, wry; widow",,I left the flowers at your door. It was always me.
+909,B249,Dawit Tadesse,M,59,Bahir Dar,Ethiopia,Librarian,17,Comic fool,bookish,hoards old letters,I have never been to the sea and I am too ashamed to say it.
+910,B803,Ikenna Ogunleye,M,35,Ibadan,Nigeria,Writer,55,Rival,punctual,meddles in other people's love,I am afraid the best days are behind me.
+911,S45A,Erik Johansson,M,34,Stockholm,Sweden,Glassblower,45,Principal,"Steady, humorous",,I burned my hand to see you again.
+912,B628,Tsetseg Sukhbaatar,F,67,Darkhan,Mongolia,Retired potter,42,Elder who keeps a secret,stubborn,cannot keep time,I need help and cannot ask.
+913,B001,Rita Teixeira,F,57,Porto,Portugal,Sailor,1,Parent of the man,superstitious,spends money that is not theirs,I am ill and I have told no one.
+914,B824,Espen Berg,M,80,Bergen,Norway,Retired musician,56,Elder who keeps a secret,patient,talks over everyone,I asked the stars about you.
+915,B390,Simona Munteanu,F,13,Cluj,Romania,Schoolchild,26,Young witness,bookish,tells lies for fun,I never learned to read well.
+916,B687,Azadeh Jafari,F,45,Isfahan,Iran,Scribe,47,Sibling of the man,funny,drinks too much tea at night,I am afraid of being forgotten.
+917,B175,Tomasz Lewandowski,M,41,Zakopane,Poland,Boat mender,12,Matchmaker and gossip,fearless,hoards old letters,I miss the person I was before I met you.
+918,S59B,Dorothy Penrose,F,68,Cornwall,England,Retired seamstress,59,Principal,"Crisp, loyal",,I have been waiting by the window for forty years.
+919,S32A,Tariq Al-Rashid,M,37,Dubai,UAE,Shipping broker,32,Principal,"Polished, evasive",,I am drowning in debt behind a very good suit.
+920,B081,Nour Shaker,F,24,Alexandria,Egypt,Potter,6,Best friend of the woman,stubborn,fears the telephone,I never learned to read well.
+921,B105,Marit Johansen,F,17,Stavanger,Norway,Schoolchild,7,Young witness,loyal,fears the telephone,I was proud of you and told you it was nothing.
+922,B188,Burak Şahin,M,68,Üsküdar,Türkiye,Retired pharmacist,13,Mentor,hospitable,hides behind jokes,I should have said no.
+923,B527,Luisa Ortiz,F,75,Bogotá,Colombia,Retired pharmacist,36,Parent of the woman,suspicious,avoids the doctor,I never learned to read well.
+924,B855,Alan Trevithick,M,23,Truro,England,Kiosk owner,59,Sibling of the man,soft-spoken,cannot say goodbye,I wish I had told you at the station.
+925,B125,Pedro Souza,M,44,São Paulo,Brazil,Pharmacist,9,Best friend of the man,wry,fears the telephone,I asked the stars about you.
+926,B006,Marta Rocha,F,32,Sintra,Portugal,Painter,1,Best friend of the woman,wry,cannot say goodbye,I am not as brave as I appear.
+927,B136,Tunde Ogunleye,M,78,Enugu,Nigeria,Retired cobbler,10,Parent of the man,patient,spends money that is not theirs,I am waiting for a ship that will not come.
+928,B230,Joon-ho Yoon,M,41,Seoul,South Korea,Umbrella maker,16,Best friend of the man,funny,reads other people's post,I am not as brave as I appear.
+929,B500,Ondřej Procházka,M,29,Plzeň,Czechia,Shopkeeper,34,Best friend of the man,romantic,reads other people's post,I wish I had stayed.
+930,B408,Hanna Gruber,F,23,Graz,Austria,Lawyer,28,Sibling of the man,dreamy,cannot keep time,I should have said yes.
+931,B595,Khadija El Amrani,F,65,Fez,Morocco,Butcher,40,Matchmaker and gossip,romantic,withholds praise,I still keep your first letter.
+932,B704,Colette Clément,F,33,Marseille,France,Cobbler,48,Best friend of the woman,shrewd,talks over everyone,I let you go because I thought it was kind.
+933,B423,Njoroge Kariuki,M,21,Mombasa,Kenya,Lawyer,29,Sibling of the man,wry,cannot say goodbye,I will not live to see you married.
+934,B754,Sabina Islam,F,73,Chittagong,Bangladesh,Retired kiosk owner,51,Elder who keeps a secret,dreamy,makes promises too fast,I was too shy to ask for a dance.
+935,B047,Igor Kuznetsov,M,71,Kronstadt,Russia,Retired lawyer,4,Parent of the woman,suspicious,fears the telephone,I left the door unlocked on purpose.
+936,B170,Ewa Krawczyk,F,41,Kraków,Poland,Dressmaker,12,Best friend of the man,soft-spoken,cannot keep time,I wanted to be a singer.
+937,B108,Anand Varma,M,35,Alappuzha,India,Tea seller,8,Sibling of the man,punctual,is proud to the point of ruin,I remember the song you hummed.
+938,B275,Bilal Malik,M,37,Karachi,Pakistan,Retired teacher,19,Best friend of the man,wry,makes promises too fast,I am not as brave as I appear.
+939,B334,Abubakar Suleiman,M,35,Kaduna,Nigeria,Boat mender,23,Sibling of the woman,fearless,hides behind jokes,I cannot give you what you want.
+940,B326,Nicolás Romero,M,48,Buenos Aires,Argentina,Teacher,22,Employer or landlord,wry,meddles in other people's love,I was too shy to ask for a dance.
+941,S02B,Abena Owusu,F,28,Accra,Ghana,Pharmacist,2,Principal,"Sharp tongue, scrupulous",,I know who paid it. I was waiting for you to say.
+942,B622,Naran Gankhuyag,M,67,Erdenet,Mongolia,Retired judge,42,Mentor,severe,reads other people's post,I have never told you your mother's last words.
+943,B530,Viviana Zapata,F,34,Cali,Colombia,Sailor,36,Best friend of the man,shrewd,reads other people's post,I was the one who sent the letter.
+944,B757,Bayu Kusuma,M,40,Surabaya,Indonesia,Writer,52,Sibling of the man,blunt,tells lies for fun,I asked the stars about you.
+945,B749,Nayeem Islam,M,52,Dhaka,Bangladesh,Waiter,51,Comic fool,absent-minded,hides behind jokes,I found your sealed letter and did not open it.
+946,B437,Sabina Khan,F,67,Dhaka,Bangladesh,Retired cobbler,30,Parent of the woman,superstitious,cannot apologise,I stayed when I should have gone.
+947,B793,Helena Mägi,F,63,Tallinn,Estonia,Carpenter,54,Employer or landlord,gentle,cannot apologise,I dreamed of a different life and was ashamed of it.
+948,B296,Vesela Marinov,F,39,Plovdiv,Bulgaria,Mechanic,20,Employer or landlord,romantic,fears the telephone,I think of you every time the kettle boils.
+949,S32B,Maryam Al-Sayed,F,33,Muscat,Oman,Pearl dealer,32,Principal,"Shrewd, formal",,I test every pearl and I have never tested you.
+950,B130,Thiago Oliveira,M,41,Santos,Brazil,Locksmith,9,Matchmaker and gossip,vain,cannot apologise,I still keep your first letter.
+951,B374,Haruto Yamamoto,M,80,Kyoto,Japan,Retired translator,25,Elder who keeps a secret,blunt,cannot say goodbye,I loved your mother before you were born.
+952,B750,Shirin Talukdar,F,62,Dhaka,Bangladesh,Baker,51,Matchmaker and gossip,restless,is proud to the point of ruin,I would give up my work if you asked.
+953,B801,Amaka Bello,F,35,Enugu,Nigeria,Kiosk owner,55,Best friend of the man,wry,drinks too much tea at night,I put your name in the prayer.
+954,S10B,Chidinma Eze,F,27,Lagos,Nigeria,Fashion designer,10,Principal,"Vivid, theatrical",,I only design clothes for the woman I am afraid to become.
+955,B201,Sanjay Mehra,M,37,Lucknow,India,Photographer,14,Best friend of the woman,absent-minded,cannot keep time,I blamed you for what was mine.
+956,S15B,Aoife Brennan,F,30,Galway,Ireland,Veterinarian,15,Principal,"Direct, blunt",,I am leaving for Canada and I have told no one.
+957,B552,Abdelrahman Taha,M,35,Omdurman,Sudan/Egypt,Grocer,37,Former love,wry,hides behind jokes,I will not live to see you married.
+958,S57A,Sergio Castillo,M,30,Lima,Peru,Ceviche cook,57,Principal,"Gregarious, tender",,I look at your telescope and see a way to be closer.
+959,B407,Hanna Moser,F,54,Salzburg,Austria,Plumber,28,Parent of the woman,generous,is jealous of the young,I was happy once and did not notice.
+960,B372,Miyu Kato,F,40,Kyoto,Japan,Pharmacist,25,Former love,devout,trusts the wrong people,I am not a stranger to you; I am your daughter.
+961,B586,Nadia Chraibi,F,60,Rabat,Morocco,Lifeguard,40,Parent of the man,romantic,is proud to the point of ruin,I need help and cannot ask.
+962,B689,Nazanin Hosseini,F,29,Isfahan,Iran,Grocer,47,Best friend of the man,gossipy,never forgets an insult,I would give up my work if you asked.
+963,B026,Naa Tetteh,F,51,Accra,Ghana,Nurse,2,Employer or landlord,wry,hides behind jokes,I wish I had told you at the station.
+964,B798,Ikenna Nwosu,M,68,Enugu,Nigeria,Retired nurse,55,Parent of the woman,superstitious,makes promises too fast,I forgave my father too late.
+965,B597,Soufiane Alaoui,M,41,Rabat,Morocco,Singer,40,Former love,shrewd,hoards old letters,I have been writing you answers for years.
+966,B556,Anita Khanna,F,64,Jaipur,India,Journalist,38,Parent of the man,bookish,cannot apologise,I did not want you to win.
+967,B388,Mirela Moldovan,F,27,Sibiu,Romania,Kiosk owner,26,Neighbour,fearless,reads other people's post,I remember the exact day.
+968,B738,Mireya Pérez,F,34,Trinidad,Cuba,Teacher,50,Former love,wry,withholds praise,I dreamed of a different life and was ashamed of it.
+969,B491,Rey Ocampo,M,60,Cebu,Philippines,Florist,33,Employer or landlord,stubborn,fears the telephone,I am waiting for a ship that will not come.
+970,B353,Eleftheria Nikolaidis,F,72,Heraklion,Greece,Retired judge,24,Mentor,patient,hides behind jokes,I would give up my work if you asked.
+971,B611,Ana Babić,F,58,Zagreb,Croatia,Electrician,41,Employer or landlord,patient,talks over everyone,I am not as brave as I appear.
+972,B766,Ayu Santoso,F,29,Surabaya,Indonesia,Farmer,52,Former love,shrewd,hoards old letters,I remember the song you hummed.
+973,B393,Rana Jabbar,F,30,Mosul,Iraq,Photographer,27,Sibling of the man,gossipy,cannot say goodbye,"I am grateful, and I cannot say how much."
+974,B260,Enzo Marino,M,24,Salerno,Italy,Newsagent,18,Best friend of the man,severe,cannot apologise,I forgave my father too late.
+975,B381,Simona Moldovan,F,37,Sibiu,Romania,Writer,26,Best friend of the woman,suspicious,tells lies for fun,I did not want you to win.
+976,B392,Hussein Al-Tamimi,M,78,Basra,Iraq,Retired lifeguard,27,Parent of the woman,patient,fears the telephone,I will always be an hour behind you.
+977,B061,Ignacio Salazar,M,67,Mexico City,Mexico,Retired street vendor,5,Parent of the man,theatrical,talks over everyone,I wanted you to win.
+978,B684,Fiifi Quaye,M,86,Kumasi,Ghana,Retired rickshaw puller,46,Elder who keeps a secret,vain,withholds praise,I blamed you for what was mine.
+979,B747,Sabina Talukdar,F,34,Chittagong,Bangladesh,Dentist,51,Rival,punctual,withholds praise,I miss the person I was before I met you.
+980,B737,Yoel Cabrera,M,55,Trinidad,Cuba,Newsagent,50,Employer or landlord,bookish,cannot keep time,I was too shy to ask for a dance.
+981,B269,Paola Bruno,F,77,Naples,Italy,Retired train guard,18,Elder who keeps a secret,hospitable,tells lies for fun,I let you go because I thought it was kind.
+982,B549,Ibtisam Taha,F,36,Khartoum,Sudan/Egypt,Community spiritual leader,37,Comic fool,wry,cannot apologise,I remember the exact day.
+983,B087,Khaled Mourad,M,28,Giza,Egypt,Surgeon,6,Former love,restless,avoids the doctor,I think you are wiser than I am.
+984,B147,Obinna Bello,M,45,Ibadan,Nigeria,Goldsmith,10,Former love,generous,meddles in other people's love,"I am grateful, and I cannot say how much."
+985,B115,Gopal Varma,M,58,Alappuzha,India,Vet,8,Matchmaker and gossip,superstitious,fears the telephone,I asked the stars about you.
+986,B834,Luis Mendoza,M,43,Cusco,Peru,Hairdresser,57,Matchmaker and gossip,gentle,avoids the doctor,I miss the person I was before I met you.
+987,B011,Rita Pereira,F,66,Lisbon,Portugal,Retired scribe,1,Employer or landlord,loyal,cannot keep time,I will always be an hour behind you.
+988,B377,Cătălin Ionescu,M,64,Bucharest,Romania,Tailor,26,Parent of the woman,bookish,hoards old letters,"I am grateful, and I cannot say how much."
+989,B831,Álvaro Flores,M,54,Lima,Peru,Dressmaker,57,Rival,theatrical,cannot say goodbye,I should have said no.
+990,B655,Lan Lê,F,28,Hoi An,Vietnam,Judge,44,Neighbour,funny,hides behind jokes,I cannot give you what you want.
+991,S41B,Marija Kovač,F,30,Split,Croatia,Cargo-ship officer,41,Principal,"Stoic, dry",,My captain wants me; so does the sea. You are third.
+992,B196,Neha Tiwari,F,65,Delhi,India,Journalist,14,Parent of the man,dreamy,is jealous of the young,"I am not sure I believe in love, but I believe in you."
+993,B072,Paloma Hernández,F,28,Mexico City,Mexico,Tailor,5,Former love,devout,cannot say goodbye,I am afraid the best days are behind me.
+994,B469,Noura Al-Hinai,F,40,Muscat,UAE/Oman,Choir director,32,Sibling of the woman,dreamy,reads other people's post,I dreamed of a different life and was ashamed of it.
+995,B792,Anu Rebane,F,45,Tallinn,Estonia,Plumber,54,Matchmaker and gossip,blunt,is proud to the point of ruin,I still keep your first letter.
+996,B227,Seo-yeon Choi,F,71,Suwon,South Korea,Retired tour guide,16,Parent of the woman,fearless,drinks too much tea at night,"I am grateful, and I cannot say how much."
+997,B079,Sherif Fouad,M,45,Alexandria,Egypt,Dressmaker,6,Sibling of the woman,generous,fears the telephone,I would give up my work if you asked.
+998,B327,Facundo Sosa,M,39,La Boca,Argentina,Pilot,22,Former love,soft-spoken,drinks too much tea at night,I asked the stars about you.
+999,B438,Tanvir Islam,M,39,Narayanganj,Bangladesh,Clerk,30,Sibling of the man,superstitious,cannot say goodbye,I am not a stranger to you; I am your son.
+1000,S60B,Seraphine Wyndham-Rao,F,78,Colombo / Cornwall,,The Keeper (Register 1000),60,Principal,"Wry, exact, tender; the Chorus's voice",,I have kept a thousand secrets and never said my own.

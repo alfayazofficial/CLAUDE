@@ -1,0 +1,4 @@
+- Ledger/bible: Register numbers are meant to be in arrival order, yet #0053 (Ines, age 27, Ch 1-2) and #0017 (Anya, Ch 5) are very low numbers while Fayaz/Ermis (#0713/#0714) wrote "two winters ago"; Ch 2 implies Rita mailed Ines's letter recently. Consider treating numbers as not strictly chronological (Ch 1-2, 5, 30).
+- Ch 1 epigraph is Entry 0388 (Vishnu Kurup, S08 secondary; ledger star is "I cannot say it, so I wrote it"); epigraph text is not his ledger line. Check against ledger in final pass.
+- Ch 1/6 vs Ch 30: Ermis's 23:41 Yogyakarta / 22:41 Dhaka timing is now consistent; any later chapter citing the first message should say "one week after the Register opened".
+- Ch 6 Day-of-the-Dead marigolds now "weeks after"; new moon date in Nov plus a week means Ch 6 is mid/late November (Ch 8 is the last week of Nov).
