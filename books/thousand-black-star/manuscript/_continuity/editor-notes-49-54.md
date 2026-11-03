@@ -1,0 +1,4 @@
+- Ch 39 (and ch 49 originally) gave Mr. George "Pennywhistle" Lowe as forty-five; ch 54 says sixty-eight with 41 years as caretaker. Ch 49 now says sixty-eight; ch 39 line 36 ("Mr. George Lowe, forty-five") should be changed to sixty-eight.
+- Ch 40 sets Youssef's stall in Marrakech while the ledger lists him in Casablanca; ch 50 follows ch 40 (Marrakech). Ledger city could be updated.
+- Ch 52 (Putu) is set in early October (Rotterdam four hours behind Dhaka) while ch 49 (Sapporo first snow) is the last week of October; chapters 49-54 run in parallel, not strictly in date order. Ledger lists Putu as a "Legong dancer" but ch 52 has him dance baris (Legong is traditionally danced by girls).
+- Ch 55 continuity: Erik and Astrid etc unaffected. Ch 59 (Takumi/Yuki) letter says Takumi made a resin sculpture that Yuki made him take down; ch 49 has a pear-sized ice portrait kept in a freezer and given to the first snow (compatible, but check wording in ch 59).

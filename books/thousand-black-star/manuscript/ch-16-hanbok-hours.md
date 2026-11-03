@@ -72,7 +72,7 @@ He sent the letter in the morning, at 9:02, a minute after the building opened. 
 ---
 
 ### SCENE II
-*Osaka. The Fukushima ward, under the railway arches, at ten minutes before midnight. A ramen shop with eight stools. Steam, trains, a paper lantern that has lost the argument with the weather.*
+*Osaka. The Tenma ward, behind the canal, under the railway arches, at ten minutes before midnight. A ramen shop with eight stools. Steam, trains, a paper lantern that has lost the argument with the weather.*
 
 There is a particular kind of Osaka night, in winter, when the trains go over the arches every four minutes and each one shakes a little salt out of the sky, and every shop beneath the tracks keeps its door half open so that you can smell the broth from the next street.
 
@@ -106,7 +106,7 @@ The curtain moved.
 
 There are people who come into a room like a stone into a pond, and people who come in like a drop of ink, and people who come in like a held breath. The woman who stepped under the noren, in a grey coat the colour of an old photograph, with her face half-hidden in a scarf and her hand still on the edge of the cloth as though she had not decided whether to let go of it, was the third kind.
 
-She was thirty-three. She had hair cut at the jaw, and tired eyes, and the straight, careful posture of a person who has spent eleven years looking closely at things and has lately been afraid of what she might see. For six years, on the same night every week, she had sat beside the steam pipe and eaten with her eyes closed and said almost nothing. Since March she had said nothing at all.
+She was thirty-three. She had hair cut at the jaw, and tired eyes, and the straight, careful posture of a person who has spent eleven years looking closely at things and has lately been afraid of what she might see. For two years, on the same night every week, she had sat beside the steam pipe and eaten with her eyes closed and said almost nothing. Since the new-moon night she had said nothing at all, because she had not come.
 
 "Welcome," said Hiroshi. It came out of him as a thing is said by a man who has said it fifty thousand times and has never meant it as he meant it now.
 
@@ -118,7 +118,7 @@ The woman stood in the doorway. She looked at the bowl, the white glaze, the fan
 
 "Mei-san," said Hiroshi.
 
-It was the first time he had said her name aloud since March. It broke a little in the middle, like a stick of kelp.
+It was the first time he had said her name aloud since the new-moon night. It broke a little in the middle, like a stick of kelp.
 
 "I was not sure you would remember."
 

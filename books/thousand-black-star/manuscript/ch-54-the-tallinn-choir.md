@@ -13,7 +13,7 @@ For four decades the Rathore haveli had been the proudest ruin in Rajasthan.
 
 It had everything a great house requires except a ceiling: a gateway like a sunrise, carved lattices through which a thousand wives had watched a thousand processions, a courtyard painted in rose and peacock-blue, and above all of it, the sky, a very fine one, which entered by day and left by night without once being asked to wipe its feet.
 
-Vikram Rathore, thirty, heritage guide, heir, ham and the loudest man in the Pink City, stood in the middle of the courtyard in a turban of saffron silk and watched the last tile go down, and wept openly.
+Vikram Rathore, thirty, heritage guide, heir, ham, and the loudest man in the Pink City, stood in the middle of the courtyard in a turban of saffron silk and watched the last tile go down, and wept openly.
 
 "It is a *roof,*" he told the assembled workmen, whom he had hired and who had worked for him for a year at a price that no accountant should be told. "It is not merely a roof. It is the end of a lament. It is the first stanza of a glorious—"
 
@@ -56,11 +56,11 @@ At the gate, a young woman with a notebook and the manner of a ferret, Pooja Tiw
 ### SCENE II
 *Tallinn, Estonia. A late October afternoon, with frost already in the shadows. A wooden house in Kalamaja, grey, tall and old, in a street where all the houses lean together like men at a funeral.*
 
-If you wish to know what silence is, mark this, reader, do not go to the mountains. Go into a house where there was always someone, and where now there is no one, at four o'clock on a winter afternoon in the north.
+If you wish to know what silence is, reader, do not go to the mountains. Go into a house where there was always someone, and where now there is no one, at four o'clock on a winter afternoon in the north.
 
 Mikhail Sokolov, forty-two, engineer, stood in the kitchen of the house in which he had been born and listened to the refrigerator.
 
-It was a small noise, a dutiful hum, and it was the only sound in the building. His mother had died three winters ago, quietly, in the room above; his father had gone before her; the stairs, which had once creaked all day under three pairs of feet, had since become, under one, eloquent in their silence. He owned no radio. He had no television. He had at first thought it was grief. Then he had realised that it was, rather, *fear*: of the particular pitch that a quiet house has when it is waiting for you to speak.
+It was a small noise, a dutiful hum, and the only sound in the building. His mother had died three winters ago, quietly, in the room above; his father had gone before her; the stairs, which had once creaked all day under three pairs of feet, had since become, under one, eloquent in their silence. He owned no radio and no television. He had at first thought it was grief. Then he had realised it was *fear*: of the particular pitch a quiet house has when it is waiting for you to speak.
 
 A letter lay on the table. It had arrived that morning, with a Pärnu stamp, and was addressed in his sister's round, no-nonsense hand. It was the forty-first of its kind. She wrote every month. She did not ask him anything. She answered.
 
@@ -84,13 +84,13 @@ He folded the letter and put it in the drawer with the other forty. Then, for la
 
 The work was the Song Festival Grounds.
 
-They stand on a green slope above the Gulf, at the edge of the city: a great grassy bowl for a hundred thousand singers, and above it the arch of the stage, a huge white shell of concrete, curved like the inside of a sea-creature. Once in five years the whole nation fills it, all the choirs of Estonia, and sings, and that is as nearly as a country can be said to pray. For twenty years Mikhail Sokolov had been the man who kept it standing. He knew every bolt of the shell, every drain, every cable. He loved it as one loves the only thing that has never asked a question.
+They stand on a green slope above the Gulf, at the edge of the city: a great grassy bowl for a hundred thousand listeners, and above it the arch of the stage, a huge white shell of concrete, curved like the inside of a sea-creature. Once in five years the whole nation fills it, thirty thousand singers from all the choirs of Estonia, and that is as nearly as a country can be said to pray. For twenty years Mikhail Sokolov had been the man who kept it standing. He knew every bolt of the shell, every drain, every cable. He loved it as one loves the only thing that has never asked a question.
 
 That afternoon, as he checked the lamps on the stage, he heard behind him a sound that was entirely out of place. A cornet. A brass cornet, playing, with enormous joy and moderate accuracy, a Lancashire hymn tune.
 
 He turned. At the lip of the stage, in a bright anorak, a young woman with a face like a scone and the shoulders of a bell-ringer was sending her note out across the empty bowl; and the shell, which had been built for the voice, had taken it, and thrown it, and was giving it back, clear as a coin on a plate, from the farthest rim of the grass.
 
-"Nine seconds!" cried a man, running down the slope, a tall, burnt-faced, sentimental sort of man in a wet jacket, carrying a tape measure. "Nine and a *half,* Poppy! It carries for nine and a half seconds! I have timed it!"
+"Nine seconds!" cried a man, running down the slope, a tall, burnt-faced, sentimental sort of man in a wet jacket, carrying a stopwatch. "Nine and a *half,* Poppy! The note hangs for nine and a half seconds! I have timed it!"
 
 "William," said the woman, lowering the cornet, "you are on our honeymoon."
 
@@ -98,23 +98,21 @@ He turned. At the lip of the stage, in a bright anorak, a young woman with a fac
 
 "You are timing a wall on our honeymoon."
 
-"It is," said William Hartley, groundsman, thirty, with deep reverence, looking up at the arch, "the finest wall in Europe."
+"It is," said William Hartley, with deep reverence, looking up at the arch, "the finest wall in Europe."
 
 "Excuse me," said Mikhail Sokolov, in the precise Estonian of a man who has spoken it carefully all his life and never quite believed he was allowed. "You are not permitted on the stage."
 
 The woman looked at him. The man looked at him. In perfect unison, they said, in the accent of the English north: "*Oh, sorry.*"
 
-It was the beginning of the most unlikely friendship of the Baltic autumn. By the end of a quarter of an hour, Mikhail had shown the groundsman the drainage system under the field, which William had fallen in love with on sight; and the cornetist had been permitted, as a very great favour, to play one hymn from the centre of the stage while Mikhail stood on the grass at the far rim, a hundred metres away, listening. The note arrived at his ear perfectly, small as a lit match, with no loss at all.
+It was the beginning of the most unlikely friendship of the Baltic autumn. Within a quarter of an hour Mikhail had shown the groundsman the drainage system under the field, which William fell in love with on sight; and the cornetist had been permitted, as a very great favour, to play one hymn from the centre of the stage while Mikhail stood on the grass at the far rim, a hundred metres away, listening. The note arrived at his ear perfectly, small as a lit match, with no loss at all.
 
 He had known it, of course. He had always known the shell's secret: that at the focal point of the arch, where the curve gathers, a voice no louder than a whisper can be heard from the back of a field. It had never mattered. No choir had needed it. They sang loud.
 
 But he stood a long moment at the rim, with the cold wind in his coat, and a thought began to form in his head, like frost on a window, slowly and with great beauty.
 
-"You have a choir here?" said Poppy Ashworth, coming down the grass with her cornet under her arm. "Mr. Sokolov? We heard singing through the wall, in the rehearsal hall behind the stage, when we came in. It was *lovely.* It was a bit short, though. Somebody was conducting them in a whisper."
+"You have a choir here?" said Poppy Ashworth, coming down the grass with her cornet under her arm. "Mr. Sokolov? We heard singing through the wall, in the rehearsal hall behind the stage, when we came in. It was *lovely.* But there was a woman at the end of the soprano row, with a lot of scarves, who turned the pages and mouthed every word with them. Every word. And she never made a sound."
 
-"That is Madam Mägi's women's choir. They rehearse on Thursdays." He frowned. "She does not conduct in a whisper."
-
-"Not *her,*" said Poppy. "The librarian. The one with the scarves. She turned the pages and mouthed the words with them. All of them. Every word. And she never made a sound."
+"That is Madam Mägi's women's choir," said Mikhail. "They rehearse on Thursdays." He frowned. "I do not know the woman."
 
 ---
 
@@ -123,7 +121,7 @@ But he stood a long moment at the rim, with the cold wind in his coat, and a tho
 
 Katrin Tamm, thirty-nine, had been a soprano for twenty-six years, a good one, and for the last two a woman who held the music for other people.
 
-It was the throat. A small thing: a surgery on the thyroid, two winters ago, and a nerve, in the doing of it, that had been touched, and had thereafter declined to explain itself. She could speak, if she spoke softly. She could laugh, in a manner of speaking. She could not sing. Specialists in three cities had said *possibly* and *give it time* and *the nerve is a stubborn creature,* and she had gone on turning the pages at the end of the row with her scarves around her neck and her lips moving, a soprano without a sound, like a bell with the clapper removed.
+It was the throat. A small thing: a surgery on the thyroid, two winters ago, and a nerve, in the doing of it, that had been touched and had since declined to explain itself. She could speak, if she spoke softly. She could laugh, in a manner of speaking. She could not sing. Specialists in three cities had said *possibly* and *give it time* and *the nerve is a stubborn creature,* and she had gone on turning the pages at the end of the row with her scarves around her neck and her lips moving, a soprano without a sound, like a bell with the clapper removed.
 
 "From the *top,* ladies," said Liis Mägi, fifty-two, conductor, who farmed rye in the south and drove up on Thursdays in a lorry. "And Toomas, I don't need you to lead the sopranos from the bass line, you are a *tenor.*"
 
@@ -143,7 +141,7 @@ Katrin turned. It was her mother, Triin Saar, fifty-eight, dockworker at Muuga, 
 
 "He is a *Sokolov,*" whispered Katrin. "He keeps the Grounds. He does not speak to people."
 
-"Then that is two of you." Triin nodded to the door. "He is looking at you as I looked at your father, at the dockyard dance, in nineteen eighty-four. I did not speak either. He came across the floor."
+"Then that is two of you." Triin nodded to the door. "He is looking at you as I looked at your father, at the dockyard dance. I did not speak either. He came across the floor."
 
 In the doorway, a tall man in an engineer's coat stood with a roll of drawings under his arm and the pale, courteous, hunted face of a person who has just walked into a room with a question in it.
 
@@ -173,7 +171,7 @@ At the end of the corridor, twenty women of Tallinn, who had apparently been sta
 
 The sun had gone, and the great bowl of the Grounds lay black and silver under a rising moon, frost on every blade. Far out at the rim of the field, a hundred metres off, a man in an engineer's coat stood with his back against a lamp-post and his heart in his teeth. On the stage, under a single work-lamp, at the small pencilled star on the boards, a woman in a grey scarf stood with her hands at her sides.
 
-From the dark behind the wings, all the choir, and her mother, in her dockworker's boots, and a groundsman with a stopwatch and his bride with a brass cornet, had crept out as softly as they knew how, and were watching from the shadows, hardly breathing.
+From the dark behind the wings the whole choir, and her mother in her dockworker's boots, and a groundsman with a stopwatch and his bride with a brass cornet, had crept out as softly as they knew how, and were watching from the shadows, hardly breathing.
 
 Katrin Tamm closed her eyes. She thought: *I do not know who I am without it.* She thought: *Then let us find out.* She drew a breath, the first real breath she had drawn for two years, from the very bottom of her, and the whole white arch above her seemed to lean a little closer, as an old house leans to hear its youngest child, and she opened her mouth, and from the far rim of the field Mikhail Sokolov, with his hand on the cold iron of the rail, heard the first note come across the dark grass towards him, small as a lit match, and understood at last that the
 
@@ -215,7 +213,7 @@ The band room smelled, as it had for ninety years, of valve oil and damp wool, a
 
 It was an old habit. He read aloud all post, to the chairs, and the chairs, who had heard every confession of the brass section since nineteen-eighty, had never yet corrected him.
 
-*Dear Mr. P. We are on the ferry to Helsinki. The honeymoon has been a triumph. Tell the lads there is a stage here, in Tallinn, shaped like the inside of a shell, and a hymn played on it carries nine and a half seconds. Poppy says she is going to make the band come out and play it. I have measured the lawn. It is excellent.*
+*Dear Mr. P. We are on the ferry to Helsinki. The honeymoon has been a triumph. Tell the lads there is a stage here, in Tallinn, shaped like the inside of a shell, and a hymn played on it hangs in the air for nine and a half seconds. Poppy says she is going to make the band come out and play it. I have measured the lawn. It is excellent.*
 
 *I will not tell you what happened on the last night, Mr. P. We were standing in the dark at the side of the stage with some new friends, and the whole place went so quiet, and it was not ours to post. I will tell you in person, or I will not. Poppy says some things you keep. But I wanted you to know there is a place in the world where a person tried a very hard thing, in front of the people who love her, and we were there.*
 
@@ -227,7 +225,7 @@ Mr. Pennywhistle put the card on the music-stand. He looked out of the rain-stre
 
 The chairs, who had heard everything, said nothing at all.
 
-"And I never found out about the Mozart either," said Mr. Pennywhistle, and went to put on the kettle.
+"And I never do find out how anything ends," said Mr. Pennywhistle, "my own novel included," and went to put on the kettle.
 
 ---
 

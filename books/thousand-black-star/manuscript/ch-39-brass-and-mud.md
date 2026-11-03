@@ -33,7 +33,7 @@ He did it slowly, as one eats the last of anything. Up the length of the pitch, 
 
 It was true. It generally did.
 
-Out of the tunnel, with a bunch of keys the size of a small bagpipe and a flat cap that had seen three decades of Saturdays, came Mr. George Lowe, forty-five, caretaker of the Marsden Town Silver Band's rehearsal room beneath the east stand, known to every living soul in the district as **Mr. Pennywhistle**, because he could not walk, think, grieve or be afraid without whistling, and because no one had ever heard him whistle a recognisable tune. He had been writing the Great Salford Novel for nineteen years. It was, by his own account, "nearly there"; its first chapter had been nearly there since 2006.
+Out of the tunnel, with a bunch of keys the size of a small bagpipe and a flat cap that had seen four decades of Saturdays, came Mr. George Lowe, sixty-eight, caretaker of the Marsden Town Silver Band's rehearsal room beneath the east stand, known to every living soul in the district as **Mr. Pennywhistle**, because he could not walk, think, grieve or be afraid without whistling, and because no one had ever heard him whistle a recognisable tune. He had been writing the Great Salford Novel for nineteen years. It was, by his own account, "nearly there"; its first chapter had been nearly there since 2006.
 
 "Pennywhistle."
 

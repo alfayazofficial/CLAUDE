@@ -19,7 +19,7 @@ Patrick Murphy, forty, lieutenant, was the second kind, and had been since he wa
 
 "And am therefore *qualified* in the comparative method." He sipped. He grimaced. He sipped again. "It is the best chili I have ever eaten," he said bitterly. "I will not be speaking of it."
 
-Across the bay, on a folding chair, sat Laura Hayes, forty, a community pastor from Somerville with a gift for blessing machinery and a still greater one for knowing the business of the entire Commonwealth. She had come to bless the new hose reel. She had stayed because the chili was free. And between the two she had learned, in twenty minutes, that the lieutenant of Engine Eleven had written an anonymous letter to England, that the nurse who did not come to Chili Night had a brother who had died in a fire, and that these two facts were, in her judgment, about to meet.
+Across the bay, on a folding chair, sat Laura Hayes, forty, a community pastor from Somerville with a gift for blessing machinery and a greater one for knowing the business of the entire Commonwealth. She had come to bless the new hose reel. She had stayed because the chili was free. And between the two she had learned, in twenty minutes, that the lieutenant of Engine Eleven had written an anonymous letter to England, that the nurse who did not come to Chili Night had a brother who had died in a fire, and that these two facts were, in her judgment, about to meet.
 
 "Patrick," she said, in the bright, carrying voice of one who intends to whisper. "A word."
 
@@ -43,7 +43,7 @@ For there was, as it happens, a woman; and what bound her to the lieutenant was 
 
 It had been a Tuesday in February, a three-alarm fire in a triple-decker on Ashmont Street, a night so cold that the water froze on the hose in the instant it was thrown. On the third floor a woman had refused to leave without her child, and the child had gone back for the cat, and the stairs, that had been wood at six o'clock, were by half past seven a rumour. Patrick had gone up. He had come down with a boy of nine in his arms, unconscious, black to the eyelashes, and he had run with him across the ice to the ambulance, and put him down, and a woman in blue scrubs and a grey coat had taken the child's wrist with one hand and held his sleeve with the other.
 
-*Stay,* she said. It was not an order. It was the voice of a person who has said the word to a great many people, in a great many bays, to very little effect.
+*Stay,* she said. It was not an order. It was the voice of a person who has said the word to a great many people, to very little effect.
 
 He had stayed for four minutes, until the boy coughed, and breathed, and cried. In the cold of the ambulance bay, in the red wash of the lights, he had looked at her face, white and fine and fixed, with eyes the colour of a wet slate roof, and she had looked at his, and neither had said a word.
 
@@ -60,9 +60,9 @@ It is a ridiculous thing to think about a stranger. He had written it to another
 
 In another quarter of the world, in a city that never ceases to explain itself loudly, a former founder of a financial technology company was setting out a hundred plastic chairs, and a designer of dresses was standing at the end of a runway deciding whether to be sick.
 
-The chairs, said Emeka Okafor, twenty-eight, had been borrowed from a wedding. The runway had been a loading ramp. The lights had come from a man in Ikeja who promised Thursday and arrived the following Tuesday with the face of a saint. The building had once held sixty servers and fourteen employees, whose salaries he had paid for eleven months out of his own savings after the company was already dead, as one goes on feeding a horse after the cart has gone over the cliff.
+The chairs, said Emeka Okafor, twenty-eight, had been borrowed from a wedding. The runway had been a loading ramp. The lights had come from a man in Ikeja who promised Thursday and arrived the following Tuesday with the face of a saint. The building had once held sixty servers and nine employees, whose salaries he had paid for eleven months out of his own savings after the company was already dead, as one goes on feeding a horse after the cart has gone over the cliff.
 
-The servers were gone. The fourteen were here. Kemi, once his lead engineer and now, by some alchemy of the heart, sewing-room manager, reported that the back generator had been turned off because the noise upset the models.
+The servers were gone. The nine were here. Kemi, once his lead engineer and now, by some alchemy of the heart, sewing-room manager, reported that the back generator had been turned off because the noise upset the models.
 
 "The models are upset by *everything.*"
 
@@ -70,7 +70,7 @@ The servers were gone. The fourteen were here. Kemi, once his lead engineer and 
 
 He laughed. Then he looked at the end of the ramp, where a young woman of twenty-seven was standing in the half-dark, with pins in her mouth and a dress on a stand before her, and the laugh dropped out of him.
 
-Chidinma Eze had cut gowns for brides and carnivals, bright, vivid, extravagant, and sold them under a name nobody remembered; and every night for eight years she had gone home and turned off the light on a dress she had never shown to anybody. It hung on a stand at the end of the runway: a long column of gold *aso-oke,* woven by a cooperative in Iseyin, split from the shoulder to the floor to show a lining of indigo as deep as the evening sea. It was a dress for a woman of forty who has never apologised to a room.
+Chidinma Eze had cut gowns for brides and carnivals, bright and extravagant, and sold them under a name nobody remembered; and every night for eight years she had gone home and turned off the light on a dress she had never shown to anybody. It hung on a stand at the end of the runway: a long column of gold *aso-oke,* woven by a cooperative in Iseyin, split from the shoulder to the floor to show a lining of indigo as deep as the evening sea. It was a dress for a woman of forty who has never apologised to a room.
 
 "It is not finished," said Chidinma, through the pins.
 
@@ -82,7 +82,7 @@ Chidinma Eze had cut gowns for brides and carnivals, bright, vivid, extravagant,
 
 "I am here," said a large and magnificent voice from the third row, and a woman rose in a purple *iro* and *buba* and a head-tie like a cathedral. She was fifty-nine, a pastor from Enugu who had come to Lagos by bus to bless the evening, and who would by its end have blessed the chairs, the ramp, and the caterer. "Daughter. The Lord, who made the woman you are afraid to become, has seen her. He says: She is *very* tall. She is wearing gold. She is a little bit rude. Go and meet her. She has been waiting."
 
-Chidinma took the pins out of her mouth. She looked at the dress. She looked at the man who had once paid fourteen salaries out of a dead company's grave and was now arranging chairs for hers. She looked, last, at the end of the ramp, where a hundred people, borrowed from a hundred weddings, were beginning to sit down and fan themselves with the programme.
+Chidinma took the pins out of her mouth. She looked at the dress. She looked at the man who had once paid nine salaries out of a dead company's grave and was now arranging chairs for hers. She looked, last, at the end of the ramp, where a hundred people, borrowed from a hundred weddings, were beginning to sit down and fan themselves with the programme.
 
 "Help me with the zip," she said.
 
@@ -92,7 +92,7 @@ When she reached the end of the ramp she did not turn, as models do. She stopped
 
 "Emeka Okafor," said Chidinma, in front of the whole city, "my company is open and your company is dead. I do not want your money. I want your arithmetic, and your dinner on Sundays, and you at the end of every ramp I walk. Will you?"
 
-There was a roar like a pot boiling over. Somewhere at the back the Reverend Ngozi was heard to say, "*I knew it, I said it in the car,*" and a man accused all his life of calculating every outcome found himself on a plastic chair with no calculation at all.
+There was a roar like a pot boiling over. Somewhere at the back the Reverend Ngozi was heard to say, "*I said it in the car,*" and a man accused all his life of calculating every outcome found himself on a plastic chair with no calculation at all.
 
 "I will," said Emeka.
 
@@ -165,9 +165,9 @@ This morning, a handsome boat named *Mama Atieno* rode at anchor in the warm bro
 
 "Hello. My name is Otieno. I am a fisherman. I have been telling you a lie for three years, and today I am going to tell you something true: this is my wedding. It is a bit wobbly. I am a bit frightened. If you wish to unfollow, I will understand."
 
-Eleven thousand viewers did not. A great many more, in the course of the morning, joined.
+Eleven thousand viewers did not. Many more joined.
 
-"You said *a bit wobbly,*" said Wanjiru Kamau, thirty minutes later, in white, in the stern, with the wind in her veil. She was twenty-seven, a technology journalist, a woman of exact opinions, and she had already, in the first five minutes of the ceremony, counted the guests, the fish on the table, and the number of misspelled words on the banner. "Technically it is *seventeen degrees* of wobble."
+"You said *a bit wobbly,*" said Wanjiru Kamau, thirty minutes later, in white, in the stern, with the wind in her veil. She was twenty-seven, a technology journalist, a woman of exact opinions, and she had already counted the guests, the fish on the table, and the misspelled words on the banner. "Technically it is *seventeen degrees* of wobble."
 
 "You measured it?"
 

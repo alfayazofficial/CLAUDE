@@ -249,13 +249,13 @@ Beatriz stepped out first. She turned, in the doorway, and said, with perfect co
 ---
 
 ### SCENE IV
-*Osaka, Japan. Twelve hours ahead. It is eleven in the morning of the next day, and has been, here, all along. The ward of Fukushima, where the ramen shops put out their curtains like flags.*
+*Osaka, Japan. Twelve hours ahead. It is eleven in the morning of the next day, and has been, here, all along. The ward of Tenma, where the ramen shops put out their curtains like flags.*
 
 There is an old joke, among those who live between time zones, that it is always tomorrow somewhere. In Osaka it was already the next morning, and in a narrow apartment above a stationer's a woman of thirty-three stood in her kitchen with a cup of tea she could not taste, looking at a phone.
 
 Mei Sato had been a food critic for eleven years. She had written, for the *Naniwa Shimbun*, reviews in a cadence of salt and smoke, sweetness and acid, that readers called *a hymn in a bowl.* And last September, when a fever that should have been forgotten by Friday had gone, she had sat down to a plate of *tamagoyaki* and tasted nothing at all. It had been, she thought, like hearing the world's last piano go quiet.
 
-She had told no one. She wrote now from memory. She was good at it. She could construct a review of any bowl in Osaka from the vocabulary of her past, and no one, so far, had known the difference. But she had stopped going out. And she had stopped, in particular, going to a very small ramen shop in an alley in Fukushima ward, eight stools, run by a taciturn man called Tanabe, where she had eaten, on the eighth stool, at the end, near the pipe where the steam rose, every Thursday for two years.
+She had told no one. She wrote now from memory. She was good at it. She could construct a review of any bowl in Osaka from the vocabulary of her past, and no one, so far, had known the difference. But she had stopped going out. And she had stopped, in particular, going to a very small ramen shop in an alley in Tenma ward, eight stools, run by a taciturn man called Tanabe, where she had eaten, on the eighth stool, at the end, near the pipe where the steam rose, every Thursday for two years.
 
 She had not been back since the new-moon night, when she had sat at his counter, said the one true thing, been fed, and gone home to the quiet of her own mouth. *One night of being fed is a kindness,* she thought. *Every night would be charity. And he would see it.*
 
