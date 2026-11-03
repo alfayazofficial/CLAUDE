@@ -130,17 +130,17 @@ She went. At the gate she paused, and looked once at the car under the neem tree
 ---
 
 ### SCENE II
-*Istanbul. The Eminönü quay, a quarter to eight on a grey December morning, the colour of a pigeon's wing. Gulls. Steam. Two ferries moored nose to tail, each flying its own house flag, and a queue of commuters between them like a river between two armies.*
+*Istanbul. The Üsküdar pier, on the Asian shore, a quarter to eight on a grey December morning, the colour of a pigeon's wing. Gulls. Steam. Two ferries moored nose to tail, each flying its own house flag, and a queue of commuters between them like a river between two armies.*
 
 The feud over the Bosphorus lines had run, with intervals for weddings and funerals, for thirty-one years. It concerned a licence, a landing and a promise made by a dead man on a napkin, and it had cost both families, in lawyers and spite, roughly the price of a ferry.
 
-On the left of the quay lay the red boats of the Yilmaz line, on the right the blue boats of the Kaya, and between them, as it had always done, stood a plank-built café with a chimney, a samovar, and a cook.
+On the left of the quay lay the red boats of the Yılmaz line, on the right the blue boats of the Kaya, and between them, as it had always done, stood a plank-built café with a chimney, a samovar, and a cook.
 
 "*Soup,*" said Sema.
 
 She was a broad, magnificent woman of fifty-one, in an apron the size of a sail, who had served lentil soup to both houses for twenty-eight years on the principle that a man with a full bowl cannot also throw a punch. She stood at the open hatch, ladle raised like a sceptre. "You, Captain's boy, you have not eaten. You, Kaya, you are green. I do not care whose boat you sail. Leave the quarrel on the hook with the coat. *Sit.*"
 
-Ahmed Yilmaz, twenty-eight, the son of the Yilmaz line's old captain, sat. He was a strong, dark, impatient young man in a wool coat and a deckhand's cap, with a split in his knuckle and a stare that kept going, whenever it was not watched, to the small glass-walled ticket office on the right of the quay.
+Ahmed Yılmaz, twenty-eight, the son of the Yılmaz line's old captain, sat. He was a strong, dark, impatient young man in a wool coat and a deckhand's cap, with a split in his knuckle and a stare that kept going, whenever it was not watched, to the small glass-walled ticket office on the right of the quay.
 
 "You are looking at the *wall,*" said Sema.
 
@@ -156,7 +156,7 @@ The first sign of trouble was the rope. Ahmed saw it before he knew he saw it: a
 
 It was not true, but in a feud the truth has no vote. Within ten seconds the quay was a tangle of fists and boots, tea-trays flung like discs and a mooring-hook swung at arm's length; and in the middle of it Ahmed's cousin Cem Koç, forty, apprentice, who had never been afraid of anything but a debt, drove a shoulder into the nearest chest and was at once knocked flat among the fishing-nets.
 
-Ahmed did not fight. He ran to the edge of the quay. The deckhand was in the water, and the water in December was nine degrees. The man had gone under once, and came up gasping, white as paper, his arms flailing at the oranges. There was no time to remove a coat. Ahmed Yilmaz, son of the house that had sworn to ruin the Kayas, took off his cap, put it carefully on a bollard, and dived.
+Ahmed did not fight. He ran to the edge of the quay. The deckhand was in the water, and the water in December was nine degrees. The man had gone under once, and came up gasping, white as paper, his arms flailing at the oranges. There was no time to remove a coat. Ahmed Yılmaz, son of the house that had sworn to ruin the Kayas, took off his cap, put it carefully on a bollard, and dived.
 
 He caught the man by the collar and towed him, kicking, to the foot of the iron ladder, and shoved him up it into a forest of hands. As he turned, something struck him on the side of the head from above, a mooring-hook, flung and not aimed, and he went down in the green water with a bright burst of red.
 
@@ -168,7 +168,7 @@ There was a great deal in that look, and not all of it was fright.
 
 "*Elif!*" shouted a voice from the Kaya side, her uncle's, harsh and cracked. "*Inside!*"
 
-She went in. But a minute after, as the police boat came round the point with its useless siren and the two families dragged their hurt away in two directions, a boy of fourteen in a school blazer, a tray of simit hung round his neck, who had stood throughout on a bollard with his mouth wide open, slid down and crossed the quay as if on an errand of no interest to anyone. He pressed into the bleeding hand of Ahmed Yilmaz a ticket for the 8:15 to Üsküdar.
+She went in. But a minute after, as the police boat came round the point with its useless siren and the two families dragged their hurt away in two directions, a boy of fourteen in a school blazer, a tray of simit hung round his neck, who had stood throughout on a bollard with his mouth wide open, slid down and crossed the quay as if on an errand of no interest to anyone. He pressed into the bleeding hand of Ahmed Yılmaz a ticket for the 8:15 to Karaköy.
 
 "A lady asked me to give you a ticket," said Burak, who read books and feared the telephone and was, therefore, a perfect messenger. "She says the fare is paid."
 

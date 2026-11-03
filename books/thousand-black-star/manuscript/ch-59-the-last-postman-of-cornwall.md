@@ -16,7 +16,7 @@ The sub-post-office at Penhallow had a counter, a scale, a stamp machine that sp
 
 He stood in the doorway in the red jacket he had worn for forty-five years, with the bag across his chest and a shortbread tin under his arm. The tin was tartan, dented, decorated with a Highland cow whose expression had worn thin from handling.
 
-Harry was seventy, with the stoop of a man who has been bowing to letterboxes since the days of decimalisation, a face as creased and kind as a well-used envelope, and the largest store of other people's secrets in the county, which he had never, in all his years, spent.
+Harry was seventy, stooped from bowing to letterboxes since the days of decimalisation, with a face as creased and kind as a well-used envelope and the largest store of other people's secrets in the county, which he had never, in all his years, spent.
 
 "Last round, Harry," said Mrs. Trelawny, with tears in her eyes and a saffron bun in her fist. "Eat. You will need it."
 
@@ -42,7 +42,7 @@ Harry was seventy, with the stoop of a man who has been bowing to letterboxes si
 
 It was a morning of the colour of slate. The lanes of Penhallow ran down the hill to the harbour like loose threads, and Harry walked them, as he had walked them for forty-five years, in a particular rhythm that his feet knew and he did not, letterbox, gate, step, letterbox, until it felt less like a job than a prayer in a language of doors.
 
-At Trevean Farm, a collie came round the barn at a low run, with his ears flat and the light of an old and sacred purpose in his eye.
+At Trevean Farm, a collie came round the barn at a low run, ears flat, with the light of an old and sacred purpose in his eye.
 
 "Not today, Boscawen," said Harry. "It is my last."
 
@@ -89,7 +89,7 @@ He turned the other way, up the long road to the headland, and left Chapel Row, 
 
 "Miss Fernando."
 
-"Korea, India, Zambia, Japan." She held the door. "I have been waiting for you all week. Everyone has been writing to the Keeper, and the Keeper, as you know, has not been in a position to reply. I have four of the letters, and I have not read them aloud, because they did not seem like letters to be read alone, and you are the nearest thing in this county to a *postman,* and I thought you should hear them, since you carried the first thousand."
+"Korea, India, Zambia, Japan." She held the door. "I have been waiting for you all week. Everyone has been writing to the Keeper, and the Keeper, as you know, has not been in a position to reply. I have four letters that did not seem right to read alone, and you are the nearest thing in this county to a *postman,* and you carried the first thousand."
 
 He had. He had carried every one of the thousand letters up the cliff path to the oak cabinet in this house, over forty-five years: letters in a hundred languages, with stamps from places he had to look up. He had never opened one. He had known, though, as a postman knows, from the weight of the paper and the hesitation of the handwriting, that they were a different kind of mail. They were not for the post. They were for the thing the post was for.
 
@@ -97,13 +97,13 @@ She made him tea in the kitchen, in a cup the size of a small bucket. And then, 
 
 > **Seoul.** *Dear Keeper: I have now measured everyone in this city, and one man twice. Daniel has resigned from his team and sits in my shop in the afternoons, folding silk and complaining that it is quiet. I have sewn him a coat. It fits. I enclose the lining; it is the colour of the quiet he asked for. — Ji-woo Han (#0351). P.S. He says to tell you that he has stopped checking the score of things.*
 
-> **Delhi.** *Dear Madam: Platform six. 5:40. For twenty years the train has not stopped there, and the woman in the blue sari has stood there anyway. On the fourteenth, I stopped it. I have received a letter of warning from the Railways, which I have framed. It is the best letter I have ever received. — Ravi Chaudhary (#0363). We are to be married at the new year. She says I should apologise to the signalman. I shall.*
+> **Delhi.** *Dear Madam: Platform six. 5:40. For eleven years the express has not stopped there, and for four of them a woman in a blue sari has stood there anyway. On the fourteenth, I stopped it. I have received a letter of warning from the Railways, which I have framed. It is the best letter I have ever received. — Ravi Chaudhary (#0363). We are to be married at the new year. She says I should apologise to the signalman. I shall.*
 
-> **Lusaka.** *Dear Keeper: We were married on Saturday in the school yard, with two hundred children singing in four keys and none of them ours. Grace sold maize to the wedding guests. She says a wedding is no reason to close a stall. My children call her "Mama Grace-and-the-Maize." She does not mind. — Joseph Tembo (#0133).*
+> **Lusaka.** *Dear Keeper: We were married in the school yard, on a Saturday in early October, with two hundred children singing in four keys and none of them ours. Grace sold maize to the wedding guests. She says a wedding is no reason to close a stall. My children call her "Mama Grace-and-the-Maize." She does not mind. — Joseph Tembo (#0133).*
 
 > **Sapporo.** *Dear Madam: He built me a sculpture that would not melt, from a kind of resin. I made him take it down. I told him I prefer the ones that melt, because then he has to come and make another. He says that is the most sensible thing anyone has said about art. I have kept the first one in a bottle: it says "Takumi, February." — Yuki Nakamura (#0556).*
 
-Harry sat with his tea going cold. He had the look of a man who has been hit very gently with a very large object.
+Harry sat with his tea going cold, like a man who has been hit very gently with a very large object.
 
 "They are good," he said at last, "at saying."
 
@@ -121,13 +121,13 @@ Harry looked at the great grey window.
 
 "Eleven paces," he said. "And a flap of tin."
 
-"It is generally less far than the heart supposes," said Nadeesha. "One more thing. If you are going out again—" She put an envelope in his bag. "Would you deliver this to Mr. Ashby, at the old coastguard cottage? It is an invitation. For the night of the new moon, a fortnight on. He has not answered the last three."
+"It is generally less far than the heart supposes," said Nadeesha. "One more thing. If you are going out again—" She put an envelope in his bag. "Would you deliver this to Mr. Ashby, at the old coastguard cottage? It is an invitation. For the night of the new moon, nine days on. He has not answered the last three."
 
 "He does not read his post," said Harry. "In forty-five years I have taken that man nothing but a seed catalogue and the council tax. He sits in the garden at night with a telescope he can no longer see through." He tucked it in. "I will take it. It is my last day. I will take it *dreckly.*"
 
 "*Dreckly,*" said Nadeesha, "in Cornwall, I understand, means *not in this life.*"
 
-"Not at all," said Harry Whitcombe, rising, with a great new dignity, and the shortbread tin in both hands. "It means *directly.* It is only that the sense of the word has taken a long road."
+"Not at all," said Harry Whitcombe, rising, with the shortbread tin in both hands. "It means *directly.* It is only that the sense of the word has taken a long road."
 
 ---
 
@@ -135,7 +135,7 @@ Harry looked at the great grey window.
 
 Number three had a green door, a brass knocker in the shape of a fish, and a window.
 
-In that window, at a Singer machine of 1951 with a treadle worn pale by sixty years of feet, sat Dorothy Penrose, sixty-eight, retired seamstress, with a mouth like a taut thread, spectacles on a chain, and a back as straight as a ruler.
+In that window, at a Singer machine of 1951 with a treadle worn pale by seventy years of feet, sat Dorothy Penrose, sixty-eight, retired seamstress, with a mouth like a taut thread, spectacles on a chain, and a back as straight as a ruler.
 
 She was not sewing. She had been not-sewing since ten.
 
@@ -163,17 +163,17 @@ Then she did a thing that she had never done: she stood up from the machine.
 
 She walked the four steps to the front door. She stood with her hand on the latch, and took it off, and put it back. She was, at that moment, in her private estimation, a fool of the first water, in a cardigan.
 
-Outside, in the lane, a number of persons had unexpectedly discovered that the day was fine for hanging washing. Mrs. Trelawny was weighing a sack of potatoes on the pavement, for lack of any other excuse. Tamsin Trevithick, at the fishmonger's, had come to her door with a mackerel in each hand. At the end of the row, with his ears flat and the light of an old and sacred purpose in his eye, sat Boscawen the collie, who had followed the postman into the village for reasons of his own.
+Outside, in the lane, a number of persons had unexpectedly discovered that the day was fine for hanging washing. Mrs. Trelawny was weighing a sack of potatoes on the pavement, for lack of any other excuse. Tamsin Trevithick, at the fishmonger's, had come to her door with a mackerel in each hand. At the end of the row sat Boscawen the collie, who had followed the postman down from the farm for reasons of his own.
 
-And up the lane, in the red jacket, with a shortbread tin held before him like a man bearing a small, delicate casket, came Harry Whitcombe.
+And up the lane, in the red jacket, with the shortbread tin held before him like a casket, came Harry Whitcombe.
 
 He did not look at the gutter.
 
-He walked straight up to the green door, to the brass fish, and he knocked. It was three small knocks, in an old, polite rhythm: the knock of a man who is accustomed to knocking on a door to ask whether the door is open.
+He walked straight up to the green door, to the brass fish, and he knocked. Three small knocks, in an old, polite rhythm: the knock of a man who has carried good news and bad to every door in the parish and has learned to give neither away.
 
 Dorothy opened it.
 
-For a moment neither said anything. Behind them the lane held its breath, in every window, in every stoop, with a thoroughness that would have been the envy of the Admiralty.
+For a moment neither said anything. Behind them the lane held its breath, in every window and on every stoop, with a thoroughness that would have been the envy of the Admiralty.
 
 "Mr. Whitcombe," said Dorothy.
 
@@ -255,7 +255,7 @@ She walked into them.
 
 "I try to keep up."
 
-She stepped back. She was crisp again; she dried her face with the back of a hand and looked at him with the eye of one pricing a lining.
+She stepped back. She was crisp again; she dried her face with the back of a hand and looked him over as she would a length of lining.
 
 "Now," said Dorothy. "I want these done properly. Not all at once; I am sixty-eight, and I will not have forty years of feeling in an afternoon, I should expire on the mat. I want them delivered. By *you.* To this address. One a day. You shall put them through the box at ten-fifteen, in the red jacket, and I shall read each at the machine, and you shall wait on the step for the answer."
 
@@ -269,7 +269,7 @@ She stepped back. She was crisp again; she dried her face with the back of a han
 
 "I have forty days," said Harry Whitcombe, and found, to his great surprise, that he had a great deal more than that.
 
-"Then come in," said Dorothy Penrose, and opened the green door, and for the first time in forty years, did not shut the window of that house on the lane. "The kettle is hot. And we shall see about that sausage."
+"Then come in," said Dorothy Penrose, and opened the green door, and for the first time in forty years left the door of that house open on the lane. "The kettle is hot. And we shall see about that sausage."
 
 *In the lane the whole village, as one soul, discovered that it had urgent business elsewhere, and went to it extremely slowly. Mrs. Trelawny took the potatoes, and, by dint of repeating the story, the rest of the day. The dog, who had been given a sausage at last, in public, by a woman with a seamstress's eye, was never heard to bite another cuff.*
 

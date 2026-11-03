@@ -62,6 +62,10 @@ She was good at it. She smiled at the bank manager, the feed merchant, the man f
 
 "Then tell him," said Funmi, "that I am in a *different* shed."
 
+"He says there is only one shed."
+
+"Tell him it has been renovated."
+
 On the wall behind her hung a calendar from the feed merchant, with a photograph of a very contented hen, and, tucked in its frame, a card from the research station on the hill, with a diagram. On it, in a careful engineering hand, a man had drawn how cassava peel, properly dried and ground, could replace forty per cent of her maize in the feed. Beneath it ran a few lines of code for a spreadsheet, which he had written himself one night, to work out her ration to the kilo. He had sent it six months ago. He had never sent anything else.
 
 The man from the bank came in. He was a patient man named Mr. Tunde Obi, fifty, bank manager and in a former life a dentist, who had learned that extracting a debt and a tooth required identical bedside manners.
@@ -81,6 +85,8 @@ The man from the bank came in. He was a patient man named Mr. Tunde Obi, fifty, 
 "You said that in July."
 
 "And God was a witness," said Funmi, "and He has not corrected me."
+
+"He is a very patient creditor," said Mr. Obi. "The board is not."
 
 Mr. Obi looked at her, a long, kind, professional look, over the top of a face that had watched eleven hundred tragedies arrive as missed repayments. "Madam," he said, "I will tell you a thing that I should not. There is a rumour that the research station on the hill has a new cassava. A great one. It will cut the cost of feed by a third. The word is that the man who bred it has been asking where to find a poultry farmer who has the nerve to try it first."
 
@@ -116,6 +122,10 @@ It was a great honour, and it was entirely against his wishes. Pereira, sixty, a
 "You are leaning like a lamp-post."
 
 "A lamp," said Pereira, with great dignity, "is a thing that shows the way. You have never once thanked me for it."
+
+"Thank you, Pereira."
+
+"Business," said Pereira, blowing his nose, "has never been worse."
 
 At the altar, Tomás saw her, and his face went completely, helplessly open, like a tram door.
 
