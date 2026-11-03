@@ -46,11 +46,7 @@ At the next table sat Rosa Chávez, forty-two, community spiritual leader of thr
 
 He had. It was the public feed of the all-sky camera at the university's mountain station above Ticlio: a fisheye turned up to the night, the Milky Way across it like a spill of salt, and in one corner the edge of a dome with a small yellow window. That window was lit when Lucía Paredes was working. He knew its hours as other men know the prices of stocks. It was the only telescope he owned, and he had found, as lovers do, that *nothing* can be enormously detailed.
 
-"There was snow on the camera," he said. "Three nights."
-
-"And?"
-
-"And the window has been dark since Tuesday."
+"There was snow on the camera for three nights," he said. "And the window has been dark since Tuesday."
 
 Rosa tipped the saucer. "A dark window means a dead lamp. A dead lamp means a dead battery. A dead battery means *nobody has gone up with a new one.*" She looked at him with the gentleness of the truly fearless. "A star that is dark, hijo, is only a star waiting for somebody to bring it a lunch."
 
@@ -109,7 +105,7 @@ She stopped. The word was in her mouth, and she put it back like a coin of the w
 
 She was reaching for the lantern when somebody knocked on the door of the dome.
 
-Nobody knocks on a mountain. The mountain does not have visitors; it has weather. The knock came again: three small taps, the knock of a man accustomed to asking whether the kitchen is open.
+Nobody knocks on a mountain. It does not have visitors; it has weather. The knock came again: three small taps, the knock of a man accustomed to asking whether the kitchen is open.
 
 She slid back the bolt. On the step, leaning on the frame as though the frame were the only thing holding up the night, stood a young man with a thermos and lips the colour of a bruised plum.
 
@@ -135,39 +131,33 @@ He did not lie. Raw fish and raw truth were the only two things he had never lea
 
 "Every night," he said. "It is the only telescope I have."
 
-Lucía put down the stove.
-
-She said nothing for one minute and fourteen seconds, which the dome, having heard a great many silences in sixty years, would have called a good one.
+Lucía put down the stove. She said nothing for one minute and fourteen seconds, which the dome, having heard a great many silences in sixty years, would have called a good one.
 
 "The bowls," she said at last. "You noticed the numbers."
 
-"Milagros told me they were a telephone number."
+"Milagros said they were a telephone number."
 
 "They are *coordinates.*" Her voice cracked slightly on the word. "Right ascension and declination. Of the star I am hunting. I could not think of any other way to tell you where I was."
 
 "You were telling me where you were?"
 
-"I was telling you where I *would be.*" She pushed the hair from her face with a mitten. "It is a very bad code. You cannot send a man a star and expect a reply."
+"I was telling you where I *would be.*" She pushed the hair from her face with a mitten. "It is a very bad code."
 
 "I did not reply," said Sergio, "because I thought it was a telephone number, and I was afraid to ring it."
 
-They looked at one another: two people discovering that the other had been standing in the same dark, with the same lunch.
+They looked at one another, two people who had been standing in the same dark with the same lunch.
 
 "Wait," said Lucía. She turned to the screen, where a graph lay stretched like a sleeping animal. "It is four-oh-two. In ten minutes my star should lean. I have waited eleven days for this. If the cloud holds off—"
 
 She went to the slit. And the cloud, which had lain on the ridge all evening like a grey cat, rose, stretched, and with the contempt of its kind strolled away.
 
-The sky opened: the whole ceiling of the world, thick with fire, and through it the river of the Milky Way, and in the river, black as ink spilled on a bright cloth, the dark llama walking, her two bright eyes, Alpha and Beta Centauri, only now clearing the eastern ridge.
+The sky opened: the whole ceiling of the world, thick with fire, and through it the river of the Milky Way, and in the river, black as ink on a bright cloth, the dark llama walking, her two bright eyes, Alpha and Beta Centauri, only now clearing the eastern ridge.
 
 "The llama," said Sergio, from the floor. "You drew her on a napkin at my table, the first day. I had it framed."
 
 She laughed, a short astonished sound, like a latch giving way. Then she crossed to the old telescope, with the brass eyepiece she kept for visitors, though nobody had ever visited, and turned its tube a quarter of a degree, and stood back.
 
-"Come here."
-
-"I am not good with—"
-
-"You are a cook. You know how to look at one thing for a long time."
+"Come here. You are a cook. You know how to look at one thing for a long time."
 
 He rose, unsteady, and put his eye to the glass.
 
@@ -199,7 +189,7 @@ He turned from the eyepiece. He did not say *love,* a word he had never managed 
 
 "Then the fish is rubber," said Sergio, "and I will eat it anyway."
 
-The camera chimed on the desk, a small bright bell. The exposure was finished. On the screen, in a cold grey square, a single faint red star was drawing itself, pixel by pixel, a little to the left of where it ought to be.
+The camera chimed on the desk. The exposure was finished. On the screen, in a cold grey square, a single faint red star was drawing itself, pixel by pixel, a little to the left of where it ought to be.
 
 It might be the lean. It might be the sensor. It might be a hand, in the dark, pulling.
 
@@ -235,7 +225,7 @@ Carlos Mendes, thirty-three, sports physiotherapist, sat beside her with two cup
 
 "In the tango school. Very dramatically." He gave her the coffee. "Beatriz. I have something to ask you."
 
-"Is it medical? Because I am off until, I believe, my retirement."
+"Is it medical? I am off until, I believe, my retirement."
 
 "It is not medical."
 
@@ -247,7 +237,7 @@ He looked at her with the patient eyes of a man who has taught strangers' legs t
 
 "Is it?"
 
-"I am afraid it is. I have it in my diary."
+"I am afraid so. It is in my diary."
 
 From the kerb a taxi sounded its horn: Seu Gustavo, sixty-four, who had driven Carlos for twenty years and advised him, mostly, about football.
 
@@ -257,7 +247,7 @@ From the kerb a taxi sounded its horn: Seu Gustavo, sixty-four, who had driven C
 
 "The *asking,* doutora!" said Seu Gustavo, radiant, like a man who has never in his life been wrong on purpose.
 
-*In São Paulo the story stands open, like a door on a warm morning, which is nine parts of a welcome.*
+*In São Paulo the story stands open, like a door on a warm morning.*
 
 > Now north, to Prague, where marionettes are hung
 > Like words that hesitate upon the tongue.
@@ -311,7 +301,7 @@ He finished eleventh. The prize for eleventh is a handshake and a bottle of wate
 
 "No. But it is a *start,* and I am very good at a start. I am bad at a middle and poor at a finish, but I have never had a bad start."
 
-Behind them the commentator told a hundred thousand listeners, "*I do not understand what is happening, but it seems beautiful.*"
+Behind them the commentator told his listeners, "*I do not understand what is happening, but it seems beautiful.*"
 
 "It is Monday I am worried about," said Daniela.
 

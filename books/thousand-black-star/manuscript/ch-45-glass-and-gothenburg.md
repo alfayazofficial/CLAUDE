@@ -24,7 +24,7 @@
 
 Kenji Watanabe, twenty-seven, mask-maker, had been awake since three o'clock, which he considered a reasonable hour for a man to start being married.
 
-He stood in the middle of the room in a black formal kimono with his family crest white upon the sleeves, and he could not tie his own sash. He had carved old women, young women, demons and gods, a fox that wept and a boy who laughed in his sleep. But the knot at the back of his own waist had defeated him three times, and the fourth attempt was going the way of the other three.
+He stood in the middle of the room in a black formal kimono with his family crest white upon the sleeves, and he could not tie his own sash. He had carved old women, young women, demons and gods, a fox that wept and a boy who laughed in his sleep. But the knot at his own waist had defeated him three times, and the fourth attempt was going the way of the other three.
 
 "Stop that," said a voice from the door. "You are strangling yourself."
 
@@ -38,7 +38,7 @@ This was Daichi Kobayashi, twenty-five, retired teacher. He had taught one class
 
 "That is a relief."
 
-"I also checked the almanac and the aunts. The aunt at Fushimi says a crow looked at her sideways. Do you know what that means, Kenji?"
+"I also checked the aunts. The aunt at Fushimi says a crow looked at her sideways. Do you know what that means, Kenji?"
 
 "That the crow was looking at the aunt."
 
@@ -50,7 +50,7 @@ Daichi thought, and the little bell rang. "As though someone else were holding t
 
 Kenji laughed, and some of the white went out of his face.
 
-"Sleep deprivation has made me a philosopher," said Daichi gloomily. "Be warned." He paused at the door. "Ferry-hand Yuto has the rings. A stranger on the train told him he looked trustworthy, and Yuto trusts anyone who says so. He is hot-tempered, Kenji, but *in good faith.*"
+"Sleep deprivation has made me a philosopher," said Daichi gloomily. He paused at the door. "Ferry-hand Yuto has the rings. A stranger on the train told him he looked trustworthy, and Yuto trusts anyone who says so. He is hot-tempered, Kenji, but *in good faith.*"
 
 "The rings are not going to be lost."
 
@@ -108,7 +108,7 @@ Sofia Holm was twenty-eight, a tea seller, and a romantic of the most dangerous 
 
 "The second one was a *lentil*," said Sofia, "and you know it."
 
-Astrid opened her mouth. She closed it. Down the long hall, past the wheelchairs and the cork notice-board and the plastic tree that had been sad since the previous Christmas, the automatic doors slid open with a sigh. Two figures entered the brightness together. The first was a tall, fair man of thirty, with the shoulders of someone who had spent a decade saving strangers from water, and the look of one who had been told, on the train, to *stop talking about drowning*. The second was Erik Johansson.
+Astrid opened her mouth. She closed it. Down the long hall, past the wheelchairs and the plastic tree that had been sad since the previous Christmas, the automatic doors slid open with a sigh. Two figures entered the brightness together. The first was a tall, fair man of thirty, with the shoulders of someone who had spent a decade saving strangers from water, and the look of one who had been told, on the train, to *stop talking about drowning*. The second was Erik Johansson.
 
 He was thirty-four, in a clean white shirt with the left sleeve buttoned a little too tightly at the wrist, and in his arms, wrapped in two blankets and a Stockholm newspaper, he carried a box. He saw her at once.
 
@@ -151,7 +151,7 @@ Haruka Mori was twenty-six, a Noh actress of the Kyoto school, and she wore the 
 
 No one remarked on it. A bride, after all, is permitted a veil.
 
-At the front of the crowd stood Shun Ito, sixty-one, a retired airline pilot from Osaka who had introduced the couple in a tea-shop in March for a fee of nothing, and had been quietly collecting on it ever since. He gambled when he was afraid, and he had been so afraid that morning that he had lost four thousand yen to a pigeon. Beside him his sister Aoi, a newsagent and notorious meddler in other people's love, whispered to the bride's cousins that she had *always known.* And in the third row Daichi Kobayashi sat, eyes closed, bell ringing, lips moving in a prayer against the aunts' crows.
+At the front of the crowd stood Shun Ito, sixty-one, a retired airline pilot from Osaka who had introduced the couple in a tea-shop in March for a fee of nothing, and had been quietly collecting on it ever since. He gambled when he was afraid, and he had been so afraid that morning that he had lost four thousand yen to a pigeon. Beside him his sister Aoi, a newsagent and notorious meddler, whispered to the bride's cousins that she had *always known.* And in the third row Daichi Kobayashi sat, eyes closed, bell ringing, lips moving in a prayer against the aunts' crows.
 
 Behind him, in ill-fitting black, stood a ferry-hand from Kobe named Yuto Shimizu, twenty-nine, with a little silk bag clutched in his fist and the wild look of a man who suspects every passer-by of being a thief.
 
@@ -194,7 +194,7 @@ She sat with her arms folded, which is the posture in which a Swedish nurse prep
 
 Erik had put the box on the bench and was unwrapping it with great care. From beneath the last of the blankets he lifted, in both hands, a bowl.
 
-It was not a perfect bowl. It was a little taller on one side than the other, thick at the base and thin at the lip, and the green of it was the green of the sea off Marstrand in March, darkening toward the bottom as the water does; and in the thick glass at its heart a single bubble of air hung suspended, small and round, no bigger than a lentil.
+It was not a perfect bowl. It was a little taller on one side than the other, thick at the base and thin at the lip, and the green of it was the green of the sea off Marstrand in March, darkening toward the bottom; and in the thick glass at its heart a single bubble of air hung suspended, small and round, no bigger than a lentil.
 
 "I blew it on Tuesday," said Erik. "It is the first thing I have blown since the burn. For a year and a half I have held the pipe like a stranger's hand. You said the nerves might come back. They have, a little. It means I make everything lopsided." He swallowed. "I thought you would prefer it lopsided. Everything in this building is level."
 

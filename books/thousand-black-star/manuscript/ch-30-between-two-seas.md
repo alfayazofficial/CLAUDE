@@ -28,7 +28,7 @@
 ### SCENE I
 *Mirpur, Dhaka. A tea stall at the corner of a lane. Friday, 9:20 p.m. Rain, then no rain, then rain again, as though the sky were undecided.*
 
-Bunny, who was thirteen, owned a kettle, a bench, and an opinion on every subject, and had never once been asked for any of them.
+Bunny, who was thirteen, owned a kettle, a bench, and an opinion on every subject, and had never once been asked for any of them. His uncle owned the stall; Bunny owned the customers.
 
 "Bhaiya," he said, as he poured the tea (two spoons of sugar, one of condensed milk, as prescribed), "you are wearing your *good* shirt."
 
@@ -60,14 +60,14 @@ Then the light bulb above the stall went out. The whole lane went out. The hummi
 
 "An *hour*?"
 
-"You see," said Bunny. "Everything in your life is an hour."
+"You see," said Bunny. "Everything in your life is an hour." He took the candle stub from under the counter, the last of the Eid supply, and set it in Fayaz's hand as a priest sets a blessing. "Go. Tell the timetable I said it will be on time."
 
 ---
 
 ### SCENE II
 *The same night. Fayaz's flat, third floor. A candle. A phone. One laptop, at eleven percent.*
 
-At 9:58 by his clock, which meant 10:58 by hers, Fayaz propped the laptop on two textbooks and a copy of *Thinking in Systems*, lit a candle (the electrician had been, as ever, a romantic), and pressed the green button.
+At 9:58 by his clock, which meant 10:58 by hers, Fayaz propped the laptop on two textbooks and a copy of *Thinking in Systems*, lit a candle, and pressed the green button.
 
 For a moment there was nothing but a spinning ring.
 
@@ -99,7 +99,9 @@ She laughed, and he heard the tin roof, the rain, the particular music that had 
 
 "She sounds wise."
 
-"She is *vile.* Ayu! *Diam!*"
+"She is *vile.* Ayu! *Diam!* She is Eyang's parrot, not mine. My grandmother is eighty-one and has never lost an argument, and she has taught the bird to do it for her."
+
+"*BEAUTIFUL!*"
 
 "*BEAUTIFUL!*"
 
@@ -117,9 +119,9 @@ There was a silence. It was a comfortable silence, as the best ones are, with tw
 
 "I can do that. I am the most patient man in Mirpur. It is my only qualification."
 
-She took a breath. She took it carefully, like a woman who, in her profession, had learned how long wax takes to cool.
+She took a breath, carefully, like someone who has learned in her profession how long wax takes to cool.
 
-"I have been offered a fellowship," she said. "In Rotterdam. At a textile lab that works with *tulis* masters from four continents. Two years. They pay for everything. I will have my own studio. I will learn what I cannot learn here. I will…" She stopped. She looked down at her hands. "I have known since January."
+"I have been offered a fellowship," she said. "In Rotterdam. At the Maashaven Textile Lab, which works with *tulis* masters from four continents. Two years. They pay for everything. I will have my own studio. I will learn what I cannot learn here. I will…" She stopped. She looked down at her hands. "I have known since January."
 
 "Since *January*?"
 
@@ -127,7 +129,7 @@ She took a breath. She took it carefully, like a woman who, in her profession, h
 
 "I withdraw the question."
 
-"I did not tell you," said Ermis, "because I did not want you to look at me the way you are looking at me now."
+"I said yes in January," said Ermis. "At seven minutes past midnight, an hour after we had said goodnight. I sat with my finger on the button, and then I pressed it, and then I sat there until my tea went cold. That is the part I am ashamed of. Not that I accepted. That I did it after you had said goodnight, so that I would not have to see your face. And I did not tell you, because I did not want you to look at me the way you are looking at me now."
 
 "How am I looking at you?"
 
@@ -149,7 +151,7 @@ Fayaz said nothing. In his flat, the candle burned very straight, there being no
 
 "I know." She wiped her cheekbone with the back of her wrist; the smudge of indigo went with it, leaving a long blue comet. "I know exactly what they are for."
 
-And then, because he was kind, and because he was twenty-six, and because it was Friday, and because it was the dark of a great city in which nobody was permitted to be selfish for very long, Fayaz Rahman did the thing that cost him the most.
+And then, because he was kind, and because he was twenty-six, and because the whole dark city seemed to forbid anyone to be selfish for very long, Fayaz Rahman did the thing that cost him the most.
 
 He smiled. A real smile, not a courtesy.
 
@@ -163,7 +165,7 @@ He smiled. A real smile, not a courtesy.
 
 "No. You were too kind to say it. That is why I am saying it."
 
-For a long moment she looked at him. The wax on her stove had started to smoke a little; she reached out without looking and turned the flame down.
+For a long moment she looked at him, and he could not read her face, which was a thing he had never before had to say. The wax on her stove had started to smoke a little; she reached out without looking and turned the flame down.
 
 "You are a very stubborn man," said Ermis.
 
@@ -178,7 +180,7 @@ For a long moment she looked at him. The wax on her stove had started to smoke a
 
 "My turn for what?"
 
-"For telling me the thing you are not telling me." She said it lightly, the way one walks across ice. "I said you could not speak until I finished. I have finished. So: speak. What is it this week? The company? Your father? Tithi's exams? Do not say 'nothing'. You say 'nothing' like a man putting a lid on a pot that is boiling over."
+"For telling me the thing you are not telling me." She said it lightly, the way one walks across ice. "I said you could not speak until I finished. I have finished. So: speak. What is it this week? The company? Your father? Tithi's exams? Do not say 'nothing'. You say 'nothing' like a man sitting on the lid of a pot that is boiling over."
 
 Fayaz laughed once, ruefully, and rubbed the back of his neck.
 
@@ -198,7 +200,11 @@ He told her. It took longer than he intended, and shorter than it felt. He told 
 
 "Then it is a wall with *excellent* manners."
 
-She did not laugh. She leaned her chin on her hand, and her eyes, which were large and dark and the color of strong tea, moved slowly over his face, as though reading a pattern she had known for months and was only now seeing in full.
+"Eyang says a wall is only a door that has been told to wait," said Ermis.
+
+"Your grandmother says a great many things."
+
+"She is eighty-one. She has earned the rest." She did not laugh. She leaned her chin on her hand, and her eyes, which were large and dark and the color of strong tea, moved slowly over his face, as though reading a pattern she had known for months and was only now seeing in full.
 
 "You wrote," she said, "*I would tell you everything, if I were free to.*"
 
@@ -208,7 +214,7 @@ She did not laugh. She leaned her chin on her hand, and her eyes, which were lar
 
 "I was twenty-four. I had a company. I was a very confident man."
 
-"Are you free to now?"
+"And now? Are you free to?"
 
 He considered it. The candle shivered; the battery icon blinked an amber warning.
 
@@ -248,11 +254,15 @@ Ermis took a very deep breath.
 
 "It was a line of poetry."
 
-"It was a *forecast.*" Her mouth trembled and then, with great resolution, did not. "It means this. Whatever you are about to become, Fayaz Rahman: I have already seen it. An hour ago, in your future, I lived it already. And I want you to know that you were kind in it. All of it. The debt, and the dark, and the long middle. You were kind."
+"It was a *forecast.*" Her mouth trembled and then, with great resolution, did not. "It means this. I am an hour in your future, Fayaz Rahman. I have already seen it. And I want you to know that you were kind. All of it. The debt, and the dark, and the long middle. You were kind."
 
-His throat closed. He did not trust himself to speak.
+His throat closed. He did not trust himself to speak. Outside, the rain began again, as if to give him cover.
 
 "So that is my appointment," said Ermis. "Fridays. Ten, yours; eleven, mine. And I will tell you what I will do, between Fridays. I will draw a pattern, on indigo, with no name. It will be a field of dots—*bintang,* stars—and every dot will be black. And when it is finished I will call it *Bintang Hitam,* because someone must, and because that is what it is. Black star. A thing that cannot be seen and that bends everything near it." She breathed out. "And I will send it to you when it is done."
+
+"A field of black stars," said Fayaz, "and nobody to see them."
+
+"You will see them." She said it so simply that it did not sound like a promise. It sounded like weather.
 
 "I have no way to repay a thing like that."
 
@@ -277,7 +287,7 @@ She laughed. She laughed until the pen rattled in the dish and the wax on the st
 
 The screen died on a half-laugh, which is, of all the ways to die, perhaps the kindest.
 
-For a time Fayaz sat quite still in his flat, with a candle for a sun and the sound of the rain going on and off like a clock being wound by a clumsy hand. Below in the lane a boy was whistling. Through the wall, his mother coughed twice and was quiet. In the next room Tithi was asleep with a physics textbook on her face.
+For a time Fayaz sat quite still in his flat, with a candle for a sun and the rain going on and off like a clock wound by a clumsy hand. Below in the lane a boy was whistling. Through the wall, his mother coughed twice and was quiet. In the next room Tithi was asleep with a physics textbook on her face.
 
 He picked up his phone, which still had nine percent, and opened the chat window, which had a little pale dot of green beside her name.
 
@@ -313,13 +323,11 @@ The dots pulsed once more.
 
 Outside, the rain stopped. Somewhere, a generator coughed and started. A lamp in the lane came on, and then another, and then the whole street, like a thousand small decisions made at once.
 
-And in a rented room in Mirpur, a young man with an ironed shirt and an unsalvaged fortune looked at the little green dot on a screen, and thought, for the first time in two years, with a surprise that he would have been embarrassed to admit:
+From the lane below, a thirteen-year-old voice shouted, "*Bhaiya! The light has come! Is the girl still there?*" and was answered by nobody.
+
+And in a third-floor flat in Mirpur, a young man in an ironed shirt, with no fortune to speak of, looked at the little green dot on a screen, and thought, for the first time in two years, with a surprise that he would have been embarrassed to admit:
 
 *It is possible that I am happy.*
-
----
-
-*End of Chapter 30.*
 
 ---
 
@@ -328,3 +336,7 @@ And in a rented room in Mirpur, a young man with an ironed shirt and an unsalvag
 > *Entry 0713 and Entry 0714. They will meet. Not this year, and not by plan. Not before the debts are paid, nor before the work is done. But I have read the margins of a thousand lives, and I know the handwriting of a fate when I see it.*
 >
 > *She is an hour ahead. He is, I think, on his way.*
+
+---
+
+*End of Chapter 30.*

@@ -36,7 +36,7 @@ It had been three years, nine offices, two sponsors, a lawyer who had cried once
 
 Behind them, a voice rose, unsteady with joy and helium.
 
-"*Idris bhai! The balloons!*"
+"*Idris-jan! The balloons!*"
 
 Najib Sultani, twenty-five, writer, devout, and the most generous man in Scarborough with other people's money, came through the crowd with a sign in one hand and fourteen balloons in the other. The sign read WELCOME TO CANADA, HAKEEMY FAMILY. The balloons read, in curly silver, CONGRATULATIONS ON YOUR NEW BABY.
 
@@ -66,7 +66,7 @@ She had rehearsed it for two years, on the bus, in the bath, once in a hospital 
 
 *Welcome.* Then, in the same careful hand, a second sentence, longer, in a language that had taken her two winters to learn, and which the page, for once, will not translate, except to say that it was about how a person does not have to be carried alone any more. Idris stood very still beside her; for the first time in his life he did not translate; he could not have.
 
-The old woman said nothing. She took Fatima's face in both hands, as she had taken her son's, and kissed her once on the forehead, and began, without any dignity at all, to weep. Beside her, the girl said, in English, "Is that a *baby* balloon?"
+The old woman said nothing. She took Fatima's face in both hands, as she had taken her son's, and kissed her once on the forehead, and began, without the least attempt at composure, to weep. Beside her, the girl said, in English, "Is that a *baby* balloon?"
 
 "It is a mistake," said Najib, "that has become a blessing."
 
@@ -136,7 +136,7 @@ Behind them, in the bakery, Mathieu's clock struck, thirteen times, and was neve
 
 "*Dewi, Ubud,*" read Fayaz. "*For my cousin in Rotterdam: your grandmother says Ayu has learned a new word and will not tell me which. I have my suspicions. Putu says I am not to say. I am not saying.*"
 
-Bunny wiped the counter, which did not need it. "Bhaiya. In Rotterdam it is five hours behind us."
+Bunny wiped the counter, which did not need it. "Bhaiya. Rotterdam is five hours behind us now."
 
 "You have looked it up."
 
@@ -144,11 +144,11 @@ Bunny wiped the counter, which did not need it. "Bhaiya. In Rotterdam it is five
 
 "I look up everything. Last year she was one hour in front of you. Now she is five behind. At this rate, by next year she will be in yesterday and you will be in Tuesday and the only place you can meet is in the middle of the sea."
 
-Fayaz opened his mouth, and shut it, with the face of a man who has been handed an important parcel by a child.
+Fayaz opened his mouth, and shut it.
 
 "That," he said, "is not very far from geographically accurate."
 
-"I know," said Bunny, with immense dignity. "I read the map."
+"I know," said Bunny, solemn as a customs officer. "I read the map."
 
 ---
 
@@ -223,7 +223,7 @@ There was a very long silence.
 
 "Fayaz—"
 
-"I have no complaints," said Fayaz, with the gravity of a judge who is also laughing. "I wish only to record it."
+"I have no complaints," said Fayaz, gravely, and laughing. "I wish only to record it."
 
 She put her face in both hands. When she took them away her cheeks had a third stripe of blue, and her mouth was trembling, not from sorrow.
 
@@ -253,7 +253,7 @@ The pencil in her hair slid and fell. She did not move.
 
 "Where?" said Ermis.
 
-"*Where* is the question." He pulled up a map on the second screen, because he was, after all, a man who built systems. "Dhaka to Yogyakarta, by line, is four thousand kilometres. You cannot come here, with Rotterdam, and I cannot go there, with the embassies as they are, so we need a place *between.* Halfway. I have measured. A few hundred kilometres of unfairness in my favour. I will carry the bags." He turned the screen. "Bunny says we shall meet in the middle of the sea. I have looked for the least wet place."
+"*Where* is the question." He pulled up a map on the second screen, because he was, after all, a man who built systems. "My Dhaka to your Java, by line, is nearly four thousand kilometres. You cannot come here, with Rotterdam, and I cannot go there, with the embassies as they are, so we need a place *between our homes.* Halfway. I have measured. It is a little nearer to me, which I shall not apologise for. I will carry the bags." He turned the screen. "Bunny says we shall meet in the middle of the sea. I have looked for the least wet place."
 
 The map showed the long green leg of the Malay peninsula, and, hanging off it into the blue like a pendant on a thread, an island.
 
@@ -289,7 +289,7 @@ Fayaz looked at the cloth on his wall, and at his father on the balcony, drawing
 
 "I see a beach," he said slowly. "I see two people who are very bad at beginning a sentence. And one of them says, *I would tell you everything.*" He breathed. "And the other waits for the *if* — and there is no *if.*"
 
-There was a very long quiet. Rain on the Rotterdam windows. A kettle on the Dhaka stove. A parrot, in a recording, three thousand miles away, saying nothing at all, for once, as though she had understood the occasion.
+There was a very long quiet. Rain on the Rotterdam windows. A kettle on the Dhaka stove. A parrot, in a recording, seven thousand miles away, saying nothing at all, for once, as though she had understood the occasion.
 
 "Be on time," said Ermis, finally, in a voice that was not entirely steady.
 

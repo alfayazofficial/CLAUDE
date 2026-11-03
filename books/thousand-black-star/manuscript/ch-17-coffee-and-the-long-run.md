@@ -60,7 +60,7 @@ He had six. That was the part nobody saw.
 
 It had been a good business once. *Bekele & Brother, Green and Roasted, Since 1998:* a name on a board, two trucks, a ledger in Yared's careless left-handed hand, and a laugh that came up the lane before its owner. Then, in October, Yared had died on the Awash road, and what he left was the laugh's absence, a warehouse with a mortgage and eleven thousand sacks of green Yirgacheffe, and a list. Samuel had found it in a cigarette tin: *a baker, two cousins, a bank, a priest, a man in Dire Dawa who sold goats.* A brother who owed everyone, and had smiled about it, and had never said.
 
-Samuel, who was not a man who smiled, had said: *Then I owe everyone.* It was a sentence of a kind that, once said, will not go away.
+Samuel, who did not smile, had said: *Then I owe everyone.* Some sentences, once said, do not go away.
 
 At the front of the roastery, on a low stool beside a brazier of coals, sat Selam Tesfaye with her coat open and her bare hands round a clay cup, watching him like a judge watching a defendant who is not quite guilty.
 
@@ -74,7 +74,7 @@ At the front of the roastery, on a low stool beside a brazier of coals, sat Sela
 
 "I know," said Selam. "That is what I am paying for."
 
-He washed the green beans in a bowl, as they had done it in his mother's house, and set them on the pan over the coals, and began to move them with a long iron spoon. There was a sound like rain beginning on a tin roof. Then a smell rose, and it was green first, grassy, bright, and then, as the colour deepened, sweet, and then, abruptly, nutty and brown, and over the whole room the blue smoke rolled and hung in the sunlight like incense in a church, and Selam bent and fanned it toward her face with her cupped hand, as one does, and closed her eyes.
+He washed the green beans in a bowl, as they had done it in his mother's house, and set them on the pan over the coals, and began to move them with a long iron spoon. There was a sound like rain beginning on a tin roof. Then a smell rose, and it was green first, grassy, bright, and then, as the colour deepened, sweet, and then, abruptly, nutty and brown, and over the whole room the blue smoke rolled and hung in the sunlight like incense, and Selam bent and fanned it toward her face with her cupped hand, and closed her eyes.
 
 > *The bean is green, and thinks itself a stone.
 > The fire says: Open. And it will not hear.
@@ -109,7 +109,7 @@ The short woman in brown, who was Rahel Girma, fifty-five, landlady of the wareh
 
 "The goat man's nephew. He is outside, and he has brought a goat, as a *warning.*"
 
-At the end of the room, Selam did not move. She sat as still as a runner in the starting-blocks, her cup halfway to her mouth, with a face from which every expression had been carefully removed, as one removes the pits from olives. She was not looking at the creditors. She was not looking at him. She was looking at the pan.
+At the end of the room, Selam did not move. She sat as still as a runner in the starting-blocks, her cup halfway to her mouth, her face emptied of every expression, as olives are emptied of their stones. She was not looking at the creditors. She was not looking at him. She was looking at the pan.
 
 And Samuel, who could feel her not-looking, felt something in his chest that he had no word for in any of his languages: not shame, nor quite gratitude, but the sweet and awful sensation of being seen and spared.
 
@@ -203,15 +203,15 @@ At a quarter to five, with the children's class dismissed and the corridor empti
 > And never has been asked to stand on it
 > Herself, since that last night, the knee, the curtain.
 > I have not asked. I have been courteous.
-> I have been courteous for six years,
-> Which is to say a coward, with good manners.
+> I have been courteous for six years:
+> A coward, with good manners.
 > Tonight there is the snow. The room is empty.
 > If I should ask, and she should say it plain—
 > Then let her say it plain.*
 
 "You are talking to the angels," said a dry voice from the door, "again."
 
-Dmitri did not leap, though a lesser man would have. He rose, with the grave slow formality that was his only armour, and turned, and there she stood, with her black bag over her shoulder and a cane she denied was a cane. She was thirty-eight. She had a long throat and a proud flat mouth and a way of standing that was less a posture than a ruling, and the left knee, under her trousers, was stiff as a hinge in winter.
+Dmitri did not leap. He rose, with the grave slow formality that was his only armour, and turned, and there she stood, with her black bag over her shoulder and a cane she denied was a cane. She was thirty-eight. She had a long throat and a proud flat mouth and a way of standing that was less a posture than a ruling, and the left knee, under her trousers, was stiff as a hinge in winter.
 
 Anya Petrova, retired ballerina, who in her day had been called *the Swan of the Fontanka* and, in her present state, had been called by the youngest of her pupils *Madame Hurricane,* looked at him down the length of the rehearsal room as at a man who has been caught with the silver.
 
@@ -251,7 +251,7 @@ There was a silence. The stove ticked. It was, he noted with the instinct of his
 
 He crossed the floor. It was twelve paces; he counted them, from habit, in three. At the end of them he stopped, and bowed, with a deep old-fashioned bow, the kind that has not been seen in a Petersburg rehearsal room since the days of Imperial teachers, and came up again with a face as white as a fresh page.
 
-"Anya Petrova," he said. "I wrote a waltz. You know that. You heard it in the wings, on the night of the gala. I did not know; I learned it from four lines left under a lamp. I have never told you whom it was for. I have never asked you for anything. I am asking you now." He drew breath. "Would you do me the honour of one dance?"
+"Anya Petrova," he said. "I wrote a waltz. You know that. You heard it in the wings, on the night of the gala. I did not know whom it was for until it was written. I have never told you. I have never asked you for anything. I am asking you now." He drew breath. "Would you do me the honour of one dance?"
 
 There was no sound in the room but the stove.
 
@@ -273,7 +273,7 @@ Anya Petrova stood quite still. A long moment went by in which a great many thin
 
 "That is the *oldest* dancing," said Dmitri Volkov, with the sudden, startling shyness of a man saying the one true thing he has rehearsed for six years, "and I am told I have a gift for the rest."
 
-She looked at him. She looked at the rest, the silence, the held breath in the dark, the hour on the clock, the angels on the ceiling, who had looked down for a hundred years on every sort of fool.
+She looked at him. She looked at the silence, the held breath in the dark, the clock, the angels on the ceiling, who had looked down for a hundred years on every sort of fool.
 
 "No," said Anya.
 
@@ -305,13 +305,13 @@ She went to the door. With her hand on it she paused, and did not turn.
 
 "Play it again. With the rest."
 
-He sat. He put his hands to the keys. Behind him the door shut with a click, and her uneven footsteps went away down the stairs, step, step, and the dry small click, and the step. And he played the waltz, slowly, the whole of it, in the dark, with the rests as long as they wanted to be, and at the seventh bar, on the third beat, where a great deal of his life was kept, he held the silence so long that the plaster angels leaned from the ceiling to find out what would come next.
+He sat. He put his hands to the keys. Behind him the door shut with a click, and her uneven footsteps went away down the stairs: step, step, and the dry small click, and the step. And he played the waltz, slowly, the whole of it, in the dark, with the rests as long as they wanted to be, and at the seventh bar, on the third beat, where a great deal of his life was kept, he held the silence so long that the plaster angels leaned from the ceiling to find out what would come next.
 
-In the corridor, among a rack of tutus, with a copy of the *Evening Petersburg* held before his face like a mask, Sergei Orlov, costume-master, fifty-seven, devout, who had read a good half of the theatre's private correspondence by the simple expedient of standing very still, murmured to a feathered skirt:
+In the corridor, among a rack of tutus, with a copy of the *Evening Petersburg* held before his face, Sergei Orlov, costume-master, fifty-seven, devout, who had read half the theatre's private correspondence by the simple expedient of standing very still, murmured to a feathered skirt:
 
 "*Well, my dear,*" he said. "*She did not say never.*"
 
-Sergei, who read other people's post and other people's lives, and was wrong about the one and right about the other, crossed himself, and went away to mend a swan.
+Sergei, who read other people's post and other people's lives, and was wrong about the one and right about the other, crossed himself and went away to mend a swan.
 
 ---
 

@@ -9,15 +9,15 @@
 ### SCENE I
 *Kano, Nigeria. The tailors' lane behind Kurmi Market, ten in the morning, in the season of the harmattan. The wind has come down from the Sahara with a load of fine red dust, and the sun hangs in the sky like a coin at the bottom of a pond.*
 
-In the lane behind Kurmi Market the treadle machines clatter in their hundreds, like a town of nervous sparrows, and on a harmattan morning the dust lies on the cloth, on the counters, on the cats, and on the eyelashes of the goldsmith, who was Aminu Yakubu, fifty, the owner of the loudest laugh in Kano and the shop next door to a tailor.
+In the lane behind Kurmi Market the treadle machines clatter in their hundreds, like a town of nervous sparrows, and on a harmattan morning the dust lies on the cloth, on the counters, on the cats, and on the eyelashes of the goldsmith, who was Bashir Yakubu, fifty, the owner of the loudest laugh in Kano and the shop next door to a tailor.
 
 "*Yusuf!*" he roared, through the wall. "There is a very old woman in your doorway, and she is holding a fan like a sword!"
 
 "I know," said Yusuf Abdullahi, from the dark of his shop. "I am hiding."
 
-He was thirty-three, a tailor, devout and modest and the best in the lane, which he would have denied under oath. He was a narrow man with a clean-shaven, serious face, and hands like a pianist's, long and exact, that moved on a seam as if it were a sleeping child. He had a Singer treadle machine older than himself, a tape measure around his neck like a stole, and a prayer-cap that sat very straight. He had never said an unnecessary word, and had accordingly said, in thirty-three years, hardly any at all.
+He was thirty-three, a tailor, devout and modest and the best in the lane, which he would have denied under oath. He was a narrow man with a clean-shaven, serious face and long, exact hands that moved along a seam as if it were a sleeping child. He had a Singer treadle machine older than himself, a tape measure around his neck like a stole, and a prayer-cap that sat very straight. He had never said an unnecessary word, and had accordingly said, in thirty-three years, hardly any at all.
 
-"Malam Yusuf," said Hajiya Zainab Bello, sweeping in. She was sixty-nine, a retired pharmacist and, in the opinion of Kano, the finest matchmaker north of the Niger. She had arranged four hundred and six marriages and been wrong, by her own count, in two. She sat on the stool in the corner and arranged her *zani* about her like a general disposing her flag. "I have come to commission a dress."
+"Malam Yusuf," said Hajiya Zainab Bello, sweeping in. She was sixty-nine, a retired pharmacist and, in the opinion of Kano, the finest matchmaker north of the Niger. She had arranged four hundred and six marriages and been wrong, by her own count, in two. She sat on the stool in the corner and arranged her *zani* about her like a general disposing a flag. "I have come to commission a dress."
 
 "For whom, Hajiya?"
 
@@ -33,7 +33,7 @@ He was thirty-three, a tailor, devout and modest and the best in the lane, which
 
 There was a very small sound. It was the sound of a tape measure being dropped.
 
-*A man of Yusuf Abdullahi's character does not faint. He merely sat down, with great deliberation, on the nearest bolt of cloth, and looked at a small lizard on the opposite wall as if it had said something of the highest importance.*
+Yusuf Abdullahi did not faint; it was not in his character. He sat down, with great deliberation, on the nearest bolt of cloth, and looked at a small lizard on the opposite wall as if it had said something of the highest importance.
 
 "Hauwa," said Yusuf.
 
@@ -61,15 +61,15 @@ When she had gone, the goldsmith put his head round the wall with a plate of gro
 
 "I am only going to say—"
 
-"Aminu."
+"Bashir."
 
-"—that I have sold gold to four hundred grooms," said Aminu Yakubu, "and I have never once seen one look as you looked just now. And you are not the groom." He placed the plate carefully on the counter. "I have a wife. I know nothing. Eat the nuts."
+"—that I have sold gold to four hundred grooms," said Bashir Yakubu, "and I have never once seen one look as you looked just now. And you are not the groom." He placed the plate carefully on the counter. "I have a wife. I know nothing. Eat the nuts."
 
 ---
 
 The dress of Hauwa Garba came on Thursday, folded in a clean cloth, in the arms of her mother.
 
-It was a plain green cotton dress, worn at the elbows, with a pocket on one side where a pencil had been carried, and ink on the right cuff, a small blue-black stain. She wrote the register of births. It was the stain of four hundred children's names. He turned it on the table beneath the lamp, and measured, as he had been told, the shoulder, the sleeve, the fall, and in the measuring he read her, as a man reads a page in a language he has studied for years: the way she carried her left arm a little crooked, from lifting; the narrowness of the waist, from forgetting to eat; the fold at the elbow where a woman has leaned on a doorframe through a long night, waiting for a head to crown.
+It was a plain green cotton dress, worn at the elbows, with a pocket on one side where a pencil had been carried, and ink on the right cuff, a small blue-black stain. She wrote the register of births. It was the stain of four hundred children's names. He turned it on the table beneath the lamp, and measured, as he had been told, the shoulder, the sleeve, the fall, and in the measuring he read her, as one reads a page in a language studied for years: the way she carried her left arm a little crooked, from lifting; the narrowness of the waist, from forgetting to eat; the fold at the elbow where a woman has leaned on a doorframe through a long night, waiting for a head to crown.
 
 He did not say her name. He had a rule.
 
@@ -102,7 +102,7 @@ Hauwa Garba had been awake since the previous dawn. She had delivered a child in
 
 She was thirty, tall, quiet, with a long, still face and brown eyes that missed nothing. She had delivered four hundred and twelve children. She had learned to wait. It was a skill, she told the young nurses, and it was not the same as having time.
 
-She was to be married in May. She knew the baker, who was honourable, and silent, and had once walked past her clinic door a hundred times without going in. She knew her father's heart, which was set on it, and Hajiya Zainab's, which was set on everything. She had said nothing. A woman of thirty in Kano has a great many ways of saying it.
+She was to be married in May. She knew the baker, who was honourable, and silent, and had once walked past her clinic door a hundred times without going in. She knew her father's heart, which was set on it, and Hajiya Zainab's, which was set on everything. She had said nothing. A woman of thirty in Kano has a great many ways of saying nothing.
 
 In the lane, in the grey, one light was burning. It was a little yellow flame behind a slit in a shutter, in a shop the width of a coffin; and through the slit, because she was a midwife and had learned to see in the dark, she saw a man with his head down, quite still, with a thread in his teeth, and on his table a long cloth the colour of milk.
 
@@ -127,7 +127,7 @@ She did not say it aloud. She said, instead, very softly, to the lamp, in the wa
 
 The company had died on a Thursday and been buried on a Friday, in the form of a letter from a lawyer in Ikoyi; and the nine members of its staff, having read it aloud to one another in the toilet, had agreed to take it as a suggestion.
 
-So they had stayed. Emeka Okafor, twenty-eight, founder of nothing, sat among them with a calculator and the expression of a man who has been forgiven by a congregation and cannot decide what to do with it. Tobi, twenty-four, had built a spreadsheet of Chidinma Eze's order book so beautiful that it was shown to visitors. Ngozi Afolabi, her oldest friend, a mechanic, had taken the big Juki sewing machine apart on the floor, in her coverall, and was speaking to it quietly, as one talks to a horse before an operation.
+So they had stayed. Emeka Okafor, twenty-eight, founder of nothing, sat among them with a calculator and the look of one who has been forgiven by a congregation and cannot decide what to do with it. Tobi, twenty-four, had built a spreadsheet of Chidinma Eze's order book so beautiful that it was shown to visitors. Ngozi Afolabi, her oldest friend, a mechanic, had taken the big Juki sewing machine apart on the floor, in her coverall, and was speaking to it quietly, as one talks to a horse before an operation.
 
 "A machine that has been set to one stitch," said Ngozi, "hates to be asked for another. That is not a fault. That is *character.*"
 
@@ -202,7 +202,7 @@ On the seat was a paper boat.
 
 It was folded neatly, as a child folds one, with a crisp bow and stern. It had been made from a page of notebook paper. She knew the ruling. She knew the faint blue lines. She knew, with a cold, clear, slow dropping of the stomach, the handwriting that ran across the sail, because it was her own.
 
-*Name. Contractor. Amount.* It was a page from the third notebook, from the bottom of her bag, in the office, in the locked drawer.
+*Name. Contractor. Amount.* It was a page from the third notebook, which she kept in the locked drawer of her desk.
 
 On the other side, in a different hand, a hand that had been taught to write by a clerk, a single line:
 
@@ -210,9 +210,9 @@ On the other side, in a different hand, a hand that had been taught to write by 
 
 Sana Ahmed stood in the lamplight for a long time.
 
-She did not look round. She did not need to. She had interviewed enough frightened men to know exactly how it felt when someone was watching from a car with the lights off, and she would not give him the pleasure. She turned the boat over once in her palm. It weighed nothing. It weighed about as much as a sentence.
+She did not look round. She did not need to. She had interviewed enough frightened men to know exactly how it felt when someone was watching from a car with the lights off, and she would not give him the pleasure. She turned the boat over once in her palm. It weighed about as much as a sentence.
 
-Then she did the bravest thing she knew. She folded it back along its creases, and put it into the pocket of her bag, and put on her helmet, and she started the engine, and she rode the same way home.
+Then she did the bravest thing she knew. She folded it back along its creases, put it into the pocket of her bag, put on her helmet, started the engine, and rode the same way home.
 
 *Reader, I will not tell you that she was not afraid. The Keeper has read her letter; it says plainly: "A man has threatened me and I pretend I am not afraid." Pretending is not the absence of fear. It is a form of rowing.*
 

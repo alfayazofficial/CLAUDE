@@ -44,7 +44,7 @@ Rahim Chowdhury, foreman, thirty-three, stood at the foot of the cliff with a ga
 
 "The helmet is hot," Rahim agreed, "and the alternative is a hot head with a cold floor beneath it. Put it on."
 
-The men laughed, because it is the privilege of the poor to laugh at the rules that keep them alive. But they put the helmets on. They called it *Rahim bhai's school*, and in the evening they sometimes called it other things, but they came to school.
+The men laughed, because it is the privilege of the poor to laugh at the rules that keep them alive. But they put the helmets on. They called it *Rahim bhai's school*, and in the evening they sometimes called it other things, but they came.
 
 For there had been a morning, eleven months before, when he had not been so strict. A plate of hull steel, long as a bus and thick as a door, had been cut free by a man who had been told the compartment behind it was cleared. It was not cleared. A pocket of gas, a spark. And a young cutter from the north named Jamal Uddin, twenty-two, six weeks on the yard, was standing where the plate came down.
 
@@ -52,7 +52,7 @@ Rahim had signed the permit. That is the whole of the story, and it takes three 
 
 "Tea, bhai?"
 
-It was Nayeem, who kept the canteen under the tarpaulin, a thin, anxious, kindly man from Dhaka who had once been a waiter in a hotel with chandeliers and now served biscuits to men who wore sandals made of tyres. He was fifty-two, absent-minded in the manner of a man whose mind is always somewhere more interesting, and he held out a glass, steaming.
+It was Nayeem, who kept the canteen under the tarpaulin, a thin, anxious, kindly man from Dhaka who had once been a waiter in a hotel with chandeliers and now served biscuits to men in sandals made of tyres. He was fifty-two and absent-minded, and he held out a glass, steaming.
 
 "Not now."
 
@@ -64,9 +64,9 @@ It was Nayeem, who kept the canteen under the tarpaulin, a thin, anxious, kindly
 
 "Out of spite."
 
-"Ah. It is very sustaining. But it does not warm the hands." He pushed the glass into Rahim's hand, since a thing refused is only a thing postponed, and added, quite casually, as he turned away: "A man cannot carry a thing like you carry it, bhai. Unless he is waiting for somebody to take it off him. I have noticed this about *trays.*"
+"Ah. It sustains. But it does not warm the hands." He pushed the glass into Rahim's hand, since a thing refused is only a thing postponed, and added, quite casually, as he turned away: "You say *not now* like a man putting a lid on a pot. Nobody carries a thing like that, bhai, unless he is waiting for somebody to take it off him. I have noticed this, being a man who carries trays."
 
-Rahim looked at the tea. Then at the vast red ship. Then at the sea, which had gone very far out, and which, at that hour, looked like a thing that had given up all argument.
+Rahim looked at the tea. Then at the vast red ship. Then at the sea, which had gone very far out and looked like something that had given up all argument.
 
 He drank the tea. It was, God forgive him, very good.
 
@@ -89,7 +89,7 @@ Under the tin roof of the garden dispensary, Dr. Nusrat Jahan, twenty-nine, was 
 
 "Excellent."
 
-She was the only doctor for three thousand pluckers and their children, in a garden that ran along the green hills like a stitched cloth, and she had come to it at twenty-five with a stethoscope and a conviction that she would stay two years. That was four years ago. She had in her time lanced, stitched, vaccinated, scolded and been given in thanks three hundred and eleven pineapples.
+She was the only doctor for three thousand pluckers and their children, in a garden that ran along the green hills like a stitched cloth, and she had come to it at twenty-five with a stethoscope and a conviction that she would stay two years. That was four years ago. She had lanced, stitched, vaccinated, scolded, and been given in thanks three hundred and eleven pineapples.
 
 She healed everyone. It was her profession, and also, as she sometimes admitted in the small hours when the rain was loud, her hiding-place.
 
@@ -97,17 +97,17 @@ When the wrist was set and the family gone, she washed her hands and found a wom
 
 "Rokeya apa," said Nusrat. "Is it Mitu again? Is the fever back?"
 
-"No, doctor-apa. It is the other thing." The woman, who was perhaps thirty and looked forty, held out the tin. "Will you read it? You read well. I cannot. I have asked the boy in the post office, but he reads aloud, and the whole market—"
+"No, doctor-apa. It is the other thing." The woman, who was perhaps thirty and looked forty, held out the tin. "Will you read them? You read well. I cannot. I have asked the boy in the post office, but he reads aloud, and the whole market—"
 
-The tin contained eleven small slips of paper, each a little rubbed at the folds. Money-order receipts. The money had come every month for eleven months, three thousand taka, precisely, on the ninth. It had come, said Rokeya, after her husband had gone to the yards in Chittagong to earn for the children, and died there, on the ship, on a day with no warning.
+The tin held eleven small slips of paper, each rubbed at the folds: money-order receipts. The money had come every month for eleven months, three thousand taka, precisely, on the ninth. It had begun, said Rokeya, after her husband went to the yards in Chittagong to earn for the children, and died there, on a day with no warning.
 
 "I thought it was from the owner," said Rokeya. "But the owner sent the first money, with a letter that said *regret.* This one says nothing. I do not like a thing that gives and says nothing, doctor. It is like a man who stands at your gate at night and does not knock."
 
 Nusrat turned the slips over. On every one the sender's block, in the same flat, careful, upright hand: *R. Chowdhury, Fauzdarhat, Chittagong.*
 
-She did not say anything for a time. The rain went on.
+She said nothing for a time. The rain went on.
 
-That night, when the lamp was low and the wards asleep, she opened the laptop which the district council had given her for vaccination forms, and, being a doctor, who must know the cause before the cure, she typed into the search bar of the Register of Black Stars the single word *Chittagong.*
+That night, when the lamp was low and the wards asleep, she opened the laptop the district council had given her for vaccination forms and, being a doctor, who must know the cause before the cure, typed into the search bar of the Register of Black Stars the single word *Chittagong.*
 
 Nineteen entries.
 
@@ -116,9 +116,9 @@ The fourteenth said:
 **ENTRY 0618 — Chittagong, Bangladesh.**
 ***"A man died on my watch and I have not forgiven myself."***
 
-She read it, and she sat quite still, and her heart, which was a professional heart and generally kept regular hours, went off the rails.
+She read it, and sat quite still, and her heart, which was a professional heart and generally kept regular hours, went off the rails.
 
-She wrote, which she should not have done, because a doctor should not meddle in what she cannot cure. But she wrote:
+She wrote, which she should not have done, because a doctor should not meddle in what she cannot cure:
 
 > *To the writer of Entry 0618, from the writer of Entry 0083. A woman in Sreemangal has a tin box with eleven receipts and a question. She does not want money. She wants to know who it is that stands at her gate and does not knock. I think, perhaps, you could knock. — N.J.*
 
@@ -131,7 +131,7 @@ She sent it. Above her a gecko hung motionless in the lamplight with the air of 
 ### SCENE III
 *Naples. A pizzeria on a street so narrow that the washing on one side may be borrowed from the other. A table, six chairs, a menu, a war.*
 
-Meanwhile, at the other end of the sea, a different kind of feud was being settled by a different kind of tribunal: the planning of a wedding.
+Meanwhile, at the other end of the world, a different feud was being settled by a different tribunal: the planning of a wedding.
 
 "The pizza," said Alessandro Greco, thirty-three, pizzaiolo, "is the *first* course. It has been the first course since Naples was Naples."
 
@@ -145,7 +145,7 @@ Meanwhile, at the other end of the sea, a different kind of feud was being settl
 
 "With *sorrow*," said Chiara, "and *flour.*"
 
-At the head of the table sat Paolo Ricci, thirty, choir director and cousin to both families by one of those Neapolitan marriages whose branches have not been traced since the Bourbons, writing it all down on a napkin. He believed that a thing written became true, which is also the belief of governments.
+At the head of the table sat Paolo Ricci, thirty, choir director and cousin to both families by one of those Neapolitan marriages whose branches have not been traced since the Bourbons, writing it all down on a napkin. He believed that a thing written became true, as governments do.
 
 "A *concordat,*" said Paolo. "Pizza first, pastry last, and in the middle the pasta, over which no one has any feelings."
 
@@ -163,7 +163,7 @@ The two cooks looked at each other as they had a year before, when she had come 
 
 "I said it was *musical,*" said Paolo, wounded.
 
-Behind the bar, an old woman who had been polishing one glass for eleven minutes remarked that in her day a wedding was settled by the mothers in one afternoon. Nobody heard her. The old are the great prophets of Naples, and are listened to only at funerals.
+Behind the bar, an old woman who had been polishing one glass for eleven minutes remarked that in her day the mothers settled a wedding in one afternoon. Nobody heard her. The old are the prophets of Naples, and are listened to only at funerals.
 
 ---
 
@@ -180,13 +180,13 @@ Marco Bellini, tenor, thirty-four, could fill the Arena with one sustained note,
 
 "You are breathing like an aria. Breathe like a man."
 
-Francesca Costa, fifty, a weaver from Mantua with a talent for catastrophe, hurried through the courtyard announcing that she had lost the *only* pin, and that the pin was *symbolic.* Elena Gallo, seventy-four, retired newsagent, who had known the bride's mother, said, "Francesca, you are holding it in your teeth."
+Francesca Costa, fifty, a weaver from Mantua with a talent for catastrophe, hurried through the courtyard announcing that she had lost the *only* pin, and that the pin was *symbolic.* Elena Gallo, seventy-four, who had known the bride's mother, said, "Francesca, you are holding it in your teeth."
 
 "I am *consulting* it," said Francesca, and left, with the pin.
 
 Meanwhile, three streets away, in a room above a bakery, Giulia Rossi, thirty-one, balcony guide, was sitting in her wedding dress with her shoes off, answering a letter.
 
-For years she had answered them, the letters left by pilgrims on the wall, the tear-stained, the misspelled, the hopeful, small paper boats launched at a balcony by people who believed that stone has ears. She had answered them under a hundred invented names, with the cynicism of a woman who knows the post. And one of the last had been written by a tenor.
+For years she had answered them, the letters left by pilgrims on the wall, the tear-stained, the misspelled, the hopeful, small paper boats launched at a balcony by people who believed that stone has ears. She had answered them under a hundred invented names, with the cynicism of a woman who knows the post. One of the last had been written by a tenor.
 
 She wrote now, on the back of a wedding-order card:
 
@@ -218,7 +218,7 @@ The priest, who had seen four hundred weddings, was seen to remove his spectacle
 ### SCENE V
 *The bridge of a container ship in the Adriatic. Night. A radio. A decision.*
 
-Marija Kovač, thirty, second officer, stood watch on the bridge of the *Zagora* in the small hours, with a cold coffee at her elbow and the black Adriatic spread before her like a ledger no one had balanced.
+Marija Kovač, thirty, second officer, stood watch on the bridge of the *Zagora* in the small hours, with a cold coffee at her elbow and the black Adriatic spread before her like an unbalanced ledger.
 
 "Officer Kovač," said the captain, behind her. He was sixty, white-bearded, lean as a mast, and had been trying to keep her four years. "The company's offer. The Rotterdam–Singapore line. A chief officer's berth. Four months out, five weeks home. I wanted you for it before I wanted anyone."
 
@@ -230,7 +230,7 @@ She stood a long while at the glass. In the dark ahead a pinprick of light grew,
 
 "Ship at position forty-three, fifteen north," she said. "This is *Zagora.* Do you read?"
 
-A crackle. Then, a long way away, in a voice she would have known through the roar of a typhoon: "*Zagora,* this is the *Vela.* I read you. Is that the second officer?"
+A crackle. Then, a long way off, in a voice she would have known through the roar of a typhoon: "*Zagora,* this is the *Vela.* I read you. Is that the second officer?"
 
 "It is."
 
@@ -240,9 +240,9 @@ A crackle. Then, a long way away, in a voice she would have known through the ro
 
 "And what will you say?"
 
-She looked at the black water. She had made herself a rule at twenty, that a woman who waits at a rail to be asked is only a figurehead; and her one great discovery since was that she liked being asked.
+She looked at the black water. She had made herself a rule at twenty, that a woman who waits at a rail to be asked is only a figurehead; her one discovery since was that she liked being asked.
 
-"I will say yes to the world," said Marija. "And I will tell the world that on the ninth of March, for four days, between Rotterdam and Singapore and a certain ship called the *Vela,* there is a gap in the schedules, and in that gap there is a church in Split. And I will tell the world that it may take what it likes of me, but that for those four days it may not have the third thing."
+"I will say yes to the world," said Marija. "And I will tell the world that on the ninth of March, for four days, between Rotterdam and Singapore and a certain ship called the *Vela,* there is a gap in the schedules, and in that gap there is a church in Split. And I will tell the world that it may take what it likes of me, but that for those four days it may not have me."
 
 The radio hissed. "I have no idea," said Ivan, "what you just said."
 
@@ -253,9 +253,9 @@ The radio hissed. "I have no idea," said Ivan, "what you just said."
 ### SCENE VI
 *Sreemangal. The tea garden at the end of the afternoon. The kash-grass in flower, white as a surrender. A man walks up the hill alone.*
 
-He came on the night train, with a small bag and a smaller hope, and walked up from the station in the rain, in the wrong shoes, through three miles of tea.
+He came on the night train, with a small bag and a smaller hope, and walked up from the station in the wrong shoes through three miles of tea.
 
-He had not written back. He had read her message four times, and stood on the sand facing the sea for the length of a tide. Then, on the fifth day, without telling anybody, not even Nayeem, who knew everything, he had taken a day's leave, for the first time in eleven months.
+He had not written back. He had read her message four times, and stood on the sand facing the sea for the length of a tide. Then, on the fifth day, without telling anybody, not even Nayeem, who knew everything, he had taken a day's leave, the first in eleven months.
 
 Nusrat was on the dispensary steps. She had seen him coming from the end of the lane, a man in a good shirt and bad shoes, walking like one who has carried a plate of steel for eleven months and is not sure what to do with his arms.
 
@@ -265,9 +265,9 @@ Nusrat was on the dispensary steps. She had seen him coming from the end of the 
 
 "I have come to knock."
 
-"Yes," said Nusrat gravely. "I see that. Please come in out of the rain. You are going to catch your death, and I am the only doctor in three thousand, and I would be embarrassed."
+"Yes," said Nusrat gravely. "I see that. Please come in out of the rain. You are going to catch your death, and I am the only doctor for three thousand, and I would be embarrassed."
 
-She gave him tea, the seven-coloured kind they make in that country, in bands of red and amber and cream and green, each layer lying on the last as though poured by a patient God. He held it a long time without drinking.
+She gave him the seven-layer tea they make in that country, bands of red and amber and cream and green, each lying on the last as though poured by a patient God. He held it a long time without drinking.
 
 "Rokeya is in the next room," she said. "She knows. She said she would hear it from your mouth or not at all."
 
@@ -277,17 +277,17 @@ She gave him tea, the seven-coloured kind they make in that country, in bands of
 
 In the next room, on the bench beneath a picture of a mosque and a calendar of a cricketer, sat the widow in the blue sari, with the tin box in her lap. She looked at him. He was taller than she had imagined, and thinner, and he stood in the doorway as though the doorway might fall.
 
-He told her. He did not dress it. He told her about the permit, and the plate, and the three words he had carried since. He told her the money was the only way he knew to say a thing he had no right to say. He did not ask to be forgiven. He had come, he said, because a man who stands at a gate for eleven months should at least have the courage to be seen by the woman inside.
+He told her. He did not dress it. He told her about the permit, and the plate, and the three words he had carried since, and that the money was the only way he knew to say a thing he had no right to say. He did not ask to be forgiven. He had come, he said, because a man who stands at a gate for eleven months should at least have the courage to be seen by the woman inside.
 
 When he had finished, there was no sound but rain.
 
-"It was a bad day," said Rokeya at last. "And you signed the paper. And you are the one who is standing here, and the owner is the one who is not. That is not nothing." She looked at the tin in her lap. "Every month on the ninth the child asks, *Is it the ninth?* and I say, *Yes,* and she says, *Then we eat fish.* You have fed my daughter fish for eleven months, foreman. I do not know how a woman is meant to hate a man for that." She stood up, and touched his sleeve, once. "I forgive you. I did it last month, in the dark, and did not say. Now I have said it. And now *you* will do the harder thing."
+"It was a bad day," said Rokeya at last. "And you signed the paper. And you are the one standing here, and the owner is not. That is not nothing." She looked at the tin in her lap. "Every month on the ninth the child asks, *Is it the ninth?* and I say, *Yes,* and she says, *Then we eat fish.* You have fed my daughter fish for eleven months, foreman. I do not know how a woman is meant to hate a man for that." She stood up, and touched his sleeve, once. "I forgive you. I did it last month, in the dark, and did not say. Now I have said it. And now *you* will do the harder thing."
 
 "What is that?"
 
 "You will forgive yourself, and you will eat a proper dinner."
 
-Rahim Chowdhury, who had faced tides and torches and a ton of falling iron, sat down on the bench, and put his face in his hands, and wept as a child weeps, with no dignity and complete relief. Rokeya patted his shoulder as one pats a goat that has finally stopped butting a gate. Nusrat, in the doorway, with a glass of tea in each hand, did not move.
+Rahim Chowdhury, who had faced tides and torches and a ton of falling iron, sat down on the bench, put his face in his hands, and wept as a child weeps, with complete relief. Rokeya patted his shoulder as one pats a goat that has finally stopped butting a gate. Nusrat, in the doorway, with a glass of tea in each hand, did not move.
 
 Later, by the garden's edge, where the tea bushes ran down to the white kash like waves going over a ridge, they walked together a little way, not touching.
 
@@ -299,21 +299,21 @@ Later, by the garden's edge, where the tea bushes ran down to the white kash lik
 
 She stopped. "That is a very exact sentence."
 
-"I took it from a friend," said Rahim gravely. "A canteen man. He has a gift for borrowing." He looked at her. "Dr. Jahan. Your Entry says you heal everyone else and have never been healed."
+"I took it from a friend," said Rahim gravely. "A canteen man. I am told I am a quick study." He looked at her. "Dr. Jahan. Your Entry says you heal everyone else and have never been healed."
 
 "I wrote that years ago."
 
 "Is it still true?"
 
-She considered it, in the long light, with the wet leaves shining all about her like a thousand small green mirrors.
+She considered it, in the long light, with the wet leaves shining all about her.
 
-"I do not know. I have been very busy. It is difficult to find out whether a thing is true when one has been so careful never to be quiet enough to hear it." She turned her head. "Mr. Chowdhury, my autoclave has been broken since June. The district office says September. Is there anything a foreman who has opened ships can do with a steel box?"
+"I do not know. I have been very busy. It is difficult to find out whether a thing is true when one has been so careful never to be quiet enough to hear it." She turned her head. "Mr. Chowdhury, my autoclave has been broken since June. The district office says *soon.* Is there anything a foreman who has opened ships can do with a steel box?"
 
 "I can," said Rahim, "look at it."
 
 "Then look at it," said Nusrat. "And afterwards, if you are willing, you might stay for dinner. It will be rice and dal and a little fish. I am told that on the ninth of the month, in this valley, it is traditional."
 
-He laughed. It was a rusty sound, hardly used, like a hinge on a door in a house that has been shut a long while. It was the first laugh since the morning of the plate, and the tea bushes, who are old and do not gossip, bent a little in the wind to let it pass.
+He laughed. It was a rusty sound, hardly used, like a hinge in a house long shut. It was the first laugh since the morning of the plate, and the tea bushes, who are old and do not gossip, bent a little in the wind to let it pass.
 
 ---
 
@@ -321,7 +321,7 @@ He laughed. It was a rusty sound, hardly used, like a hinge on a door in a house
 
 > *Tide takes the ship; the hill keeps the leaf. Between them stands a person whose whole work is to be kind to the dying and the living both, and who must be told, at last, by somebody else, that she is permitted to rest.*
 >
-> *He will mend her machine. She will mend nothing, and be mended. Mark the order of it, reader: it is usually that way round.*
+> *He will mend her machine. She will mend nothing, and be mended. Note the order of it, reader: it is usually that way round.*
 
 ---
 

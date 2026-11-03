@@ -13,7 +13,7 @@ There is a kind of dancer who dances for the audience, and a kind who dances for
 
 Putu Wirawan, twenty-eight, had been dancing for the second kind since he was six. At that hour, with the stars still out and the roosters beginning their wars across the rice terraces, he stood alone in the courtyard of the family temple in his practice sarong and a plain white headcloth, and he danced the warrior's dance, the *baris,* to no music at all but the dripping of the eaves.
 
-It is hard dancing, mark this, reader. The knees are bent and the back is straight, the fingers quiver like a leaf in a draught, and the eyes, which you would think were for seeing, are thrown wide, flashing, with a ferocity that must be applied and removed as one wears and takes off a coat. He had practised it every dawn for twenty-two years. He had never yet been satisfied.
+It is hard dancing, reader. The knees are bent and the back is straight, the fingers quiver like a leaf in a draught, and the eyes, which you would think were for seeing, are thrown wide, flashing, with a ferocity that must be put on and taken off like a coat. He had practised it every dawn for twenty-two years. He had never yet been satisfied.
 
 "You are late for the gods," said a voice behind him.
 
@@ -63,7 +63,7 @@ It was. It consisted of Bayu Saputra, fifty-three, a scribe of Yogyakarta, who w
 
 "Eyang, I have to finish the wedding cloth."
 
-"Then finish it." The old woman let go. "And Ermis has landed. She comes at noon from the airport, in a taxi, with a suitcase of Dutch cheese. She does not know what a wedding costs. She has been in the cold."
+"Then finish it." The old woman let go. "And Ermis lands this morning. She comes from the airport at noon, in a taxi, with a suitcase of Dutch cheese. She does not know what a wedding costs. She has been in the cold."
 
 "*BEAUTIFUL!*" said Ayu, from the dark.
 
@@ -75,7 +75,7 @@ Ermis Larasati, twenty-four, designer, resident for six months of the city of Ro
 
 She stood a moment with her suitcase and her heart. She had not expected it to feel so much like putting down a stone.
 
-*In Rotterdam,* she thought, *I am four hours behind him. I have been behind him since the twenty-second. I have eaten my dinner at the hour of his tea, and called at the hour when my mind is only starting to work, and have never once complained, because there is no one in Rotterdam to hear.*
+*In Rotterdam,* she thought, *I am four hours behind him. I have eaten my dinner at the hour of his tea, and called at the hour when my mind is only starting to work, and have never once complained, because there is no one in Rotterdam to hear.*
 
 *And here,* thought Ermis, *I am two hours ahead.*
 
@@ -96,7 +96,7 @@ The window blinked. A flat in Mirpur came into being. There was a candle in it, 
 
 "I am *not* early. I am *ahead.*" She pulled the lamp nearer. "I am two hours ahead of you tonight. Do you see how I have grown?"
 
-"You are three hours *taller*, at least. Where are you?"
+"You are two hours *taller*, at least. Where are you?"
 
 "Bali. At my cousin's. There is a wedding. Do you hear that noise? That is a gong being hit in a pattern. It has been hit in the pattern since seven. I think it is going to be hit in the pattern at my funeral."
 
@@ -161,7 +161,7 @@ At that instant a sound, great and sudden and not to be borne, issued from the o
 ---
 
 ### SCENE III
-*Saturday. Four weddings, on the same day, in four countries. Mark the clocks, reader: that is the whole of the joke.*
+*Saturday. Four weddings, on the same day, in four countries. Watch the clocks: that is the whole of the joke.*
 
 **Kochi, 9:00 a.m.**
 
@@ -169,7 +169,7 @@ Meera Menon, twenty-six, schoolteacher, stood in a cream-and-gold *kasavu* sari 
 
 It was a small, brown, sea-stained volume of poems. It was the book she had bought every year for six years, and in which she had found, every year, on the same page, in the same careful hand, a poem that was for her.
 
-And beside her, in a white *mundu* with a gold border, a bookseller of twenty-seven who had not stopped trembling since Tuesday, stood Arjun Nair, with the colour of a man who has seen the hour.
+And beside her, in a white *mundu* with a gold border, a bookseller of twenty-seven who had not stopped trembling since Tuesday, stood Arjun Nair, with the look of a man who has seen the hour.
 
 "You brought the book," said Arjun.
 
@@ -177,13 +177,13 @@ And beside her, in a white *mundu* with a gold border, a bookseller of twenty-se
 
 "They said not to."
 
-"I am a schoolteacher. When a person says *not to*, I mark it for the whole class." She held it out. "Read it. The one you hid. Now. In front of everybody."
+"I am a schoolteacher. When a person says *not to*, I put it on the board for the whole class." She held it out. "Read it. The one you hid. Now. In front of everybody."
 
 "Meera—"
 
 "*Now,* Arjun."
 
-So the shy bookseller of Kochi, in the presence of two hundred relatives, a brass lamp, a drummer, a nadaswaram player and his own father (who was seventy-six and had not been told), opened the book and read the poem aloud, in a voice that began as a whisper and rose, line by line, like water in a lock, till it reached the beams. Vishnu Pillai, her father, a retired train guard of theatrical disposition, had begun to weep before the second verse and had borrowed the handkerchief of a waiter, Lakshmi Panicker, who stood at his elbow, holding a tray of banana-leaf plates and trying to look like furniture.
+So the shy bookseller of Kochi, in the presence of two hundred relatives, a brass lamp, a drummer, a nadaswaram player and his own father (who was seventy-six and had not been told), opened the book and read the poem aloud, in a voice that began as a whisper and rose, line by line, like water in a lock, till it reached the beams. Vishnu Pillai, her father, a retired train guard of theatrical disposition, had begun to weep before the second verse and had borrowed the handkerchief of a waiter, Lakshmi Panicker, who stood at his elbow with a stack of banana-leaf plates, trying to look like furniture.
 
 "I did not want her to win," whispered Rajesh Kurup, the temple singer, a rival of other years, to the person next to him. "I thought it was a trick of the book. I was wrong. I will sing the *vazhi* myself."
 
@@ -193,7 +193,7 @@ And he did.
 
 **Lusaka, 10:00 a.m.**
 
-In the yard behind a house in the Kabwata quarter of Lusaka, beneath a mango tree, a schoolmaster of thirty-eight in his one good suit and a maize-seller of thirty-five in a blue *chitenge* of such magnificence that three women had to be seated to look at it, were being introduced to each other, for the fifth time, by their families.
+In the yard behind a house in the Kabwata quarter of Lusaka, beneath a mango tree, a schoolmaster of thirty-eight in his one good suit and a maize-seller of thirty-five in a blue *chitenge* of such magnificence that three women had to be seated to look at it were being introduced to each other, for the fifth time, by their families.
 
 It is the Zambian custom, which is wise: the families must meet before the people do, as the river must meet the sea before the fish. It is called the *lobola,* and in its way it is a duel of courtesy. Joseph Tembo's uncles sat in a row on one side, with a basket of gifts, speaking with great solemnity. Grace Banda's aunts sat in a row on the other, with arms crossed, listening with a gravity so profound it was clearly enjoyment.
 
@@ -207,9 +207,9 @@ It is the Zambian custom, which is wise: the families must meet before the peopl
 
 "It is *very* fair," said Loveness Zulu, thirty-eight, baker, who had brought the cake and could not be silenced, "so we should *all* eat."
 
-Joseph, at the end of the row, sat very straight, with his hands on his knees and the two children, Chisomo and Mapalo, on either side, scrubbed and furious with importance. Across the yard sat Grace, beside her friend Thandiwe Mumba, fifty-one, a train guard and a woman of no sentiment whatever, who had once told Grace that love was a thing invented by people who sold greetings cards.
+Joseph, at the end of the row, sat very straight, with his hands on his knees and the two children, Chisomo and Mapalo, on either side, scrubbed and furious with importance. Across the yard sat Grace, beside her friend Thandiwe Mumba, fifty-one, a railway ticket-inspector and a woman of no sentiment whatever, who had once told Grace that romance was a thing invented by people who sold greetings cards.
 
-"I am not sure I believe in it," murmured Thandiwe now, into Grace's ear.
+"I am still not sure I believe in it," murmured Thandiwe now, into Grace's ear.
 
 "I know."
 
@@ -229,7 +229,7 @@ It was an hour of pure Neapolitan insanity. The groom wept. The bride, who is th
 
 "I *borrowed* it," said Alessandro, and the entire square, which knew the story, said it in chorus.
 
-His sister, Anna Gallo, translator, who had come down from Mantua in a hat of tragic proportions, stood up at the long table to make a toast, and confessed to the assembled company that eleven months earlier, in the dead of night, she had found a letter on the shelf above the oven, an unsigned confession in her brother's hand, which he had intended to burn. "I did not let the fire have it," said Anna. "I put it in an envelope, and I posted it to an old woman in England who kept the secrets of strangers. I have been *waiting* to confess that. Alessandro, you owe me a divorce lawyer's fee in pizza."
+His sister, Anna Gallo, translator, who had married into Mantua and come down in a hat of tragic proportions, stood up at the long table to make a toast, and confessed to the assembled company that eleven months earlier, in the dead of night, she had found a letter on the shelf above the oven, an unsigned confession in her brother's hand, which he had meant to burn. "I did not let the fire have it," said Anna. "I put it in an envelope, and I posted it to an old woman in Cornwall who kept the secrets of strangers. I have been *waiting* to confess that. Alessandro, you owe me a finder's fee, in pizza."
 
 "I *knew* it!" cried Chiara, to nobody.
 
@@ -239,7 +239,7 @@ His sister, Anna Gallo, translator, who had come down from Mantua in a hat of tr
 
 And at five o'clock, on an island at the far end of the clocks, the gamelan struck, and three hundred people fell silent, and the wedding began.
 
-Mark this. A Balinese wedding is not a ceremony but a landscape; one walks through it. The bridal pair were led out beneath a shade of gold, in the heavy gold of Ubud, he in a dark *saput* and crown of frangipani, she in a gold-threaded *songket* that she had woven herself, with a pattern on the hem in black and white squares: the *poleng,* the cloth of the balance, which tells the god and the stranger that all things in the world come in two halves, and that neither is the enemy of the other.
+Mark this, reader: a Balinese wedding is not a ceremony but a landscape; one walks through it. The bridal pair were led out beneath a shade of gold, he in a dark *saput* and crown of frangipani, she in a gold-threaded *songket* that she had woven herself, with a pattern on the hem in black and white squares: the *poleng,* the cloth of the balance, which tells the god and the stranger that all things in the world come in two halves, and that neither is the enemy of the other.
 
 Ermis stood at the back with her grandmother and a caged parrot and was weeping in a manner she had arranged to look like hay fever.
 
@@ -273,6 +273,8 @@ She did not say what she meant. She was looking at her own phone, which lay dark
 *Margin note, in pencil, in the hand of S.W.R.:*
 
 > *Four weddings on one Saturday. A coincidence of dates is only the calendar's way of saying: the world has patience, but it also has deadlines.*
+>
+> *Entry 0445 and Entry 0141: a dancer, a weaver, and a cloth whose pattern says that two halves are not enemies.*
 >
 > *Say this to the girl with the indigo on her thumbs: it is not the hour that matters. It is that, somewhere, a window has been left lit.*
 

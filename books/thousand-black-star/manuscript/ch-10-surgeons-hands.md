@@ -19,7 +19,7 @@ She took it. The little ward, which contained a dozen patients, six physiotherap
 
 On the fourth finger of his left hand, a plain gold ring caught the light of the fluorescent tube.
 
-He wore it, as he had worn it for three years, with the unselfconscious ease of a thing that is part of the body. His patients assumed that he had a wife. His colleagues, who knew that she had died of a long and slow illness two Marches ago, did not mention it, in the delicate Brazilian way, by mentioning everything else at great length. His friend Pedro Souza, the pharmacist across the street, who never answered telephones but sent voice messages of eleven minutes' duration, had once said: "Carlos, one does not have to take it off. But one might *polish* it less."
+He had worn it for three years, as one wears a thing that has become part of the body. His patients assumed that he had a wife. His colleagues, who knew that she had died of a long illness two Marches ago, did not mention it, in the delicate Brazilian way, by mentioning everything else at great length. His friend Paulo Souza, the pharmacist across the street, who never answered telephones but sent voice messages of eleven minutes' duration, had once said: "Carlos, one does not have to take it off. But one might *polish* it less."
 
 He polished it, in fact, on the hem of his white coat, whenever he thought himself unwatched.
 
@@ -45,7 +45,7 @@ A boy stood at the entrance to the ward, sixteen, in school uniform, a thin, ser
 
 It was the exact and only epitaph that Raimundo Teles would have wished.
 
-He had been fifty-eight, a bus driver, a vast and furious man who had fallen from a scaffold while painting his daughter's house and had woken in a hospital with a spine like a broken broomstick, and a verdict that he would never again walk to his own front door. Carlos had spent fourteen months proving the verdict wrong. It had been a long war. Raimundo had insulted his mother, his methods, and the football team he supported, and on the last day, panting between the bars with sweat on his forehead, three hundred steps and not one of them pretty, he had said: "Doutor, I will walk to my own funeral."
+He had been fifty-eight, a bus driver, a vast and furious man who had fallen from a scaffold while painting his daughter's house and had woken in a hospital with a verdict that he would never again walk to his own front door. Carlos had spent fourteen months proving the verdict wrong. Raimundo had insulted his mother, his methods, and the football team he supported, and on the last day, panting between the bars, three hundred steps and not one of them pretty, he had said: "Doutor, I will walk to my own funeral."
 
 Which, three weeks ago, in the narrow and ironic geometry of life, he had very nearly done.
 
@@ -64,7 +64,7 @@ The ward, which was full of noise, became for Carlos Mendes a very long and quie
 
 Beatriz Lima had been awake for thirty-one hours, and was eating a bowl of beans with the expression of a woman reading a final demand.
 
-She was thirty-one. She was the youngest vascular surgeon in the hospital's history, and she looked it only in one respect, which was that she had not yet learned to stop proving it. She was tall, straight-backed, in green scrubs, with black hair pulled back so tightly it seemed an act of discipline, and eyes that were large and dark and rimmed with the grey of a person who has forgotten the use of sleep. Among the nurses she was called *a Doutora*, in a tone that contained admiration, fear, and an undertone of pity that they never let her hear.
+She was thirty-one, the youngest vascular surgeon in the hospital's history, and she looked it only in that she had not yet learned to stop proving it. She was tall and straight-backed, in green scrubs, with black hair pulled back so tightly it seemed an act of discipline, and large dark eyes rimmed with the grey of a person who has forgotten the use of sleep. Among the nurses she was called *a Doutora*, in a tone that contained admiration, fear, and a pity they never let her hear.
 
 Her mother's name was Lima. She had kept it, after the funeral, as one keeps the key to a house that no longer exists.
 
@@ -74,7 +74,7 @@ Her mother's name was Lima. She had kept it, after the funeral, as one keeps the
 
 "You are pushing a bean from the left side of the bowl to the right. It is a sad little pilgrimage."
 
-Pedro Rocha was sixty, a retired chef, a huge, bald, talkative, gossipy man with the forearms of a blacksmith and the soul of a tabloid. He had arrived at the hospital at eight-thirty with a thermos of feijoada the size of a fire extinguisher, in defiance of every regulation concerning outside food, and had distributed it among the nursing staff with the air of a man dispensing sacraments. He was immensely proud of his daughter, so proud that it had never occurred to him to say so, since to say so would have been a vulgar attempt to describe the sun.
+Pedro Rocha was sixty, a retired chef, a huge, bald, talkative man with the forearms of a blacksmith and the soul of a tabloid. He had arrived at eight-thirty with a thermos of feijoada the size of a fire extinguisher, in defiance of every regulation concerning outside food, and had distributed it among the nursing staff like sacraments. He was so proud of his daughter that it had never occurred to him to say so; it would have been a vulgar attempt to describe the sun.
 
 "Papai, I lost a patient."
 
@@ -112,7 +112,7 @@ Under it, in Portuguese and in a clumsy English translation, Pedro had written:
 
 *Osaka, spring. The chef told me, through the interpreter, that he makes one bowl every night for a woman who stopped coming. He sets it at her stool. He does not eat it. At closing he pours it away, and in the morning, he begins again. I asked, "How long?" The chef did not answer. He only wiped the counter.*
 
-Her father wiped his eyes with a napkin. "It is *very* popular," he said. "A man in Curitiba has proposed to his girlfriend. And nobody has said a word about the *ramen.*"
+Her father wiped his eyes with a napkin. "A man in Curitiba proposed to his girlfriend over it," he said.
 
 Beatriz looked at the photograph for a long time.
 
@@ -129,7 +129,7 @@ It was, of course, a conspiracy.
 
 The reader should not be surprised. A hospital contains choirs, locksmiths, and matchmakers in roughly equal proportions, and when all three are present, the result is inevitable.
 
-The choir was that of Fábio Santos, a thirty-year-old choir director from Campinas, who conducted the hospital's Christmas ensemble every Thursday in the ground-floor atrium and who, being of an artistic nature, had a great many old letters in his bag and a great many opinions in his head. The locksmith was Thiago Oliveira, forty-one, a vain and glittering man with a waxed moustache, who had been summoned by the hospital porters to rescue the elevator, and who, being a matchmaker by vocation and a locksmith by trade, regarded the entire building as a lock with a very obvious solution.
+The choir was that of Fábio Santos, a thirty-year-old director from Campinas, who conducted the hospital's Christmas ensemble every Thursday in the ground-floor atrium. The locksmith was Thiago Oliveira, forty-one, vain and glittering, with a waxed moustache, who had been summoned by the porters to rescue the elevator, and who, being a matchmaker by vocation and a locksmith by trade, regarded the entire building as a lock with a very obvious solution.
 
 "Who is in the lift?" he asked the porter.
 
@@ -205,7 +205,7 @@ For a moment he opened his mouth. *Not what you think,* he thought. *It is exact
 
 "I am sure it is," said Beatriz, with the clipped kindness of a surgeon closing a wound. "Thank you for the handkerchief. I am very sorry for keeping you from the pharmacy."
 
-*Ah,* says the Keeper, quietly, from the dark between the floors. *There it is. He might have said: I am a widower. A word of four syllables, and a world of difference. And she might have said: I should like to know. And neither did, and the lift did not move.*
+*Ah,* says the Keeper, quietly, from the dark between the floors. *There it is. He might have said: I am a widower. A word of three syllables, and a world of difference. And she might have said: I should like to know. And neither did, and the lift did not move.*
 
 ---
 
@@ -249,15 +249,15 @@ Beatriz stepped out first. She turned, in the doorway, and said, with perfect co
 ---
 
 ### SCENE IV
-*Osaka, Japan. Twelve hours ahead. It is the next morning, and has been, here, all along. Six a.m. in the ward of Fukushima, where the ramen shops put out their curtains in the dawn like flags.*
+*Osaka, Japan. Twelve hours ahead. It is eleven in the morning of the next day, and has been, here, all along. The ward of Fukushima, where the ramen shops put out their curtains like flags.*
 
-There is an old joke, among those who live between time zones, that it is always tomorrow somewhere. The people in São Paulo, who were wiping the last of the storm from their windows at four in the afternoon, had been preceded to the day by a good twelve hours, in a city on the other side of the world; and in that city, in a narrow apartment above a stationer's, a woman of thirty-three stood in her kitchen at six in the morning, with a cup of tea she could not taste, looking at a phone.
+There is an old joke, among those who live between time zones, that it is always tomorrow somewhere. In Osaka it was already the next morning, and in a narrow apartment above a stationer's a woman of thirty-three stood in her kitchen with a cup of tea she could not taste, looking at a phone.
 
-Mei Sato had been a food critic for eleven years. She had written, for a great Osaka newspaper, the best reviews in the history of the city: a cadence of salt and smoke, sweetness and acid, that readers had called *a hymn in a bowl.* And in the spring, one morning, without warning, with no pain and no fever and no dignity, she had put a spoonful of miso soup into her mouth, and tasted nothing at all. It had been, she thought, like hearing the world's last piano go quiet.
+Mei Sato had been a food critic for eleven years. She had written, for the *Naniwa Shimbun*, reviews in a cadence of salt and smoke, sweetness and acid, that readers called *a hymn in a bowl.* And last September, when a fever that should have been forgotten by Friday had gone, she had sat down to a plate of *tamagoyaki* and tasted nothing at all. It had been, she thought, like hearing the world's last piano go quiet.
 
-She had told no one. She wrote now from memory. She was good at it. She was a clever woman, and could construct a review of any bowl in Osaka from the vocabulary of her past, and no one, so far, had known the difference. But she had stopped going out. And she had stopped, in particular, going to a very small ramen shop in an alley in Fukushima ward, eight stools, run by a taciturn man called Tanabe, where she had eaten, on the third stool from the left, near the pipe where the steam rose, every Tuesday for six years.
+She had told no one. She wrote now from memory. She was good at it. She could construct a review of any bowl in Osaka from the vocabulary of her past, and no one, so far, had known the difference. But she had stopped going out. And she had stopped, in particular, going to a very small ramen shop in an alley in Fukushima ward, eight stools, run by a taciturn man called Tanabe, where she had eaten, on the eighth stool, at the end, near the pipe where the steam rose, every Thursday for two years.
 
-She had not been back since the new-moon night, when she had sat at his counter, said the one true thing, and run. *A critic who cannot taste is a liar with a pen,* she thought. *And a woman who cannot taste cannot sit at his counter. He would know. He would look at me and know.*
+She had not been back since the new-moon night, when she had sat at his counter, said the one true thing, been fed, and gone home to the quiet of her own mouth. *One night of being fed is a kindness,* she thought. *Every night would be charity. And he would see it.*
 
 On her phone, a friend had sent a link, with a single line: *Is this your Tanabe?*
 
@@ -271,9 +271,9 @@ The caption was in Portuguese, which she did not read. But beneath it ran an Eng
 
 She put the phone down.
 
-Across the city, at that hour, she knew, a man of thirty-four sat alone behind a counter before opening, in the clean quiet of a closed shop, skimming a pot he had begun at three in the morning. And between that man and a stranger's photograph, in a kitchen, with a cup of tea that tasted of nothing, stood the one woman for whom it had been made.
+Across the city, she knew, a man of thirty-four sat alone behind a counter in the clean quiet of a closed shop, skimming a pot he had begun at three in the morning. And between that man and a stranger's photograph, in a kitchen, with a cup of tea that tasted of nothing, stood the one woman for whom the bowl was made.
 
-"Daichi," said a voice, in a shop an hour's walk away, to a bewildered historian who had arrived at dawn with a mobile phone and the news. "You are telling me that I am famous in *Brazil.*"
+"Daichi," said a voice, in a shop across the city, to a historian who had arrived with a mobile phone and the news. "You are telling me that I am famous in *Brazil.*"
 
 "A hundred and forty thousand hearts, Tanabe-san! A woman in Recife says you have ruined her mother's soup!"
 
@@ -287,21 +287,21 @@ She stood in the hall. She took it off.
 
 She put it on again.
 
-*Tuesday,* she thought. *It is only Tuesday. I will go on Tuesday. And I will tell him the truth, or I will tell him a lie, and either way I shall have been there.*
+*Thursday,* she thought. *It is only Thursday. I will go on Thursday, and either I will tell him the rest of the truth, or I will tell him a lie, and either way I shall have been there.*
 
-Far away, a boy called Leandro sat on a bus back to Santos with an empty paper bag on his knee, a surgeon sat in her car in a hospital garage with a man's handkerchief in her pocket, and a physiotherapist polished a ring on the hem of his coat.
+Far away, a boy called Leandro slept in Santos with the smell of cheese still on his sleeves, a surgeon sat in her car in a hospital garage with a man's handkerchief in her pocket, and a physiotherapist polished a ring on the hem of his coat.
 
-And at a small shop on a narrow street, a bowl was set on the counter, as every night, and every morning, at the eighth stool, by the pipe, and steamed, as though it knew.
+And at a small shop on a narrow street, a bowl would be set that night at the eighth stool, by the pipe, and steam, as though it knew.
 
 ---
 
 *Margin note, in pencil, in the hand of S.W.R.:*
 
-> *Entry 0016 and Entry 0818, São Paulo. A ring and a scalpel. He is afraid to take off the one; she is afraid to put down the other. They are two hands, each trying to hold the same grief and each convinced that the other has the better grip.*
+> *Entry 0016 and Entry 0818, São Paulo. A ring and a scalpel. He is afraid to take off the one; she is afraid to put down the other. They are two hands, each holding the same grief, each convinced that the other has the better grip.*
 >
-> *Entry 0510 and Entry 0810, Osaka. A bowl and a tongue. Do you see how the world is made? The one cooks for the guest who cannot taste. The other cannot taste, and will not sit at the bowl. It is the oldest comedy and it is, as always, a tragedy by Thursday.*
+> *Entry 0510 and Entry 0810, Osaka. A bowl and a tongue. The one cooks for a guest who cannot taste; the other cannot taste, and will not sit at the bowl. It is the oldest comedy and it is, as always, a tragedy by Thursday.*
 >
-> *And I notice that the lift, which is a kind of room, stopped between two floors. That is the whole state of the human heart. It is always between two floors. It is always waiting for a locksmith with a sense of occasion.*
+> *And I notice that the lift stopped between two floors. That is the whole state of the human heart. It is always waiting for a locksmith with a sense of occasion.*
 
 ---
 

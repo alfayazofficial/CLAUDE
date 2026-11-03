@@ -46,7 +46,7 @@ Hà laid down her needle. "Why?"
 
 Down the lane the street-singer Mai Bùi, fifty-five, who had brokered more marriages there than anyone cared to count, stopped in the middle of a song about a river and listened to a silence she had been waiting six months to hear.
 
-Hà stood. She stood too fast, and the room tilted, and the lantern in her hand went out of focus; and the next thing she knew was the bamboo floor, cool against her cheek, a whistle blasting the *crisis* signal over and over, and a pair of shaking hands turning her over, and a voice that was not at all the voice of a magazine photographer saying her name.
+Hà stood too fast, and the room tilted; and the next thing she knew was the bamboo floor, cool against her cheek, a whistle blasting the *crisis* signal over and over, a pair of shaking hands turning her over, and a voice that was not at all the voice of a magazine photographer saying her name.
 
 "Don't," said Hà. "I am only tired."
 
@@ -80,7 +80,7 @@ She looked up at him. She had meant to hold the lie a little longer. She had fol
 
 She looked at him for a long time. "Show me. The hundred and forty-two."
 
-He turned the little screen toward her, and they sat shoulder to shoulder in the amber dark while the pictures slid by. Hà at the bench, her hands in the glow. Hà laughing at Thảo's whistle, the scarf coming loose. Hà asleep over a frame in the noon heat, a half-finished lantern against her cheek. Hà looking at a finished lantern with a look he had not known a face could hold: as though she had made a sun and were not yet sure it was hers.
+He turned the little screen toward her, and they sat shoulder to shoulder while the pictures slid by. Hà at the bench, her hands in the glow. Hà laughing at Thảo's whistle, the scarf coming loose. Hà asleep over a frame in the noon heat, a half-finished lantern against her cheek. Hà looking at a finished lantern with a look he had not known a face could hold: as though she had made a sun and were not yet sure it was hers.
 
 A tear ran down her face, and she let it fall.
 
@@ -163,7 +163,7 @@ It is a small sound, a tin jug on concrete. It is the sound of something that wa
 
 He took the stairs three at a time. He found his father on his side among the pots, the water running in a dark tongue across the roof, eyes open, mouth moving, unable to say. Fayaz, who had carried only code, lifted a man who weighed as little as a rolled mat and carried him down the stairs, shouting for Tithi, for the whole sleeping lane.
 
-It was Bunny who found the three-wheeler. Bunny, thirteen, owner of a kettle, who had been shutting the tea stall, took one look, dropped everything, and ran into the main road waving both arms at a green CNG auto as though he could stop a cyclone with his hands.
+It was Bunny who found the three-wheeler. Bunny, thirteen, who had been shutting the tea stall, took one look, dropped everything, and ran into the main road waving both arms at a green CNG auto as though he could stop a cyclone with his hands.
 
 "The heart hospital!" he screamed. "*Bhaiya's father!* Drive, Uncle, I will pay you in tea for a year!"
 
@@ -224,13 +224,13 @@ The first Friday she sat at six. At ten past: *delivered.* At half past: *delive
 
 The second Friday she told herself nothing. She wrote a message eleven times and deleted it eleven times: *Are you well? Is it your mother? Did I say too little?* In her own window the three small dots rose and fell, *Ermis is typing…,* a cowardly heart unable to decide on a sentence.
 
-Her grandmother rang on the video, in a batik shawl, with the parrot on her shoulder.
+Her grandmother rang on the video, with the parrot on her shoulder.
 
 "*TOO LATE!*" screamed Ayu, in delight. "*TOO LATE! BEAUTIFUL!*"
 
 "Ayu," said Ermis wearily. "Not yet."
 
-The parrot, to everyone's astonishment, fell silent and cocked her head.
+The parrot, to everyone's astonishment, fell silent.
 
 "Then do what we did," said Eyang, who had been born in a time of letters and never fooled by a screen. "Write it on paper, child. A telephone is a door that opens only from the inside. Paper can be pushed under."
 

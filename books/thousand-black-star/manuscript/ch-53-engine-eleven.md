@@ -11,15 +11,15 @@
 
 There are two kinds of men who join a fire company: those who wish to be brave, and those who wish to be useful. The first kind generally leave. The second stay for thirty years, and are buried with a bell.
 
-Patrick Murphy, forty, lieutenant, was the second kind, and had been so since he was twenty-six. He was a broad, quiet man with a face like a good doorstep, scuffed but unbothered, and he stood now at the back bay of Engine Eleven, beside the great red truck with its brass bell polished to a shine that could have started a small religion, and was being told by a college professor that the chili was wrong.
+Patrick Murphy, forty, lieutenant, was the second kind, and had been since he was twenty-six. He was a broad, quiet man with a face like a good doorstep, scuffed but unbothered, and he stood now at the back bay of Engine Eleven, beside the great red truck with its brass bell polished to a shine that could have started a small religion, being told by a college professor that the chili was wrong.
 
 "It is not wrong," said Mike Flynn, thirty-nine, historian, bespectacled, owner of nine hundred books and no boat. "It is *anachronistic.* There are beans in it."
 
 "Mike, you teach medieval shipping."
 
-"And am therefore *qualified* in the comparative method." He sipped. He grimaced. He sipped again, with the helpless honesty of a scholar proved wrong by his own tongue. "It is the best chili I have ever eaten," he said bitterly. "I will not be speaking of it."
+"And am therefore *qualified* in the comparative method." He sipped. He grimaced. He sipped again. "It is the best chili I have ever eaten," he said bitterly. "I will not be speaking of it."
 
-Across the bay, on a folding chair, sat Laura Hayes, forty, a community pastor from Somerville with a gift for blessing machinery and a still greater one for knowing the business of the entire Commonwealth. She had come to bless the new hose reel. She had stayed because the chili was free. And between the two she had learned, in twenty minutes, that the lieutenant of Engine Eleven had been sending an anonymous letter to England, that the nurse who did not come to the Chili Night had a brother who had died in a fire, and that these two facts were, in her judgment, about to meet.
+Across the bay, on a folding chair, sat Laura Hayes, forty, a community pastor from Somerville with a gift for blessing machinery and a still greater one for knowing the business of the entire Commonwealth. She had come to bless the new hose reel. She had stayed because the chili was free. And between the two she had learned, in twenty minutes, that the lieutenant of Engine Eleven had written an anonymous letter to England, that the nurse who did not come to Chili Night had a brother who had died in a fire, and that these two facts were, in her judgment, about to meet.
 
 "Patrick," she said, in the bright, carrying voice of one who intends to whisper. "A word."
 
@@ -31,7 +31,7 @@ Across the bay, on a folding chair, sat Laura Hayes, forty, a community pastor f
 
 "Of course you do not," said Laura Hayes. "That is the *joke.*"
 
-Mike Flynn set down his cup, with the air of a man who has just discovered the sea. "Patrick. Is there a woman?"
+Mike Flynn set down his cup, like a man who has just discovered the sea. "Patrick. Is there a woman?"
 
 "There is a *nurse,*" said Laura.
 
@@ -49,9 +49,9 @@ He had stayed for four minutes, until the boy coughed, and breathed, and cried. 
 
 Her name-tag said WALSH.
 
-He had carried a stranger out of a fire that night. All the way down the stairs, with the ceiling coming apart above him, one thought only had gone on repeating itself in his head, like a prayer: *there is a woman in a grey coat who is going to take his wrist, and I have to be there to be taken.*
+He had carried a stranger out of a fire that night. Ever since, one thought had repeated itself in his head like a prayer: *a woman in a grey coat took the child's wrist, and I should like to have been standing where she could take mine.*
 
-It is a ridiculous thing to think when you are on fire. He had written it to a stranger in England. He had not meant to be answered.
+It is a ridiculous thing to think about a stranger. He had written it to another stranger, in England. He had not meant to be answered.
 
 ---
 
@@ -60,9 +60,9 @@ It is a ridiculous thing to think when you are on fire. He had written it to a s
 
 In another quarter of the world, in a city that never ceases to explain itself loudly, a former founder of a financial technology company was setting out a hundred plastic chairs, and a designer of dresses was standing at the end of a runway deciding whether to be sick.
 
-The chairs, said Emeka Okafor, twenty-eight, had been borrowed from a wedding. The runway had been a loading ramp. The lights had come from a man in Ikeja who promised Thursday and arrived the following Tuesday with the face of a saint. The building had once held sixty servers and fourteen employees, whose salaries he had paid for eleven months out of his own savings after the company was already dead, as one continues to feed a horse after the cart has gone over the cliff.
+The chairs, said Emeka Okafor, twenty-eight, had been borrowed from a wedding. The runway had been a loading ramp. The lights had come from a man in Ikeja who promised Thursday and arrived the following Tuesday with the face of a saint. The building had once held sixty servers and fourteen employees, whose salaries he had paid for eleven months out of his own savings after the company was already dead, as one goes on feeding a horse after the cart has gone over the cliff.
 
-The servers were gone. The nine were here. Kemi, once his lead engineer and now, by some alchemy of the heart, sewing-room manager, reported that the back generator had been turned off because the noise upset the models.
+The servers were gone. The fourteen were here. Kemi, once his lead engineer and now, by some alchemy of the heart, sewing-room manager, reported that the back generator had been turned off because the noise upset the models.
 
 "The models are upset by *everything.*"
 
@@ -82,7 +82,7 @@ Chidinma Eze had cut gowns for brides and carnivals, bright, vivid, extravagant,
 
 "I am here," said a large and magnificent voice from the third row, and a woman rose in a purple *iro* and *buba* and a head-tie like a cathedral. She was fifty-nine, a pastor from Enugu who had come to Lagos by bus to bless the evening, and who would by its end have blessed the chairs, the ramp, and the caterer. "Daughter. The Lord, who made the woman you are afraid to become, has seen her. He says: She is *very* tall. She is wearing gold. She is a little bit rude. Go and meet her. She has been waiting."
 
-Chidinma took the pins out of her mouth. She looked at the dress. She looked at the man who had once paid nine salaries out of a dead company's grave and was now arranging chairs for hers. She looked, last, at the end of the ramp, where a hundred people, borrowed from a hundred weddings, were beginning to sit down and fan themselves with the programme.
+Chidinma took the pins out of her mouth. She looked at the dress. She looked at the man who had once paid fourteen salaries out of a dead company's grave and was now arranging chairs for hers. She looked, last, at the end of the ramp, where a hundred people, borrowed from a hundred weddings, were beginning to sit down and fan themselves with the programme.
 
 "Help me with the zip," she said.
 
@@ -92,7 +92,7 @@ When she reached the end of the ramp she did not turn, as models do. She stopped
 
 "Emeka Okafor," said Chidinma, in front of the whole city, "my company is open and your company is dead. I do not want your money. I want your arithmetic, and your dinner on Sundays, and you at the end of every ramp I walk. Will you?"
 
-There was a roar like a pot boiling over. Somewhere at the back the Reverend Ngozi was heard to say, "*I knew it, I said it in the car,*" and a man accused all his life of calculating every outcome found himself standing on a plastic chair with no calculation at all.
+There was a roar like a pot boiling over. Somewhere at the back the Reverend Ngozi was heard to say, "*I knew it, I said it in the car,*" and a man accused all his life of calculating every outcome found himself on a plastic chair with no calculation at all.
 
 "I will," said Emeka.
 
@@ -107,7 +107,7 @@ There was a roar like a pot boiling over. Somewhere at the back the Reverend Ngo
 
 Ellen Walsh, thirty-eight, charge nurse, sat on an upturned crate in the loading bay behind the hospital with a paper cup of coffee in both hands, and watched the steam climb towards the single sodium lamp, and thought, as she always did at four, about her brother.
 
-She had not said it in fourteen years. That was the plain truth of it: not to her father, nor the priest, nor the counsellor in the nice room with the box of tissues. She said *the night.* She said *what happened.* She said *the thing on Dudley Street.* She had taken the word out of her mouth the way one removes a nail from a wall, and left the hole.
+She had not said it in fourteen years: not to her father, nor the priest, nor the counsellor in the nice room with the box of tissues. She said *the night.* She said *what happened.* She said *the thing on Dudley Street.* She had taken the word out of her mouth as one removes a nail from a wall, and left the hole.
 
 "You have the face on," said Beth Murray, who had flown the medevac helicopter for eleven years and who flew, in conversation, at the same low altitude with a great deal of noise. She sat on the next crate. "The *Tuesday-in-February* face. You know the one. Where you look at the trucks."
 
@@ -177,7 +177,7 @@ Eleven thousand viewers did not. A great many more, in the course of the morning
 
 "I would like it noted," said Wanjiru, "for the record, that I fell in love with a man who did not exist. And that it is a *great* relief to find that the one who does is a better liar *and* a better cook." She took his hands. "*Erokamano,* Otieno. For telling me the truth, even badly."
 
-"Say the bit about the fish!" called a trader named Njeri, twenty-five, from the next boat, who had been told to keep silent and had not.
+"Say the bit about the fish!" called a trader named Akinyi, twenty-five, from the next boat, who had been told to keep silent and had not.
 
 "There was no bit about the fish."
 
@@ -190,9 +190,9 @@ The whole lake, to the last canoe, began to laugh; and the bride, who did not as
 ### SCENE V
 *Boston. The firehouse. Chili Night, an hour before midnight. The tables are cleared; the children gone; the red truck stands in the bay with her doors open, as a tired animal stands.*
 
-She came at ten to eleven, in the grey coat, alone, off shift, with her hands in her pockets, and she stood in the great door of the bay with the cold behind her and the whole company turned to look.
+She came at ten to eleven, in the grey coat, alone, on her night off, with her hands in her pockets, and she stood in the great door of the bay with the cold behind her and the whole company turned to look.
 
-Mike Flynn, who had been explaining Hanseatic League shipping to a probationary firefighter, stopped in the middle of a sentence. Laura Hayes, who had been about to leave, sat down again with the air of a woman who has bought a ticket. The old captain of the company, a man named O'Hara, who was seventy-four and had been retired nine years and still had a key, laid down his coffee.
+Mike Flynn, who had been explaining Hanseatic League shipping to a probationary firefighter, stopped in the middle of a sentence. Laura Hayes, who had been about to leave, sat down again with the air of a woman who has bought a ticket. The old captain of the company, a man named O'Hara, seventy-four, retired nine years and still in possession of a key, laid down his coffee.
 
 "I am looking for Lieutenant Murphy," said Ellen.
 
@@ -210,7 +210,7 @@ He had been cleaning a hose coupling. He put it down very carefully, as one puts
 
 "It is not the size." Her eyes went past him, to the wall above the coat-hooks, where, in a row of framed photographs, a number of young men in old helmets looked out over the years with the grave goodwill of the dead. "Is that a log?"
 
-He turned. On a shelf under the photographs stood a row of old green ledgers, each with a year in white paint on the spine. He had not meant her to see. He had been eight months finding the right way to say it, and now saw that there is no right way: there is only the hour.
+He turned. On a shelf under the photographs stood a row of old green ledgers, each with a year in white paint on the spine. He had not meant her to see. He had been eight months finding the right way to say it, and now saw that there is no right way, only the hour.
 
 "It's the run book," said Captain O'Hara quietly. "Every call, since nineteen-sixty. Would you like to see one?"
 
@@ -244,9 +244,9 @@ The word went out into the bay. It struck the red flank of the engine and the br
 
 "A fire," she said again. "Danny died in a fire. He was twenty-four. He was carried down the stairs by a man named O'Hara, who was kind to his feet. And I have been frightened of that word for fourteen years, and it is—" She laughed, astonished, wet-eyed. "It's only a word. It is only four letters. It is the smallest thing I've ever been afraid of."
 
-Captain O'Hara had put on his glasses to hide his eyes, which does not work. Mike Flynn, historian, was blowing his nose in a napkin. Laura Hayes had bowed her head with real piety, which she did seldom, and in a voice that did not carry at all, said, "Amen."
+Captain O'Hara had put on his glasses to hide his eyes, which does not work. Mike Flynn was blowing his nose in a napkin. Laura Hayes bowed her head with real piety, which she did seldom, and in a voice that did not carry at all, said, "Amen."
 
-Patrick Murphy did not speak. He took off the rough glove he was wearing, as one removes a thing that is no longer necessary, and held out his bare hand.
+Patrick Murphy did not speak. He took off the rough glove he was wearing and held out his bare hand.
 
 She took it.
 
@@ -262,7 +262,7 @@ She looked at the red truck, which the crew was already boarding in a thunder of
 
 "I work nights," said Ellen. "I will be where the trucks come." She let go. "Go and carry somebody."
 
-He went. The engine went out into the dark with her bell and her lamps and her thunder, and Ellen Walsh stood in the doorway of Engine Eleven and watched it away down Dorchester Avenue, the whole length of the cold street, till the light of it was gone; and for the first time in fourteen years, in the place where the word had been, there was something quiet and clean, like a window opened after rain.
+He went. The engine went out into the dark with her bell and her lamps and her thunder, and Ellen Walsh stood in the doorway of Engine Eleven and watched it down the whole length of the cold street, till the light of it was gone; and for the first time in fourteen years, in the place where the word had been, there was something quiet and clean.
 
 ---
 
@@ -270,7 +270,7 @@ He went. The engine went out into the dark with her bell and her lamps and her t
 
 > *The word you cannot say is a house you live outside of. The saying does not tear it down. It only opens a window.*
 >
-> *Entry 0548. Entry 0082. He wrote of a stranger; she of a brother. It was the same fire. They had only to find the same hour.*
+> *Entry 0548 and Entry 0082. He wrote of a stranger; she of a brother. It was the same fire. They had only to find the same hour.*
 
 ---
 

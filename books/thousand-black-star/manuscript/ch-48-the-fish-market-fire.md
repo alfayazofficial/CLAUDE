@@ -11,9 +11,9 @@
 
 There is nothing so ridiculous, or so sad, as a fire in a fish market.
 
-It is a place built entirely of ice and water. Every stall has its tank, every table its drain, every crate its little coffin of crushed cold. And yet, at ten to four in the morning, with the mistral blowing down the quay like a drunk with a grudge, the polystyrene boxes at the north wall had caught, and the whole thing had gone up in nine minutes, and the fire brigade, arriving to find that it had been put out chiefly by its own stock, had been obliged to stand in a lake of sea bass with their hoses idle and their dignity at about knee level.
+It is a place built entirely of ice and water. Every stall has its tank, every table its drain, every crate its little coffin of crushed cold. And yet, at ten to four in the morning, with the mistral blowing down the quay like a drunk with a grudge, the polystyrene boxes at the north wall had caught, and the whole thing had gone up in nine minutes, and the fire brigade, arriving to find the blaze put out chiefly by its own stock, had been obliged to stand in a lake of sea bass with their hoses idle.
 
-Nobody was hurt. That was the miracle, and the one thing that nobody in Marseille knew how to say, because every one of them was too busy telling everybody else what had caused it.
+Nobody was hurt. That was the miracle, and nobody in Marseille had time to mention it, being too busy telling everybody else what had caused the fire.
 
 "Electrical," announced Mathieu Vidal, fifty-eight, librarian, who classified scandal as he classified books, by subject, author, and date, and who had been at the barrier since half past four with a notebook. "A short in the compressor of the number six freezer. I had it from the *fireman's cousin.*"
 
@@ -21,7 +21,7 @@ Nobody was hurt. That was the miracle, and the one thing that nobody in Marseill
 
 "It was the *Spanish*," said another. "Who were in bed. Which is exactly what they *wanted* us to think."
 
-In the middle of the blackened aisle, in what had been, till midnight, the stall called *La Daurade Joyeuse,* stood Hugo Martin. He was thirty-five, built like a door, and he was laughing. He had been laughing since five o'clock. The stall was a skeleton of tin; the awning was a blackened sail; the family scales, three generations old, had melted into a small bronze puddle on the slab. And Hugo Martin, fish seller, boisterous, loyal, loud enough to be heard from the Panier to the Prado, stood in the wet ash in rubber boots with his arms spread wide and announced, to a quay of staring people, that the first round of pastis was on the house.
+In the middle of the blackened aisle, in what had been, till midnight, the stall called *La Daurade Joyeuse,* stood Hugo Martin. He was thirty-five, built like a door, and he was laughing. He had been laughing since five o'clock. The stall was a skeleton of tin; the awning was a blackened sail; the family scales, three generations old, had melted into a small bronze puddle on the slab. And Hugo Martin, fish seller, loud enough to be heard from the Panier to the Prado, stood in the wet ash in rubber boots with his arms spread wide and announced, to a quay of staring people, that the first round of pastis was on the house.
 
 "At six in the morning?" said a policeman.
 
@@ -29,7 +29,7 @@ In the middle of the blackened aisle, in what had been, till midnight, the stall
 
 There is a kind of laughter that is a shout, and a kind that is a shield. Only the second cannot be turned off. At the barrier at the end of the aisle, in the navy jersey and cap of the Old Port ferry, a woman stood very still with her hands in her pockets and did not laugh at all.
 
-Camille Bernard was thirty-three, a ferry pilot, calm and dry as a biscuit, and she had piloted the little boat that crosses the harbour from the Town Hall quay to the Place aux Huiles every day for nine years without once being rattled by weather, or tourists, or the Marseillais. She was not rattled now. She was stone. At ten to four that morning she had been standing at the north wall of the market, in the dark, waiting for the five o'clock crossing, with a cigarette between her fingers that she had told every person she knew, in March, she would never touch again.
+Camille Bernard was thirty-three, a ferry pilot, calm and dry as a biscuit. She had piloted the little boat that crosses the harbour from the Town Hall quay to the Place aux Huiles every day for nine years without once being rattled by weather, or tourists, or the Marseillais. She was not rattled now. She was stone. At ten to four that morning she had been standing at the north wall of the market, in the dark, waiting for the five o'clock crossing, with a cigarette between her fingers that she had told every person she knew, in March, she would never touch again.
 
 She had not seen where it fell.
 
@@ -43,7 +43,7 @@ She thought of the red dot, small as a seed, going out over the dark water on th
 
 "I don't recall," said Camille Bernard.
 
-Behind her, with a hose coiled round one shoulder like a sea-serpent and a wrench in each pocket, came Colette Lefèvre, thirty-one, plumber, a woman so patient that fishermen came to her to be taught to wait. She had been called in at dawn to inspect the water-mains and had spent the morning defending them from accusation.
+Behind her, with a hose coiled round one shoulder and a wrench in each pocket, came Colette Lefèvre, thirty-one, plumber, so patient that fishermen came to her to be taught to wait. She had been called in at dawn to inspect the water-mains and had spent the morning defending them from accusation.
 
 "It was not the pipes," said Colette to the inspector, with immense gentleness. "A fire is only a pipe whose water has gone the wrong way. It wants to be somewhere. Tell me where it wanted to be, and I will tell you why it left." She turned, and her eyes, which were kind and slow, rested a moment on Camille's pale face, and she added, to nobody, in the voice of one remarking on the weather: "Funny how often it is a small thing. A washer. A spark. A bit of cold. A little cigarette."
 
@@ -58,7 +58,7 @@ Camille went the colour of the ash.
 ### SCENE II
 *The following night. The burnt market, under a clean sharp moon and a ribbon of police tape. The wind has dropped. The smell is smoke, salt and wet char. A single stall light, run off a car battery, shows a broad man sitting on an upturned crate.*
 
-He had sent them all home. That was the mark of Hugo: at midnight he had given every fish-wife a hug and every fireman a bass, and told the crowd to go to bed, and then he had sat down alone in the ruin and stopped smiling, like a man putting down a very heavy sack he has been carrying for a mile uphill.
+He had sent them all home. That was the mark of Hugo: at midnight he had given every fish-wife a hug and every fireman a bass, and told the crowd to go to bed, and then he had sat down alone in the ruin and stopped smiling.
 
 He spoke to the dark, as the cheerful do, when nobody is in a position to be cheered:
 
@@ -87,7 +87,7 @@ He did not jump. He knew the voice; he had known it for nine years, across a str
 
 "That is not the praise you think."
 
-He laughed, and it was a real laugh this time, small and cracked, and neither of them said anything for a while. A gull walked the length of the ruined slab and inspected the ash for unreasonable hopes. Across the black water the lights of Notre-Dame de la Garde burned on her hill, small and gold, like a stub of candle somebody had set on a very high shelf.
+He laughed, and it was a real laugh this time, small and cracked, and neither of them said anything for a while. A gull walked the length of the ruined slab and inspected the ash for unreasonable hopes. Across the black water the lights of Notre-Dame de la Garde burned on her hill, small and gold.
 
 "You didn't laugh this morning," said Hugo.
 
@@ -124,7 +124,7 @@ Mateo Fernández, thirty-five, tango dancer, arrogant and graceful, had sat on t
 
 "I am a choirmaster. We believe in resolution."
 
-On the opposite wall, in a black dress with a plain neckline and her hair drawn back like a closed fan, sat Valentina Cruz, thirty-three, tango teacher, proud and guarded, with her hands folded in her lap. She had taught him for a year. She had taught him to lead, in a studio where the sunlight came in at an angle, and she had hated every minute of it, and she had not missed a lesson. She did not look at him. She looked, instead, with great care, at an old woman in the corner who had begun, quite without hurry, to pour mate from a thermos into a gourd.
+On the opposite wall, in a black dress with a plain neckline and her hair drawn tight back, sat Valentina Cruz, thirty-three, tango teacher, proud and guarded, with her hands folded in her lap. She had taught him for a year. She had taught him to lead, in a studio where the sunlight came in at an angle, and she had hated every minute of it, and she had not missed a lesson. She did not look at him. She looked, instead, with great care, at an old woman in the corner who had begun, quite without hurry, to pour mate from a thermos into a gourd.
 
 This was Agustina Benítez, fifty-four, a tea-seller from Rosario who had come three hours by bus because someone ought to. She was gentle, rather deaf, and believed the temperature of water to be the foundation of civilisation.
 
@@ -148,15 +148,15 @@ It was Lucrecia Medina, from the next block. Nobody answered her.
 
 The cortina came on, a thin sweet curtain of music between one set and the next, and the floor, which had been empty, emptied still further.
 
-Mateo stood. He crossed nothing; he did not walk. He lifted his eyes, across thirty feet of polished wood, and in front of the whole hall, and the DJ, and the old women, and the girl in school shoes, and a dead woman's ghost who had come, perhaps, in the mate-steam, he nodded.
+Mateo stood. He did not walk. He lifted his eyes across thirty feet of polished wood, in front of the whole hall, and the DJ, and the old women, and the girl in school shoes, and a dead woman's ghost who had come, perhaps, in the mate-steam, and he nodded.
 
 Valentina looked at her shoes.
 
-For one long second the hall stopped breathing. Then Valentina Cruz, who had been taught from the age of six that a woman refused is a woman with her dignity intact, and a woman who accepts has surrendered something she can never get back, set down the mate-gourd, and raised her head, and nodded.
+For one long second the hall stopped breathing. Then Valentina Cruz, who had been taught from the age of six that a woman refused loses nothing, and a woman who accepts has surrendered something she can never get back, set down the mate-gourd, and raised her head, and nodded.
 
-They met in the middle of the floor. They did not smile. He lifted his arm and she settled into it, the way a thing slips into the place it was always cut for, and the old record began, the one he used to dance to, a slow tango, with a bandoneon that breathed in and out like an animal that had been asleep; and they walked.
+They met in the middle of the floor. They did not smile. He lifted his arm and she settled into it, the way a thing slips into the place it was always cut for, and the old record began, the one he used to dance to, a slow tango, with a bandoneon that breathed in and out; and they walked.
 
-Mark this, reader: they did not dance *well.* That is the thing the Keeper would have you know. He was stiff. She was angry. Every step was a negotiation. For the first minute there were two of them and a ghost, and for the second minute there were two of them, and the ghost was only a shape of warmth at the edge of the lamp; and by the third there was only a man and a woman crossing a floor, and the dead sister's name unspoken between them like a hand resting lightly on each of their backs. *Go,* it said. *Go on.*
+Mark this, reader: they did not dance *well.* That is the thing the Keeper would have you know. He was stiff. She was angry. Every step was a negotiation. For the first minute there were two of them and a ghost, and for the second the ghost was only a shape of warmth at the edge of the lamp; and by the third there was only a man and a woman crossing a floor, with the dead sister's name unspoken between them like a hand resting lightly on each of their backs. *Go,* it said. *Go on.*
 
 The last tango ended. The cortina began. The floor, by every law of the milonga, cleared. The couples drifted away to their sides, and the men sat down and the women sat down, and Ramiro in his booth, with tears running down into his collar, put on the next tanda and did not need to.
 
@@ -183,11 +183,11 @@ On the side wall, a girl of fourteen sniffed and said, with unconcealed superior
 
 In nineteen years of driving trains, Ravi Chaudhary had never been late.
 
-It was his only vanity. He was forty-one, a train driver, punctual and patient, a man who could tell a delay by the hum of the rails; and tonight, for the first time in all those years, he had nowhere to be. The Lucknow line was shut. The river had risen over the tracks at the bridge, and the 5:40 stood on Platform Six with its engine ticking as it cooled, and its driver, in his cap and his blue jacket, had stepped down from the cab and begun, for the first time in his life, to walk the whole length of the train.
+It was his only vanity. He was forty-one, a train driver, punctual and patient, able to tell a delay by the hum of the rails; and tonight, for the first time in all those years, he had nowhere to be. The Lucknow line was shut. The river had risen over the tracks at the bridge, and the 5:40 stood on Platform Six with its engine ticking as it cooled, and its driver, in his cap and his blue jacket, had stepped down from the cab and begun, for the first time in his life, to walk the whole length of the train.
 
 At the far end of the platform, on the bench under the pillar, as she had been every evening for eleven years, sat Sunita Verma.
 
-She was thirty-nine, a teacher, wry, resolute, with a cloth bag of exercise books on her knee and a tiffin carrier at her feet, and she did not look up as he came. She had learned, in eleven years, never to look up. It was a kind of discipline. The 5:40 went through Platform Six twice a day, and each time, as it passed her bench, the driver sounded his horn twice. It was not necessary. It was not in the regulations. It was a sort of sentence in a language that had two words and no grammar.
+She was thirty-nine, a teacher, wry, resolute, with a cloth bag of exercise books on her knee and a tiffin carrier at her feet, and she did not look up as he came. She had learned, in eleven years, never to look up. It was a kind of discipline. The 5:40 left Platform Six every evening, and each time, as it passed her bench, the driver sounded his horn twice. It was not necessary. It was not in the regulations. It was a sentence in a language that had two words and no grammar.
 
 "You have stopped," said Sunita.
 
@@ -235,7 +235,7 @@ Sunita, who had spent eleven years teaching children that there is no such thing
 
 "The bench," said Sunita Verma, "does not care."
 
-He sat. A respectful two feet of wood lay between them, and a third of a jalebi, and eleven years of platform. On the far bench, Neha Mehra took her photograph, and was heard to say softly, "*That's* the one." The rain, which had never entirely stopped since July, began again, drumming upon the great arched roof of the station like ten thousand patient fingers; and in a signal-box a mile away a man who had worked the points for forty years looked at a red light and, for reasons he could not have explained, decided to leave it red for a little longer.
+He sat. A respectful two feet of wood lay between them, and a third of a jalebi, and eleven years of platform. On the far bench, Neha Mehra took her photograph, and was heard to say softly, "*That's* the one." The rain, which had never entirely stopped since July, began again, drumming upon the great arched roof of the station; and in a signal-box a mile away a man who had worked the points for forty years looked at a red light and, for reasons he could not have explained, decided to leave it red for a little longer.
 
 ---
 
@@ -243,7 +243,7 @@ He sat. A respectful two feet of wood lay between them, and a third of a jalebi,
 
 > *Entry 0316 and Entry 0585. A cigarette is a very small fire. So is a word.*
 >
-> *Entry 0230 and Entry 0027: they did not leave the floor. Entry 0363 and Entry 0292: the signal stayed red a long while. And look, Keeper, the calendar has turned. The storm has used up its thunder. What comes next is a clearing.*
+> *Entry 0230 and Entry 0027: they did not leave the floor. Entry 0363 and Entry 0292: the signal stayed red a long while. And look: the calendar has turned. The storm has used up its thunder. What comes next is a clearing.*
 
 ---
 

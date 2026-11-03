@@ -13,13 +13,13 @@ At the hour when the honest are asleep and the dishonest are, for once, at a los
 
 "You are too wet," said Pierre Dubois. "It is the weather. Do not take it personally."
 
-He was forty-five, large and stooped and flour-white to the elbow, with a nose that had been broken at rugby and a pair of hands that had never in their lives been idle. He had inherited the shop from his father and the habit of silence from his mother, and had added, by his own labour, a reputation for the best *pain de campagne* on the hill and the worst temper. He kneaded with his whole back, in the yellow light of the oven, in the warm, sweet, living dark of a bakery before dawn, which is the nearest thing on earth to the inside of a heart.
+He was forty-five, large and stooped and flour-white to the elbow, with a nose that had been broken at rugby and a pair of hands that had never in their lives been idle. He had inherited the shop from his father and the habit of silence from his mother, and had added, by his own labour, a reputation for the best *pain de campagne* on the hill and the worst temper. He kneaded with his whole back, in the yellow light of the oven, in the warm, sweet dark of a bakery before dawn, which is the nearest thing on earth to the inside of a heart.
 
 It was Sunday. On Sundays he made *the other bread.*
 
 It was a round loaf, dark-crusted, with walnuts and a little rye and a pinch of cumin that no one else in Lyon would have dared, and it had been invented in the kitchen of a small flat in the Rue Imbert-Colomès by a woman called Odile, who had died four years ago in the spring of a thing that had taken eleven months to say its name. She had baked it every Sunday of their marriage. He had never in his life made it until the first Sunday after she was gone, when he had woken at four, and found his hands in the flour, and understood that they had decided without him.
 
-He had never sold it. He gave it away. Every Sunday at six a boy of thirteen came on a bicycle, and took twelve loaves in a basket, and delivered them to the old and the lonely of the hill, who had no idea who sent them, and who ate them in silence, with butter, as if they were an answer to a prayer.
+He had never sold it. He gave it away. Every Sunday, before the first church bell, a boy of thirteen came on a bicycle, and took twelve loaves in a basket, and delivered them to the old and the lonely of the hill, who had no idea who sent them, and who ate them in silence, with butter, as if they were an answer to a prayer.
 
 *I still bake my wife's bread every Sunday,* he had written, to a stranger, in the dark. *I do not know how to stop. I do not think I want to.*
 
@@ -31,7 +31,7 @@ He turned. The boy was in the doorway: Baptiste Lefèvre, thirteen, a thin, seve
 
 "I am never early. *You* are late."
 
-"It is four o'clock."
+"It is not yet four."
 
 "It is *five to,*" said Baptiste, "and you have flour on your face. It is the look of a man who has been thinking."
 
@@ -43,7 +43,7 @@ Pierre's hands stopped in the dough.
 
 "Has what come?"
 
-"The thing," said Baptiste, with the impatience of the young explaining the obvious to the old, "that is on your step every Sunday. At half-past three. I am a boy who gets up. I have *seen.*"
+"The thing," said Baptiste, with the impatience of the young explaining the obvious to the old, "that is on your step every Sunday. A little before four. I am a boy who gets up. I have *seen.*"
 
 ---
 
@@ -67,7 +67,7 @@ He did not call out. His throat had forgotten how.
 
 Pierre turned. "*What?*"
 
-"Madame Laurent. From the Rue de la Martinière. The one with the sad shop." The boy shrugged, with magnificent indifference. "I do not know why. I have simply seen her. She leaves them and she looks at the window and she goes. I did not tell you, because I was not asked, and I am not good at apologising when I am wrong."
+"Madame Laurent. From the Rue de la Martinière. The one with the sad shop." The boy shrugged, with magnificent indifference. "I do not know why. She leaves them and she looks at the window and she goes. I did not tell you, because I was not asked, and I am not good at apologising when I am wrong."
 
 "You were not *wrong.*"
 
@@ -83,7 +83,7 @@ Pierre stood a long moment with the violets in his hand. Then he went back insid
 
 "To the Rue de la Martinière. Say nothing."
 
-"I never do," said Baptiste, with dignity, "unless I am not asked."
+"I never do," said Baptiste, "unless I am not asked."
 
 ---
 
@@ -93,13 +93,13 @@ Margaux Laurent was forty-two, a florist, a widow of three years' standing, with
 
 She had been walking to the flower market in the dark. She had passed the bakery on the Croix-Rousse, where the lamp was lit; and she had looked, for no reason, through the window, and seen a large man with his arms in a trough of dough, and his shoulders shaking.
 
-It is a thing we are not supposed to see. She had stood there for a full minute in the fog, with a bunch of violets in her basket meant for the market. And then she had done what a florist does, which is to know when a thing is not a bunch of flowers, but a sentence.
+It is a thing we are not supposed to see. She had stood there for a full minute in the fog, with violets in her basket meant for the market. And then she had done what a florist does, which is to know when a thing is not a bunch of flowers but a sentence.
 
 She laid them on the step. She walked away.
 
 *I left the flowers at your door,* she had written, afterwards, to an old woman in England, with the kettle going cold. *It was always me.*
 
-Now she stood in her little shop among the zinc buckets and the paper cones and the smell of wet green stalks, and said to her assistant, who happened to be her twenty-year-old brother (the hill, it must be said, had an inordinate number of Baptistes) and who was at that moment arranging chrysanthemums in a manner she found personally offensive: "He saw me."
+Now she stood in her little shop among the zinc buckets and the paper cones and the smell of wet green stalks, and said to her assistant, who happened to be her twenty-year-old brother, another Baptiste (the hill, it must be said, had an inordinate number of them), and who was at that moment arranging chrysanthemums in a manner she found personally offensive: "He saw me."
 
 "Who?"
 
@@ -111,7 +111,7 @@ Now she stood in her little shop among the zinc buckets and the paper cones and 
 
 "What do you intend?"
 
-"To go on," said Margaux, with a gentle and appalled dignity, "and to be a coward at the same time. It is a skill. I have been practising it for three years."
+"To go on," said Margaux, gently and appalled, "and to be a coward at the same time. It is a skill. I have been practising it for three years."
 
 The shop bell rang. A thin boy in an oversized anorak stood in the door with a basket, and in it, wrapped in a clean cloth, one round dark loaf, warm still, and smelling of walnuts and a pinch of something that no one else in Lyon would have dared.
 
@@ -126,7 +126,7 @@ Margaux Laurent looked at the loaf. She broke it. The steam rose, and she put he
 
 In Kraków, at every hour, a trumpeter climbs to the window of the tallest tower in the square, and plays a short, old, sad tune to the four corners of the earth; and at the exact moment the tune would reach its end, it stops.
 
-It is cut in the middle of a note, by tradition, because on one afternoon seven hundred years ago the player on the tower was shot in the throat by a Tatar arrow while sounding the alarm, and the city has kept the tune unfinished ever since, in his honour. So that every hour, in the chill clear air above the square, from the clock tower of a medieval church, a stranger may hear a thing that stops mid-sentence. *Mark this, reader. The people of Kraków have been trained for seven centuries to bear a sentence that stops.*
+It is cut in the middle of a note, by tradition, because on one afternoon long ago the player on the tower was shot in the throat by a Tatar arrow while sounding the alarm, and the city has kept the tune unfinished ever since, in his honour. So that every hour, in the clear air above the square, a stranger may hear a thing that stops mid-sentence. The people of Kraków have been trained for centuries to bear a sentence that stops.
 
 "It is noon," said Jakub Nowak, without lifting his eyes from the movement before him.
 
@@ -148,7 +148,7 @@ And now she had come to collect it, at noon, and was holding out his own work as
 
 He pressed the slide.
 
-*Hear it, reader, if you can.* The tiny silver chime, bright as a drop of water on glass: three high notes for the hour, then two for the quarters, then four more, as precise as a heartbeat. It filled the shop; it was the sweetest sound a clockmaker knows; and he watched her face as it rang, and saw it do a thing he did not understand.
+The tiny silver chime was bright as a drop of water on glass: high notes for the hour, then the quarters, then the minutes, as precise as a heartbeat. It filled the shop; it was the sweetest sound a clockmaker knows; and he watched her face as it rang, and saw it do a thing he did not understand.
 
 It went very still. It went, for one moment, the stillness of a person listening to a door that is not opening. And then she smiled, a bright, composed, practised smile, and said:
 
@@ -204,7 +204,7 @@ It was. It stood in the corner, an old upright pianino of walnut with a missing 
 
 It was a simple tune: an old Polish lullaby, four bars and a turn. He played the chords, in his careful, even, gentle way, as a man lays bricks. She took the violin from its worn case and tucked it under her chin and closed her eyes, and drew the bow, and the shop was *filled.*
 
-Reader, I cannot describe it. I am a mere narrator and I have only words. It was as though a window had been opened in a closed room, and a bird had flown in. She played the way a river runs. And he, bent over the keys, looking for the first time in his life at nothing but the notes, felt his chest do a thing that was not on any list of the diseases of the heart.
+I cannot describe it; I have only words. It was as though a window had been opened in a closed room, and a bird had flown in. She played the way a river runs. And he, bent over the keys, looking for the first time in his life at nothing but the notes, felt his chest do a thing that was not on any list of the diseases of the heart.
 
 She did not once look at him. She played with her eyes shut, her whole body bent toward the piano, her head a little turned.
 
@@ -216,12 +216,12 @@ He did not know what it meant. He knew only that when he slowed, a hair, in the 
 
 *A clock does not lie,* thought Jakub. *Nor does a person who plays by sight.*
 
-And the bugle sounded from the tower of St. Mary's, a quarter past noon, the thin brave tune breaking at its end in the air, and *she did not hear it.*
+And in the shop behind them a dozen clocks struck the quarter at once, in a bright, scattered chorus, and *she did not hear it.*
 
 ---
 
 ### SCENE III
-*Lisbon, Portugal. A tram, the 28, climbing the great hill of Alfama in the rain. Evening. The tiles shine like the sides of fishes.*
+*Lisbon, Portugal. A tram, the 28, climbing the hills of Graça and Alfama in the rain. Evening. The tiles shine like the sides of fishes.*
 
 The old yellow tram ground up the Rua da Graça with a noise like a bad conscience, and in the cab, behind the driver, on a folding seat, an engaged man was telling an engine that he loved it.
 
@@ -237,7 +237,7 @@ The old yellow tram ground up the Rua da Graça with a noise like a bad conscien
 
 It was the best receipt he had ever been issued.
 
-At the bottom of the hill, in the rain, a lamp-seller named Pereira was holding forth to a captive passenger. "I sold her a lamp, you know. A small one, for the table. She said it was for her mother. It was for the *letter.* To read it by. A person must have good light for a thing like that. It is the principal duty of my trade, and no one has ever thanked me."
+At the bottom of the hill, in the rain, Pereira the lamp-seller was holding forth to a captive passenger. "I sold her a lamp, you know. A small one, for the table. She said it was for her mother. It was for the *letter.* To read it by. A person must have good light for a thing like that. It is the principal duty of my trade, and no one has ever thanked me."
 
 Inês Carvalho, at that moment, was in her tiny flat above the sorting-office, with a small lamp on the table, and a ring that was not a ring, because he could not afford one yet, but a small loop of copper wire from a tram's motor, that he had bent into a circle with his own pliers and slipped on her finger with the solemnity of a bishop. She sat with it before her in the light. Across the table, her sister Rita, thirty-two, a journalist, was looking at her with an expression of the most complete and unrepentant smugness.
 

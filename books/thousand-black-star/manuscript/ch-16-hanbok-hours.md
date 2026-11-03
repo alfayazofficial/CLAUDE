@@ -39,7 +39,7 @@ He had read the resignation before Daniel had finished writing it.
 
 "Cannot, or have not got her name in a *cell*?"
 
-Daniel did not answer. Across the black river, past the ice floes turning slow in the lamplight and the lit bridges stitched across the water like seams, the city went on shining and not looking at him, as cities do. He had spent six years teaching nineteen-year-olds to read a screen in ninety seconds. He had spent the same six years failing, by a gap of exactly four steps, to walk into a shop in an alley off Jongno and say a sentence he had drafted one hundred and forty times.
+Daniel did not answer. Across the black river, past the ice floes turning slow in the lamplight and the lit bridges stitched across the water like seams, the city went on shining and not looking at him, as cities do. He had spent six years teaching nineteen-year-olds to read a screen in ninety seconds. He had spent the same years failing, by a gap of exactly four steps, to walk into a shop in an alley off Jongno and say a sentence he had drafted one hundred and forty times.
 
 "There is a tailor," he said at last.
 
@@ -55,7 +55,7 @@ Daniel did not answer. Across the black river, past the ice floes turning slow i
 
 "It is, apparently, *always imported.*"
 
-Joon-ho, who was not a man of unusual delicacy, said nothing for a long minute. A tram of wind went up the river bank, and the plastic sign above the shop door clapped like a thin applause.
+Joon-ho, who was not a man of unusual delicacy, said nothing for a long minute. A gust went up the river bank, and the plastic sign above the shop door clapped like a thin applause.
 
 "Hyung," he said, "you could say a better thing than *quiet life.*"
 
@@ -98,13 +98,13 @@ At the end of the counter, among her pickle-jars, an old woman in a quilted jack
 
 "A better world with its own timetable. I merely *note.*"
 
-Hiroshi, thirty-four, perfectionist, said very little and was said to say it in the order of importance. His hands were large, scarred, steady, with a burn along one thumb, and they moved across a clean board with the rhythm of a man who has found in repetition the only mercy of the world. Since the spring he had been saying one sentence a day. Last week a boy from Recife had put his counter on the internet, and the sentence had been *Eat.*
+Hiroshi, thirty-four, perfectionist, said very little and was said to say it in the order of importance. His hands were large, scarred, steady, with a burn along one thumb, and they moved across a clean board with the rhythm of one who has found in repetition the only mercy of the world. Since the spring he had been saying one sentence a day. Last week a retired chef from São Paulo had put his counter on the internet, and the sentence had been *Eat.*
 
 He did not look at the door. He had learned a long time ago that to look at a door is to ask it for something.
 
 The curtain moved.
 
-There are people who come into a room like a stone into a pond, and people who come in like a drop of ink, and there are people who come in like a held breath. The woman who stepped under the noren, in a grey coat the colour of an old photograph, with her face half-hidden in a scarf and her hand still on the edge of the cloth as though she had not decided whether to let go of it, was the third kind.
+There are people who come into a room like a stone into a pond, and people who come in like a drop of ink, and people who come in like a held breath. The woman who stepped under the noren, in a grey coat the colour of an old photograph, with her face half-hidden in a scarf and her hand still on the edge of the cloth as though she had not decided whether to let go of it, was the third kind.
 
 She was thirty-three. She had hair cut at the jaw, and tired eyes, and the straight, careful posture of a person who has spent eleven years looking closely at things and has lately been afraid of what she might see. For six years, on the same night every week, she had sat beside the steam pipe and eaten with her eyes closed and said almost nothing. Since March she had said nothing at all.
 
@@ -132,14 +132,14 @@ Daichi Ito had stopped chewing. Rin Hayashi had risen halfway off his stool, a l
 
 Mei crossed the room. It was a short floor, four steps, and she took each of them as one crosses ice. She sat. The stool was warm; it had been warmed, she understood, on purpose. Her hands, bare and unsteady, came to the lip of the bowl and rested there, as if she were warming them at a fire. She lifted the spoon. She did not drink.
 
-"Hiroshi-san," she said. Her voice was very quiet. "Before I eat this, I must tell you the real reason I did not come back after the night I told you. It is not the one you think. It was not shame, and it was not that I—" Her eyes went to the broth, to the clear gold of it, and a thing crossed her face that was not quite shame, and not quite grief, but the look of a woman about to read out a verdict against herself. "It was that one morning in the spring, when I woke, and put a spoonful of miso soup into my mouth, I found that I could no longer—"
+"Hiroshi-san," she said. Her voice was very quiet. "Before I eat this, I must tell you the real reason I did not come back. It is not the one you think. It was not shame, and it was not that I—" Her eyes went to the broth, to the clear gold of it, and a thing crossed her face that was not quite shame, and not quite grief, but the look of a woman about to read out a verdict against herself. "It was that one morning in the spring, when I woke, and put a spoonful of miso soup into my mouth, I found that I could no longer—"
 
 *Here the page is torn.*
 
 ---
 
 ### SCENE III
-*Seoul. An alley off Jongno, between the bindaetteok stall and the stationer's. The shop of Han Ji-woo, on a Thursday, three weeks before the lunar new year. A bell on the door. A kettle on the ondol. The wild light of a winter afternoon.*
+*Seoul. An alley off Jongno, between the bindaetteok stall and the stationer's. The shop of Han Ji-woo, on a Thursday, nearly three weeks before the lunar new year. A bell on the door. A kettle on the ondol. The wild light of a winter afternoon.*
 
 The shop was so full of colour that it seemed less a room than an argument that silk had won. Along the walls hung jeogori jackets in jade and ember and plum, their ribbons unknotted like the fringe of some great beast; chima skirts in a hundred pinks; the white collars called *dongjeong* stacked in rows, sharp as new paper. In the back a sewing machine hummed like a bee in a bottle, and in the middle of everything, at a long cutting-table scored by thirty years of chalk, stood Ji-woo.
 
@@ -159,7 +159,7 @@ At the counter, in her third-best cardigan, sat a nine-year-old called Tae-yang,
 
 At the door, the bell gave its small bronze cough.
 
-"*Ji-woo-ya!*" cried a woman of fifty-eight in a gold quilted jacket, entering like weather. This was Yoon Ji-ah, goldsmith, who made the tiny knotted ornaments called *norigae* that hang from the ribbons, and who had never in her life been on time for anything, owing to the fact that she made every promise a little faster than she could keep it. "I have them! I have your *norigae!* I brought them myself. I said *tomorrow* on Tuesday and *tomorrow* on Wednesday, and I said *tomorrow* on Thursday, so it is a statistical triumph that it is only Friday."
+"*Ji-woo-ya!*" cried a woman of fifty-eight in a gold quilted jacket, entering like weather. This was Yoon Ji-ah, goldsmith, who made the tiny knotted ornaments called *norigae* that hang from the ribbons, and who had never in her life been on time for anything, owing to the fact that she made every promise a little faster than she could keep it. "I have them! I have your *norigae!* I brought them myself. I said *tomorrow* on Monday and *tomorrow* on Tuesday, and I said *tomorrow* on Wednesday, so it is a statistical triumph that it is only Thursday."
 
 "They were due three days ago."
 
@@ -223,7 +223,7 @@ He stood by the post. He looked at the wall, where a calendar hung of a tiger in
 
 "I have *not* dropped the—"
 
-The tape was on the floor. It lay in a loose yellow coil at her feet like a thing that had given up on discretion.
+The tape was on the floor. It lay in a loose yellow coil at her feet, having given up on discretion.
 
 There was a silence. Ji-ah the goldsmith, who had never in her life let a silence go unfilled, opened her mouth, and then, with a delicacy that surprised everyone, including herself, shut it again and began, with great interest, to reorganise the butterflies.
 

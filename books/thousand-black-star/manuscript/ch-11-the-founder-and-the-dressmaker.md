@@ -25,7 +25,7 @@ And then, in March, the investor had changed *his mind.*
 
 It had gone quickly, as a good building goes: first the funding, then the clients, then the app store ranking, and finally, in the quiet of a Thursday, the last of the sense that anyone would ever want to talk to him about it again. The company was dead. It was simply that nobody had told its heart.
 
-He had nine employees. He paid them, on the twenty-fifth of each month, from his own account: from his savings, from his car, from the sale of a good watch, from a loan against a flat in Surulere, from the last of his father's gift. He had not told them. He had not told his sister. He had not told the neon sign, which went on, every morning, with its hopeful buzz, and which he had begun to hate.
+He had nine employees. He paid them, on the twenty-fifth of each month, from his own account: from his savings, from the sale of a good watch, from a loan against a flat in Surulere, from the last of his father's gift. He had not told them. He had not told his sister. He had not told the neon sign, which went on every morning with its hopeful buzz, and which he had begun to hate.
 
 *My company is dead,* he had written to an old woman in England, on a night in which the generator had failed, *and I keep paying salaries from my own pocket.*
 
@@ -38,11 +38,11 @@ He had meant it as a confession. He had not realised it was also a budget.
 
 "You are looking," said Ifeoma Bello, "like a man who has swallowed an anchor."
 
-She was sixty, a tiny, wiry, mahogany woman from Ibadan, who had gone to sea at nineteen as the only woman on a Lagos-registered freighter, and had spent thirty-one years on the oceans of the world, rising to a ship's first mate and acquiring a vocabulary that could blister a bulkhead. She had retired with a pension, a parrot-handled cane, and a very large number of opinions, and she now invested small sums of money in the young, on the condition that they take her to lunch.
+She was sixty, a tiny, wiry woman from Ibadan, who had gone to sea at nineteen as the only woman on a Lagos-registered freighter, and had spent thirty-one years on the oceans of the world, rising to first mate and acquiring a vocabulary that could blister a bulkhead. She had retired with a pension, a parrot-handled cane, and a very large number of opinions, and she now invested small sums in the young, on the condition that they take her to lunch.
 
 "I am well, Auntie."
 
-"You are lying, and it is the first thing a young man learns, and the last thing he learns to do *well*." She tore a morsel of *amala*, dipped it in *ewedu* and gbegiri, and chewed with great deliberation. "What is the number?"
+"You are lying. It is the first thing a young man learns, and the last he learns to do *well*." She tore a morsel of *amala*, dipped it in *ewedu* and gbegiri, and chewed with great deliberation. "What is the number?"
 
 "Which number?"
 
@@ -129,9 +129,9 @@ He looked at the mannequin.
 
 "It has a name."
 
-"Everything has a name." She went rather pink. "It is a thing I do. Do not mind it."
+"Everything has a name." She went rather pink. "Do not mind it."
 
-"May I—" He came into the room. He stood before the jacket, and he looked at it in silence, for rather a long time, with his hands in his pockets, the way one looks at a diagram that one does not understand but cannot bear to leave. It was the most extraordinary garment he had ever seen. It was powerful. It had a collar like a drawn bow. It looked like the coat of a woman who had decided, at last, to be *looked at.*
+He came into the room and stood before the jacket, looking at it in silence for a long time, with his hands in his pockets, as one looks at a diagram one does not understand but cannot bear to leave. It was the most extraordinary garment he had ever seen. It was powerful. It had a collar like a drawn bow. It looked like the coat of a woman who had decided, at last, to be *looked at.*
 
 "It is not a *design,*" said Emeka. "It is an *argument.*"
 
@@ -163,7 +163,7 @@ She stood in the dim, with a pin in her hand, until the generator coughed and we
 ---
 
 ### SCENE IV
-*The next evening. The lobby of Adeniran Court. The light has gone. It has not merely gone: it has been taken by the State, with a smile, and without notice, and a crowd of forty people stands in the dark with their mobile phones lit, like a congregation in a cathedral of small blue candles.*
+*The next evening. The lobby of Adeniran Court. The light has not merely gone: it has been taken by the State, with a smile, and without notice, and forty people stand in the dark with their phones lit, a congregation in a cathedral of small blue candles.*
 
 It was the night of the show.
 
@@ -171,7 +171,7 @@ It had been meant to take place in a great ballroom on Victoria Island, with a r
 
 So the show was in the lobby.
 
-The tenants of Adeniran Court had made themselves its audience: the lawyers from the second floor, the three young men who ran an app for hailing motorcycles, the woman with the dental practice, a pack of children from the compound, Mama Ngozi from the stairwell. There were no seats but plastic chairs. The runway was a strip of ankara cloth laid down the length of the tile. There were eight models, all friends. There was a single working speaker, and a cousin of Chidinma's in a bow tie with a laptop; and there was an enormous silence, black as an inkwell, in the middle of which, with great ceremony, the power failed.
+The tenants of Adeniran Court had made themselves its audience: the lawyers from the second floor, the three young men who ran an app for hailing motorcycles, the woman with the dental practice, a pack of children from the compound, Mama Ngozi from the stairwell. There were plastic chairs and a runway of ankara cloth laid down the length of the tile. There were eight models, all friends, a single working speaker, and a cousin of Chidinma's in a bow tie with a laptop; and in the middle of an enormous silence, with great ceremony, the power failed.
 
 "*Abeg,*" said somebody in the audience. "Not again."
 
@@ -201,7 +201,7 @@ Chidinma stared at him.
 
 "Go on," said Emeka, quietly. "Get ready. It will be lit."
 
-*Reader, it was.*
+*It was.*
 
 For in fifteen minutes the nine desks of AJO had been emptied, and nine staff members, whom their employer had supposed to be ignorant of the entire state of his finances, filed down the stair in a solemn procession, each carrying a laptop, an extension cable, and an expression of great composure. Tobi, the youngest, a twenty-four-year-old with spectacles and a ferocious talent for code, set down his machine on the lobby floor and opened it with a click. It lit a small circle of tile in a pale electric blue. Beside it, another. And another.
 
@@ -265,7 +265,7 @@ She took it down.
 
 No one spoke.
 
-At the end of the runway, in the nine small blue lights, a young man in an ironed shirt stood up out of his chair, without knowing that he had, with his hands at his sides and a pale line on his wrist, and thought, with absolute clarity, in the middle of the end of a company:
+At the end of the runway, in the nine small blue lights, a young man in an ironed shirt stood up out of his chair, without knowing that he had, with his hands at his sides and a pale line on his wrist, and thought, with absolute clarity, in the middle of the end of his company:
 
 *I know that woman. I will do anything not to lose her.*
 
@@ -273,7 +273,7 @@ And then, from somewhere at the back, the generator, with a long shuddering gasp
 
 The lights came on.
 
-It is a curious fact about the people of Lagos that they will applaud a thing for any reason at all, but they applaud a thing that is *true* as though it were a goal.
+The people of Lagos will applaud a thing for any reason at all, but a thing that is *true* they applaud as though it were a goal.
 
 ---
 
@@ -281,7 +281,7 @@ It is a curious fact about the people of Lagos that they will applaud a thing fo
 
 > *Entry 0051 and Entry 0954. A company that is dead and keeps its payroll; a woman who wears her fear and dresses it as courage. It is the same condition. Each is performing an act of faith in a thing no longer visible.*
 >
-> *I would like it noted that nine young people sat in a toilet and agreed to go on working for a man who had not told them the truth. It is the closest thing to a ledger I have seen in forty-five years. There is a kind of love that doesn't go in the register of love at all. It goes in the payroll.*
+> *I would like it noted that nine young people sat in a toilet and agreed to go on working for a man who had not told them the truth. There is a kind of love that does not go in the Register at all. It goes in the payroll.*
 >
 > *The woman will have to learn to be seen. The man will have to learn to be helped. I do not know which is harder. I only know that the generator coughed first, and the lights came on after.*
 
