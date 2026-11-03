@@ -18,7 +18,7 @@
 > We shall not tell you which was kinder. Both
 > Were hard, and both were holy. Both are ours.
 
-The cold season in Lusaka has a sharpness at dawn that sends the whole market to the charcoal braziers, and at seven in the morning the great Soweto Market, bigger than some countries' parliaments and a good deal louder, was a smoking maze of tarpaulin, tomatoes, secondhand shoes and shouting.
+The cold season in Lusaka has a sharpness at dawn that sends the whole market to the charcoal braziers, and at seven in the morning the great Soweto Market, bigger than some towns and a good deal louder, was a smoking maze of tarpaulin, tomatoes, secondhand shoes and shouting.
 
 Grace Banda's stall stood in the third row from the east gate, between a man who sold blankets and a woman who sold buns.
 
@@ -26,7 +26,7 @@ It was a good stall. It had a painted sign, in blue letters going a little pale:
 
 She could sell anything to anyone. What she could not do was add.
 
-That is, she could add to ten. She could count a tin of maize, and a coin, and a coin back. But the *books*—the long-numbered ones her husband had kept in a green school exercise book, the figures of what came in and went out, who owed, who had paid—these had gone into a drawer on the day of the funeral and had never been opened. The stall had been running three years on memory and goodwill, which are fine currencies until the day somebody asks for a receipt.
+That is, she could add to ten. She could count a tin of maize, and a coin, and a coin back. But the *books*, the figures of what came in and went out, who owed and who had paid, which her husband had kept in a green school exercise book, had gone into a drawer on the day of the funeral and never been opened. The stall had run three years on memory and goodwill, which are fine currencies until somebody asks for a receipt.
 
 "*Muli bwanji, Mama Chilufya?*" said a man's voice.
 
@@ -34,7 +34,7 @@ That is, she could add to ten. She could count a tin of maize, and a coin, and a
 
 "*Bwino, zikomo.*"
 
-He came every Saturday. He was tall and narrow, in a pressed white shirt and a grey cardigan with a darned elbow, and he held the hand of a girl of ten and the hand of a boy of seven, one in each of his, as a man holds a pair of kites. Joseph Tembo, thirty-eight, schoolmaster of the Chilenje Community School, widower these four years, a solemn, kind, courteous man whose pupils said he could silence a classroom by lifting an eyebrow and then make every child feel it had been their own idea.
+He came every Saturday. He was tall and narrow, in a pressed white shirt and a grey cardigan with a darned elbow, and he held the hand of a girl of ten and the hand of a boy of seven, one in each of his, as a man holds a pair of kites. This was Joseph Tembo, thirty-eight, schoolmaster of the Chilenje Community School, widower these four years. He was solemn, kind and courteous, and his pupils said he could silence a classroom by lifting an eyebrow and then make every child feel it had been their own idea.
 
 "Three cobs, Mama," he said, in the Nyanja of the capital, which is the Nyanja of people who mean to be polite to everyone. "Roasted. And one for yourself."
 
@@ -56,7 +56,7 @@ She roasted the cobs on the brazier, turning them with long tongs, until the ker
 
 "Kondwani lost a tooth."
 
-"He lost it *on purpose,*" said the boy, with the dignity of seven, and opened his mouth to show a gap like a small dark doorway.
+"He lost it *on purpose,*" said the boy, very grandly, and opened his mouth to show a gap like a small dark doorway.
 
 Grace laughed, and Joseph looked at the cob in his hand as though it were a very difficult piece of arithmetic.
 
@@ -66,7 +66,7 @@ Grace laughed, and Joseph looked at the cob in his hand as though it were a very
 
 "I am *merely* observing."
 
-Loveness Zulu, thirty-eight, baker and proprietor of *Loveness's Heavenly Buns,* was a woman of such dazzling vanity and such tremendous warmth that the market had ceased to distinguish them. She wore a wig that week of a startling auburn, which the week before had been platinum and the week before that, a short severe black bob, "in mourning for my last hairdresser." She could not say goodbye, which was the market's chief entertainment. A conversation with Loveness began at seven and might be concluded, by the grace of God and the intervention of customers, at nine.
+Loveness Zulu, thirty-eight, baker and proprietor of *Loveness's Heavenly Buns,* had such dazzling vanity and such tremendous warmth that the market had ceased to tell them apart. Her wig that week was a startling auburn; the week before it had been platinum, and the week before that a short severe black bob, "in mourning for my last hairdresser." She could not say goodbye, which was the market's chief entertainment. A conversation with Loveness began at seven and might be concluded, by the grace of God and the intervention of customers, at nine.
 
 "I must go," she told Joseph now, and did not go. "Ba Teacher, a word from a woman who has seen more weddings than the Bishop. A man who buys three cobs and says he is buying them for his children is buying *four.* I know the sums. Goodbye. I am going. Mama Chilufya, he is a good man, I have *checked.* *Goodbye*—"
 
@@ -78,7 +78,7 @@ Loveness Zulu, thirty-eight, baker and proprietor of *Loveness's Heavenly Buns,*
 
 "That," said Loveness, with immense pride, "is because I have a very big heart, and it does not fit through the door." She swept off, in a wave of perfume and flour and auburn nylon, bellowing farewells at the next three stalls.
 
-Joseph Tembo looked at the cob again. He did not say what he had meant to say. He had said nothing for the whole of a year, with the same grave good manners, and a man who is polite to his own heart as he is to a stranger has a very long list of things he has not said.
+Joseph Tembo looked at the cob again. He did not say what he had meant to say. He had said nothing for a whole year, with the same grave good manners, and the list of things unsaid had grown very long.
 
 "Mama Chilufya," he said at last.
 
@@ -86,7 +86,7 @@ Joseph Tembo looked at the cob again. He did not say what he had meant to say. H
 
 "I teach a class, on Tuesday evenings. For adults. Reading, writing, and—" He paused. "Bookkeeping. The simple kind. For market people. There is no charge."
 
-She looked at him. A small pause, in which a woman with a tin of maize and a daughter under the table wondered whether she was being offered a kindness or a pity, and decided, because he had said it as a *fact* and not a *favour,* that it was a fact.
+She looked at him. Grace wondered, for a moment, whether she was being offered a kindness or a pity. She decided, because he had said it as a *fact* and not a *favour,* that it was a fact.
 
 "Who told you," said Grace, slowly, "that I could not add?"
 
@@ -103,13 +103,13 @@ She looked at him. A small pause, in which a woman with a tin of maize and a dau
 
 Now across the world, to a house where nobody was speaking of arithmetic.
 
-In the Philippines a death is not an event but a *season.* The body is not taken quickly. It is kept at home, in a white coffin with a glass lid, under a hanging cluster of white chrysanthemums, for five nights, seven, nine, while neighbours and cousins and strangers come and sit, and drink coffee out of paper cups, and play cards at folding tables in the lane all night, loudly, so that the family will not be alone with the silence. It is called the *lamay.*
+In the Philippines a death is not an event but a *season.* The body is not taken quickly. It is kept at home, in a white coffin with a glass lid, for five nights, seven, nine, while neighbours and cousins and strangers come and sit, and drink coffee out of paper cups, and play cards at folding tables in the lane all night, loudly, so that the family will not be alone with the silence. It is called the *lamay.*
 
 The house was in a lane too narrow for a car. And yet there stood, in the lane, in the dark, with its lights off and a white sheet drawn over its nose, a jeepney.
 
 Gabriel Santos had bought it at twenty-two, with a bank loan and his mother's earrings, and painted it from bumper to bumper in the colours of a carnival: red, yellow, a green parrot on the hood, a silver horse on each fender, a hundred small mirrors, and, in a sacred row above the windscreen, a number of pious slogans, as is the custom. *GOD IS GOOD. BLESS THIS RIDE. SAFE TRAVELS.*
 
-Gabriel had been the cheerfullest driver in Tondo, and had never been seen without a hat, a joke, and a coin of change for the child who had lost hers. In the night of the typhoon, when the water came up the lanes like a brown tide and the whole neighbourhood stood on its roofs, he had driven his jeepney into the flood and made seven trips: forty-one neighbours, two goats, an old woman and her sewing machine. On the eighth the current had taken the jeepney by the nose at the bridge and turned it, gently, like a hand turning a page.
+Gabriel had been the cheerfullest driver in Tondo, and had never been seen without a hat, a joke, and a coin of change for the child who had lost hers. In the night of the typhoon, when the water came up the lanes like a brown tide and the whole neighbourhood stood on its roofs, he had driven his jeepney into the flood and made seven trips: forty-one neighbours, two goats, an old woman and her sewing machine. On the eighth, at the bridge, the current had taken the jeepney by the nose and turned it, gently, like a hand turning a page.
 
 They had found the jeepney on the second day, in the creek. They had found Gabriel on the third.
 
@@ -117,7 +117,7 @@ They had found the jeepney on the second day, in the creek. They had found Gabri
 
 And they said it, softly, to a girl of twenty-six at the back of the room, who had not cried, who had come in the night straight from work with her headset still hanging around her neck, who stood with her back against the wall as though it were the only thing holding up the roof.
 
-Maricel Dela Cruz was a call-centre agent. She spoke for six hours a night, in a bright clear American-adjacent voice, to strangers in Ohio and Perth and Leeds, about their phones and their insurance and their lost parcels, and for those six hours she was **Maggie,** which was a name the company gave her, and she was never tired or afraid or sad; and every night at four in the morning she took off her headset and went home in a jeepney, and the jeepney was always *his.*
+Maricel Dela Cruz was a call-centre agent. She spoke for six hours a night, in a bright clear American-adjacent voice, to strangers in Ohio and Perth and Leeds, about their phones and their insurance and their lost parcels. For those six hours she was **Maggie,** a name the company gave her, and she was never tired or afraid or sad. Every night at four in the morning she took off her headset and went home in a jeepney, and the jeepney was always *his.*
 
 He had never charged her. She had never said that she knew.
 
@@ -176,7 +176,7 @@ There were nine pupils in the Tuesday class: a bus conductor, two market women, 
 
 "Then somebody has been telling a lie," said Joseph. "Usually the person holding the pencil."
 
-Grace did not laugh. She was looking at the chalked columns with the terrible concentration of a woman who has been afraid of a thing for three years and has decided, tonight, that it is only a *shape.*
+Grace did not laugh. She was looking at the chalked columns with terrible concentration. She had been afraid of this thing for three years, and tonight she had decided that it was only a *shape.*
 
 "They must always agree?" she said.
 
@@ -204,7 +204,7 @@ She opened it. In the glow of a borrowed torch, on the first line, in his small 
 
 She did not answer. She held the ledger against her chest, as one holds a thing that might otherwise blow away, and went home through the dark, past the shuttered shops and the glowing braziers, saying to herself, quite silently, all the way: *Debit. Credit. Balance. Remainder.*
 
-And at a kitchen table four streets away, by one stub of a candle and the great noise of the Lusaka night, a widowed schoolmaster marked forty exercise books and wrote in none of them, because he had begun, without noticing, to speak in verse.
+And at a kitchen table four streets away, by one stub of a candle and the great noise of the Lusaka night, a widowed schoolmaster marked forty exercise books and, without noticing, began to think in verse.
 
 > *I marked a hundred pages, and my hand
 > Went stubborn at the margin of the ninety-first.
@@ -225,7 +225,7 @@ And at a kitchen table four streets away, by one stub of a candle and the great 
 ---
 
 ### SCENE IV
-*A night, a week later. An office in Manila where six hundred headsets glow in rows like a field of fireflies. Four in the morning, local time. A girl at a desk, on her break, with a cold coffee and a phone.*
+*A night, a week later. An office in Manila where six hundred headsets glow in rows. Four in the morning, local time. A girl at a desk, on her break, with a cold coffee and a phone.*
 
 It was Joy Aquino who had told her. "There is an answer," she had said, on the telephone, in her library voice. "Someone has replied to your Register letter, child. They have posted it publicly. I thought you ought to see it, and not alone."
 
@@ -253,9 +253,9 @@ She put on her headset. She drew a breath, and found her bright, clear, practise
 
 "Thank you for calling," said Maricel Dela Cruz. "My name is Maricel. I am sorry. I am a little—I have had a hard month. How may I help you?"
 
-There was a silence on the line, from somewhere on the other side of the world: a man in a kitchen in Ohio, with a broken phone and a bad morning. Then the man, in the gentle uncertain voice of a stranger who has just been told the truth by a stranger, said:
+There was a silence on the line, from the other side of the world: a man in a kitchen in Ohio, where it was a quiet afternoon, with a broken phone and a bad week. Then the man, gently and a little uncertainly, said:
 
-"Take your time, miss. I've got all night."
+"Take your time, miss. I've got all afternoon."
 
 *Para,* thought Maricel, with her whole body, and for the first time in a week it was a word that meant *rest.*
 

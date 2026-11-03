@@ -28,7 +28,7 @@ And now, on the screen of Pereira's cracked phone, in the night just gone, there
 
 *Entry 0753. Lisbon.*
 
-She had let the lamp-seller go home. She had walked the wet dawn to the sorting office, and there on her own small phone, in the bright empty room with the sleeping machines, she had pressed her thumb and forefinger against the screen to enlarge the scan, as one pulls a curtain.
+She had sent the lamp-seller home. She had stayed on alone among the sleeping sorting machines, with the night shift gone to its coffee, and there on her own small phone she had pressed thumb and forefinger against the screen to enlarge the scan, as one pulls back a curtain.
 
 The Register, you understand, did not keep only the words of its confessors. It kept the *paper.* Seraphine Wyndham-Rao had been an astronomer, and astronomers do not trust a report of a star; they want the plate. So each letter had been photographed whole, cream and blue-lined and stained and creased, and the hand of 0753 was there in the open air for anyone to see: small, square, careful, upright as a row of soldiers, every letter built as if load-bearing.
 
@@ -102,7 +102,7 @@ She looked. It was a square hand, certainly. It was also a hand in which the num
 
 "So you cannot have written to a woman whose face you have never seen."
 
-Rui Costa considered this. He was not a stupid man, merely a *hopeful* one, which is the more dangerous condition.
+Rui Costa considered this. He was not stupid, merely hopeful, which is the more dangerous condition.
 
 "Then perhaps," he said, "I wrote it to another."
 
@@ -148,7 +148,7 @@ There was a pause, in which a tram went grinding up the hill behind them, and a 
 
 "Do not be angry. You were crying into the sink. I am your elder, and you were crying into the sink. And a person who cries into a sink about a letter should not keep the letter in a drawer; she should post it to a woman in England who will keep it for ever and tell no one." She took a bite of pastry. "As, you will observe, she did."
 
-"She was dying!"
+"She was seventy-eight!"
 
 "She was *efficient,*" said Rita.
 
@@ -192,7 +192,7 @@ There was a short, hard silence in the pit, in which the cooling engine ticked l
 
 "A man who sends a love-letter to a street that does not exist," said Nuno, with deep admiration, "is either a poet or a fool, and I have always said you were both."
 
-Tomás Villaverde, twenty-nine, tram-mechanic, slid out upon his creeper like a man being born from an engine. He had a spanner in one hand and a smear of black grease from the temple to the jaw, and the look of a man who has been looking into the dark for a long time and has begun to see shapes there.
+Tomás Villaverde, twenty-nine, tram-mechanic, slid out upon his creeper as if the engine were delivering him. He had a spanner in one hand and a smear of black grease from the temple to the jaw, and the look of someone who has stared into the dark so long that it has begun to stare back with shapes.
 
 "I reasoned it out," he said. "I did not know her address. I know only her hand. So I wrote to *nowhere.* And the Post, if it is a decent institution, sends nowhere to somebody. I thought: the dead letters will go to the desk of the woman who writes on them. And she will either read it, or she will not." He wiped his face, and made it worse. "That is seven months, Nuno. In seven months I have had one reply. It was from the tax office, and it was about my *car.*"
 
@@ -248,7 +248,7 @@ It had not intended to. It stopped as an elderly person stops upon a staircase: 
 
 Inês stopped.
 
-Now it must be said, for the sake of accuracy, that she had not known the name. She had known a hand. But Rita, who is a journalist, had known someone who knew someone who had once fixed her washing machine, and Rita had sent a message at noon: *Tram depot, Santo Amaro, a Villaverde. Hands like a surgeon's, jokes like a cousin's, no wife.* There is no sorrow like being right on a hunch about a stranger, and no joy to equal it, and Inês felt both, at once, like two hot coins in a pocket.
+Now it must be said, for the sake of accuracy, that she had not known the name. She had known a hand. But Rita, who is a journalist, had known someone who knew someone who had once fixed her washing machine, and Rita had sent a message at noon: *Tram depot, Santo Amaro, a Villaverde. Hands like a surgeon's, jokes like a cousin's, no wife.* To be right on a hunch about a stranger is a sorrow and a joy together, and Inês felt both at once, like two hot coins in one pocket.
 
 She did not look at the tram. She looked at the pavement.
 
@@ -280,7 +280,7 @@ You will observe, reader, what is happening, for neither of them does. She has c
 
 "Nine years."
 
-"Then you must know," said Tomás, with the elaborate lightness of the very frightened, "what becomes of a letter when it has no address."
+"Then you must know," said Tomás, with the elaborate lightness of the frightened, "what becomes of a letter when it has no address."
 
 The hundred tourists had gone quiet. Pereira, who was the soul of discretion when it paid him, put down a lamp.
 
@@ -306,9 +306,9 @@ She saw him do the arithmetic. She saw it go through him as a current goes throu
 
 "I had heard *that,* too." He was getting up. He was taller than she had expected; he had to put a hand on the tram to find his balance. "She is, I am told, sixty, with a moustache."
 
-"She is *twenty-seven,*" said Inês, with great dignity, "and has been shaving *daily.*"
+"She is *twenty-seven,*" said Inês, crimson to the hairline, "and has never shaved her lip in her life."
 
-For a second there was nothing in the whole hill-top. Then a tourist from Ohio began to clap, and then his wife, and then the carriage full, and Pereira, who had never missed an occasion, said in a very loud and sacred voice, "A special price on lamps!" and Tomás Villaverde, with an expression that no mechanic has ever worn in the history of the Carris, said:
+For a second there was nothing in the whole hill-top. Then a tourist from Ohio began to clap, and then his wife, and then the carriage full, and Pereira, who had never missed an occasion, said in a very loud and sacred voice, "A special price on lamps!" and Tomás Villaverde, wearing an expression no mechanic has ever worn in the history of the Carris, said:
 
 "I think my name is Tomás."
 

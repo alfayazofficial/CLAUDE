@@ -8,7 +8,7 @@
 
 In Accra there is a lane called Palm Lane, though no palm has stood on it since the British left, and it is eighty yards long, and it holds two shops, one taxi yard, nine opinions, and a war.
 
-At the northern end, in a cream building with green shutters and a red cross painted by a sign-writer who had been paid in kenkey, stood **Owusu Chemist & Dispensary**, whose proprietor, Abena Owusu, twenty-eight, wore a white coat as another woman might wear armour, and counted tablets in fives with the air of one who has caught nature cheating. At the southern end, behind a gate of corrugated iron painted the yellow of a ripe plantain, lay **Mensah Cabs**, forty-one taxis and a goat, belonging to Kwame Mensah, thirty-one, who had never in his life been seen to count anything but other people's blessings.
+At the northern end, in a cream building with green shutters and a red cross painted by a sign-writer who had been paid in kenkey, stood **Owusu Chemist & Dispensary**, whose proprietor, Abena Owusu, twenty-eight, wore a white coat as another woman might wear armour, and counted tablets in fives as if she had caught nature cheating. At the southern end, behind a gate of corrugated iron painted the yellow of a ripe plantain, lay **Mensah Cabs**, forty-one taxis and a goat, belonging to Kwame Mensah, thirty-one, who had never in his life been seen to count anything but other people's blessings.
 
 Between them lay eighty yards of cracked tar, which for six years neither had crossed.
 
@@ -36,7 +36,7 @@ It was against this background that, at nine minutes past six on the morning aft
 
 "*Chale,*" said Nii Tetteh.
 
-He was Kwame's oldest friend, choir director of the Methodist church at Adabraka, a large devout man with the tender, theatrical face of a man who has led nine hundred Sundays of "Rock of Ages." He held the phone out at arm's length, for he had left his spectacles in the choir loft, and he read aloud in the full resonant baritone that he used for the Gospel and for football.
+He was Kwame's oldest friend, choir director of the Methodist church at Adabraka, a large devout man with the tender, theatrical face of one who has led nine hundred Sundays of "Rock of Ages." He held the phone out at arm's length, for he had left his spectacles in the choir loft, and he read aloud in the full resonant baritone that he used for the Gospel and for football.
 
 "*Entry six hundred and twenty-five. Accra, Ghana.* 'I paid your father's debt and let you think it was forgiven.'"
 
@@ -54,7 +54,7 @@ The yard went very still. A goat looked up. Under the mango tree, Akosua Tetteh,
 
 "You said it was for your *back.*"
 
-Kwame Mensah, who could discuss the carburettor of any engine ever manufactured, and who had once talked a police captain out of a bribe by asking after his mother, took the phone with a very steady hand, and read the thing that he had written. He had written it at a kitchen table, after a bad week, to a woman in England he had never met, because she had promised to tell no one. It was a sentence that had cost him eleven drafts.
+Kwame Mensah could discuss the carburettor of any engine ever manufactured, and had once talked a police captain out of a bribe by asking after his mother. He took the phone with a very steady hand and read the thing he had written. He had written it at a kitchen table, after a bad week, to a woman in England he had never met, because she had promised to tell no one. It was a sentence that had cost him eleven drafts.
 
 He had not expected it to be read in his own yard, by a hundred strangers' eyes, at six in the morning, with a goat.
 
@@ -94,7 +94,7 @@ Abena had put down her pestle.
 
 She was a small woman with a straight back and quick hands and a tongue that she kept, like the poisons cabinet, locked, labelled and open only to the properly qualified. She had run this shop for six years: ever since the spring when her father, Kojo Darko, a good, proud, hopeless man who had founded the dispensary and then remortgaged it twice on the promise of a cocoa scheme, had been told by the bank that it would be taking possession at the end of the month. She had been twenty-two. She had been counting the stock for the last time when a letter arrived, on the bank's thick white paper, to say that the debt had been *settled in full by a benefactor who wishes to remain unnamed.*
 
-She had taken her mother's name, Owusu, over the door that very week, to see how it would look. Her father had died in June. He had been proud of her, and had told her it was nothing, in the last week of his life, in the manner of a man who finds the great things difficult to say and the small things easy. She had cried at the funeral for the shop, which was easier than crying for the man.
+She had taken her mother's name, Owusu, over the door that very week, to see how it would look. Her father had died in June. He had been proud of her, and had told her it was nothing, in the last week of his life, as people do who find the great things difficult to say and the small things easy. She had cried at the funeral for the shop, which was easier than crying for the man.
 
 And she had known, in the way one knows a number before the bill arrives, who had paid.
 
@@ -138,11 +138,11 @@ And then, from the northern end, there came out, quite slowly, into the white no
 
 *The harmattan was early that year. A thin brown dust hung over Palm Lane, so that the sun was only a pale coin and the colours of the world were all faintly eaten. The Rank, to a man, had gone silent upon their bonnets. A woman in a white coat was walking down the middle of the lane, as if she had always done so.*
 
-It was eighty yards, and it took her a minute, and in the course of the minute a number of things happened that nobody afterwards would be able to agree upon. Quaye maintained that he heard a clock. Yaw, the waiter, said that she smiled once, a small and terrible smile, at the goat. Adwoa, from the kiosk, said only that she saw a woman who had been very frightened for six years take a decision, as a woman takes a pill: briskly, with water, and without looking at what it was.
+It was eighty yards, and it took her a minute, and in the course of the minute a number of things happened that nobody afterwards would be able to agree upon. Quaye maintained that he heard a clock. Yaw, the waiter, said that she smiled once, a small and terrible smile, at the goat. Adwoa, from the kiosk, said only that she saw a woman who had been very frightened for six years take a decision, as one takes a pill: briskly, with water, and without looking at what it was.
 
 She stopped at the gate.
 
-It swung open. Kwame Mensah stood there in a clean white shirt and an expression of the most profound dread, like a man who has been summoned to be thanked.
+It swung open. Kwame Mensah stood there in a clean white shirt and an expression of the most profound dread, as if summoned to be thanked.
 
 "Mr. Mensah," said Abena.
 
@@ -152,7 +152,7 @@ It swung open. Kwame Mensah stood there in a clean white shirt and an expression
 
 "I have nothing to say that—"
 
-"I have *not* asked you to say anything." She held out the tin. It was a round blue tin, such as is used for Danish butter biscuits in every home from Aflao to Tamale, and it was held out to him with the stiff correctness of a woman presenting a summons. "This is yours."
+"I have *not* asked you to say anything." She held out the tin. It was a round blue tin, such as is used for Danish butter biscuits in every home from Aflao to Tamale, and it was held out to him with the stiff correctness of a bailiff presenting a summons. "This is yours."
 
 "What is it?"
 
@@ -160,7 +160,7 @@ It swung open. Kwame Mensah stood there in a clean white shirt and an expression
 
 "There is no debt."
 
-"There is a debt of forty-two thousand cedis to the Ghana Commercial Bank, settled in the spring of the year I was twenty-two, by a gentleman, tall, who laughed at his own car." She said it very fast, as one pulls a plaster. "And there is rent, paid in cash every first of the month for seventy-one months, by a clerical error. I have kept the figures. I have kept *every* figure. I have been putting aside for six years, in a tin, in the dispensary safe, behind the morphine. It is not all. I have not got interest. I do not know *what interest to charge on a kindness.* But it is the principal, and it is yours, and I should like you to take it, so that we may be *even.*"
+"There is a debt of forty-two thousand cedis to the bank, settled in the spring of the year I was twenty-two, by a gentleman, tall, who laughed at his own car." She said it very fast, as one pulls a plaster. "And there is rent, paid in cash every first of the month for seventy-one months, by a clerical error. I have kept the figures. I have kept *every* figure. I have been putting aside for six years, in a tin, in the dispensary safe, behind the morphine. It is not all. I have not got interest. I do not know *what interest to charge on a kindness.* But it is the principal, and it is yours, and I should like you to take it, so that we may be *even.*"
 
 There was a long, high, unbearable silence, with a goat in it.
 
@@ -192,7 +192,7 @@ Quaye, who understood both, took off his cap.
 
 "Where?"
 
-She looked about her with sudden decision, and set the tin, with a small dry click, upon the bonnet of the nearest cab, which was a very old green Corolla known to the Rank as *Auntie Beatrice,* and then folded her arms and said, to nobody, with sublime scrupulousness: "You may count it."
+She looked about her with sudden decision, and set the tin, with a small dry click, upon the bonnet of the nearest cab, which was a very old green Corolla known to the Rank as *Auntie Beatrice,* and then folded her arms and said, to nobody, scrupulously: "You may count it."
 
 "I will not count it."
 
@@ -208,7 +208,7 @@ She looked about her with sudden decision, and set the tin, with a small dry cli
 
 They stood a yard apart, in the white dust, with the tin between them like a small round moon. And it seemed to every driver watching that this was a quarrel of such perfect and symmetrical courtesy that it could not be settled by any further word; that it would simply be carried over, like a debt, to the next day and the day after, a perfectly balanced sorrow, in which each held the other's gift and refused it, and each was glad.
 
-"The generator on your roof," said Abena abruptly, looking away. "It is too loud. It disturbs my patients."
+"The loudspeaker on that taxi roof," said Abena abruptly, looking away. "It is too loud. It disturbs my patients."
 
 "The queue outside your door," said Kwame, "disturbs my *taxis.*"
 
@@ -216,7 +216,7 @@ They stood a yard apart, in the white dust, with the tin between them like a sma
 
 "It is a great pity."
 
-"It is *thoroughly* a pity," said Abena, and turned, with her back straight and her coat flapping and her whole slim body radiating dignity, and walked the eighty yards home.
+"It is *thoroughly* a pity," said Abena, and turned, with her back straight and her coat flapping and her whole slim body radiating offence, and walked the eighty yards home.
 
 She did not look back. A pharmacist does not.
 
@@ -255,7 +255,7 @@ And, beneath that, smaller, as if she had changed her mind and been too stubborn
 
 *(Eighty yards. I counted.)*
 
-Kwame Mensah, who had never been seen to cry, sat in the harmattan dark with a biscuit-tin on his knee, and laughed like a man released from a long sentence, till the goat in the yard woke and complained.
+Kwame Mensah, who had never been seen to cry, sat in the harmattan dark with a biscuit-tin on his knee, and laughed like a prisoner released from a long sentence, till the goat in the yard woke and complained.
 
 ---
 

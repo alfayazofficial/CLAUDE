@@ -11,11 +11,11 @@
 
 Victor Adeyemi, thirty-two, agricultural scientist, had been trying to breed a perfect cassava for eleven years, and in all that time had never once been late for a plant.
 
-He was late now. He stood in the long green field of Plot Fourteen with a clipboard against his chest and let the sun come over the hill, and looked at the stems, which were taller than he had expected, and the leaves, which were whole where the mosaic disease should have curled them, and the roots, which he had dug up at dawn with his own bare hands and weighed on a kitchen scale, because the lab scale was being repaired and the gods of science are not proud.
+He was late now. He stood in the long green field of Plot Fourteen with a clipboard against his chest and let the sun come over the hill, and looked at the stems, which were taller than he had expected, and the leaves, which were whole where the mosaic disease should have curled them, and the roots, which he had dug up at dawn with his own bare hands and weighed on a kitchen scale, because the lab scale was being repaired and science, like the gods, is not proud.
 
 Eleven kilograms a plant. Disease-free. It had never been done.
 
-"Professor Afolabi," he said, into his phone, with the voice of a man announcing a birth, "it is ready."
+"Professor Afolabi," he said into his phone, as though announcing a birth, "it is ready."
 
 "Is it a miracle?" said the voice at the other end, which belonged to Segun Afolabi, sixty, the director of the station, a dry, rumpled, comical figure in a tie that had been a wedding present to somebody else.
 
@@ -82,7 +82,7 @@ The man from the bank came in. He was a patient man named Mr. Tunde Obi, fifty, 
 
 "And God was a witness," said Funmi, "and He has not corrected me."
 
-Mr. Obi looked at her, a long, kind, professional look, from under a face that had seen eleven hundred tragedies in the form of a missed repayment. "Madam," he said, "I will tell you a thing that I should not. There is a rumour that the research station on the hill has a new cassava. A great one. It will cut the cost of feed by a third. The word is that the man who bred it has been asking where to find a poultry farmer who has the nerve to try it first."
+Mr. Obi looked at her, a long, kind, professional look, over the top of a face that had watched eleven hundred tragedies arrive as missed repayments. "Madam," he said, "I will tell you a thing that I should not. There is a rumour that the research station on the hill has a new cassava. A great one. It will cut the cost of feed by a third. The word is that the man who bred it has been asking where to find a poultry farmer who has the nerve to try it first."
 
 "Which man?" said Funmi.
 
@@ -107,7 +107,7 @@ The winter had asked its payment. It had asked it of the pair of them in full, a
 
 The bride came up the aisle on the arm of the lamp-seller.
 
-It was a great honour, and it was entirely against his wishes. Pereira, sixty, a dealer in lamps who had never sold one in his life and had told her, daily, for nine years, that business was bad, had said that he would walk her up the aisle only if she promised not to tell anybody he had cried. He was crying now, noisily, into the sleeve of a suit that had been in a trunk since nineteen-ninety, and all the way up the nave he was audibly telling her that it was a *good* sort of aisle, a *straight* aisle, a very *reasonable* aisle, as though he had built it himself.
+It was a great honour, and it was entirely against his wishes. Pereira, sixty, a dealer in lamps who had sold perhaps four in his life and had told her, daily, for nine years, that business was bad, had said that he would walk her up the aisle only if she promised not to tell anybody he had cried. He was crying now, noisily, into the sleeve of a suit that had been in a trunk since nineteen-ninety, and all the way up the nave he was audibly telling her that it was a *good* sort of aisle, a *straight* aisle, a very *reasonable* aisle, as though he had built it himself.
 
 "Pereira," whispered Inês Carvalho, twenty-seven, postwoman, in a white dress and a pair of her mother's pearls, "you are leaning on me."
 
@@ -119,7 +119,7 @@ It was a great honour, and it was entirely against his wishes. Pereira, sixty, a
 
 At the altar, Tomás saw her, and his face went completely, helplessly open, like a tram door.
 
-Inês took a folded paper from her sleeve. Seven months it had lain in the pocket of her postwoman's jacket; she had read it in the bath, and on the tram, and once on the roof of the sorting office in the rain. It was addressed to a street that did not exist.
+Inês took a folded paper from her sleeve. Eighteen months it had lain in the pocket of her postwoman's jacket; she had read it in the bath, and on the tram, and once on the roof of the sorting office in the rain. It was addressed to a street that did not exist, and it had found her anyway.
 
 "I have a thing to read," she said to the priest.
 
@@ -136,11 +136,11 @@ And she read the second line aloud. We shall not repeat it. Those who wish to kn
 ---
 
 ### SCENE IV
-*Vienna. A concert hall in the Third District. A Sunday matinée, a full orchestra, and a bride.*
+*Vienna. The Brahms Hall of the Musikverein. A Sunday matinée, a full orchestra, and a bride.*
 
 Clara Weber, thirty-two, conductor, had a perfect ear and an imperfect patience, and had never in her life permitted a note to go flat.
 
-She stood now on the podium of the great hall, in a white concert dress and her baton, at her own wedding, and the orchestra, who had been sworn to silence, were looking up at her with the pale terror of men who have never seen her smile.
+She stood now on the podium, in a white concert dress, baton in hand, at her own wedding, and the orchestra, who had been sworn to silence, were looking up at her with the pale terror of men who have never seen her smile.
 
 In the front row, with a violin in his lap, sat a meticulous, shy, sandy-haired man of thirty-six, a violin-maker, who had built an instrument that only one woman in the world could play, and who had come, as he always came, in a clean shirt, an hour early, to be sure of finding his seat.
 
@@ -157,7 +157,7 @@ It was the most appalling sound in the history of Vienna. The ushers winced. The
 > The wrong, the dear, the unforeseen, the flat and human one.
 > I tune the world to you today. Come up and play it through.*
 
-Jonas Müller, who had never in his life been the subject of a verse, stood, and picked up the violin, and walked down the aisle between the weeping horns, and with a perfectly steady hand played, in front of eleven hundred of the best-trained ears in Europe, the one note that was wrong.
+Jonas Müller, who had never in his life been the subject of a verse, stood, and picked up the violin, and walked down the aisle between the weeping horns, and with a perfectly steady hand played, in front of six hundred of the best-trained ears in Europe, the one note that was wrong.
 
 It was the most beautiful sound in Vienna.
 
@@ -168,23 +168,23 @@ It was the most beautiful sound in Vienna.
 
 Erik Johansson, thirty-four, glassblower, had burned his hand to see a woman again, and had been frankly insulted by how well it had worked.
 
-It had been a small burn, a few seconds against the pipe, deliberately mistimed on a Tuesday, in the winter, in the sure and shameful hope that a certain nurse at a certain clinic would be on duty. She had been. She had dressed it, with a firm, blunt, tender competence, and looked at him over her glasses and said: *You did that on purpose, Mr. Johansson. The edges are too clean.*
+It had been a second burn, a small one, a few seconds against the pipe, deliberately mistimed on a Tuesday, in the sure and shameful hope that a certain nurse at a certain clinic would be on duty. She had been. She had dressed it, with a firm, blunt, tender competence, and looked at him over her glasses and said: *You did that on purpose, Mr. Johansson. The edges are too clean.*
 
 "I did," he had said.
 
 "I will not tell the clinic." She had taken his pulse, for no clinical reason. She had held it a second too long. "It is a very good pulse."
 
-Two summers later, on a rock in the southern archipelago, with the sea going out in long grey silk to the edge of the world, thirty guests in woollen jackets stood in a ring around a table on which stood two tall glasses, blown that week, a pale green like the inside of a wave. They were the best thing he had ever made. The hand that made them was healed, a little shiny, a little tight, a faint pink scar across the palm.
+Now, on a rock in the southern archipelago, with the sea going out in long grey silk to the edge of the world, thirty guests in woollen jackets stood in a ring around a table on which stood two tall glasses, blown that week, a pale green like the inside of a wave. They were the best thing he had ever made. The hand that made them was healed, a little shiny, a little tight, a faint pink scar across the palm.
 
 "Hold them up," said Astrid Lindqvist, thirty-two, nurse, with the sea wind blowing her hair across her face, "and I will tell you whether you have done them right."
 
-He held them up. She examined them, professionally, with the face of a woman who checks a wound.
+He held them up. She examined them as she would a wound, with her head on one side.
 
 "There is a bubble," she said.
 
 "It is a flaw."
 
-"It is a *pulse,*" said Astrid. "I left it in. I told you, in the summer. I left it in on purpose, in the stem of mine. It is a heart, Erik. The hand that burned remembers." She looked at him with those brown, steady, impertinent eyes. "I said I have not forgotten your pulse. This is it. This is the sound of it, in glass."
+"It is a *pulse,*" said Astrid. "You told me so yourself, in the summer, over a lopsided bowl. I asked for one in mine, in the stem. It is a heart, Erik. The hand that burned remembers." She looked at him with those brown, steady, impertinent eyes. "I said I had not forgotten your pulse. This is it. This is the sound of it, in glass."
 
 Behind them, Sofia Holm, twenty-eight, a tea-seller from the island and a woman of ferocious romance, was heard to sniff, and to murmur to nobody that she had never been so happy at a funeral, and when corrected, that it was perfectly the same.
 
@@ -201,15 +201,15 @@ At the end of the field day, in front of four hundred farmers, thirty women's co
 
 A murmur ran along the benches.
 
-"I have here," said the Professor, holding up a form, "the registration. The name has been entered in a hand I recognise, at nine minutes to six this morning, by a very frightened young man, who then ran away and has been hiding behind the tractor. I am going to read it to you."
+"I have here," said the Professor, holding up a form, "the registration. The name has been entered in a hand I recognise, at nine minutes past nine this morning, by a very frightened young man, who then ran away and has been hiding behind the tractor. I am going to read it to you."
 
 He cleared his throat. At the back of the tent, behind the last row, a thin, anxious, extremely unhappy man in a lab coat put his face in his hands.
 
-"The name," said the Professor, with the air of a man reading the verdict of a very friendly court, "is *Funmi.*"
+"The name," said the Professor, like a judge reading the verdict of a very friendly court, "is *Funmi.*"
 
 In the third row, between a farmer from Ogbomoso and a woman selling roasted corn, a young woman in a yellow head-tie had stopped smiling.
 
-*Funmi.* A common word. A name. In the old tongue of that country, a thing that means, in plain English, *give me*, and in the longer form, *give me joy.* She had been told it as a child; she had been laughed at for it; she had grown up with a name that was a request.
+*Funmi.* A common word. A name. In Yoruba, the old tongue of that country, it means, in plain English, *give me*, and in the longer form, *give me joy.* She had been told it as a child; she had been laughed at for it; she had grown up with a name that was a request.
 
 "It is a very good variety," said Professor Afolabi, to the benches, "and I have a rule that a name should be a thing you can call across a field. I have tried. It carries."
 

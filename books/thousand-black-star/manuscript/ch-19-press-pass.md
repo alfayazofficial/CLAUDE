@@ -7,7 +7,7 @@
 ---
 
 ### SCENE I
-*Karachi. The Korangi creek road, ten o'clock on a winter morning, which in that city is a bright, dusty, forgiving twenty-two degrees. A field the colour of dry porridge. A roller sunk to its axle. Eleven boys, one man, and an aunt in sunglasses.*
+*Karachi. The Korangi creek road, ten o'clock on a winter morning, which in that city means a bright, dusty, forgiving twenty-two degrees. A field the colour of dry porridge. A roller sunk to its axle. Eleven boys, one man, and an aunt in sunglasses.*
 
 The flood had come in August, and had left in September, and had taken, in the interval, one cricket pitch, two sets of nets, a pavilion made of corrugated iron and optimism, and the entire stock of the Salt Creek Cricket Academy: nineteen bats, forty-one balls, and a trophy for the Under-Fourteen Tape-Ball Cup, won in 2016 and never forgotten.
 
@@ -23,11 +23,7 @@ What it had left was silt. It lay across the ground in a grey crust, cracked lik
 
 "I am an *academy.* We have the authority."
 
-Hamza was twenty-nine, tall and thin and bronze, with the unbreakable grin of a man who had decided in the second week of September that he would be cheerful, and had been, with the grim ferocity of a soldier holding a bridge, ever since. He wore a cap that had been white, and carried a bat recovered from a drain in one hand and a spade in the other, and moved among the eleven boys like a shepherd among sheep who have not been told that the barn has burned down.
-
-"Mud is the great *leveller,*" he announced. "The rich boy has a good pitch, the poor boy a bad one. Now they all have a *terrible* one. It is democracy!"
-
-"It is a *swamp,*" said a boy.
+Hamza was twenty-nine, tall and thin and bronze, with the unbreakable grin of one who had decided in the second week of September to be cheerful, and had been, with the grim ferocity of a soldier holding a bridge, ever since. He wore a cap that had been white, and carried a bat recovered from a drain in one hand and a spade in the other, and moved among the boys like a shepherd among sheep who have not been told that the barn has burned down.
 
 From a folding chair at the edge of the field, under a striped umbrella, in a pair of enormous white sunglasses that she had not removed since 1998, Ayesha Raza, fifty-four, retired schoolteacher, self-appointed scorer and commentator of the academy, lowered a dog-eared exercise book and called, in a voice that carried over three acres:
 
@@ -37,11 +33,11 @@ From a folding chair at the edge of the field, under a striped umbrella, in a pa
 
 "I am recording *potential.*"
 
-She was a woman of undeniable charm who had never in her life spent less than she did not have, and who kept the scorebook in a handwriting that no one could read, including herself. It was an open secret in Korangi that Ayesha Aunty had never learned to read well. She had taught for thirty years by memory, reciting every lesson aloud, with the textbook held open before her at an angle of great authority; and nobody had ever had the cruelty to point out that it was upside down.
+She was a woman of undeniable charm who had never in her life spent less than she did not have. She kept the scorebook in a handwriting that no one could read, herself included, for it was an open secret in Korangi that Ayesha Aunty had never learned to read. She had taught for thirty years by memory, reciting every lesson aloud, with the textbook held open before her at an angle of great authority; and nobody had ever had the cruelty to point out that it was upside down.
 
 At the gate, at that moment, a small blue rickshaw stopped, and a young woman got down.
 
-She was twenty-seven, short, quick, in a dusty-green kurta and sneakers that had been white at the start of the week, with a camera bag on one shoulder and, round her neck, a laminated pass that read PRESS. She had the face of a person who has been told *Wait* all her life and has never once done it. She looked at the silt, the roller, the wicket, the eleven boys and the man with the spade; and she took out a notebook.
+She was twenty-seven, short, quick, in a dusty-green kurta and sneakers that had been white at the start of the week, with a camera bag on one shoulder and, round her neck, a laminated pass that read PRESS. She had the face of a person who has been told *Wait* all her life and has never once done it. She looked at the silt, the roller, the wicket and the man with the spade, and took out a notebook.
 
 "Mr. Hamza Qureshi?"
 
@@ -55,7 +51,7 @@ She was twenty-seven, short, quick, in a dusty-green kurta and sneakers that had
 
 ---
 
-It took her forty minutes. He gave her tea from a flask, and the story the way he gave everything: with a joke, a shrug, and a smile. The water had come at four in the morning. The nullah had backed up. The boys had come in the dark and stood at the fence, holding the bats. He had waded in to his chest to save the trophy and had come out holding a plastic chair.
+It took her forty minutes. He gave her tea from a flask, and the story the way he gave everything: with a joke, a shrug and a smile. The water had come at four in the morning, when the nullah backed up. The boys had come in the dark and stood at the fence, holding their bats. He had waded in to his chest to save the trophy and had come out holding a plastic chair.
 
 "I saved the *chair,*" he said. "It was a very good chair."
 
@@ -85,11 +81,11 @@ Sana Ahmed stood quite still. The wind lifted the corner of her notebook and set
 
 "Then I shall teach them to bat in mud." He lifted the bat to his shoulder with a flourish. "It is practically a *moral education.*"
 
-She did not argue. It was a thing she could do, when it mattered, though almost nobody knew it: look at a man making a joke, and let him. She wrote in her notebook, in a fast, forward-slanting hand, *Dredging. Signboard. March. No machine.* She wrote, below it, in smaller letters, *He smiles with his mouth only.* Then she thanked him and walked out through the gate.
+She did not argue. When it mattered she could look at a man making a joke, and let him; almost nobody knew it of her. She wrote in her notebook, in a fast, forward-slanting hand, *Dredging. Signboard. March. No machine.* She wrote, below it, in smaller letters, *He smiles with his mouth only.* Then she thanked him and walked out through the gate.
 
 Across the road, in the shade of a neem tree, a grey Corolla was parked. It had been parked there the previous day, and the day before. The window was down a hand's breadth. Behind it, someone was not looking at her very carefully.
 
-She did not look back. She put on her sunglasses, and set her shoulders as her mother had taught her, and walked, at the pace of a woman with nothing whatsoever on her mind, to the end of the road to hail a rickshaw.
+She did not look back. She put on her sunglasses, set her shoulders as her mother had taught her, and walked, at the pace of a woman with nothing whatsoever on her mind, to the end of the road to hail a rickshaw.
 
 *It is nothing,* said Sana to herself. *The network has been down all week. That is why the phone rings and nobody speaks.*
 
@@ -99,9 +95,9 @@ By four, the boys had gone. The long light had come across the field the colour 
 
 He was not smiling.
 
-He did not know she had come back. She had left her pen in the grass, and she stood at the gate and saw him for a full minute, in the place where nobody was watching: a man of twenty-nine with his whole face let go, like a man putting down a very heavy sack at the end of a very long road. His mouth moved, and he said one word, quietly, in Urdu, and it was not a joke.
+He did not know she had come back for her pen. She stood at the gate and saw him for a full minute, in the place where nobody was watching: a man of twenty-nine with his whole face let go, as if he had set down a heavy sack at the end of a long road. His mouth moved, and he said one word, quietly, in Urdu, and it was not a joke.
 
-She walked across the crust of the field, and sat down beside him on the roller, and without a word held out her steel flask, with the tea still hot in it. He took it. He did not ask why she had come back. He drank. For some time they watched the sun go down over the creek, and the dust turn gold, and the far wickets of the lost pitch go violet and thin.
+She walked across the crust of the field, and sat down beside him on the roller, and without a word held out her steel flask, with the tea still hot in it. He took it. He did not ask why she had come back. He drank. For some time they watched the sun go down over the creek.
 
 "You tell it very well," said Sana, at last.
 
@@ -123,7 +119,7 @@ He gave a short exhausted laugh and handed back the flask. "If I stop," said Ham
 
 "It will be a very dangerous truth."
 
-"All the good ones are." She stood, brushing the dust off her kurta, and in the long golden light her face was resolute, and young, and not afraid, with the particular unfear of one who has practised it. "Hamza. I will tell you what I tell everyone. I am not afraid of anything. It is a *professional* quality. I have it as other people have a nose."
+"All the good ones are." She stood, brushing the dust off her kurta. In the long golden light her face was resolute and young, and not afraid, with the unfear of one who has practised it. "Hamza, I will tell you what I tell everyone. I am not afraid of anything. It is a *professional* quality. I have it as other people have a nose."
 
 "I am sure you have."
 
@@ -134,15 +130,15 @@ She went. At the gate she paused, and looked once at the car under the neem tree
 ---
 
 ### SCENE II
-*Istanbul. The Eminönü quay, a quarter to eight on the same grey morning, which at that latitude is the colour of a pigeon's wing. Gulls. Steam. Two ferries moored nose to tail, each flying its own house flag, and a queue of commuters between them like a river between two armies.*
+*Istanbul. The Eminönü quay, a quarter to eight on a grey December morning, the colour of a pigeon's wing. Gulls. Steam. Two ferries moored nose to tail, each flying its own house flag, and a queue of commuters between them like a river between two armies.*
 
-The feud over the Bosphorus lines had been going on, with intervals for weddings and funerals, for thirty-one years. It concerned a licence, a landing, and a promise made by a dead man on a napkin, and it had cost both families, in lawyers and spite, roughly the price of a ferry.
+The feud over the Bosphorus lines had run, with intervals for weddings and funerals, for thirty-one years. It concerned a licence, a landing and a promise made by a dead man on a napkin, and it had cost both families, in lawyers and spite, roughly the price of a ferry.
 
 On the left of the quay lay the red boats of the Yilmaz line, on the right the blue boats of the Kaya, and between them, as it had always done, stood a plank-built café with a chimney, a samovar, and a cook.
 
 "*Soup,*" said Sema.
 
-She was a broad, magnificent woman of fifty-one, in an apron the size of a sail, who had been serving lentil soup to both houses for twenty-eight years on the principle that a man with a full bowl could not simultaneously throw a punch. She stood at the open hatch, ladle raised like a sceptre. "You, Captain's boy, you have not eaten. You, Kaya, you are green. I do not care whose boat you sail. Leave the quarrel on the hook with the coat. *Sit.*"
+She was a broad, magnificent woman of fifty-one, in an apron the size of a sail, who had served lentil soup to both houses for twenty-eight years on the principle that a man with a full bowl cannot also throw a punch. She stood at the open hatch, ladle raised like a sceptre. "You, Captain's boy, you have not eaten. You, Kaya, you are green. I do not care whose boat you sail. Leave the quarrel on the hook with the coat. *Sit.*"
 
 Ahmed Yilmaz, twenty-eight, the son of the Yilmaz line's old captain, sat. He was a strong, dark, impatient young man in a wool coat and a deckhand's cap, with a split in his knuckle and a stare that kept going, whenever it was not watched, to the small glass-walled ticket office on the right of the quay.
 
@@ -150,29 +146,29 @@ Ahmed Yilmaz, twenty-eight, the son of the Yilmaz line's old captain, sat. He wa
 
 "I am looking at the timetable."
 
-"It is a very pretty timetable. It has a girl in it." The ladle went into the pot, and came out, dripping. "Eat your soup, Ahmed bey. In my experience a man who looks that long at a ticket office is not buying a ticket."
+"It is a very pretty timetable. It has a girl in it." "Eat your soup, Ahmed bey. In my experience a man who looks that long at a ticket office is not buying a ticket."
 
-The first sign of trouble was the rope. Ahmed saw it before he knew he saw it: a pale mooring-line on the Kaya side drawn tight, a flash of a blade, and a long slack coil sliding into the black water like a snake. The blue ferry, loosed from her post, swung slowly on the current with her gangway still down, and a Kaya deckhand, in the middle of the plank with a crate of oranges, went into the Bosphorus with an enormous, shocked, orange-scattering splash.
+The first sign of trouble was the rope. Ahmed saw it before he knew he saw it: a pale mooring-line on the Kaya side drawn tight, a flash of blade, and a long slack coil sliding into the black water like a snake. The blue ferry, loosed from her post, swung on the current with her gangway still down, and a Kaya deckhand, halfway along the plank with a crate of oranges, went into the Bosphorus with an enormous, shocked, orange-scattering splash.
 
 "*They have cut us loose!*" a voice roared.
 
 "*They have* rammed *us!*"
 
-It was not true, but in a feud the truth has no vote. Within ten seconds the quay was a thing of fists and boots, of tea-trays flung like discs and a mooring-hook swung at arm's length; and in the middle of it Ahmed's cousin Cem Koç, forty, apprentice, who had never been afraid of anything but a debt, drove a shoulder into the nearest chest and was at once knocked flat among a heap of fishing-nets.
+It was not true, but in a feud the truth has no vote. Within ten seconds the quay was a tangle of fists and boots, tea-trays flung like discs and a mooring-hook swung at arm's length; and in the middle of it Ahmed's cousin Cem Koç, forty, apprentice, who had never been afraid of anything but a debt, drove a shoulder into the nearest chest and was at once knocked flat among the fishing-nets.
 
-Ahmed did not fight. He ran to the edge of the quay. The deckhand was in the water, and the water in December was nine degrees; the man had gone under once, and came up gasping, white as paper, his arms flailing at the oranges. There was no time to remove a coat. Ahmed Yilmaz, son of the house that had sworn to ruin the Kayas, took off his cap, and put it carefully on a bollard, and dived.
+Ahmed did not fight. He ran to the edge of the quay. The deckhand was in the water, and the water in December was nine degrees. The man had gone under once, and came up gasping, white as paper, his arms flailing at the oranges. There was no time to remove a coat. Ahmed Yilmaz, son of the house that had sworn to ruin the Kayas, took off his cap, put it carefully on a bollard, and dived.
 
-He caught the man by the collar. He towed him, kicking, to the foot of the iron ladder and shoved him up it into a forest of hands, and then, as he turned, something struck him on the side of the head from above, a mooring-hook, flung and not aimed, and he went down in the green water with a bright burst of red.
+He caught the man by the collar and towed him, kicking, to the foot of the iron ladder, and shoved him up it into a forest of hands. As he turned, something struck him on the side of the head from above, a mooring-hook, flung and not aimed, and he went down in the green water with a bright burst of red.
 
 When he came up, hauled by the coat by two men in two colours who had suddenly forgotten which they were, there was blood in his eye, and the quay had gone quite quiet. The brawlers stood as if turned to stone. Not one of the Kaya had said *thank you.* But not one of them had struck again.
 
 From the little glass booth on the right, a figure had come out and stood at the end of the planking. She had a ticket-punch in one hand and no coat. Her hair had come out of its pins. She was twenty-six, quick, dark-browed, slight as a quill, with ink on her fingers that was not from tickets, and she put the back of her free hand to her mouth, and looked at the man in the water, who was looking at her.
 
-There was a great deal in that look. A good deal of it was fright. Some of it, perhaps, was something else.
+There was a great deal in that look, and not all of it was fright.
 
 "*Elif!*" shouted a voice from the Kaya side, her uncle's, harsh and cracked. "*Inside!*"
 
-She went in. But a minute after, as the police boat came round the point with its useless siren and the two families dragged away their hurt in two directions, a boy of fourteen, in a school blazer, with a tray of simit hung round his neck, who had been standing since the beginning on the bollard with his mouth wide open, slid down, and crossed the quay as if on an errand of no interest to anyone, and pressed into the bleeding hand of Ahmed Yilmaz a ticket for the 8:15 to Üsküdar.
+She went in. But a minute after, as the police boat came round the point with its useless siren and the two families dragged their hurt away in two directions, a boy of fourteen in a school blazer, a tray of simit hung round his neck, who had stood throughout on a bollard with his mouth wide open, slid down and crossed the quay as if on an errand of no interest to anyone. He pressed into the bleeding hand of Ahmed Yilmaz a ticket for the 8:15 to Üsküdar.
 
 "A lady asked me to give you a ticket," said Burak, who read books and feared the telephone and was, therefore, a perfect messenger. "She says the fare is paid."
 
@@ -187,7 +183,7 @@ On the back, in a small, quick, dark hand, was written:
 > The boat is blue; the boy is on the red.
 > Come back alive. That is all I have said.*
 
-Ahmed read it twice, standing there with the blood running into his collar. Then he folded it, and put it inside his coat, against his heart, where a man in his condition keeps the things he means to die with; and, since the police boat was now very close, and a constable was shouting about a statement, he had just time to look once more toward the little glass booth, in which the light had gone out.
+Ahmed read it twice, with the blood running into his collar. Then he folded it and put it inside his coat, against his heart, where a man in his condition keeps the things he means to die with; and, since a constable was shouting about a statement, he had just time to look once more toward the little glass booth, in which the light had gone out.
 
 "Soup," said Sema, in his ear, and a bowl was in his hands, hot as a small sun. "*Eat.* I told you. Leave it on the hook."
 
@@ -202,7 +198,7 @@ He was, as the reader may already perceive, right.
 
 "I will not be told," said Sherif Sabry, "that I have been *deceived.*"
 
-He stood in the middle of the laboratory in a cream suit and a cravat, holding a blue-green vase in both arms like an infant who had misbehaved. He was seventy-two, the greatest novelist in Egypt by his own account, and the author of eleven books that nobody had read, which he maintained was the secret of his genius. "I am a student of human nature. I have never in my life been fooled by a man who sells things."
+He stood in the middle of the laboratory in a cream suit and a cravat, holding a blue-green vase in both arms like an infant who had misbehaved. He was seventy-two, the greatest novelist in Egypt by his own account, and the author of eleven books that nobody had read, which he held to be the secret of his genius. "I am a student of human nature. I have never been fooled by a man who sells things."
 
 "It is cracked from the lip to the shoulder," said Layla Mansour, taking it from him as one takes a patient from a relative.
 
@@ -214,15 +210,15 @@ He stood in the middle of the laboratory in a cream suit and a cravat, holding a
 
 "The *shelf* is saying nothing."
 
-Layla, thirty-two, held the vase in both hands under the lamp. She was a woman of exact movements and a dry tongue, who wore her emotions in a locked drawer and could tell the age of a glaze by the sound it made when she tapped it with a fingernail. The vessel was a deep turquoise over a body of fine pale clay, with a band of Kufic round the shoulder and a faint web of crazing, delicate as frost, over the whole. It was said to be Mamluk. It had been bought, the professor said, the spring before, in the Khan, for his granddaughter's wedding, from an honest man who had never lied to him in his life.
+Layla, thirty-two, held the vase under the lamp. She was a woman of exact movements and a dry tongue, who kept her emotions in a locked drawer and could tell the age of a glaze by the sound it made under her fingernail. The vessel was a deep turquoise over fine pale clay, with a band of Kufic round the shoulder and a web of crazing, delicate as frost, over the whole. It was said to be Mamluk. It had been bought, the professor said, the spring before, in the Khan, for his granddaughter's wedding, from an honest man who had never lied to him in his life.
 
 "Which honest man?"
 
 "Haddad and Sons. A charming fellow. He has no sons, but he has *lovely* manners."
 
-The room went quiet. In the three-way quarrel of the minarets, one of the muezzins paused for breath.
+The room went quiet. In the three-way quarrel of the minarets, one muezzin paused for breath.
 
-Layla set the vase on the bench, turned off the lamp, and clicked on the ultraviolet. In the blue dark the whole body of the vessel glowed, as a fraud does under an honest light: the crazing was too regular, the Kufic too even, and the glaze, which should have gone dull and chalky where it was old, shone with the pale violet of something made last year. And in the heart of the glaze, so fine that she would have missed it had she not spent a winter learning a certain man's hand, there was a pinprick of a different green.
+Layla set the vase on the bench, turned off the lamp, and clicked on the ultraviolet. In the blue dark the whole body of the vessel glowed, as a fraud does under an honest light: the crazing was too regular, the Kufic too even, and the glaze, which should have gone dull and chalky with age, shone with the pale violet of something made last year. And in the heart of the glaze, so fine that she would have missed it had she not spent a winter learning a certain man's hand, there was a pinprick of a different green.
 
 It was her mixture. A copper-green she had devised herself on a bad night in a bad winter, and once, at a stall in the Khan, over a glass of mint tea, in a moment of weakness, described.
 
@@ -262,9 +258,9 @@ Layla had taken a card from the bench, and written on it in her exact upright ha
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., against Entries 0888, 0343, 0211 and 0666:*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0888, 0343, 0211, 0732 and 0666:*
 
-> *A coach who smiles so the boys will not weep; a woman who is not afraid, as other people have a nose; a girl who keeps tickets for the sea; a restorer who mends the lie and signs the truth.*
+> *A coach who smiles so the boys will not weep; a woman who is not afraid, as other people have a nose; a boy who dives without asking whose son he saves, and a girl who keeps tickets for the sea; a restorer who mends the lie and signs the truth.*
 >
 > *Of these, two will be hurt before the winter is over. I will not say which. The Keeper does not choose; she merely counts.*
 

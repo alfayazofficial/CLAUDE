@@ -50,11 +50,11 @@ She spoke then, not in prose, for the dying sometimes find their sentences fall 
 
 "A thousand letters," said Nadeesha. "I thought—"
 
-"You thought it was a few dozen love notes from sailors." Seraphine's laugh was a dry, small thing, like the rustle of a page. "A thousand people, child, over forty-five years. Each wrote me one letter, and each letter holds the one sentence its writer could never say to the person who needed to hear it. I numbered them in the order they came. I answered none. I kept every one." She paused. "The first, I confess, was not a stranger's."
+"You thought it was a few dozen love notes from sailors." Seraphine's laugh was a dry, small thing, like the rustle of a page. "A thousand people, child, over forty-five years. Each wrote me one letter, and each letter holds the one sentence its writer could never say to the person who needed to hear it. I numbered them in the order they came. I answered none. I kept every one." She paused. "The first, Entry 0001, I confess, was not a stranger's."
 
 "Whose was it?"
 
-"A man's. A foolish, frightened, honourable man, who left me on a railway platform in nineteen seventy-seven because he was afraid he would love me too much." The grey eyes went somewhere very far. "He wrote it from a ship. I read it a hundred times. And then I thought: if one man has a sentence like that, how many more? And so I began a ledger. And so it became a life."
+"A man's. A foolish, frightened, honourable man, who left me on a railway platform in nineteen seventy-seven because he was afraid he would love me too much." The grey eyes went somewhere very far. "He wrote it from a ship, a month after, in a hand that shook with the sea. I read it a hundred times. And then I thought: if one man has a sentence like that, how many more? And so I began a ledger. And so it became a life."
 
 "And the thousandth?"
 
@@ -77,6 +77,8 @@ She found the key inside the lamp. She found the cabinet. She found, beneath the
 Behind her the window rattled. The clock on the mantel, which Seraphine had wound daily for forty years, said four minutes to midnight.
 
 On the screen of a small laptop, in a house at the edge of England, a young woman put her trembling finger upon a key.
+
+She did not press it at once. Reader, forgive her. The hand that has never broken a rule is slow to break the first, and Nadeesha stood a long minute in the lamplight, thinking of a hundred ordinary kitchens, a hundred ordinary pillows, a hundred people who had trusted an old woman with the worst sentence of their lives. *Who am I to open a door that is not mine?* And the answer came, in a dry little voice she had heard all week, though the owner of the voice lay quiet now behind her: *The one who was asked, child. The one who is awake.*
 
 *Mark this, reader. A thousand doors, long locked, are about to open at once. And what comes through them is not wind.*
 
@@ -110,11 +112,21 @@ For she, Inês Carvalho, twenty-seven, postwoman of Alfama, had delivered a lett
 
 "That is not what it says. Your ears have gone red."
 
-"My ears are cold."
+"My ears are cold. It is the river."
 
-"It is a warm night."
+"It is a warm night for November."
 
 "Then my ears," said Inês with great dignity, "are *ambitious*."
+
+Pereira looked at her ears, then at the phone, then at the tart. He was a lamp-seller. He knew, better than most, the look of a person who has just been lit from inside.
+
+"I will sell you a lamp," he said gently. "Eighty euros. It is a very good lamp for reading in the bath."
+
+Inês looked at him for a long moment.
+
+"Go home, Pereira."
+
+"Seventy."
 
 ---
 
@@ -143,7 +155,7 @@ He had written that. He remembered writing it, at a desk that was then a good de
 
 "It is *poetry*," said Tithi.
 
-"It is a sentence with a conditional."
+"It is a sentence with a conditional, Tithi. A conditional is a confession that has lost its nerve."
 
 "That is what poetry is."
 
@@ -157,6 +169,8 @@ He read it. He read it again. A line, in a telescope of ten thousand words, can 
 Underneath, in the margin, in a small, steady, old-fashioned hand, someone had pencilled a note, and the note had been scanned along with the page:
 
 *0713 posted 22:40, Dhaka. 0714 posted 23:41, Yogyakarta. One minute apart, by the stars. One hour, by the clocks. — S.W.R.*
+
+Outside, the call to prayer had finished and the first rickshaw bells were starting up along the road. Somewhere below, a landlord was climbing the stairs with the particular tread of a man who has come about the month's rent. Fayaz heard the tread and did not look up. For the length of one breath, a stranger's sentence in Yogyakarta weighed more than all of it.
 
 "Bhaiya?" said Tithi. "Why are you looking at it like that?"
 
@@ -224,13 +238,34 @@ She did not send it. Not yet. A message is a lamp, and one should know where one
 
 At the stroke of midnight, a thousand doors opened.
 
-They opened in Lisbon, where a postwoman sat very still over her cold tart. They opened in Accra, where a pharmacist and a taxi-fleet owner, who had not spoken in six years, each reached at the same moment for a phone. They opened in Osaka, in Cairo, in Bergen, in Kochi, in São Paulo, in Lagos, in Lyon, in Kraków, in a hundred other places where somebody was awake and ashamed.
+They opened in Lisbon, where a postwoman sat very still over her cold tart. They opened in Accra, where a pharmacist and a taxi-fleet owner, who had not spoken in six years and lived eighty yards apart, each reached at the same moment for a phone, and each, noticing the other's lit window, pretended not to. Somewhere down the lane a roof loudspeaker coughed and said, to nobody, "Brothers and sisters of the Rank, something is happening." They opened in Osaka, in Cairo, in Bergen, in Kochi, in São Paulo, in Lagos, in Lyon, in Kraków, in a hundred other places where somebody was awake and ashamed.
 
-They opened in a lighthouse in Galle, where a young man named Anil Perera watched a video call fail, and failed to know why he trembled.
+They opened in a lighthouse in Galle, where a young man named Anil Perera, who kept the lamp for the ships, watched a signal fail on his phone, and could not have said why his hands trembled.
 
-They opened at dawn in a window in Dhaka, and an hour later, by the clocks, in a window in Yogyakarta: two mornings, one hour apart.
+They opened at first light in a window in Dhaka, and an hour later, by the clocks, in a window in Yogyakarta: two mornings, one hour apart, and two people who did not yet know that they were sharing one.
 
 And on a cliff in Cornwall, in a house with the wind at its door, a grey-eyed old woman lay quite still, with a smile on her face that said she had never in her life been so completely on time.
+
+---
+
+**Cornwall, 00:11.**
+
+Nadeesha had expected a silence after the key. Instead the little laptop gave a soft chime, like a spoon against a glass, and a counter in the corner of the screen turned from 0 to 1.
+
+Then to 9. Then to 140. Then it stopped being a number a person could read and became a pulse.
+
+She sat on the edge of the bed with the cold laptop warm on her knees and watched strangers arrive: Lisbon, Dhaka, Osaka, Accra, Yogyakarta, each a small blue dot on a map that had been black all her life. She thought, absurdly, of the ward at home on the night shift, when the monitors go off one by one and a nurse has to choose which of them to run to first.
+
+"Aunty," she said to the still shape beside the window, "they are all coming at once."
+
+The wind had dropped. Outside, the sea breathed in and out, which is all the sea has ever done by way of comment.
+
+*Sleep now, Keeper,* said the Chorus, who is permitted a word at the end of a long day, and who has been watching this house a great deal longer than you:
+
+> *The light you kept is out. The pull remains.
+> Where one dark star has set, a thousand turn
+> Their faces to the room and ask their names.
+> Sleep. We shall keep the lamp. It is our turn.*
 
 ---
 

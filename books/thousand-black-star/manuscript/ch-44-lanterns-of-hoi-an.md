@@ -16,11 +16,11 @@
 
 In Hoi An, on the fourteenth night of the moon, the town forgets that it has electricity.
 
-The yellow walls turn amber. The old merchants' houses, which have leaned over that river four hundred years, lean their carved shutters toward the water as if to hear. The lanterns hang by hundreds over the lanes, red and gold and jade, silk stretched on bamboo; and on the Thu Bon, little paper boats go drifting by the thousand, each with a candle and a wish, so that the whole black stream seems to be carrying a second sky downhill to the sea.
+The yellow walls turn amber. The old merchants' houses, which have leaned over that river four hundred years, lean their carved shutters toward the water as if to hear. Lanterns hang by hundreds over the lanes, red and gold and jade, silk stretched on bamboo; and on the Thu Bon, little paper boats go drifting by the thousand, each with a candle and a wish, so that the whole black stream seems to carry a second sky downhill to the sea.
 
 In a workshop on a side lane, behind a turquoise door, a young woman sat cross-legged on a mat, stitching.
 
-Hà Trần was twenty-seven, from Huế, the old imperial city, where girls are taught to speak softly and to make things that last. She made lanterns. She had that rare, nearly religious gift for taking something frail and giving it a skeleton of bamboo, a skin of silk and a heart of fire. Her lanterns looked as though the light inside them had been *asked,* and had agreed.
+Hà Trần was twenty-seven, from Huế, the old imperial city, where girls are taught to speak softly and to make things that last. She made lanterns. She had a rare, nearly religious gift for taking something frail and giving it a skeleton of bamboo, a skin of silk and a heart of fire. Her lanterns looked as though the light inside them had been *asked,* and had agreed.
 
 She was very pale tonight, under the red glow, with a silk scarf wound round her head. She had been tired, for eleven months, in the way sleep does not mend.
 
@@ -32,7 +32,7 @@ She was very pale tonight, under the red glow, with a silk scarf wound round her
 
 "He has been *what?*"
 
-A young man stood in the door, tall, rumpled, in a linen shirt the colour of old tea, from Hanoi, with a face a little too thin and a little too bright: the sidelong, hungry look of one who has spent his life looking through a small window at other people's happiness. Round his neck hung a battered black camera. Round his heart, an unspoken thing had been wound tight as a wick.
+A young man stood in the door, tall and rumpled, in a linen shirt the colour of old tea, from Hanoi, with a face a little too thin and a little too bright. He had the sidelong, hungry look of someone who has spent his life watching other people's happiness through a small window. Round his neck hung a battered black camera.
 
 "Hà," said Quân Nguyễn.
 
@@ -52,7 +52,7 @@ Hà stood. She stood too fast, and the room tilted, and the lantern in her hand 
 
 "You are not *only* tired."
 
-She looked up at him. She had meant to hold the lie a little longer. She had folded it small, for eleven months, and kept it in her sleeve. But there is a limit to the weight of a lie in the arms of someone who has said your name like that.
+She looked up at him. She had meant to hold the lie a little longer. She had folded it small, for eleven months, and kept it in her sleeve. But a lie weighs too much in the arms of someone who has said your name like that.
 
 "It is in the blood," she said. "They found it in the spring. There is a hospital in Đà Nẵng. There are medicines, and they do some good, for a time." She smiled, a little crookedly. "I am not telling you so that you will look at me the way you are looking at me now."
 
@@ -64,25 +64,25 @@ She looked up at him. She had meant to hold the lie a little longer. She had fol
 
 *Later. The river. A bench. Two small paper boats, each with a candle, not yet launched.*
 
-"You may ask me for anything," said Quân. "A doctor, a fortune, a cart to Đà Nẵng. I will carry you in my arms."
+"You may ask me for anything," said Quân. "A doctor, a cart to Đà Nẵng. I will carry you in my arms."
 
 "No."
 
 "Hà—"
 
-"*No.*" It came out hard, and then softer. "I know you. You will become a man with a task, and I will become the task. You will bring soup, and cry when I am not looking, and speak in the voice they use to children and the dead. I am a woman who makes lanterns. For as long as I can, I would like to go on being only that."
+"*No.*" It came out hard, and then softer. "I know you. You will become a man with a task, and I will become the task. You will bring soup, and cry when I am not looking, and speak in the voice they use for children and the dead. I make lanterns. For as long as I can, I would like to go on being only that."
 
 "I do not pity you."
 
 "Everyone says that."
 
-"I have watched you for nine months," said Quân, low and fierce. "I have seen you take a plain frame and a yard of silk and make a thing that looks as if it had been *thought* by the light. I do not pity a woman who can do that. I envy the people who will stand under it."
+"I have watched you for nine months," said Quân, low and fierce. "I have seen you take a plain frame and a yard of silk and make a thing that looks as if the light had *thought* of it. I do not pity a woman who can do that. I envy the people who will stand under it."
 
 She looked at him for a long time. "Show me. The hundred and forty-two."
 
-He turned the little screen toward her, and they sat shoulder to shoulder in the amber dark while the pictures slid by. Hà at the bench, her hands in the glow. Hà laughing at Thảo's whistle, the scarf coming loose. Hà asleep over a frame in the noon heat, a half-finished lantern against her cheek like a sleeping child. Hà looking at a lantern with a look he had not known a face could hold: as though she had made a sun and were not yet sure it was hers.
+He turned the little screen toward her, and they sat shoulder to shoulder in the amber dark while the pictures slid by. Hà at the bench, her hands in the glow. Hà laughing at Thảo's whistle, the scarf coming loose. Hà asleep over a frame in the noon heat, a half-finished lantern against her cheek. Hà looking at a finished lantern with a look he had not known a face could hold: as though she had made a sun and were not yet sure it was hers.
 
-A tear ran down her face, and she let it, as one lets rain fall on a thing one is not afraid of.
+A tear ran down her face, and she let it fall.
 
 "Is that me?"
 
@@ -105,7 +105,7 @@ She laughed, shakily, and laid her head on his shoulder, and said, as if recitin
 
 "I will make one lantern each month, for as long as I can. The last one," she said, so quietly he scarcely heard, "you will carry."
 
-Quân could not speak. He lit the two candles, and together they set the little boats on the river. For a time the flames kept close, side by side in the black current; and then the water, which carries everything at its own pace, took them gently round the bend.
+Quân could not speak. He lit the two candles, and together they set the little boats on the river. For a time the flames kept close, side by side in the black current; and then the water took them gently round the bend.
 
 ---
 
@@ -114,15 +114,15 @@ Quân could not speak. He lit the two candles, and together they set the little 
 
 In a city of a hundred spires, a man was preparing to perform for the most honest audience in the world.
 
-They were seventeen, in beds and chairs, under blankets from home, with oxygen tubes and, in one case, a very large hat. They had been told it was "a puppet show," and were unimpressed. But a hospice has the same effect on pride as the sea on a sandcastle, and so they had come.
+They were seventeen, in beds and chairs, under blankets from home, with oxygen tubes and, in one case, a very large hat. They had been told it was "a puppet show," and were unimpressed. But a hospice is hard on pride, and so they had come.
 
-Behind the screens, in the dark, with his strings between his fingers, stood Petr Novák, forty, the shyest puppeteer in Prague, who had never spoken a sentence of his own to a room of strangers, and who now lifted a three-foot wooden figure in a red cap, to speak through the mouth of someone braver.
+Behind the screens, in the dark, with his strings between his fingers, stood Petr Novák, forty, the shyest puppeteer in Prague. He had never spoken a sentence of his own to a room of strangers. Now he lifted a three-foot wooden figure in a red cap, to speak through the mouth of someone braver.
 
 "*Dobrý den!*" cried **Kašpárek,** the clown, bobbing and bowing, in a cracked comical voice. "Ladies and gentlemen! Some of you may have heard that I am a *fool.* This is true. I have been a fool since the year 1700, and I am *very good at it.*"
 
 The seventeen began, grudgingly, to smile.
 
-At the back, in a plain grey coat, with a notebook she had left in the car, sat Lucie Horáková, thirty-six, theatre critic, whose pen had been until last year the sharpest in the Czech lands. Beside her, under a plaid rug, lay her father, Martin Horák, seventy-four, retired tour guide, who had a few weeks left.
+At the back, in a plain grey coat, with the notebook she had left in the car, sat Lucie Horáková, thirty-six, theatre critic, whose pen had been until last year the sharpest in the Czech lands. Beside her, under a plaid rug, lay her father, Martin Horák, seventy-four, retired tour guide, who had a few weeks left.
 
 "It is very good," whispered Martin, before it had begun, and settled himself.
 
@@ -140,13 +140,13 @@ Lucie sat very still.
 
 "The clown is very bad at speaking for himself, and so he has always used a hat. But there is a gentleman behind the screen who would like to say one thing without the help of any wood."
 
-The strings went slack. And from behind the screens, small, hoarse, unmistakably the voice of a very shy man with nothing in his hands, came a sentence:
+The strings went slack. And from behind the screens, small and hoarse, came the unmistakable voice of a very shy man with nothing in his hands:
 
 "Thank you for coming."
 
 That was the whole of it. He did not wait for an answer.
 
-In the back of the room a critic put her hands over her face. And her father, who did not know it was a first, cried clearly and cheerfully to the whole ward, "*Bravo!*" and was echoed at once by sixteen people who had very little time left to be generous in.
+In the back of the room a critic put her hands over her face. And her father, who did not know it was a first, cried clearly and cheerfully to the whole ward, "*Bravo!*" and was echoed at once by sixteen people who had very little time left in which to be generous.
 
 ---
 
@@ -155,15 +155,15 @@ In the back of the room a critic put her hands over her face. And her father, wh
 
 Abbu had never told anyone how much the roof meant to him.
 
-It was the only part of the house the debt had not touched. He kept tomatoes up there, and chillies, and a struggling jasmine in a bucket, and every evening, at the hour when the crows go home, he climbed three flights with a tin jug, in the blue shirt he had worn to the office for twenty years, before a supplier he trusted had made him a man who did not go to an office.
+It was the only part of the house the debt had not touched. He kept tomatoes up there, and chillies, and a struggling jasmine in a bucket, and every evening, at the hour when the crows go home, he climbed the last flight with a tin jug, in the blue shirt he had worn to the office for twenty years, before a supplier he trusted had left him with no office to go to.
 
-Three floors below, Fayaz was writing code for a firm in Singapore, in the first bluish ache of the night shift, when he heard the jug fall.
+One floor below, Fayaz was writing code for a firm in Singapore, in the first bluish ache of the night shift, when he heard the jug fall.
 
-It is a small sound, a tin jug on concrete. Every family knows it. It is the sound of something that was being carried and is not any longer.
+It is a small sound, a tin jug on concrete. It is the sound of something that was being carried and is not any longer.
 
-He took the stairs three at a time. He found his father on his side among the pots, the water running in a dark tongue across the roof, eyes open, mouth moving, unable to say. Fayaz, who had carried only code, lifted a man who weighed as little as a rolled mat and brought him down three flights, shouting for Tithi, for the whole sleeping lane.
+He took the stairs three at a time. He found his father on his side among the pots, the water running in a dark tongue across the roof, eyes open, mouth moving, unable to say. Fayaz, who had carried only code, lifted a man who weighed as little as a rolled mat and carried him down the stairs, shouting for Tithi, for the whole sleeping lane.
 
-It was Bunny who found the three-wheeler. Bunny, thirteen, owner of a kettle, who had been shutting the tea stall, took one look, dropped everything, and ran into the main road waving both arms at a green CNG auto as though he could stop a typhoon with his hands.
+It was Bunny who found the three-wheeler. Bunny, thirteen, owner of a kettle, who had been shutting the tea stall, took one look, dropped everything, and ran into the main road waving both arms at a green CNG auto as though he could stop a cyclone with his hands.
 
 "The heart hospital!" he screamed. "*Bhaiya's father!* Drive, Uncle, I will pay you in tea for a year!"
 
@@ -173,15 +173,15 @@ At the National Institute of Cardiovascular Diseases they said he was lucky in t
 
 The debt, which had been fourteen lakh, became nineteen.
 
-Fayaz did not weep. He sat in the corridor among the families asleep on newspapers, under a fluorescent tube that had never in living memory been off, and did the sums. His mother came in the afternoons with a tiffin, her breathing a little worse each time, as though she carried two burdens up the stairs, and sat beside him, and did not ask. Tithi did her physics on her knee.
+Fayaz did not weep. He sat in the corridor among the families asleep on newspapers, under a fluorescent tube that had never in living memory been off, and did the sums. His mother came in the afternoons with a tiffin, her breathing a little worse each time, and sat beside him, and did not ask. Tithi did her physics on her knee.
 
 He did not look at his phone.
 
-He had switched it off the first night. He told himself it was the battery. It was that every buzz had become an invoice; and somewhere in that glowing rectangle, he knew, was a name he could not bear to see.
+He had switched it off the first night. He told himself it was the battery. In truth every buzz had become an invoice, and somewhere in that glowing rectangle was a name he could not bear to see.
 
-*I will not be the thing that makes you stay.* He had said it himself. It had been his best sentence. And now he could only watch, in great calm horror, as he proved it true. She was in Rotterdam, with a studio and four continents of masters and a long bright road, and there is no sentence in any language that begins, *My father has had a heart attack and I owe nineteen lakh,* and ends in anything but *and so I must ask you for something.*
+*I will not be the thing that makes you stay.* He had said it himself. It had been his best sentence. Now he could only watch, in great calm horror, as he proved it true. She was in Rotterdam, with a studio and four continents of masters and a long bright road, and there is no sentence in any language that begins, *My father has had a heart attack and I owe nineteen lakh,* and ends in anything but *and so I must ask you for something.*
 
-It was a wall with excellent manners. And it had fallen on the one person he would have let in.
+It was a wall with excellent manners, and it had fallen on the one person he would have let in.
 
 On the second Friday, at ten in the evening, he stood and looked at the clock over the nurses' station for a very long time. Four hours back along the longitude, in a city of canals, a woman would be sitting down at a table.
 
@@ -197,7 +197,7 @@ Fayaz put his hand on the dead phone in his pocket. He did not take it out.
 
 "Then tell her it is a middle," said Bunny. "People have been known to survive them."
 
-At ten past, the clock ticked forward in its fifteen minutes' error. Through the ICU door the monitor beat, small and green and faithful, like a lighthouse in a very dark country. And Fayaz sat down, and put his head in his hands.
+At ten past, the clock ticked forward in its fifteen minutes' error. Through the ICU door the monitor beat, small and green and faithful. And Fayaz sat down, and put his head in his hands.
 
 ---
 
@@ -206,9 +206,9 @@ At ten past, the clock ticked forward in its fifteen minutes' error. Through the
 
 In Yogyakarta the sun sets at six, like a clerk. In Rotterdam in June it stays out until ten and then goes off in a sulk.
 
-Ermis Larasati had done the arithmetic on her first night, at the window of her new room, watching the sun refuse to set over a city that had never learned the word *dusk.* She was no longer an hour in his future. She was four hours in his *past.* When it was ten at night in Mirpur it was six in the evening in Delfshaven, and she did not know what to do with a fact like that, except to look at it.
+Ermis Larasati had done the arithmetic on her first night, at the window of her new room. She was no longer an hour in his future. She was four hours in his *past.* When it was ten at night in Mirpur it was six in the evening in Delfshaven, and she did not know what to do with a fact like that, except to look at it.
 
-She had been in Rotterdam nine weeks. She had learned to ride a bicycle in the rain, that *gezellig* means anything pleasant that has candles, and that her landlady, Mevrouw Visser, who ran the bakery below, believed all sorrow a matter of *stroopwafel.* And she had learned the lab: fifteen masters of wax from four continents, and a wall of clocks, one for each master's city, to which she had, on her second day, very shyly asked the director to add one.
+She had been in Rotterdam nine weeks. She had learned to ride a bicycle in the rain, that *gezellig* means anything pleasant that has candles, and that her landlady, Mevrouw Visser, who ran the bakery below, believed all sorrow a matter of *stroopwafel.* And she had learned the lab: fifteen masters of wax from four continents, and a wall of clocks, one for each master's city. On her second day she had very shyly asked the director to add one.
 
 "Dhaka?" the director had said. "Do you have a master in Dhaka?"
 
@@ -216,13 +216,13 @@ She had been in Rotterdam nine weeks. She had learned to ride a bicycle in the r
 
 It hung now between Lagos and Kyoto, four hours ahead of her own, and she looked at it a great deal.
 
-For nine Fridays he had come. At six her time, ten his, with an indigo cloth on a frame at her elbow, a hundred dots to every Friday, a thousand black stars in the making, and *he* on the screen: ironed shirt, candle or no candle, a joke, a sum, a tea-boy's verdict, a four-minute error blamed on the clock. On the last of them he had said, with a strange stiffness, that he would be busy next week. And she had said, *Of course.*
+For nine Fridays he had come. At six her time, ten his, with an indigo cloth on a frame at her elbow, a hundred dots to every Friday, and *he* on the screen: ironed shirt, a joke, a sum, a tea-boy's verdict, a four-minute error blamed on the clock. On the last of them he had said, with a strange stiffness, that he would be busy next week. And she had said, *Of course.*
 
 And then nothing.
 
 The first Friday she sat at six. At ten past: *delivered.* At half past: *delivered.* She told herself that Dhaka had a great many power cuts.
 
-The second Friday she told herself nothing. She wrote a message eleven times and deleted it eleven times: *Are you well? Is it your mother? Did I say too little?* In her own window the three small dots rose and fell, *Ermis is typing…,* a cowardly heart that could not decide on a sentence.
+The second Friday she told herself nothing. She wrote a message eleven times and deleted it eleven times: *Are you well? Is it your mother? Did I say too little?* In her own window the three small dots rose and fell, *Ermis is typing…,* a cowardly heart unable to decide on a sentence.
 
 Her grandmother rang on the video, in a batik shawl, with the parrot on her shoulder.
 
@@ -234,7 +234,7 @@ The parrot, to everyone's astonishment, fell silent and cocked her head.
 
 "Then do what we did," said Eyang, who had been born in a time of letters and never fooled by a screen. "Write it on paper, child. A telephone is a door that opens only from the inside. Paper can be pushed under."
 
-So she did. She sat at the table with a sheet of the lab's hand-made paper, thick and cream, and the fountain pen her father had given her at eighteen, and the indigo ink she kept for lines that could not be changed. It took six sheets, and the first five were spoiled by sentences that said too much. The last said, in her small upright hand:
+So she did. She sat at the table with a sheet of the lab's hand-made paper, thick and cream, and the fountain pen her father had given her at eighteen. It took six sheets, and the first five were spoiled by sentences that said too much. The last said, in her small upright hand:
 
 > *Rotterdam, Friday night.*
 >
@@ -244,11 +244,11 @@ So she did. She sat at the table with a sheet of the lab's hand-made paper, thic
 >
 > *I am well. It rains sideways, like something personal. The lab is wonderful; it is full of people who know everything about wax and nothing about how to boil rice.*
 >
-> *I have a problem in arithmetic. In Yogyakarta I was one hour ahead of you, and I said you were kind in my past. Here I am four hours behind. It is six for me when it is ten in Mirpur. So now you are four hours in my future. I did not plan it. It means, if I am logical, that you know what happens. I would be very grateful if you would tell me.*
+> *I have a problem in arithmetic. In Yogyakarta I was one hour ahead of you, and I told you from an hour ahead that you were kind. Here I am four hours behind. It is six for me when it is ten in Mirpur. So now you are four hours in my future. I did not plan it. It means, if I am logical, that you know what happens. I would be very grateful if you would tell me.*
 >
 > *I do not know why you are silent. I have decided not to guess. If it is your father, I am sorry, and I will not say more. If it is your mother, the same. If it is the debt, the same. If it is that you think you must not be a weather in my window, I shall tell you, since you will not ask: you are not weather. Weather passes. You are the window.*
 >
-> *I have begun the cloth. A hundred dots each Friday. Nine hundred so far. It needs a thousand, and then it has its name. I will not make the last hundred until I hear from you. I want you in the last row.*
+> *I have begun the cloth. A hundred dots each Friday. Nine hundred so far. It needs a thousand, and then it has its name. I will not make the last hundred until I hear from you.*
 >
 > *I shall be at the table on Fridays at six. If you can only manage one letter, send a dot.*
 >
@@ -258,15 +258,15 @@ So she did. She sat at the table with a sheet of the lab's hand-made paper, thic
 >
 > *P.S. Ayu said "too late." I told her, "Not yet." She has been unusually quiet since.*
 
-She did not write *love.* It was a word, she had always privately thought, like a note of large denomination: easy to spend and impossible to take back.
+She did not write that word. She had always privately thought it a note of large denomination: easy to spend and impossible to take back.
 
-On the Saturday morning she went out in the sideways rain, in the wrong raincoat, past the bakery and the bicycles chained like a flock of tethered birds, to the red postbox at the end of her street. It had two slots: *Rotterdam,* and *overige landen.* Other countries. She stood before it a long time with the envelope in her hand.
+On the Saturday morning she went out in the sideways rain, in the wrong raincoat, past the bakery and the chained bicycles, to the red postbox at the end of her street. It had two slots: *Rotterdam,* and *overige landen.* Other countries. She stood before it a long time with the envelope in her hand.
 
-On the front she had written, in the Latin letters she kept for strangers and clients, the address she had been given on the last Friday before she flew, by a man who had said, *A postman will need a map and a priest:* a third-floor flat in a lane in Mirpur, six thousand miles to the east.
+On the front she had written, in her neatest capitals, kept for strangers and clients, the address she had been given on the last Friday before she flew, by a man who had said, *A postman will need a map and a priest:* a third-floor flat in a lane in Mirpur, five thousand miles to the east.
 
-A letter, she thought, is the opposite of the dots. One cannot take it back, and one cannot watch for it. One can only let go, and go home, and wait for the rain.
+A letter, she thought, is the opposite of the dots. One cannot take it back, and one cannot watch for it. One can only let go, and go home.
 
-She put it through the slot. She heard it drop, a small flat sound, like a coin falling into a very deep well.
+She put it through the slot. She heard it drop, a small flat sound.
 
 "Not yet," said Ermis, to the postbox. And then, to the grey Dutch sky, which for once, for no reason at all, had begun to lighten: "Is it, though?"
 

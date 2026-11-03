@@ -26,7 +26,7 @@ When the bus was empty save for one acrobat in a good shirt and one nurse in a g
 
 The restaurant was a *crama*, a cellar in the old merchants' quarter, down eleven worn steps from the cobbled lane: all vaults and whitewash and strings of dried peppers, with candles in wine bottles and an old man in the corner with an accordion. On the table: *zacuscă* with black bread, a carafe of plum brandy that Andrei was forbidden to touch and touched, a bowl of tripe soup sharp with garlic, and, to come, stuffed cabbage rolls the size of a baby's fist.
 
-Neither had ever been taught how to have a dinner. She had spent six years on night shifts, learning to eat standing; he had spent twelve on a diet of bananas and fear.
+Neither had been taught how to have a dinner. She had spent six years of night shifts learning to eat standing; he had spent twelve on bananas and fear.
 
 "I should say," said Andrei, "that I have been discharged with orders. No wire for six weeks. A physiotherapist named Mrs. Radu says that my core is a *rumour.*"
 
@@ -42,7 +42,7 @@ Neither had ever been taught how to have a dinner. She had spent six years on ni
 
 "You are in a cellar," said Andrei gravely. "It is eleven steps *down,* but one must begin somewhere."
 
-She laughed at last; the plait came undone a little; the old man struck up a waltz. They said nothing of importance, which is the most important thing two people can do at a first dinner. At the end of it she took his wrist across the table, with the casual authority of one who has done it ten thousand times to ten thousand strangers, and held two fingers on the pulse.
+She laughed at last; the plait came undone a little; the old man struck up a waltz. They said nothing of importance, which is the most important thing two people can do at a first dinner. At the end of it she took his wrist across the table, with the casual authority of long practice, and held two fingers on the pulse.
 
 "Well?" said Andrei.
 
@@ -58,7 +58,7 @@ She looked at him for a long time.
 
 **Johannesburg. A weeknight in Braamfontein, eleven minutes past one in the morning.**
 
-(*A city of gold and glass, in the pitch dark. Load-shedding, Stage Six. A thousand windows out, and above them a great many stars, which had not been seen over Johannesburg in years and seemed a little embarrassed by the attention.*)
+(*A city of gold and glass, in the pitch dark. Load-shedding, Stage Six. A thousand windows out, and above them a great many stars, a little embarrassed by the attention.*)
 
 On the ninth floor of an old tailoring factory turned radio station, with a wind-up lamp on the desk and a battery pack in the mixing-board, Naledi Khumalo, twenty-nine, host of *Late Light* on Nightjar FM, did the thing no host is trained to do. She put down her script.
 
@@ -70,7 +70,7 @@ In a flat above a dry-cleaner's on the other side of town, in the dark, sitting 
 
 "I do not know what he looks like," the voice went on, from a transistor radio on the sill. "I know how he breathes. Each night at ten minutes to two he plays me something down a telephone line, for four minutes, and I put it on the air. I know the sound of a man who stops, just before the last note, to be afraid of it. Tonight the line is down. So I am telling you what it is to be given a song every night by a stranger who asks for nothing. That is the show."
 
-Thabo stood up. There was no logic in it. He was a very good saxophonist whose whole life had been arranged so as to avoid being looked at; he played from the back of the stage with his eyes closed, so that he need not meet anyone's. He had not, in fourteen months, taken a taxi to the building in Braamfontein, on a principle which he believed to be *respect.*
+Thabo stood up. There was no logic in it. He was a very good saxophonist whose life had been arranged to avoid being looked at; he played from the back of the stage with his eyes closed, so that he need not meet anyone's. He had not, in fourteen months, taken a taxi to the building in Braamfontein, on a principle which he believed to be *respect.*
 
 "*Hawu,*" said Jabu Mokoena, twenty-nine, absent-minded shopkeeper and his oldest friend, in the stairwell, in a pyjama top, with his keys in his hand. "I will drive. I have been waiting fourteen months for you to do something stupid, and I do not intend to miss it."
 
@@ -94,7 +94,7 @@ He played.
 
 It was an old slow tune from the township, a tune his mother had hummed when she washed the floor. He played it with his eyes closed, as he always did, and the sound went out of the ninth floor into the transmitter and from the transmitter over the dark roofs: into the cab of a taxi stuck at a dead traffic light, where the driver stopped the engine; into a night nurse's kitchen in Hillbrow, where she turned off the stove; into a shebeen in Soweto, where a hundred people stopped in the middle of an argument. And when he came to the last note, the place where he always stopped, and was afraid, and went on, he opened his eyes.
 
-She was standing quite close, crying openly, as a child cries, with no regard for the microphone.
+She was standing quite close, crying openly, with no regard for the microphone.
 
 At that moment the city's power returned. The lights of the factory, the lights of the street, the windows of ten thousand rooms, the robots flickering green from the Brixton tower to the Carlton Centre; and a great sound rising off the roofs, from people at their windows and in their cars, who had heard the last note in the dark and had, with the lights, begun to clap.
 
@@ -110,13 +110,13 @@ On the top step Jabu Mokoena sat down with a hand on his chest, and said, in a v
 
 **Naples. A Sunday in the Piazza Bellini, three in the afternoon.**
 
-(*The smell of woodsmoke, hot oil, orange blossom, and a thousand years of argument. Laundry hung across the lane like bunting. Above the rooftops, the lilac shoulder of Vesuvius, asleep, like a large dog that has been listening.*)
+(*The smell of woodsmoke, hot oil, orange blossom, and a thousand years of argument. Laundry hung across the lane like bunting. Above the rooftops, the lilac shoulder of Vesuvius, asleep, or pretending.*)
 
 The feud between the pizzeria of Alessandro Greco and the pasticceria of Chiara Esposito was in its fourth year, and had by now a constitution.
 
 They stood at either end of a narrow lane off the Via dei Tribunali, in two shops facing each other like two old actresses on opposite sides of a stage. On the left, with a red-brick wood-oven and a hand-painted sign that said **DA SASÀ — PIZZA DAL 1961,** was Alessandro: thirty-three, broad, handsome, a man who shouted everything, including *good morning,* and who made the best margherita in the quarter by common consent and by his own. On the right, with a window full of golden sfogliatelle and a pink neon sign in the form of a spoon, was Chiara: thirty-one, small, quick, a pastry chef with a mouth like a drawn knife, who sold her babà in little boxes marked, in capitals, **NO REFUNDS.**
 
-The cause was famous. Two Easters ago, at the Festival of the Quarters, Alessandro had won the Golden Peel with a creation called *Pizza Immacolata:* a pizza whose crust, to the astonishment of the judges, was crisp as a biscuit, buttery as a pastry, and scented with orange-flower and a trace of Sorrento lemon. It was, as every old woman in the lane would tell you, *Chiara Esposito's grandmother's pastiera dough,* which had never been written down, and which he had somehow obtained from a card in a bag of flour. He had never said so. She had never said so. They had stopped speaking on the Monday.
+The cause was famous. Four Easters ago, at the Festival of the Quarters, Alessandro had won the Golden Peel with a creation called *Pizza Immacolata:* a pizza whose crust, to the astonishment of the judges, was crisp as a biscuit and scented with orange-flower and a trace of Sorrento lemon. It was, as every old woman in the lane would tell you, *Chiara Esposito's grandmother's pastiera dough,* which had never been written down, and which he had somehow obtained from a card in a bag of flour. He had never said so. She had never said so. They had stopped speaking on the Monday.
 
 "*Pasta frolla,*" bellowed Alessandro, rolling out a dough, "*is for people who do not believe in fire!*"
 
@@ -126,7 +126,7 @@ The cause was famous. Two Easters ago, at the Festival of the Quarters, Alessand
 
 "You were patient *once.* You waited three weeks to steal a recipe."
 
-A gasp went through the lane. A man selling cornetto charms stopped selling. An old woman leaned from a balcony with a bowl of peas; and a thin gossipy man named Paolo Ricci, thirty, choir director and self-appointed town crier of the quarter, stepped into the cobbles with an accordion at his hip and raised both hands.
+A gasp went through the lane. A man selling cornetto charms stopped selling. An old woman leaned from a balcony with a bowl of peas; and a thin, gossipy man named Paolo Ricci, thirty, choir director and self-appointed town crier of the quarter, stepped into the cobbles with an accordion at his hip and raised both hands.
 
 "Citizens! It is Easter week, and in this lane there are two persons who have been shouting about a recipe for four years. I say: let it be *settled.* A duel! Pizza against pastry! Each shall make a single dish, in the piazza, today, and it shall be judged, not by foreigners with clipboards, but by *the people.*"
 
@@ -138,7 +138,7 @@ A gasp went through the lane. A man selling cornetto charms stopped selling. An 
 
 By three o'clock the Piazza Bellini was a theatre. There were two long tables, two portable ovens, and a referee: Matteo Conti, fifty-three, police officer, gossipy, holding a pizza cutter as a sceptre and a whistle as a threat. The judges were nine persons drawn from a hat, among them Anna Bruno, seventy-eight, retired rickshaw-puller; Lucia Bruno, nine, schoolchild, severe; and Paola Fontana, twenty-five, a lifeguard. "We live by the sea," she said, with dignity.
 
-Alessandro worked like a thunderstorm. Dough flew. Flames roared. He slapped, stretched, spun, cried out to the crowd, and slid a margherita into the oven with a cry like a man launching a ship. Matteo Ricci, twenty-six, a welder and the brother of the pastry chef, stood by with a wrench, to see that the oven door did not fall off.
+Alessandro worked like a thunderstorm. Dough flew. Flames roared. He slapped, stretched, spun, cried out to the crowd, and slid a margherita into the oven with a cry like a man launching a ship. Matteo Ricci, twenty-six, a welder and a cousin of the pastry chef, stood by with a wrench, to see that the oven door did not fall off.
 
 Chiara worked in silence. She made, to the bafflement of the crowd, not a babà, not a pastiera, but a flat white disc of dough, and put it into the oven, and took it out, and covered it with something, and covered that with something else, and finally, with trembling fingers, laid across the top a circle of Sorrento lemon peel, thin as a thread. She carried it across the cobbles herself.
 
@@ -154,7 +154,7 @@ He took a bite. For a moment he forgot to shout. It was the first time in thirty
 
 Then he put down the pizza and took off his big white apron, with the name of his grandfather's pizzeria stitched on the bib, and folded it with great care and laid it on the table, as one lays down a sword.
 
-"I will not make a dish," said Alessandro Greco, and, to the stupefaction of the whole square, he said it softly. "I will lose the duel. I stole a recipe from you two Easters ago. It came in a bag of flour, with a card, in a hand that I knew, and I read it, and I thought: *this is the best thing I have ever seen.* And I did not send it back. I won a prize with it. I have been ashamed, every day since, to the bottom of my boots. I stole your recipe, and I am sorry."
+"I will not make a dish," said Alessandro Greco, and, to the stupefaction of the whole square, he said it softly. "I will lose the duel. I stole a recipe from you four Easters ago. It came in a bag of flour, with a card, in a hand that I knew, and I read it, and I thought: *this is the best thing I have ever seen.* And I did not send it back. I won a prize with it. I have been ashamed, every day since, to the bottom of my boots. I stole your recipe, and I am sorry."
 
 There was an enormous silence. Even the pigeons stopped.
 
@@ -180,13 +180,13 @@ The whole piazza was quiet enough to hear a spoon fall.
 
 "It was a little further to the left."
 
-He laughed, a great helpless broken laugh that came out of him like water out of a cracked pipe, and the whole square roared with it, and Paolo Ricci began to play, with a tear running down his nose, something sentimental and sixty years out of date. In the third row, Anna Bruno, seventy-eight, keeper of every secret in the quarter, who had seen the card go into the flour and had watched it for four years like a woman watching a pot that would not boil, nodded once, and said to the child beside her: "That is the first honest dough I have eaten since the war."
+He laughed, a great helpless broken laugh that came out of him like water out of a cracked pipe, and the whole square roared with it, and Paolo Ricci began to play, with a tear running down his nose, something sentimental and sixty years out of date. In the third row, Anna Bruno, seventy-eight, keeper of every secret in the quarter, who had seen the card go into the flour and had waited four years for the pot to boil, nodded once, and said to the child beside her: "That is the first honest dough I have eaten since the war."
 
 "Which war?" said Lucia Bruno, nine, severe.
 
 "Any of them," said her great-aunt.
 
-The vote was declared a draw. The referee blew his whistle and wept into his cap; and Matteo the welder handed the oven door to his sister's rival with the gravity of a man giving away a bride. "It is a very good door," he said. "Do not break it."
+The vote was declared a draw. The referee blew his whistle and wept into his cap; and Matteo the welder handed the oven door to his cousin's rival with the gravity of a man giving away a bride. "It is a very good door," he said. "Do not break it."
 
 "I have never broken anything of hers," said Alessandro. "I did not steal it. It was a gift."
 
