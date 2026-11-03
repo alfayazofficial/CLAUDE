@@ -131,6 +131,8 @@ She was twenty-eight, a nurse, and she was sitting bolt upright, with her hands 
 
 The drums began.
 
+There had been a low wire, six feet from the ground, with a net beneath it, built for him by Mihai for the gala. Andrei had walked it twice in rehearsal, thanked the owner with great courtesy, and asked for the high one.
+
 He came out in white. He was thirty-one, lean, quiet-faced, fearless in the air and timid on the ground, a man who in the ordinary world had needed a conspiracy of six people to ask a woman to dinner, and who now climbed a rope ladder as though it were a staircase in his own house. At the top he stood on the little platform, twelve metres above the sawdust. He lifted his pole. He looked down, once, over the rows, until he found the third seat in the third row, and a woman with her hands in her lap.
 
 He smiled. And he set his foot on the wire.

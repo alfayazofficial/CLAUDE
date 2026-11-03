@@ -119,7 +119,7 @@ Yet read: the dark hath light enough to lend.
 ## Chapter 1: The Night the Ledger Opened
 
 > *"I forgave you years ago and never said so."*
-> — Register of Black Stars, Entry 0388
+> — Register of Black Stars, Entry 0086
 
 ---
 
@@ -165,11 +165,11 @@ She spoke then, not in prose, for the dying sometimes find their sentences fall 
 
 "A thousand letters," said Nadeesha. "I thought—"
 
-"You thought it was a few dozen love notes from sailors." Seraphine's laugh was a dry, small thing, like the rustle of a page. "A thousand people, child, over forty-five years. Each wrote me one letter, and each letter holds the one sentence its writer could never say to the person who needed to hear it. I numbered them in the order they came. I answered none. I kept every one." She paused. "The first, I confess, was not a stranger's."
+"You thought it was a few dozen love notes from sailors." Seraphine's laugh was a dry, small thing, like the rustle of a page. "A thousand people, child, over forty-five years. Each wrote me one letter, and each letter holds the one sentence its writer could never say to the person who needed to hear it. I numbered them in the order I shelved them, which is not always the order they came; the heart keeps its own calendar. I answered none. I kept every one." She paused. "The first, Entry 0001, I confess, was not a stranger's."
 
 "Whose was it?"
 
-"A man's. A foolish, frightened, honourable man, who left me on a railway platform in nineteen seventy-seven because he was afraid he would love me too much." The grey eyes went somewhere very far. "He wrote it from a ship. I read it a hundred times. And then I thought: if one man has a sentence like that, how many more? And so I began a ledger. And so it became a life."
+"A man's. A foolish, frightened, honourable man, who left me on a railway platform in nineteen seventy-seven because he was afraid he would love me too much." The grey eyes went somewhere very far. "He wrote it from a ship, a month after, in a hand that shook with the sea. I read it a hundred times. And then I thought: if one man has a sentence like that, how many more? And so I began a ledger. And so it became a life."
 
 "And the thousandth?"
 
@@ -192,6 +192,8 @@ She found the key inside the lamp. She found the cabinet. She found, beneath the
 Behind her the window rattled. The clock on the mantel, which Seraphine had wound daily for forty years, said four minutes to midnight.
 
 On the screen of a small laptop, in a house at the edge of England, a young woman put her trembling finger upon a key.
+
+She did not press it at once. Reader, forgive her. The hand that has never broken a rule is slow to break the first, and Nadeesha stood a long minute in the lamplight, thinking of a hundred ordinary kitchens, a hundred ordinary pillows, a hundred people who had trusted an old woman with the worst sentence of their lives. *Who am I to open a door that is not mine?* And the answer came, in a dry little voice she had heard all week, though the owner of the voice lay quiet now behind her: *The one who was asked, child. The one who is awake.*
 
 *Mark this, reader. A thousand doors, long locked, are about to open at once. And what comes through them is not wind.*
 
@@ -225,11 +227,21 @@ For she, Inês Carvalho, twenty-seven, postwoman of Alfama, had delivered a lett
 
 "That is not what it says. Your ears have gone red."
 
-"My ears are cold."
+"My ears are cold. It is the river."
 
-"It is a warm night."
+"It is a warm night for November."
 
 "Then my ears," said Inês with great dignity, "are *ambitious*."
+
+Pereira looked at her ears, then at the phone, then at the tart. He was a lamp-seller. He knew, better than most, the look of a person who has just been lit from inside.
+
+"I will sell you a lamp," he said gently. "Eighty euros. It is a very good lamp for reading in the bath."
+
+Inês looked at him for a long moment.
+
+"Go home, Pereira."
+
+"Seventy."
 
 ---
 
@@ -258,7 +270,7 @@ He had written that. He remembered writing it, at a desk that was then a good de
 
 "It is *poetry*," said Tithi.
 
-"It is a sentence with a conditional."
+"It is a sentence with a conditional, Tithi. A conditional is a confession that has lost its nerve."
 
 "That is what poetry is."
 
@@ -272,6 +284,8 @@ He read it. He read it again. A line, in a telescope of ten thousand words, can 
 Underneath, in the margin, in a small, steady, old-fashioned hand, someone had pencilled a note, and the note had been scanned along with the page:
 
 *0713 posted 22:40, Dhaka. 0714 posted 23:41, Yogyakarta. One minute apart, by the stars. One hour, by the clocks. — S.W.R.*
+
+Outside, the call to prayer had finished and the first rickshaw bells were starting up along the road. Somewhere below, a landlord was climbing the stairs with the particular tread of a man who has come about the month's rent. Fayaz heard the tread and did not look up. For the length of one breath, a stranger's sentence in Yogyakarta weighed more than all of it.
 
 "Bhaiya?" said Tithi. "Why are you looking at it like that?"
 
@@ -339,13 +353,34 @@ She did not send it. Not yet. A message is a lamp, and one should know where one
 
 At the stroke of midnight, a thousand doors opened.
 
-They opened in Lisbon, where a postwoman sat very still over her cold tart. They opened in Accra, where a pharmacist and a taxi-fleet owner, who had not spoken in six years, each reached at the same moment for a phone. They opened in Osaka, in Cairo, in Bergen, in Kochi, in São Paulo, in Lagos, in Lyon, in Kraków, in a hundred other places where somebody was awake and ashamed.
+They opened in Lisbon, where a postwoman sat very still over her cold tart. They opened in Accra, where a pharmacist and a taxi-fleet owner, who had not spoken in six years and lived eighty yards apart, each reached at the same moment for a phone, and each, noticing the other's lit window, pretended not to. Somewhere down the lane a roof loudspeaker coughed and said, to nobody, "Brothers and sisters of the Rank, something is happening." They opened in Osaka, in Cairo, in Bergen, in Kochi, in São Paulo, in Lagos, in Lyon, in Kraków, in a hundred other places where somebody was awake and ashamed.
 
-They opened in a lighthouse in Galle, where a young man named Anil Perera watched a video call fail, and failed to know why he trembled.
+They opened in a lighthouse in Galle, where a young man named Anil Perera, who kept the lamp for the ships, watched a signal fail on his phone, and could not have said why his hands trembled.
 
-They opened at dawn in a window in Dhaka, and an hour later, by the clocks, in a window in Yogyakarta: two mornings, one hour apart.
+They opened at first light in a window in Dhaka, and an hour later, by the clocks, in a window in Yogyakarta: two mornings, one hour apart, and two people who did not yet know that they were sharing one.
 
 And on a cliff in Cornwall, in a house with the wind at its door, a grey-eyed old woman lay quite still, with a smile on her face that said she had never in her life been so completely on time.
+
+---
+
+**Cornwall, 00:11.**
+
+Nadeesha had expected a silence after the key. Instead the little laptop gave a soft chime, like a spoon against a glass, and a counter in the corner of the screen turned from 0 to 1.
+
+Then to 9. Then to 140. Then it stopped being a number a person could read and became a pulse.
+
+She sat on the edge of the bed with the cold laptop warm on her knees and watched strangers arrive: Lisbon, Dhaka, Osaka, Accra, Yogyakarta, each a small blue dot on a map that had been black all her life. She thought, absurdly, of the ward at home on the night shift, when the monitors go off one by one and a nurse has to choose which of them to run to first.
+
+"Aunty," she said to the still shape beside the window, "they are all coming at once."
+
+The wind had dropped. Outside, the sea breathed in and out, which is all the sea has ever done by way of comment.
+
+*Sleep now, Keeper,* said the Chorus, who is permitted a word at the end of a long day, and who has been watching this house a great deal longer than you:
+
+> *The light you kept is out. The pull remains.
+> Where one dark star has set, a thousand turn
+> Their faces to the room and ask their names.
+> Sleep. We shall keep the lamp. It is our turn.*
 
 ---
 
@@ -391,7 +426,7 @@ And now, on the screen of Pereira's cracked phone, in the night just gone, there
 
 *Entry 0753. Lisbon.*
 
-She had let the lamp-seller go home. She had walked the wet dawn to the sorting office, and there on her own small phone, in the bright empty room with the sleeping machines, she had pressed her thumb and forefinger against the screen to enlarge the scan, as one pulls a curtain.
+She had sent the lamp-seller home. She had stayed on alone among the sleeping sorting machines, with the night shift gone to its coffee, and there on her own small phone she had pressed thumb and forefinger against the screen to enlarge the scan, as one pulls back a curtain.
 
 The Register, you understand, did not keep only the words of its confessors. It kept the *paper.* Seraphine Wyndham-Rao had been an astronomer, and astronomers do not trust a report of a star; they want the plate. So each letter had been photographed whole, cream and blue-lined and stained and creased, and the hand of 0753 was there in the open air for anyone to see: small, square, careful, upright as a row of soldiers, every letter built as if load-bearing.
 
@@ -465,7 +500,7 @@ She looked. It was a square hand, certainly. It was also a hand in which the num
 
 "So you cannot have written to a woman whose face you have never seen."
 
-Rui Costa considered this. He was not a stupid man, merely a *hopeful* one, which is the more dangerous condition.
+Rui Costa considered this. He was not stupid, merely hopeful, which is the more dangerous condition.
 
 "Then perhaps," he said, "I wrote it to another."
 
@@ -511,7 +546,7 @@ There was a pause, in which a tram went grinding up the hill behind them, and a 
 
 "Do not be angry. You were crying into the sink. I am your elder, and you were crying into the sink. And a person who cries into a sink about a letter should not keep the letter in a drawer; she should post it to a woman in England who will keep it for ever and tell no one." She took a bite of pastry. "As, you will observe, she did."
 
-"She was dying!"
+"She was seventy-eight!"
 
 "She was *efficient,*" said Rita.
 
@@ -555,7 +590,7 @@ There was a short, hard silence in the pit, in which the cooling engine ticked l
 
 "A man who sends a love-letter to a street that does not exist," said Nuno, with deep admiration, "is either a poet or a fool, and I have always said you were both."
 
-Tomás Villaverde, twenty-nine, tram-mechanic, slid out upon his creeper like a man being born from an engine. He had a spanner in one hand and a smear of black grease from the temple to the jaw, and the look of a man who has been looking into the dark for a long time and has begun to see shapes there.
+Tomás Villaverde, twenty-nine, tram-mechanic, slid out upon his creeper as if the engine were delivering him. He had a spanner in one hand and a smear of black grease from the temple to the jaw, and the look of someone who has stared into the dark so long that it has begun to stare back with shapes.
 
 "I reasoned it out," he said. "I did not know her address. I know only her hand. So I wrote to *nowhere.* And the Post, if it is a decent institution, sends nowhere to somebody. I thought: the dead letters will go to the desk of the woman who writes on them. And she will either read it, or she will not." He wiped his face, and made it worse. "That is seven months, Nuno. In seven months I have had one reply. It was from the tax office, and it was about my *car.*"
 
@@ -611,7 +646,7 @@ It had not intended to. It stopped as an elderly person stops upon a staircase: 
 
 Inês stopped.
 
-Now it must be said, for the sake of accuracy, that she had not known the name. She had known a hand. But Rita, who is a journalist, had known someone who knew someone who had once fixed her washing machine, and Rita had sent a message at noon: *Tram depot, Santo Amaro, a Villaverde. Hands like a surgeon's, jokes like a cousin's, no wife.* There is no sorrow like being right on a hunch about a stranger, and no joy to equal it, and Inês felt both, at once, like two hot coins in a pocket.
+Now it must be said, for the sake of accuracy, that she had not known the name. She had known a hand. But Rita, who is a journalist, had known someone who knew someone who had once fixed her washing machine, and Rita had sent a message at noon: *Tram depot, Santo Amaro, a Villaverde. Hands like a surgeon's, jokes like a cousin's, no wife.* To be right on a hunch about a stranger is a sorrow and a joy together, and Inês felt both at once, like two hot coins in one pocket.
 
 She did not look at the tram. She looked at the pavement.
 
@@ -643,7 +678,7 @@ You will observe, reader, what is happening, for neither of them does. She has c
 
 "Nine years."
 
-"Then you must know," said Tomás, with the elaborate lightness of the very frightened, "what becomes of a letter when it has no address."
+"Then you must know," said Tomás, with the elaborate lightness of the frightened, "what becomes of a letter when it has no address."
 
 The hundred tourists had gone quiet. Pereira, who was the soul of discretion when it paid him, put down a lamp.
 
@@ -669,9 +704,9 @@ She saw him do the arithmetic. She saw it go through him as a current goes throu
 
 "I had heard *that,* too." He was getting up. He was taller than she had expected; he had to put a hand on the tram to find his balance. "She is, I am told, sixty, with a moustache."
 
-"She is *twenty-seven,*" said Inês, with great dignity, "and has been shaving *daily.*"
+"She is *twenty-seven,*" said Inês, crimson to the hairline, "and has never shaved her lip in her life."
 
-For a second there was nothing in the whole hill-top. Then a tourist from Ohio began to clap, and then his wife, and then the carriage full, and Pereira, who had never missed an occasion, said in a very loud and sacred voice, "A special price on lamps!" and Tomás Villaverde, with an expression that no mechanic has ever worn in the history of the Carris, said:
+For a second there was nothing in the whole hill-top. Then a tourist from Ohio began to clap, and then his wife, and then the carriage full, and Pereira, who had never missed an occasion, said in a very loud and sacred voice, "A special price on lamps!" and Tomás Villaverde, wearing an expression no mechanic has ever worn in the history of the Carris, said:
 
 "I think my name is Tomás."
 
@@ -707,7 +742,7 @@ Behind them, with a long metallic sigh of relief, Dona Conceição gave up her o
 
 In Accra there is a lane called Palm Lane, though no palm has stood on it since the British left, and it is eighty yards long, and it holds two shops, one taxi yard, nine opinions, and a war.
 
-At the northern end, in a cream building with green shutters and a red cross painted by a sign-writer who had been paid in kenkey, stood **Owusu Chemist & Dispensary**, whose proprietor, Abena Owusu, twenty-eight, wore a white coat as another woman might wear armour, and counted tablets in fives with the air of one who has caught nature cheating. At the southern end, behind a gate of corrugated iron painted the yellow of a ripe plantain, lay **Mensah Cabs**, forty-one taxis and a goat, belonging to Kwame Mensah, thirty-one, who had never in his life been seen to count anything but other people's blessings.
+At the northern end, in a cream building with green shutters and a red cross painted by a sign-writer who had been paid in kenkey, stood **Owusu Chemist & Dispensary**, whose proprietor, Abena Owusu, twenty-eight, wore a white coat as another woman might wear armour, and counted tablets in fives as if she had caught nature cheating. At the southern end, behind a gate of corrugated iron painted the yellow of a ripe plantain, lay **Mensah Cabs**, forty-one taxis and a goat, belonging to Kwame Mensah, thirty-one, who had never in his life been seen to count anything but other people's blessings.
 
 Between them lay eighty yards of cracked tar, which for six years neither had crossed.
 
@@ -735,7 +770,7 @@ It was against this background that, at nine minutes past six on the morning aft
 
 "*Chale,*" said Nii Tetteh.
 
-He was Kwame's oldest friend, choir director of the Methodist church at Adabraka, a large devout man with the tender, theatrical face of a man who has led nine hundred Sundays of "Rock of Ages." He held the phone out at arm's length, for he had left his spectacles in the choir loft, and he read aloud in the full resonant baritone that he used for the Gospel and for football.
+He was Kwame's oldest friend, choir director of the Methodist church at Adabraka, a large devout man with the tender, theatrical face of one who has led nine hundred Sundays of "Rock of Ages." He held the phone out at arm's length, for he had left his spectacles in the choir loft, and he read aloud in the full resonant baritone that he used for the Gospel and for football.
 
 "*Entry six hundred and twenty-five. Accra, Ghana.* 'I paid your father's debt and let you think it was forgiven.'"
 
@@ -753,7 +788,7 @@ The yard went very still. A goat looked up. Under the mango tree, Akosua Tetteh,
 
 "You said it was for your *back.*"
 
-Kwame Mensah, who could discuss the carburettor of any engine ever manufactured, and who had once talked a police captain out of a bribe by asking after his mother, took the phone with a very steady hand, and read the thing that he had written. He had written it at a kitchen table, after a bad week, to a woman in England he had never met, because she had promised to tell no one. It was a sentence that had cost him eleven drafts.
+Kwame Mensah could discuss the carburettor of any engine ever manufactured, and had once talked a police captain out of a bribe by asking after his mother. He took the phone with a very steady hand and read the thing he had written. He had written it at a kitchen table, after a bad week, to a woman in England he had never met, because she had promised to tell no one. It was a sentence that had cost him eleven drafts.
 
 He had not expected it to be read in his own yard, by a hundred strangers' eyes, at six in the morning, with a goat.
 
@@ -793,7 +828,7 @@ Abena had put down her pestle.
 
 She was a small woman with a straight back and quick hands and a tongue that she kept, like the poisons cabinet, locked, labelled and open only to the properly qualified. She had run this shop for six years: ever since the spring when her father, Kojo Darko, a good, proud, hopeless man who had founded the dispensary and then remortgaged it twice on the promise of a cocoa scheme, had been told by the bank that it would be taking possession at the end of the month. She had been twenty-two. She had been counting the stock for the last time when a letter arrived, on the bank's thick white paper, to say that the debt had been *settled in full by a benefactor who wishes to remain unnamed.*
 
-She had taken her mother's name, Owusu, over the door that very week, to see how it would look. Her father had died in June. He had been proud of her, and had told her it was nothing, in the last week of his life, in the manner of a man who finds the great things difficult to say and the small things easy. She had cried at the funeral for the shop, which was easier than crying for the man.
+She had taken her mother's name, Owusu, over the door that very week, to see how it would look. Her father had died in June. He had been proud of her, and had told her it was nothing, in the last week of his life, as people do who find the great things difficult to say and the small things easy. She had cried at the funeral for the shop, which was easier than crying for the man.
 
 And she had known, in the way one knows a number before the bill arrives, who had paid.
 
@@ -837,11 +872,11 @@ And then, from the northern end, there came out, quite slowly, into the white no
 
 *The harmattan was early that year. A thin brown dust hung over Palm Lane, so that the sun was only a pale coin and the colours of the world were all faintly eaten. The Rank, to a man, had gone silent upon their bonnets. A woman in a white coat was walking down the middle of the lane, as if she had always done so.*
 
-It was eighty yards, and it took her a minute, and in the course of the minute a number of things happened that nobody afterwards would be able to agree upon. Quaye maintained that he heard a clock. Yaw, the waiter, said that she smiled once, a small and terrible smile, at the goat. Adwoa, from the kiosk, said only that she saw a woman who had been very frightened for six years take a decision, as a woman takes a pill: briskly, with water, and without looking at what it was.
+It was eighty yards, and it took her a minute, and in the course of the minute a number of things happened that nobody afterwards would be able to agree upon. Quaye maintained that he heard a clock. Yaw, the waiter, said that she smiled once, a small and terrible smile, at the goat. Adwoa, from the kiosk, said only that she saw a woman who had been very frightened for six years take a decision, as one takes a pill: briskly, with water, and without looking at what it was.
 
 She stopped at the gate.
 
-It swung open. Kwame Mensah stood there in a clean white shirt and an expression of the most profound dread, like a man who has been summoned to be thanked.
+It swung open. Kwame Mensah stood there in a clean white shirt and an expression of the most profound dread, as if summoned to be thanked.
 
 "Mr. Mensah," said Abena.
 
@@ -851,7 +886,7 @@ It swung open. Kwame Mensah stood there in a clean white shirt and an expression
 
 "I have nothing to say that—"
 
-"I have *not* asked you to say anything." She held out the tin. It was a round blue tin, such as is used for Danish butter biscuits in every home from Aflao to Tamale, and it was held out to him with the stiff correctness of a woman presenting a summons. "This is yours."
+"I have *not* asked you to say anything." She held out the tin. It was a round blue tin, such as is used for Danish butter biscuits in every home from Aflao to Tamale, and it was held out to him with the stiff correctness of a bailiff presenting a summons. "This is yours."
 
 "What is it?"
 
@@ -859,7 +894,7 @@ It swung open. Kwame Mensah stood there in a clean white shirt and an expression
 
 "There is no debt."
 
-"There is a debt of forty-two thousand cedis to the Ghana Commercial Bank, settled in the spring of the year I was twenty-two, by a gentleman, tall, who laughed at his own car." She said it very fast, as one pulls a plaster. "And there is rent, paid in cash every first of the month for seventy-one months, by a clerical error. I have kept the figures. I have kept *every* figure. I have been putting aside for six years, in a tin, in the dispensary safe, behind the morphine. It is not all. I have not got interest. I do not know *what interest to charge on a kindness.* But it is the principal, and it is yours, and I should like you to take it, so that we may be *even.*"
+"There is a debt of forty-two thousand cedis to the bank, settled in the spring of the year I was twenty-two, by a gentleman, tall, who laughed at his own car." She said it very fast, as one pulls a plaster. "And there is rent, paid in cash every first of the month for seventy-one months, by a clerical error. I have kept the figures. I have kept *every* figure. I have been putting aside for six years, in a tin, in the dispensary safe, behind the morphine. It is not all. I have not got interest. I do not know *what interest to charge on a kindness.* But it is the principal, and it is yours, and I should like you to take it, so that we may be *even.*"
 
 There was a long, high, unbearable silence, with a goat in it.
 
@@ -891,7 +926,7 @@ Quaye, who understood both, took off his cap.
 
 "Where?"
 
-She looked about her with sudden decision, and set the tin, with a small dry click, upon the bonnet of the nearest cab, which was a very old green Corolla known to the Rank as *Auntie Beatrice,* and then folded her arms and said, to nobody, with sublime scrupulousness: "You may count it."
+She looked about her with sudden decision, and set the tin, with a small dry click, upon the bonnet of the nearest cab, which was a very old green Corolla known to the Rank as *Auntie Beatrice,* and then folded her arms and said, to nobody, scrupulously: "You may count it."
 
 "I will not count it."
 
@@ -907,7 +942,7 @@ She looked about her with sudden decision, and set the tin, with a small dry cli
 
 They stood a yard apart, in the white dust, with the tin between them like a small round moon. And it seemed to every driver watching that this was a quarrel of such perfect and symmetrical courtesy that it could not be settled by any further word; that it would simply be carried over, like a debt, to the next day and the day after, a perfectly balanced sorrow, in which each held the other's gift and refused it, and each was glad.
 
-"The generator on your roof," said Abena abruptly, looking away. "It is too loud. It disturbs my patients."
+"The loudspeaker on that taxi roof," said Abena abruptly, looking away. "It is too loud. It disturbs my patients."
 
 "The queue outside your door," said Kwame, "disturbs my *taxis.*"
 
@@ -915,7 +950,7 @@ They stood a yard apart, in the white dust, with the tin between them like a sma
 
 "It is a great pity."
 
-"It is *thoroughly* a pity," said Abena, and turned, with her back straight and her coat flapping and her whole slim body radiating dignity, and walked the eighty yards home.
+"It is *thoroughly* a pity," said Abena, and turned, with her back straight and her coat flapping and her whole slim body radiating offence, and walked the eighty yards home.
 
 She did not look back. A pharmacist does not.
 
@@ -954,7 +989,7 @@ And, beneath that, smaller, as if she had changed her mind and been too stubborn
 
 *(Eighty yards. I counted.)*
 
-Kwame Mensah, who had never been seen to cry, sat in the harmattan dark with a biscuit-tin on his knee, and laughed like a man released from a long sentence, till the goat in the yard woke and complained.
+Kwame Mensah, who had never been seen to cry, sat in the harmattan dark with a biscuit-tin on his knee, and laughed like a prisoner released from a long sentence, till the goat in the yard woke and complained.
 
 ---
 
@@ -1014,15 +1049,15 @@ And for twenty minutes, while the room went quiet, the bowl sat, and steamed, an
 
 "He is counting?"
 
-"He is a man who has counted since he was a boy. I think he counts the way other men pray."
+"He has counted since he was a boy. I think he counts the way other men pray."
 
 At the stove, without turning round, Hiroshi lifted one finger from the ladle, lightly, as a conductor does. It meant: *you are speaking of what is mine.*
 
-Daichi shrank. Rin laughed. In the corner a very old woman in a quilted jacket, who had been shelling pickles for an hour into a steel bowl, said briskly, in the high dry voice of Kyoto, "*Honma, you boys are noisy. My son hears everything. He has been hearing everything since he was four years old. He just does not say.*"
+Daichi shrank. Rin laughed. In the corner a very old woman in a quilted jacket, who had been shelling pickles for an hour into a steel bowl, said briskly, in the high dry voice of Kyoto, which she had never surrendered, "*Honma, you boys are noisy. My son hears everything. He has been hearing everything since he was four years old. He just does not say.*"
 
 "Obā-san," said Rin, with deep respect. "You know the story?"
 
-Nanami Shimizu, seventy, retired welder, gossip, and Hiroshi's mother, placed a pickle in her mouth, looked at the ceiling, and said, with a profound air of withholding:
+Nanami Shimizu, seventy, retired schoolteacher, gossip, and Hiroshi's mother, placed a pickle in her mouth, looked at the ceiling, and said, with a profound air of withholding:
 
 "I know *some* of it."
 
@@ -1036,7 +1071,7 @@ Fourteen months ago she had had a fever, a common one, of the sort that arrives 
 
 Not weak. *Nothing.* A warm softness, as of wet cloth. Salt, a ghost of salt, there and then not. She had put down her chopsticks and had looked at the egg, which was yellow, and glistening, and perfectly made, and had understood that she was standing at the edge of a country from which she would not be permitted to return.
 
-"I'm *telling* you," said Nanami Yamamoto, from the sofa, with the severity of a woman who works the Tempozan ferry in all weathers and does not take back a word. "You are going to the doctor."
+"I'm *telling* you," said Nanami Yamamoto, from the sofa, with the severity of someone who works the Tempozan ferry in all weathers and never takes back a word. "You are going to the doctor."
 
 "I have been to six doctors."
 
@@ -1122,9 +1157,9 @@ She came to the curtain at eleven-thirty-eight.
 
 She did not go in. She stood at the gap between the cloth and the post, and looked.
 
-He was there. Of course he was there. He was in the white towel, with his back to the room and his hands upon the pot, a heavy, still, unhurried man, and she saw the shoulders that she had watched for two years, and a thing happened inside her that she had not been prepared for; a feeling like homesickness for a house she was standing in front of.
+He was there. Of course he was there. He was in the white towel, with his back to the room and his hands upon the pot, a heavy, still, unhurried man, and she saw the shoulders that she had watched for two years, and a thing happened inside her that she had not been prepared for; homesickness for a house she was standing in front of.
 
-The regulars were silent. The old woman at the end had stopped shelling pickles. The historian, with the wide eyes of a man who has seen the dead, was holding his phone aloft as though to capture a miracle.
+The regulars were silent. The old woman at the end had stopped shelling pickles. The historian, with the wide eyes of one who has seen the dead, was holding his phone aloft as though to capture a miracle.
 
 And then, at the exact stroke of eleven-forty, Hiroshi Tanabe lowered noodles into the water.
 
@@ -1164,7 +1199,7 @@ It was the first thing he had said, in her hearing, in three years that was not 
 
 She had meant to say it better. She had meant to say it with the whole of her critic's armoury of syntax and irony. What came instead was five words, flat on the counter like a dropped plate, and she heard them, and did not take them back.
 
-"I cannot taste," said Mei Sato. "Since last September. A fever. It has not come back. I am a woman who writes about food and cannot taste it, and I am so ashamed that I have not been able to walk down your street." Her eyes were stinging, which she found, in an odd detached way, to be very interesting. "I wrote a column every Sunday from *memory.* I am a fraud. I do not deserve a bowl. I do not deserve a *stool.* You should pour it down the sink."
+"I cannot taste," said Mei Sato. "Since September of last year. A fever. It has not come back. I write about food and cannot taste it, and I am so ashamed that I have not been able to walk down your street." Her eyes were stinging, which she found, in an odd detached way, to be very interesting. "I wrote a column every Sunday from *memory.* I am a fraud. I do not deserve a bowl. I do not deserve a *stool.* You should pour it down the sink."
 
 She waited for the blow.
 
@@ -1180,13 +1215,13 @@ In the shop, you could have heard a noodle fall.
 
 "I did not cook for the critic," said Hiroshi Tanabe. "I cooked for the woman who ate my noodles with her eyes closed."
 
-He set down the chopsticks on their rest. Then, because he was a man for whom great events could only be expressed in small adjustments, he turned the bowl, a quarter-turn, so that the handle of the spoon lay toward her right hand.
+He set down the chopsticks on their rest. Then, because great events, for him, could only be expressed in small adjustments, he turned the bowl, a quarter-turn, so that the handle of the spoon lay toward her right hand.
 
 "Eat," he said. "Not to taste. To be *fed.*"
 
 ---
 
-The old woman at the end of the counter had her hand upon her mouth. The historian had lowered the phone. Rin Hayashi, who had been a lifeguard for eight years and had pulled four swimmers from the Osaka surf, now found himself with a lump in the throat, and addressed it to the ceiling.
+The old woman at the end of the counter had her hand upon her mouth. The historian had lowered the phone. Rin Hayashi, who had been a lifeguard for eight years and had pulled four swimmers out of Osaka Bay, now found himself with a lump in the throat, and addressed it to the ceiling.
 
 Mei took up the chopsticks. They were light, and made of some pale wood, and they were warm from his hand.
 
@@ -1202,7 +1237,7 @@ She was a critic. She had been trained for a decade to name what she ate. And so
 
 "It is the warmest thing I have been given in a year."
 
-He did not answer. She heard the faint scrape of a ladle. When she opened her eyes, he was standing over her with the pot, and was, with a gentle, almost shy movement, filling the bowl again to the brim, as a man tops up the lamp of a vigil he has kept too long.
+He did not answer. She heard the faint scrape of a ladle. When she opened her eyes, he was standing over her with the pot, and was, with a gentle, almost shy movement, filling the bowl again to the brim, as one tops up the lamp of a vigil kept too long.
 
 "Kaedama," said Hiroshi. "Second noodles. Free."
 
@@ -1256,7 +1291,7 @@ It was issued that Thursday at four in the afternoon, upon the Fontanka, upon th
 
 The theatre at that hour was a cavern of dust and half-light, full of ladders and the smell of size and varnish and hot lamps. In the pit, at a black Bechstein with a cracked lid and a candle-stub on the music-desk (against all regulations, and by common consent of the fire-marshal, who was a patron), sat the pianist, in the stiff dark jacket he had worn to every rehearsal for sixteen years, and he was running through the programme, which he had printed on a single sheet and pinned to the wall like a bill of indictment.
 
-He was forty. He had a long grave face with a good deal of forehead in it, a pair of hands that looked as though they had been borrowed from a much taller man, and a manner of courtesy so rigid that it could have been used for scaffolding. He rose when women entered rooms. He apologised to doors. He had accompanied, in his time, four hundred performances of the repertory and one funeral, and had never once been heard to say what he thought of any of them.
+He was forty. He had a long grave face with a good deal of forehead in it, a pair of hands that seemed borrowed from a much taller man, and a courtesy so rigid it could have served as scaffolding. He rose when women entered rooms. He apologised to doors. He had accompanied, in his time, four hundred performances of the repertory and one funeral, and had never once been heard to say what he thought of any of them.
 
 "Number nine," said Sergei, reading the sheet over his shoulder, for he read everything over everybody's shoulder; it was a vice, and a devout one, for he said that God had given him two eyes so that one might guard the other. "*Waltz.* Composer: *Anonymous.* Dmitri Andreyevich, you cannot do this. A gala is for the *famous* dead. Nobody will know whose it is."
 
@@ -1300,7 +1335,7 @@ Above the theatre, on the fourth floor, in a studio with a bare wooden floor and
 
 "I shall say stop when you have *earned* it."
 
-The boy was twelve, thin as a blade of grass, with a cough he had had since October and a determination to conceal it that touched her more than she would allow. His name was Yuri Orlov. He was the best pupil in the school and the worst liar, and she did not mention the cough. She had her reasons. She was a woman who had been told by doctors, when she was thirty-two, that a knee is a hinge and a dancer's knee a hinge made of glass, and she had learned in the long winter afterward which truths to press and which to leave, like a sheet, folded.
+The boy was twelve, thin as a blade of grass, with a cough he had had since October and a determination to conceal it that touched her more than she would allow. His name was Yuri Orlov. He was the best pupil in the school and the worst liar, and she did not mention the cough. She had her reasons. She had been told by doctors, when she was thirty-two, that a knee is a hinge and a dancer's knee a hinge made of glass, and she had learned in the long winter afterward which truths to press and which to leave, like a sheet, folded.
 
 She had been, for ten years, the first dancer of the Nevsky. They had written about her in four languages. They had compared her to a candle, to a bird, to a thing seen once in a childhood dream; and then one night in the second act of a ballet she had danced two hundred times, the left knee had gone out beneath her, quietly, like a lamp in the next room, and she had finished the act on one leg and sat down in the wings, and had not stood on a stage since.
 
@@ -1444,7 +1479,7 @@ There was silence.
 
 Eleven hundred people sat in it. They did not know why. A man in the front row, a retired admiral with a chestful of ribbons, was found afterward to have taken off his glasses and to be unable to find them. A woman in a green dress said, loudly, "*Well!*" and was hushed. And then somebody began to clap, a single pair of hands, high in the gods, and then the house.
 
-Dmitri Volkov rose. He bowed, rigidly, to the dark. He did not look into the wings, because he did not know that anyone was in them. He turned, with his formal and perfect exactness, and walked off the opposite side, and the lights went up on an elderly baritone, who looked at the pianist's departing back with the deep and venomous envy of a man who has been following an act he cannot follow.
+Dmitri Volkov rose. He bowed, rigidly, to the dark. He did not look into the wings, because he did not know that anyone was in them. He turned, with his formal and perfect exactness, and walked off the opposite side, and the lights went up on an elderly baritone, who looked at the pianist's departing back with the deep and venomous envy of a man who must follow an act he cannot follow.
 
 By the time the pianist had reached the stage-door, and stood there in the cold, with the snow on his shoulders and his long hands trembling, and the whole of the river dark beyond the lamp, the gala was nearly over; and the woman in the wings had gone.
 
@@ -1458,13 +1493,13 @@ It was the voice of a man who has been doing something he is ashamed of for some
 
 "By whom?"
 
-"By *nobody.*" He cleared his throat. "Under the stage-door lamp. In the snow. By a person with a slight hesitation on the left foot, who did not wait. And I should tell you, as an honest Christian, that I have read it, because it was folded, and an unfolded letter is an invitation, and I am a man of weak will."
+"By *nobody.*" He cleared his throat. "Under the stage-door lamp. In the snow. By a person with a slight hesitation on the left foot, who did not wait. And I should tell you, as an honest Christian, that I have read it, because it was folded, and an unfolded letter is an invitation, and I am weak."
 
 "Sergei."
 
 "I have *read it.* It is four lines. I want you to know, Dmitri Andreyevich, that I wept like a calf."
 
-Dmitri took the envelope. His hands were not steady, and he disliked the fact, and looked at it. Then, with the tact of a man who had, for forty years, been apologising to doors, he drew out a single sheet, white as the snow, and unfolded it beneath the lamp.
+Dmitri took the envelope. His hands were not steady, and he disliked the fact, and looked at it. Then, with the tact of one who had apologised to doors all his life, he drew out a single sheet, white as the snow, and unfolded it beneath the lamp.
 
 There were four lines. They were written in a quick, proud, upright hand, with a pen pressed hard.
 
@@ -1515,11 +1550,11 @@ And Dmitri Volkov, who had played four hundred performances and one funeral, and
 
 ---
 
-The week after the dead have been fed, Mexico City smells of marigolds.
+Long after the dead have been fed, Mexico City still smells of marigolds.
 
-They are everywhere: heaped in the Jamaica market in orange mountains, crushed in the gutters of the Roma, caught in the grilles of tram-stops and the hair of small girls, and long after the last candle has guttered on the last altar, their bitter gold perfume goes on hanging in the thin high air, as if the city were not yet quite sure that the visitors had gone home.
+They are everywhere: heaped in the Jamaica market in orange mountains, crushed in the gutters of the Roma, caught in the grilles of bus shelters and the hair of small girls, and weeks after the last candle has guttered on the last altar, their bitter gold perfume goes on hanging in the thin high air, as if the city were not yet quite sure that the visitors had gone home.
 
-It was in this week, upon a scaffold of rusted pipe on the Calle Zacatecas, at ten minutes before dawn, that a young man named Rafael Ortega stood with a bucket of cobalt blue in his left hand, a radio blasting a ranchera into the whole sleeping neighbourhood, and the end of a very large nose upon his right.
+It was in this season, upon a scaffold of rusted pipe on the Calle Zacatecas, in the blue hour before dawn, that a young man named Rafael Ortega stood with a bucket of cobalt blue in his left hand, a radio blasting a ranchera into the whole sleeping neighbourhood, and the end of a very large nose upon his right.
 
 It was the nose of a woman. It was thirty feet high. It was one of a hundred and three.
 
@@ -1533,7 +1568,7 @@ It was the nose of a woman. It was thirty feet high. It was one of a hundred and
 
 He was twenty-six, loud, broad in the shoulder and long in the leg, with a mop of black hair stiff with a decade of paint and a pair of eyes in which every emotion arrived at once and nobody was ever in charge. He painted as other men argue: with his whole body, at the top of his lungs. In two years he had covered, without a permit, without a sponsor, and without, as far as anyone could tell, any plan, a hundred and three walls of the capital with a single face.
 
-It was always the same. A young woman on a bench, reading. Her hair fell forward over one shoulder; her mouth was set in a line of ferocious concentration; her head was bowed, and her eyes, upon every one of the hundred and three, were *closed.* The critics called it *La Lectora.* The children called it *La Señorita Que No Se Cansa.* The city, which will make a saint of anyone who stays in one place long enough, had begun to leave small offerings at the foot of her bigger walls: a marigold; a pencil; once, on the Calle Chihuahua, a copy of the Civil Code.
+It was always the same. A young woman on a bench, reading. Her hair fell forward over one shoulder; her mouth was set in a line of ferocious concentration; her head was bowed, and her eyes, upon every one of the hundred and three, were *closed.* The critics called it *La Lectora.* The children called it *La Señorita Que No Se Cansa.* The city had begun to leave small offerings at the foot of her bigger walls: a marigold; a pencil; once, on the Calle Chihuahua, a copy of the Civil Code.
 
 "And why," said Marisol, who was forty-five, and a painter, and had known him since he was a boy with chalk on his knees, "are the *eyes* shut?"
 
@@ -1577,7 +1612,7 @@ He was a very fine policeman. He had a moustache of formidable architecture, a b
 
 "She is twenty-five."
 
-"A *young* girl," said Alejandro Hernández, with a shiver of indignant satisfaction, "with *my* jaw." He took out his citation book. He wrote, for a long time. Then he tore the sheet out and handed it up on the end of his baton, which was long enough, and said gruffly, in the manner of a man who has had a lot to bear and a very little to say: "That is a fine for the scaffold. For the *painting,* I make no comment."
+"A *young* girl," said Alejandro Hernández, with a shiver of indignant satisfaction, "with *my* jaw." He took out his citation book. He wrote, for a long time. Then he tore the sheet out and handed it up on the end of his baton, which was long enough, and said gruffly, like one who has had a lot to bear and very little to say: "That is a fine for the scaffold. For the *painting,* I make no comment."
 
 "Thank you."
 
@@ -1589,7 +1624,7 @@ He was a very fine policeman. He had a moustache of formidable architecture, a b
 
 ---
 
-Eleven kilometres to the south, in an apartment in the Colonia Narvarte with a map of the capital pinned to the kitchen wall, a young woman was losing an argument with her best friend, and enjoying it.
+Three kilometres to the south, in an apartment in the Colonia Narvarte with a map of the capital pinned to the kitchen wall, a young woman was losing an argument with her best friend, and enjoying it.
 
 "It is *circumstantial,*" said Camila Reyes.
 
@@ -1609,7 +1644,7 @@ Eleven kilometres to the south, in an apartment in the Colonia Narvarte with a m
 
 Camila Reyes, twenty-five, fourth-year student of law at the National University, and the most disciplined human being in the south of the city, shut her eyes. She was a small, plain, intense young woman with her hair twisted up in a pencil, a flat voice that she used on judges, and a heart that she kept, by long habit, in the same drawer as the list. She had lived all her life by the principle that a fact is a fact and a feeling is an *allegation.* She had noticed the first wall two Decembers ago, on the Avenida Álvaro Obregón, when she was walking home with her books, and had stopped dead in the middle of the pavement, and had stood there for twenty minutes with a bag of oranges, because a thirty-foot woman with her own mouth was reading her own case-book, in the rain, with her eyes shut.
 
-She had been very *angry.* It had taken her a month to understand why. It is an uncomfortable thing to be seen by a stranger, and to be seen *accurately.*
+She had been very *angry.* It had taken her a month to understand why: it is uncomfortable to be seen by a stranger, and seen *accurately.*
 
 "Read me his," said Lupita softly.
 
@@ -1631,7 +1666,7 @@ Camila took the phone.
 *Entry 0121 — Mexico City, Mexico.*
 *"I have walked to every wall to find the hand that painted me."*
 
-She had written it at three in the morning, after the eighty-ninth wall, and posted it to England in a general despair. It was a very unlawyerly sentence. It contained no conditionals, no reservations, and no precedent. It was the single honest line in her entire body of written work.
+She had written it at three in the morning, after the eighty-ninth wall, and posted it to England in a general despair. It was a very unlawyerly sentence, with no conditionals, no reservations and no precedent: the single honest line in her entire body of written work.
 
 "There is a new wall," said Lupita, scrolling, with the finger of a conspirator. "On Zacatecas, in the Roma. It went up *last night.* The one that was at the top of the page. Everyone says it is the biggest. Everyone says—" she paused "—it has a *tag.*"
 
@@ -1643,15 +1678,15 @@ Camila Reyes stood perfectly still, in her kitchen, with a map on the wall behin
 
 "What time," she said, "is the light?"
 
-"Six," said Lupita, who was a chef and knew about mornings. "He paints at six."
+"Half past six," said Lupita, who was a chef and knew about mornings. "He paints at first light."
 
-"It is five-twenty."
+"It is ten to six."
 
 "I know."
 
 "I am going to need a coat."
 
-"I have brought you," said Lupita, with the dignity of one who has been right in advance, "*two.*"
+"I have brought you," said Lupita, who had been right in advance, "*two.*"
 
 ---
 
@@ -1659,15 +1694,15 @@ Camila Reyes stood perfectly still, in her kitchen, with a map on the wall behin
 
 *(Between the two cities and the two walls: a small thing, a pulse of light. Let us listen.)*
 
-In the corner of a lane in Mirpur, under a tin awning loud with the late rain, a tea-stall boy named Bunny, thirteen, was explaining the art of the *cha* to a customer who had not asked.
+In the corner of a lane in Mirpur, under a tin awning thick with the smoke of evening stoves, a tea-stall boy named Bunny, thirteen, was explaining the art of the *cha* to a customer who had not asked.
 
 "The secret," said Bunny, "is not the leaf. The secret is the *wait.* You must let it sit exactly as long as it takes a man to decide whether he is going to be a coward. And then you pour. Here, Bhaiya."
 
-Fayaz Rahman, twenty-six, took the glass with the weary courtesy of a man who has just worked a fourteen-hour day on a contract in a currency that was not his own. He had walked here from his flat with a laptop that smelled of hot dust, and he was sitting on a bench with his sleeves down and his shoes wet, looking at his phone without looking at it, as men do who have been waiting for a week without admitting it.
+Fayaz Rahman, twenty-six, took the glass with the weary courtesy of someone just home from a fourteen-hour day on a contract paid in a currency not his own. He had walked here from his flat with a laptop that smelled of hot dust, and he sat on a bench with his sleeves down and his shoes grey with dust, looking at his phone without looking at it, as men do who have been waiting for a week without admitting it.
 
-For eight nights he had read the Register on his phone. He had read the line beside his own, and then he had read it again. He had not written to the girl who had written it. He had begun, perhaps forty times. He had typed *Dear* and deleted it; he had typed *Hello* and deleted it; he had once typed *I don't wish to intrude* and had deleted that so hard the whole screen went white. It is an unfortunate thing to be polite in an hour of need: one has so many ways of not saying it.
+For eight nights he had read the Register on his phone. He had read the line beside his own, and then he had read it again. He had not written to the girl who had written it. He had begun, perhaps forty times. He had typed *Dear* and deleted it; he had typed *Hello* and deleted it; he had once typed *I don't wish to intrude* and had deleted that so hard the whole screen went white. Politeness, in an hour of need, offers so many ways of not saying it.
 
-And then the phone, in his hand, in the lane, under the tin and the rain, gave a small pale shiver.
+And then the phone, in his hand, in the lane, under the tin and the smoke, gave a small pale shiver.
 
 It was not a ring. It was only the tiniest of lights, an envelope, a name.
 
@@ -1689,13 +1724,13 @@ Behind his shoulder, in the steam of the stall, Bunny, who was a boy of the most
 
 "She is a stranger," said Bunny, "who has an hour to *spare* and has *sent* it to you. That is not an ordinary thing. Say *hello* with *dignity.*"
 
-"I am a man," said Fayaz, with a faint despairing smile, "who apologises to a vending machine."
+"I am a person," said Fayaz, with a faint despairing smile, "who apologises to a vending machine."
 
 He did not say that. He typed, in the end, a thing that took him three minutes and cost him a pound of nerves and read, when it was done, exactly like the work of a man who had spent three minutes on it, which is to say, honestly:
 
 > **Fayaz Rahman:** Sorry. (Reflex. It was not about the hour.) Hello, Yogyakarta. I would tell you everything, if I were free to. May I tell you a little?
 
-He looked at it. His thumb hovered. A bead of rain ran off the awning and down his wrist.
+He looked at it. His thumb hovered. A bead of steam ran off the awning and down his wrist.
 
 He sent it.
 
@@ -1725,7 +1760,7 @@ And then, because it was a night in which courage was in the air like a smell of
 
 ---
 
-**Calle Zacatecas, Colonia Roma. Six o'clock.**
+**Calle Zacatecas, Colonia Roma. Half past six.**
 
 The light came up over the Roma as it comes up over every Mexican morning: not as a dawn, but as an *announcement,* the whole east flushing from lemon to rose to a gold so fierce it seemed to have been purchased. The pigeons rose off the roofs in a clatter.
 
@@ -1743,11 +1778,11 @@ Up on the scaffold, thirty feet above the traffic, with a brush in his hand and 
 
 "You've given me a nose like a *heron,*" said Camila.
 
-For a moment nothing moved upon the Calle Zacatecas. The ranchera on the radio had gone on to its second verse. A dog barked. A bus went by, with a grinding of gears, and was gone.
+For a moment nothing moved upon the Calle Zacatecas. The ranchera on the radio had gone on to its second verse. A dog barked.
 
 Then the scaffolding, which had been designed by an optimist, creaked; and Rafael Ortega began, with a haste that put every regulation in the country to shame, to come down it.
 
-He came down three ladders and a pipe. He came down the last six feet by a means known only to painters and the fallen. He landed in the street, with paint to the elbows and a smear of ochre across his forehead, and stood before her with his arms at his sides and his mouth open, for once with nothing in it.
+He came down the last six feet by a means known only to painters and the fallen. He landed in the street, with paint to the elbows and a smear of ochre across his forehead, and stood before her with his arms at his sides and his mouth open, for once with nothing in it.
 
 "I—" said Rafael.
 
@@ -1781,7 +1816,7 @@ He opened his mouth. He closed it. Something went across his face that was too l
 
 "They do not *do* anything."
 
-"Camila Reyes," said Rafael, staring at her eyes with the unashamed devouring attention of a man who has been hungry for two years, "I have been looking at them for four seconds, and I would like it to be known that they have *already* done *everything.*"
+"Camila Reyes," said Rafael, staring at her eyes with the unashamed attention of someone starved for two years, "I have been looking at them for four seconds, and I would like it to be known that they have *already* done *everything.*"
 
 It is unseemly to burst into tears in the Colonia Roma at six in the morning, in front of a stranger, a pigeon and a hundred and fifty gallons of paint. She did it nonetheless: a short, furious sob, like a flood out of a locked cellar, and then another, and then she laughed, and put both hands over her face.
 
@@ -1841,23 +1876,23 @@ Then he put the citation book in his pocket, took off his cap, and, turning his 
 
 In Cairo it is said that everything is for sale, and that the only question is whether it is the thing you were told it was.
 
-Nowhere is the saying put to the test more cheerfully than in the Khan el-Khalili, that warren of brass and perfume and patient bargaining where for six hundred years the same lanes have sold the same lamps to the same astonished strangers. A man may buy there a coffee-pot that belonged to a pasha or a perfectly good tray that belongs to nobody at all, and he will leave happy in either case, which is the true miracle of the place.
+Nowhere is the saying tested more cheerfully than in the Khan el-Khalili, that warren of brass and perfume and patient bargaining where for six hundred years the same lanes have sold the same lamps to the same astonished strangers. A man may buy there a coffee-pot that belonged to a pasha or a tray that belongs to nobody at all, and leave happy in either case. This is the true miracle of the place.
 
-And in the narrowest, crookedest, most hospitable of its alleys, between a spice-seller's pyramids of red and gold and a boy who sold hibiscus in dripping glasses, stood a little shop with a green door and a sign painted in two languages: **HADDAD & SONS, ANTIQUITIES AND CURIOSITIES. EST. WHEN GOD WAS YOUNG.**
+And in the narrowest, crookedest of its alleys, between a spice-seller's pyramids of red and gold and a boy who sold hibiscus in dripping glasses, stood a little shop with a green door and a sign painted in two languages: **HADDAD & SONS, ANTIQUITIES AND CURIOSITIES. EST. WHEN GOD WAS YOUNG.**
 
 It had no sons. This was a matter on which the proprietor was sensitive, and on which the neighbours were not.
 
-"Sons," said Karim Fouad, potter, thirty-nine, fearless, who had known the proprietor since they were nine years old and had once been sold, by him, a scarab, a camel and a share in the Suez Canal. "The sign says *sons.* How many do you have, Omar?"
+"Sons," said Karim Fouad, potter, thirty-nine, fearless, who had known the proprietor since the proprietor was nine and had once been sold, by him, a scarab, a camel and a share in the Suez Canal. "The sign says *sons.* How many do you have, Omar?"
 
 "I have *potential.*"
 
 They were sitting in the long, mirrored, noisy room of Fishawi's café, where the glass has hung since the days of Napoleon's cousins and every gilt-framed reflection holds a different century. It was the hour of the afternoon prayer, and the air was thick with apple smoke and with mint. At the next table, upon a velvet cushion, in a suit that had been fashionable in nineteen-sixty, a very old man was holding court to nobody.
 
-"I am the greatest novelist in Egypt," announced Sherif Sabry, seventy-two, retired writer, vain as a peacock in a fountain, "whom nobody has read. This is the whole secret of my genius. Had I been *read,* I should have been *contradicted.* But what is *this?* This Register! A thousand confessions, and every one of them *better* than my novels, and all of them *under* one hundred words. It is an insult to a profession."
+"I am the greatest novelist in Egypt," announced Sherif Sabry, seventy-two, retired writer, vain as a peacock in a fountain, "whom nobody has read. This is the whole secret of my genius. Had I been *read,* I should have been *contradicted.* But this Register! A thousand confessions, every one *better* than my novels, and all of them under one hundred words. It is an insult to a profession."
 
 "Read us one," said Omar Haddad, and his voice, which had been light, went very quiet. "Read us *six hundred and forty.*"
 
-He was thirty-five, and he was beautiful in the way that a very good counterfeit is beautiful: so smooth, so apt, so exactly what one hoped to find, that it took a careful eye and a bad experience to look for the seam. He had a gold tooth he did not need, a ring he had not paid for, and the manner of a man who has never in his life been refused a table. He had once sold a tourist the same Fatimid door twice in a single afternoon.
+He was thirty-five, and he was handsome the way a very good counterfeit is handsome: so smooth, so apt, so exactly what one hoped to find, that it took a careful eye and a bad experience to look for the seam. He had a gold tooth he did not need and a ring he had not paid for, and he had once sold a tourist the same Fatimid door twice in a single afternoon.
 
 Sherif scrolled. "*Entry six hundred and forty. Cairo, Egypt.* 'I sold you a forgery and have never confessed.'" He lowered the phone. "Well, that's a *confession.* That's a very lazy one. Where are the details? Where is the *crime?*"
 
@@ -1875,17 +1910,15 @@ It was eleven centimetres tall, and made of bronze, and it sat upright upon a ba
 
 And she had paid. And had carried it home in a handkerchief, as one carries a bird.
 
-"It was a good one for the tourists," said Omar, rubbing his eyes. "I had it made by a man in Giza who had made six. I added the patina myself: vinegar, tea, a little cat-litter, a month in a drawer. I asked her name three times, because I wanted to *know* it. And she turned it in her hand, and looked at the base, and I thought: *she knows.* And I waited for her to say. And she said it was *lovely.* And she *paid.* I have been sixteen years in this trade, Karim, and I have never been paid for a thing by someone who knew it was a lie. So I assumed she did not know. What else is there to assume? She has kept my cat three years on the shelf over her lamp, and I have not been able to *sleep.*"
+"It was a good one for the tourists," said Omar, rubbing his eyes. "I had it made by a man in Giza who had made six. I added the patina myself: vinegar, tea, a little cat-litter, a month in a drawer. I asked her name three times, because I wanted to *know* it. She turned it in her hand, and looked at the base, and I thought: *she knows.* I waited for her to say. She said it was *lovely.* And she *paid.* I have been sixteen years in this trade, Karim, and I have never been paid for a thing by someone who knew it was a lie. So I assumed she did not know. She has kept my cat three years on the shelf over her lamp, and I have not been able to *sleep.*"
 
 "Why do you not simply tell her?"
 
 "Because she would look at me," said Omar Haddad, in a voice that none of them had ever heard him use, "as a restorer looks at a thing which has been made to deceive; with perfect attention and no hope."
 
-There was a long, smoky silence, in which three centuries peered from the mirrors.
-
 "So what will you do?" said Sherif, entirely sober.
 
-Omar rose. He stood a moment, with his hands upon the marble and his reflection standing behind him, at his shoulder, in a gilt frame, looking suddenly much older, and he spoke, not as he usually did, in the brisk glittering patter of the sales-floor, but slowly, as a man says a thing he has not yet decided to believe:
+Omar rose. His reflection rose with him in a gilt frame, looking suddenly much older, and he spoke, not in the brisk patter of the sales-floor, but slowly, as one says a thing one has not yet decided to believe:
 
 > *I will confess in the one grammar she respects.
 > She does not read men's words. She reads their hands,
@@ -1909,15 +1942,15 @@ Omar rose. He stood a moment, with his hands upon the marble and his reflection 
 
 "I should like to have written it."
 
-"You may," said Omar. "I will give you the credit, in the obituary."
+"I will give you the credit, in the obituary."
 
 ---
 
 **The Conservation Laboratory of the Museum of Islamic Art stands behind a green iron gate in a quiet street, and within it a very clean silence is kept.**
 
-It smelled of acetone and warm dust and old paper; it had white walls, a skylight, six benches, and on each bench a lamp. At the farthest bench, under the best of the lamps, a woman of thirty-two sat, with a loupe screwed into her right eye, a lacquered brush in her left hand, and a fragment of fourteenth-century glass held in a pair of tweezers to the light.
+It smelled of acetone and warm dust; it had white walls, a skylight, six benches, and on each bench a lamp. At the farthest bench, under the best of the lamps, a woman of thirty-two sat, with a loupe screwed into her right eye, a lacquered brush in her left hand, and a fragment of fourteenth-century glass held in a pair of tweezers to the light.
 
-Her name was Layla Mansour. She was exacting, dry, small, and immaculate; she wore a grey linen apron, with the sleeves rolled to exactly the same height, and she spoke to objects in the voice that other people use to speak to a nervous child. She had been called, in the journals, *the finest eye in North Africa.* She had been called, in the corridors, *the Ice Pharaoh.* She had once told a German professor to his face that a Mamluk lamp he had proudly authenticated was *twelve years old and from Marseille,* and had been proved right in eleven days.
+Her name was Layla Mansour. She was exacting, dry, small, and immaculate; she wore a grey linen apron, sleeves rolled to exactly the same height, and she spoke to objects in the voice that other people use to speak to a nervous child. She had been called, in the journals, *the finest eye in North Africa.* She had been called, in the corridors, *the Ice Pharaoh.* She had once told a German professor to his face that a Mamluk lamp he had proudly authenticated was *twelve years old and from Marseille,* and had been proved right in eleven days.
 
 On the shelf above her lamp, as it had sat for three years, sat a small bronze cat.
 
@@ -1927,13 +1960,13 @@ Dina, fourteen, was the granddaughter of the only woman cab-driver in Heliopolis
 
 "It is a *cat,* Dina."
 
-"It is a cat that *looks.* I think it knows you've read the Register. You read it on Monday, at your bench, with your lips, and went the colour of a boiled egg. Doctor Karim said, *Is something wrong, Madam Layla?* and you said, *It is the acetone.* But the acetone was in the cupboard."
+"It is a cat that *looks.* I think it knows you've read the Register. You read it on Monday, at your bench, with your lips, and went the colour of a boiled egg. the Director said, *Is something wrong, Madam Layla?* and you said, *It is the acetone.* But the acetone was in the cupboard."
 
 "Then say it to the *floor.*"
 
 "The floor is not interested," said Dina Shaker, with dignity, and swept.
 
-It is true that Layla had read it. She had read the whole of it, in her kitchen, on the Monday night, on a small cracked tablet, with a glass of hibiscus at her elbow and the call to prayer coming across the roofs; and she had found, beside the Register's long ribbon of Cairo, two entries she had known she would find. The first: *I sold you a forgery and have never confessed.* The second, which was her own, written on a night she did not wish to remember, to a stranger in England: *I knew it was false. I kept it because it was yours.*
+It is true that Layla had read it. She had read the whole of it, in her kitchen, on the Monday night, on a small cracked tablet, with a glass of hibiscus at her elbow; and she had found, beside the Register's long ribbon of Cairo, two entries she had known she would find. The first: *I sold you a forgery and have never confessed.* The second, which was her own, written on a night she did not wish to remember, to the Keeper in England: *I knew it was false. I kept it because it was yours.*
 
 "Madam Layla," said a voice in the doorway, with a trembling deference. "Forgive me. Did I come at a bad time?"
 
@@ -1973,15 +2006,13 @@ It was a small box of brass, inlaid with silver. He set it down upon the white c
 
 "A *qalamdan,*" said Omar. "Fourteenth century. Syrian work, I think; possibly Damascene; brought to Cairo in the time of Sultan Hasan. From a house in Giza. I believe it to be extremely fine."
 
-"Thank you, Mr. Haddad. I will see."
-
 "I should like your seal," said Omar, "upon it. If it is, as I hope, sound."
 
 There was a silence. Dina, in the corner, had forgotten her broom. Tarek Hassan, on his satchel, had gone the colour of the wall.
 
 Layla Mansour put down the glass, and screwed in the loupe.
 
-She did it as she always did: in order, in silence, by the book. She looked first at the whole, the proportion, the weight in the hand. She looked at the brass under the lamp, and then under the ultraviolet, where an old patina glows a dull amber and a young one flares like a cheat. She tapped the rim and listened for the ring. And then she did what the great forgers have always feared more than any machine: she *smelled* it.
+She did it as she always did: in order, in silence, by the book. She looked at the brass under the lamp, and then under the ultraviolet, where an old patina glows a dull amber and a young one flares like a cheat. She tapped the rim and listened for the ring. And then she did what the great forgers have always feared more than any machine: she *smelled* it.
 
 "It is modern," said Layla.
 
@@ -2005,7 +2036,7 @@ It was a very small repair. A hairline crack, in the brass at the pivot, such as
 
 Layla Mansour did not move.
 
-It was a mend she knew. It was a mend she had made. She had made it, in that very manner, on forty-one objects in the Museum of Islamic Art, over the course of nine years, against the advice of three directors and the horror of a German professor. It was her habit. It was her *signature.* She had never said so; she had never written about it; she had never, to her knowledge, told another living soul.
+It was a mend she knew. It was a mend she had made. She had made it, in that very manner, on forty-one objects in the Museum of Islamic Art, over the course of nine years, against the advice of three directors. It was her habit. It was her *signature.* She had never said so; she had never written about it; she had never, to her knowledge, told another living soul.
 
 "Who did this?" said Layla.
 
@@ -2067,7 +2098,7 @@ His voice cracked in the middle of the word like a plate.
 
 "Because it was yours," said Layla Mansour.
 
-There are silences in this world that are made of nothing, and there are silences that are made of everything, and in the Conservation Laboratory at that moment there was the second kind. Tarek Hassan, who had been sitting on his satchel in a state of spiritual collapse, took out a large clean handkerchief and blew his nose like a trumpet. Dina Shaker said, very loudly and to nobody: "I *knew* it."
+There are silences made of nothing and silences made of everything, and this was the second kind. Tarek Hassan, who had been sitting on his satchel in a state of spiritual collapse, took out a large clean handkerchief and blew his nose like a trumpet. Dina Shaker said, very loudly and to nobody: "I *knew* it."
 
 "So," said Omar, and sat down upon the nearest stool, which was Dina's, as though his strings had been cut, "I have been confessing for three years to a person who was *waiting for me to start.*"
 
@@ -2091,7 +2122,7 @@ Omar Haddad read it three times. He had the look of a man who has been given a k
 
 "I know."
 
-"Doctor Karim will wish to buy it. He will offer forty thousand pounds. I shall decline. It is not a museum piece; it is evidence."
+"The Director will wish to buy it. He will offer forty thousand pounds. I shall decline. It is not a museum piece; it is evidence."
 
 "Of what?"
 
@@ -2101,7 +2132,7 @@ Omar Haddad read it three times. He had the look of a man who has been given a k
 
 ---
 
-The door closed behind them. The skylight had turned a deep and dusty rose. The muezzin of the nearest mosque began, in a high clear thread of sound, to call the faithful to prayer; and outside, over the green iron gate, the whole of Old Cairo lay in the last long gold of the afternoon, like a city under glass.
+The door closed behind them. The skylight had turned a deep and dusty rose. Across the roofs a muezzin began, in a high clear thread of sound, to call the faithful to prayer, and the whole of Old Cairo lay in the last gold of the afternoon.
 
 Omar stood up. He did not know what to do with his hands.
 
@@ -2156,7 +2187,7 @@ The boat, whose name was *Ragnhild*, did not reply. She was eleven metres of tar
 
 The engine considered this, and coughed.
 
-Lars Eriksen was thirty years old. He was tall and square and weathered beyond his years, with hands like folded oars and eyes the grey of the fjord at its least forthcoming. He was the third of his name to fish out of Bergen, and he would, it was generally agreed, be the last, since the *Ragnhild* owed the bank four hundred and twelve thousand kroner, the quota for his class of vessel had been trimmed twice in three years, and the sea, which had once been a sort of savings account, had become a sort of overdraft.
+Lars Eriksen was thirty years old, tall and square and weathered beyond his years, with hands like folded oars and eyes the grey of the fjord at its least forthcoming. He was the third of his name to fish out of Bergen, and he would, it was generally agreed, be the last, since the *Ragnhild* owed the bank four hundred and twelve thousand kroner, the quota for his class of vessel had been trimmed twice in three years, and the sea, which had once been a sort of savings account, had become a sort of overdraft.
 
 He was a man of very few words. These he spent as a poor man spends his coins, one at a time, with a look of faint regret afterward.
 
@@ -2195,7 +2226,7 @@ He had married Lars's mother late in both their lives, and had buried her six wi
 
 There is a woman at the corner of the Fisketorget who sells umbrellas, and she is not popular.
 
-Her name was Solveig Dahl. She was thirty-six, an umbrella maker from Ålesund, who had come south to Bergen on the theory that if one has to sell umbrellas it is wise to sell them in the one city on earth that requires them. Her stall carried a hand-lettered sign that said, in two languages, *UNBREAKABLE*.
+Her name was Solveig Dahl. She was thirty-six, an umbrella maker from Ålesund, who had come south on the theory that if one must sell umbrellas it is wise to sell them in the one city that requires them. Her stall carried a hand-lettered sign that said, in two languages, *UNBREAKABLE*.
 
 "Excuse me," said a tourist, a large and aggrieved gentleman from Ohio, holding up a skeletal wreck that had, a few moments before, been an umbrella. "Your sign says unbreakable."
 
@@ -2263,13 +2294,13 @@ Sigrid sat down on her chair without taking off her oilskin. She did not tear th
 
 She read the paragraph twice, as one reads a map one hopes to be wrong.
 
-*Fourteen months.* In Ny-Ålesund, in the high Arctic, where the sun does not rise for four months of the year, and the nearest city is a thousand kilometres of black water away. A post of a lifetime. Everything she had ever wished for; everything she had spent her twenties writing grant applications to be offered; and, laid on a desk in the rain in a cream envelope, it had the exact weight of a stone.
+*Fourteen months.* In Ny-Ålesund, in the high Arctic, where the sun does not rise for four months of the year, and the nearest city is a thousand kilometres of black water away. A post of a lifetime. Everything she had spent her twenties writing applications to be offered; and, laid on a desk in a cream envelope, it had the exact weight of a stone.
 
 *And if I take it,* thought Sigrid, who could do such sums in her head faster than she could control her feelings, *I will not be back for a year and a quarter. And if the programme grows, as such programmes do, I may not be back at all.*
 
 "Sigrid."
 
-She turned. A man stood in the door of her office, a slender, dry, dark-haired man in a surgeon's green scrubs with a raincoat over them, holding a sheet of paper in one hand and a coffee in the other. He did not enter. He did not speak again. He held up the paper.
+She turned. A man stood in the door of her office, a slender, dry, dark-haired man in a surgeon's green scrubs with a raincoat over them, holding a sheet of paper in one hand and a coffee in the other. He did not enter. He did not speak. He held up the paper.
 
 The paper said, in black marker: **HOW ARE YOU?**
 
@@ -2277,7 +2308,7 @@ The paper said, in black marker: **HOW ARE YOU?**
 
 He shrugged and held up a second sheet, which he had evidently prepared for the occasion: **I TRIED TO TELEPHONE. I CANNOT. I CAME IN PERSON.**
 
-"It is three hundred metres from the hospital."
+"It is three kilometres from the hospital."
 
 **IT IS A LONG WAY WHEN YOU ARE AFRAID.**
 
@@ -2326,13 +2357,13 @@ It was the best day of her week. She knew it; she was a scientist, and had at la
 
 And then the engine coughed.
 
-It coughed once, with a sound like an old man being asked to climb a stair. Lars, at the wheel, did not move. Sigrid, who was watching him, saw that his shoulders had gone very still, in the way a horse's will when it hears something the rider does not.
+It coughed once, like an old man being asked to climb a stair. Lars, at the wheel, did not move. Sigrid saw that his shoulders had gone very still, as a horse's do when it hears something the rider does not.
 
 It coughed again.
 
-And then the *Ragnhild* made a sound that was not a cough, but a long, descending, apologetic sigh, like a great beast lying down, and the engine, which had borne them across forty thousand miles of grey water, went silent.
+And then the *Ragnhild* made a sound that was not a cough, but a long, descending, apologetic sigh, like a great beast lying down, and the engine, which had borne them through a hundred grey mornings, went silent.
 
-The silence that followed was enormous. The water lapped. A gull remarked upon the situation and flew away. Somewhere behind them the fog slid over the city, which went out like a candle.
+The silence that followed was enormous. The water lapped. A gull remarked upon the situation and flew away. Behind them the fog slid over the city, which went out like a candle.
 
 "Lars," said Sigrid.
 
@@ -2381,9 +2412,9 @@ Lars put his forehead against its cold green flank. He stayed there some time. T
 
 By the time he came up, the dark had come down.
 
-The dark comes early in the north: a short grey afternoon, a long blue dusk, and then the black, with only the lights of the far shore laid out along the water like beads on a thread. They drifted in a pocket of clear air, with the whole city shining three miles off, and seven hundred feet of water beneath them.
+The dark comes early in the north: a short grey afternoon, a long blue dusk, and then the black, with only the lights of the far shore laid out along the water like beads on a thread. They drifted in a pocket of clear air, with the whole city shining three miles off, and five hundred feet of water beneath them.
 
-Sigrid had turned on the cabin lamp. She had put the kettle on the little stove. She had found, in a locker, a bag of *skolebrød*, the sweet custard buns of Bergen, rather stale, and set two of them on a saucer, with that particular dignity people give to a meal when everything else has gone wrong.
+Sigrid had turned on the cabin lamp. She had put the kettle on the little stove. She had found, in a locker, a bag of *skolebrød*, the sweet custard buns of Bergen, rather stale, and set two of them on a saucer, as people do when everything else has gone wrong.
 
 "We could call," she said.
 
@@ -2423,7 +2454,7 @@ He was silent for a long time. The kettle began to mutter. Out on the black wate
 
 "Then," said Sigrid, softly, "I will not either."
 
-It was the most they had said to one another in six months. The kettle sang. She poured two cups of tea, and handed one across; and for a moment their fingers touched on the warm china, and withdrew, each with the air of a party that has been formally introduced.
+It was the most they had said to one another in six months. She poured two cups of tea, and handed one across; and for a moment their fingers touched on the warm china, and withdrew, each with the air of a party that has been formally introduced.
 
 And Sigrid Haugen, who could not keep a foot still, who had never in her life kept a secret for longer than a week, felt the cream envelope lie in her pocket like a sleeping coal. *Fourteen months. By the fifteenth of January.* She opened her mouth to tell him. She had always told everyone everything. It was a fault.
 
@@ -2450,11 +2481,11 @@ His name was Espen Lund, he was forty-nine, he wrote the weather-poems that were
 
 "I am not yet dead."
 
-"It is a *preventive* poem. It is hard to rhyme with 'diesel'."
+"It is a *preventive* poem. Nothing rhymes with 'diesel'."
 
 "Then throw the rope."
 
-On the quay a small crowd had assembled, for in Bergen a breakdown is a public entertainment. Marit Strand was there, Kristian's daughter and Lars's friend since the cradle, a train guard of thirty-eight in a very good coat, who arrived in the middle of a sentence she had evidently been conducting alone for some time.
+On the quay a small crowd had assembled, for in Bergen a breakdown is a public entertainment. Marit Strand was there, Kristian's daughter and Lars's step-sister since the cradle, a train guard of thirty-eight in a very good coat, who arrived in the middle of a sentence she had evidently been conducting alone for some time.
 
 "—and I said to the stationmaster, a woman of my position cannot be told that the eight-fifteen is *philosophically late*. Lars! You have grease on your face, it is very *attractive*—who is this? Oh, you are the *biologist.* Lars says nothing but I can read it in his eyebrows. Is that a plum umbrella? How *sensible*—"
 
@@ -2466,7 +2497,7 @@ On the quay a small crowd had assembled, for in Bergen a breakdown is a public e
 
 "I *am* breathing, I am breathing *through* it, it is an art—"
 
-And the young woman in the yellow oilskin, who had a letter in her pocket and a stale bun in her satchel and a left foot which, she noticed with surprise, had at last stopped tapping, looked once across the black water at a tall, silent man being hugged by a talking train guard, and thought, with a clarity that astonished her:
+And the young woman in the yellow oilskin, who had a letter in her pocket and a left foot which, she noticed with surprise, had at last stopped tapping, looked once across the black water at a tall, silent man being hugged by a talking train guard, and thought, with a clarity that astonished her:
 
 *I would like to be on that boat again on Tuesday.*
 
@@ -2480,7 +2511,7 @@ And then, a second later, with the dread of the scientist at the moment the data
 
 > *Entry 0443: "My boat is failing and so am I." Entry 0610: "My grant ends in spring and I may not return."*
 >
-> *They were posted on different nights, one winter and two postboxes apart, by two people who did not know that each had written the other's reply. A boat is a promise made of wood. A grant is a promise made of paper. I have been an astronomer for forty-five years, and I will tell you which of them floats: neither. It is the one who stays on board who keeps the boat afloat.*
+> *They were posted on different nights by two people who did not know that each had written the other's reply. A boat is a promise made of wood. A grant is a promise made of paper. I have watched skies for forty-five years, and I will tell you which of them floats: neither. It is the one who stays on board who keeps the boat afloat.*
 >
 > *They will have to decide which of the two of them is the boat.*
 
@@ -2511,7 +2542,7 @@ He had not told her. He had done the other thing, which is cheaper and takes lon
 
 She had found it. He knew that, because the following November she had come back and asked for the same annual, and the November after that, and every November since, with the unfailing punctuality of the tides. And every November he had copied the poem out afresh, in new pencil, on new paper, and tucked it between forty-one and forty-two.
 
-Neither had said a word of it. Seven years. It is the longest conversation in the history of Fort Kochi, and not a syllable has been spoken.
+Neither had said a word of it. Seven years. It is the longest conversation in the history of Fort Kochi, and not a syllable of it has been spoken.
 
 Here, since it is the thing itself and the reader is owed it, is the poem. It does not sound so well in English. Poems seldom do. They are like fish carried inland.
 
@@ -2538,9 +2569,9 @@ A voice from the doorway, brittle and anxious, made him jump.
 
 ---
 
-Hari Panicker, seventy-six, was a retired butcher, a large, anxious, soft-eyed man in a lungi and an undershirt, who had spent forty years in the confident trade of carving and the last seven in the unconfident one of worrying about a son who read. (He was a Panicker who had married into a Nair house, and been absorbed by it as a small stream is absorbed by a larger river; the boy had taken the river's name.) He stood at the top of the stairs holding the old brass scale that had hung in his shop for four decades, which he had brought to the bookshop and which now sat on the counter below, where it weighed, with great solemnity, the cheaper kind of paperback.
+Hari Panicker, seventy-six, was a retired butcher, a large, anxious, soft-eyed man in a lungi and an undershirt, who had spent forty years in the confident trade of carving and the last seven in the unconfident one of worrying about a son who read. (A Panicker by birth, he had married into a Nair house and been absorbed by it as a stream by a river; the boy had taken the river's name.) He stood at the top of the stairs holding the old brass scale that had hung in his shop for four decades, which he had brought to the bookshop and which now sat on the counter below, where it weighed, with great solemnity, the cheaper kind of paperback.
 
-"Appa," said Arjun. "It is two in the morning."
+"Achan," said Arjun. "It is two in the morning."
 
 "I could not sleep. The rain is coming in at the back wall. I have been listening to it. It says something."
 
@@ -2597,7 +2628,7 @@ There was a delicate pause.
 
 The rain, by noon, had stopped being weather and become geography.
 
-It poured on the harbour and the ferries, which crossed from Ernakulam with the dazed look of ducks in a bath. It came down on the Chinese fishing nets, those great wooden cantilevers that rise like the skeletons of enormous insects, with a roar that drowned the church bells and the muezzin and the temple drums alike.
+It poured on the harbour and the ferries, which crossed from Ernakulam with the dazed look of ducks in a bath. It came down on the Chinese fishing nets, those great wooden cantilevers, with a roar that drowned the church bells and the muezzin and the temple drums alike.
 
 "Madam!" shouted Vishnu Kurup, from the front of his auto-rickshaw. "I cannot take you down the lane! There is a river!"
 
@@ -2624,11 +2655,11 @@ She tucked up the border of the sari, which in Kerala is a thing a woman does th
 ### SCENE III
 *Karayil Books. A quarter to one. The tide in the lane has reached the doorstep, considered it, and come in.*
 
-There is a particular silence that falls over a bookshop when water enters it, and it is the silence of a very large congregation holding its breath.
+A particular silence falls over a bookshop when water enters it: that of a very large congregation holding its breath.
 
 Arjun stood in water to his shins with a stack of Malayalam poetry in his arms and an expression of calm despair. The lower shelves were already gone: the cookbooks, the maps, the volumes of Marxist theory that nobody had ever bought and nobody had ever sold. They stood in the brown flood like a row of drowned gentlemen. Somewhere at the back, with a wet slap, a shelf of Agatha Christie gave way, and forty murders were solved all at once, with no detective present.
 
-"Appa, take the dictionaries to the loft!"
+"Achan, take the dictionaries to the loft!"
 
 "I am *carrying* the dictionaries!"
 
@@ -2640,7 +2671,7 @@ The door banged open. A woman in an oilskin poncho and rubber boots strode in, c
 
 "Where is the problem?" said Sreeja Iyer.
 
-She was fifty-five, a plumber from Alappuzha, who had been called out for a quite different job in the next street, and had seen the shop's door standing open in a drowning lane with the instinct of her calling. She was a woman of the school of Kerala that regards a crisis as a personal compliment. Her hair was iron grey, her forearms were a mason's, and she had a way of saying "problem" that made the problem feel it had been *found out*.
+She was fifty-five, a plumber from Alappuzha, who had been called out for a quite different job in the next street, and had seen the shop's door standing open in a drowning lane with the instinct of her calling. She regarded a crisis as a personal compliment. Her hair was iron grey, her forearms were a mason's, and she had a way of saying "problem" that made the problem feel it had been *found out*.
 
 "The problem," said Arjun, "is the *sea.*"
 
@@ -2670,7 +2701,7 @@ They passed the books from hand to hand, hand over hand, up the stair, in the da
 
 And in the café next door, a young woman in a white apron watched through the window with her arms folded, delivering a commentary to a customer who had not asked for one.
 
-Lakshmi Panicker was twenty-seven, a waitress, and the café's principal asset. She was a woman of enormous good humour and no discretion whatsoever. She had been standing in the doorway since eleven, ostensibly serving banana fritters, in practice conducting a running broadcast to the lane.
+Lakshmi Panicker was twenty-seven, a waitress, and the café's principal asset, with enormous good humour and no discretion whatsoever. She had been standing in the doorway since eleven, ostensibly serving banana fritters, in practice conducting a running broadcast to the lane.
 
 "Look at that," said Lakshmi, to the customer. "Look at Arjun Chetta. The man has lifted four hundred books in the last half-hour, and he has not once looked at the one he is *afraid* of losing."
 
@@ -2680,7 +2711,7 @@ Lakshmi Panicker was twenty-seven, a waitress, and the café's principal asset. 
 
 "I see," said the tourist, who did not.
 
-"It is the greatest tragedy in Kerala," said Lakshmi, with deep satisfaction. "And nobody will do anything. *I* would, but I am a waitress. I only bring tea to history."
+"It is the greatest tragedy in Kerala. *I* would do something, but I am a waitress. I only bring tea to history."
 
 "What a lot of rain," said the tourist, politely.
 
@@ -2690,7 +2721,7 @@ Lakshmi Panicker was twenty-seven, a waitress, and the café's principal asset. 
 
 Arjun, at the head of the line, had not looked at Meera for seven minutes.
 
-This was not because he had not seen her. He had seen her at the instant she entered, as a man sees lightning before he hears the thunder, in the green sari with its hem tucked up and her braid coming loose and her face fierce with purpose. He had seen her seize a box of cookbooks and wade away with it as though it were a baby. He had seen her fall into step beside the great Sreeja Iyer and, in thirty seconds, be given the tone of command. He had thought, quite clearly: *I will never be able to speak to her again, because I have seen her in my shop, in a flood, and a man cannot be expected to survive that.*
+This was not because he had not seen her. He had seen her at the instant she entered, as one sees lightning before the thunder, in the green sari with its hem tucked up and her braid coming loose and her face fierce with purpose. He had seen her seize a box of cookbooks and wade away with it as though it were a baby. He had thought, quite clearly: *I will never be able to speak to her again, because I have seen her in my shop, in a flood, and a man cannot be expected to survive that.*
 
 So he gave her wide berth, in a foot of brown water, with a stack of Tagore.
 
@@ -2738,23 +2769,23 @@ And a voice from below, unmistakable, shouted: "Arjun! The dictionaries have gon
 
 He put the pencil back.
 
-*Reader, I do not blame him. A man with one hand on a poem and the other on the Oxford English Dictionary is a man pulled by both ends of language. Many have been torn so. Few have recovered.*
+*Reader, I do not blame him. A man with one hand on a poem and the other on the Oxford English Dictionary is pulled by both ends of language. Few have recovered.*
 
 ---
 
 By dusk the water had begun, grudgingly, to retreat.
 
-It left behind a thin brown shine on the floor, a smell of wet paper that would last a month, and a shop that was, by some miracle of human arms, almost entirely intact. The Marxist theory was ruined. The cookbooks were a complete loss. But upstairs in the loft, in tall dry stacks, with the dictionaries on top and the poetry at the summit, were four thousand books, and in the lane below were two hundred people who had saved them and who were now being fed by Lakshmi's café on the house.
+It left behind a thin brown shine on the floor, a smell of wet paper that would last a month, and a shop that was, by some miracle of human arms, nearly intact. The Marxist theory was ruined. The cookbooks were a complete loss. But upstairs in the loft, in tall dry stacks, with the dictionaries on top and the poetry at the summit, were four thousand books, and in the lane below were two hundred people who had saved them and who were now being fed by Lakshmi's café on the house.
 
-"I wish to record," announced Sreeja Iyer, wiping her hands on her poncho, "that this is the best flood I have been in. Normally the shop is *grateful.* Here everybody is *talking.* Gopal-sir! Come and look at the tide."
+"I wish to record," announced Sreeja Iyer, wiping her hands on her poncho, "that this is the best flood I have been in. Normally the householder is *grateful.* Here everybody is *talking.* Gopal-sir! Come and look at the tide."
 
-This was Gopal Varma, fifty-eight, a village vet from Alappuzha and the most unstoppable matchmaker in three districts. He had come that morning to propose to Hari Panicker a girl from Kottayam with a chemistry degree and a *jathakam* that matched Arjun's on nine points out of ten; he had been trapped in the loft since one o'clock, holding the Concise Oxford over his head, and had formed, in the interval, a different opinion.
+This was Gopal Varma, fifty-eight, a village vet from Alappuzha and the most unstoppable matchmaker in three districts. He had come that morning to propose to Hari Panicker a girl from Kottayam with a chemistry degree and a *jathakam* that matched Arjun's on nine points out of ten; he had been trapped in the loft since one o'clock, and had formed, in the interval, a different opinion.
 
 "I have been looking at the stars," said Gopal, with a thoughtful frown.
 
 "You cannot see stars. It is raining."
 
-"I have been looking at them *internally.*" He examined his folder. "The Kottayam girl's chart matches Arjun's on nine points. But I have also been observing this *other* young lady, in the green sari. I do not have her chart. But I have observed, in three hours, that when the boy drops a book, she picks it up, and when she drops a book, he picks it up, and neither has dropped a book at the same time. In forty years of horoscopes, I have never seen so *perfect* a synchrony." He closed the folder with a snap. "Hari-sir. I withdraw the girl from Kottayam. The stars have had an internal revision."
+"I have been looking at them *internally.* The Kottayam girl's chart matches Arjun's on nine points. But I have also been observing this *other* young lady, in the green sari. I do not have her chart. But I have observed, in three hours, that when the boy drops a book, she picks it up, and when she drops a book, he picks it up, and neither has dropped a book at the same time. In forty years of horoscopes, I have never seen so *perfect* a synchrony." He closed the folder. "Hari-sir. I withdraw the girl from Kottayam. The stars have had an internal revision."
 
 "What do the stars say?" said Hari, anxiously.
 
@@ -2784,7 +2815,7 @@ On the back seat, in the light of a dim bulb and the ticking of the rain, Meera 
 
 It was there: folded small, on onion-skin paper, in pencil.
 
-She read it by the light of passing shop-windows, as she had read it seven times, with her heart doing its usual absurd gymnastics. She came to the last verse, which she knew by heart, and which she read, nonetheless, with the old fresh shock of gladness.
+She read it by the light of passing shop-windows, as she had read it seven times, with her heart doing its usual absurd gymnastics. She came to the last verse, which she knew by heart, and read it nonetheless with the old fresh shock of gladness.
 
 *And if one year the page should come out blank…*
 
@@ -2808,7 +2839,7 @@ She stared at it. She turned it to the light. She could not read it.
 
 "Who?" said Vishnu.
 
-She did not answer. She was smiling at the rain, as one smiles at an old friend with whom one has at last made up one's mind.
+She did not answer. She was smiling at the rain, with the look of one who has at last made up her mind.
 
 ---
 
@@ -2816,7 +2847,7 @@ She did not answer. She was smiling at the rain, as one smiles at an old friend 
 
 > *Entry 0699 (Kochi): "I hid a poem in a book I knew you would buy." Entry 0153 (Kochi): "I buy that book every year to read the poem again."*
 >
-> *Mark that the Register places them five hundred and forty-six entries apart. It is not far. It is, in the matter of love, the width of a bookshelf, and I have known men to spend a lifetime in the aisle.*
+> *Mark that the Register places them five hundred and forty-six entries apart. It is not far. It is, in matters of the heart, the width of a bookshelf, and I have known men to spend a lifetime in the aisle.*
 >
 > *I will say this for the rain. It takes the last word, as it takes everything. But it cannot take what is already known. And the one thing a flood cannot wash from paper is the shape of the hand that wrote it.*
 
@@ -2847,7 +2878,7 @@ She took it. The little ward, which contained a dozen patients, six physiotherap
 
 On the fourth finger of his left hand, a plain gold ring caught the light of the fluorescent tube.
 
-He wore it, as he had worn it for three years, with the unselfconscious ease of a thing that is part of the body. His patients assumed that he had a wife. His colleagues, who knew that she had died of a long and slow illness two Marches ago, did not mention it, in the delicate Brazilian way, by mentioning everything else at great length. His friend Pedro Souza, the pharmacist across the street, who never answered telephones but sent voice messages of eleven minutes' duration, had once said: "Carlos, one does not have to take it off. But one might *polish* it less."
+He had worn it for three years, as one wears a thing that has become part of the body. His patients assumed that he had a wife. His colleagues, who knew that she had died of a long illness two Marches ago, did not mention it, in the delicate Brazilian way, by mentioning everything else at great length. His friend Paulo Souza, the pharmacist across the street, who never answered telephones but sent voice messages of eleven minutes' duration, had once said: "Carlos, one does not have to take it off. But one might *polish* it less."
 
 He polished it, in fact, on the hem of his white coat, whenever he thought himself unwatched.
 
@@ -2873,7 +2904,7 @@ A boy stood at the entrance to the ward, sixteen, in school uniform, a thin, ser
 
 It was the exact and only epitaph that Raimundo Teles would have wished.
 
-He had been fifty-eight, a bus driver, a vast and furious man who had fallen from a scaffold while painting his daughter's house and had woken in a hospital with a spine like a broken broomstick, and a verdict that he would never again walk to his own front door. Carlos had spent fourteen months proving the verdict wrong. It had been a long war. Raimundo had insulted his mother, his methods, and the football team he supported, and on the last day, panting between the bars with sweat on his forehead, three hundred steps and not one of them pretty, he had said: "Doutor, I will walk to my own funeral."
+He had been fifty-eight, a bus driver, a vast and furious man who had fallen from a scaffold while painting his daughter's house and had woken in a hospital with a verdict that he would never again walk to his own front door. Carlos had spent fourteen months proving the verdict wrong. Raimundo had insulted his mother, his methods, and the football team he supported, and on the last day, panting between the bars, three hundred steps and not one of them pretty, he had said: "Doutor, I will walk to my own funeral."
 
 Which, three weeks ago, in the narrow and ironic geometry of life, he had very nearly done.
 
@@ -2892,7 +2923,7 @@ The ward, which was full of noise, became for Carlos Mendes a very long and quie
 
 Beatriz Lima had been awake for thirty-one hours, and was eating a bowl of beans with the expression of a woman reading a final demand.
 
-She was thirty-one. She was the youngest vascular surgeon in the hospital's history, and she looked it only in one respect, which was that she had not yet learned to stop proving it. She was tall, straight-backed, in green scrubs, with black hair pulled back so tightly it seemed an act of discipline, and eyes that were large and dark and rimmed with the grey of a person who has forgotten the use of sleep. Among the nurses she was called *a Doutora*, in a tone that contained admiration, fear, and an undertone of pity that they never let her hear.
+She was thirty-one, the youngest vascular surgeon in the hospital's history, and she looked it only in that she had not yet learned to stop proving it. She was tall and straight-backed, in green scrubs, with black hair pulled back so tightly it seemed an act of discipline, and large dark eyes rimmed with the grey of a person who has forgotten the use of sleep. Among the nurses she was called *a Doutora*, in a tone that contained admiration, fear, and a pity they never let her hear.
 
 Her mother's name was Lima. She had kept it, after the funeral, as one keeps the key to a house that no longer exists.
 
@@ -2902,7 +2933,7 @@ Her mother's name was Lima. She had kept it, after the funeral, as one keeps the
 
 "You are pushing a bean from the left side of the bowl to the right. It is a sad little pilgrimage."
 
-Pedro Rocha was sixty, a retired chef, a huge, bald, talkative, gossipy man with the forearms of a blacksmith and the soul of a tabloid. He had arrived at the hospital at eight-thirty with a thermos of feijoada the size of a fire extinguisher, in defiance of every regulation concerning outside food, and had distributed it among the nursing staff with the air of a man dispensing sacraments. He was immensely proud of his daughter, so proud that it had never occurred to him to say so, since to say so would have been a vulgar attempt to describe the sun.
+Pedro Rocha was sixty, a retired chef, a huge, bald, talkative man with the forearms of a blacksmith and the soul of a tabloid. He had arrived at eight-thirty with a thermos of feijoada the size of a fire extinguisher, in defiance of every regulation concerning outside food, and had distributed it among the nursing staff like sacraments. He was so proud of his daughter that it had never occurred to him to say so; it would have been a vulgar attempt to describe the sun.
 
 "Papai, I lost a patient."
 
@@ -2940,7 +2971,7 @@ Under it, in Portuguese and in a clumsy English translation, Pedro had written:
 
 *Osaka, spring. The chef told me, through the interpreter, that he makes one bowl every night for a woman who stopped coming. He sets it at her stool. He does not eat it. At closing he pours it away, and in the morning, he begins again. I asked, "How long?" The chef did not answer. He only wiped the counter.*
 
-Her father wiped his eyes with a napkin. "It is *very* popular," he said. "A man in Curitiba has proposed to his girlfriend. And nobody has said a word about the *ramen.*"
+Her father wiped his eyes with a napkin. "A man in Curitiba proposed to his girlfriend over it," he said.
 
 Beatriz looked at the photograph for a long time.
 
@@ -2957,7 +2988,7 @@ It was, of course, a conspiracy.
 
 The reader should not be surprised. A hospital contains choirs, locksmiths, and matchmakers in roughly equal proportions, and when all three are present, the result is inevitable.
 
-The choir was that of Fábio Santos, a thirty-year-old choir director from Campinas, who conducted the hospital's Christmas ensemble every Thursday in the ground-floor atrium and who, being of an artistic nature, had a great many old letters in his bag and a great many opinions in his head. The locksmith was Thiago Oliveira, forty-one, a vain and glittering man with a waxed moustache, who had been summoned by the hospital porters to rescue the elevator, and who, being a matchmaker by vocation and a locksmith by trade, regarded the entire building as a lock with a very obvious solution.
+The choir was that of Fábio Santos, a thirty-year-old director from Campinas, who conducted the hospital's Christmas ensemble every Thursday in the ground-floor atrium. The locksmith was Thiago Oliveira, forty-one, vain and glittering, with a waxed moustache, who had been summoned by the porters to rescue the elevator, and who, being a matchmaker by vocation and a locksmith by trade, regarded the entire building as a lock with a very obvious solution.
 
 "Who is in the lift?" he asked the porter.
 
@@ -3033,7 +3064,7 @@ For a moment he opened his mouth. *Not what you think,* he thought. *It is exact
 
 "I am sure it is," said Beatriz, with the clipped kindness of a surgeon closing a wound. "Thank you for the handkerchief. I am very sorry for keeping you from the pharmacy."
 
-*Ah,* says the Keeper, quietly, from the dark between the floors. *There it is. He might have said: I am a widower. A word of four syllables, and a world of difference. And she might have said: I should like to know. And neither did, and the lift did not move.*
+*Ah,* says the Keeper, quietly, from the dark between the floors. *There it is. He might have said: I am a widower. A word of three syllables, and a world of difference. And she might have said: I should like to know. And neither did, and the lift did not move.*
 
 ---
 
@@ -3077,15 +3108,15 @@ Beatriz stepped out first. She turned, in the doorway, and said, with perfect co
 ---
 
 ### SCENE IV
-*Osaka, Japan. Twelve hours ahead. It is the next morning, and has been, here, all along. Six a.m. in the ward of Fukushima, where the ramen shops put out their curtains in the dawn like flags.*
+*Osaka, Japan. Twelve hours ahead. It is eleven in the morning of the next day, and has been, here, all along. The ward of Tenma, where the ramen shops put out their curtains like flags.*
 
-There is an old joke, among those who live between time zones, that it is always tomorrow somewhere. The people in São Paulo, who were wiping the last of the storm from their windows at four in the afternoon, had been preceded to the day by a good twelve hours, in a city on the other side of the world; and in that city, in a narrow apartment above a stationer's, a woman of thirty-three stood in her kitchen at six in the morning, with a cup of tea she could not taste, looking at a phone.
+There is an old joke, among those who live between time zones, that it is always tomorrow somewhere. In Osaka it was already the next morning, and in a narrow apartment above a stationer's a woman of thirty-three stood in her kitchen with a cup of tea she could not taste, looking at a phone.
 
-Mei Sato had been a food critic for eleven years. She had written, for a great Osaka newspaper, the best reviews in the history of the city: a cadence of salt and smoke, sweetness and acid, that readers had called *a hymn in a bowl.* And in the spring, one morning, without warning, with no pain and no fever and no dignity, she had put a spoonful of miso soup into her mouth, and tasted nothing at all. It had been, she thought, like hearing the world's last piano go quiet.
+Mei Sato had been a food critic for eleven years. She had written, for the *Naniwa Shimbun*, reviews in a cadence of salt and smoke, sweetness and acid, that readers called *a hymn in a bowl.* And last September, when a fever that should have been forgotten by Friday had gone, she had sat down to a plate of *tamagoyaki* and tasted nothing at all. It had been, she thought, like hearing the world's last piano go quiet.
 
-She had told no one. She wrote now from memory. She was good at it. She was a clever woman, and could construct a review of any bowl in Osaka from the vocabulary of her past, and no one, so far, had known the difference. But she had stopped going out. And she had stopped, in particular, going to a very small ramen shop in an alley in Fukushima ward, eight stools, run by a taciturn man called Tanabe, where she had eaten, on the third stool from the left, near the pipe where the steam rose, every Tuesday for six years.
+She had told no one. She wrote now from memory. She was good at it. She could construct a review of any bowl in Osaka from the vocabulary of her past, and no one, so far, had known the difference. But she had stopped going out. And she had stopped, in particular, going to a very small ramen shop in an alley in Tenma ward, eight stools, run by a taciturn man called Tanabe, where she had eaten, on the eighth stool, at the end, near the pipe where the steam rose, every Thursday for two years.
 
-She had not been back since the new-moon night, when she had sat at his counter, said the one true thing, and run. *A critic who cannot taste is a liar with a pen,* she thought. *And a woman who cannot taste cannot sit at his counter. He would know. He would look at me and know.*
+She had not been back since the new-moon night, when she had sat at his counter, said the one true thing, been fed, and gone home to the quiet of her own mouth. *One night of being fed is a kindness,* she thought. *Every night would be charity. And he would see it.*
 
 On her phone, a friend had sent a link, with a single line: *Is this your Tanabe?*
 
@@ -3099,9 +3130,9 @@ The caption was in Portuguese, which she did not read. But beneath it ran an Eng
 
 She put the phone down.
 
-Across the city, at that hour, she knew, a man of thirty-four sat alone behind a counter before opening, in the clean quiet of a closed shop, skimming a pot he had begun at three in the morning. And between that man and a stranger's photograph, in a kitchen, with a cup of tea that tasted of nothing, stood the one woman for whom it had been made.
+Across the city, she knew, a man of thirty-four sat alone behind a counter in the clean quiet of a closed shop, skimming a pot he had begun at three in the morning. And between that man and a stranger's photograph, in a kitchen, with a cup of tea that tasted of nothing, stood the one woman for whom the bowl was made.
 
-"Daichi," said a voice, in a shop an hour's walk away, to a bewildered historian who had arrived at dawn with a mobile phone and the news. "You are telling me that I am famous in *Brazil.*"
+"Daichi," said a voice, in a shop across the city, to a historian who had arrived with a mobile phone and the news. "You are telling me that I am famous in *Brazil.*"
 
 "A hundred and forty thousand hearts, Tanabe-san! A woman in Recife says you have ruined her mother's soup!"
 
@@ -3115,21 +3146,21 @@ She stood in the hall. She took it off.
 
 She put it on again.
 
-*Tuesday,* she thought. *It is only Tuesday. I will go on Tuesday. And I will tell him the truth, or I will tell him a lie, and either way I shall have been there.*
+*Thursday,* she thought. *It is only Thursday. I will go on Thursday, and either I will tell him the rest of the truth, or I will tell him a lie, and either way I shall have been there.*
 
-Far away, a boy called Leandro sat on a bus back to Santos with an empty paper bag on his knee, a surgeon sat in her car in a hospital garage with a man's handkerchief in her pocket, and a physiotherapist polished a ring on the hem of his coat.
+Far away, a boy called Leandro slept in Santos with the smell of cheese still on his sleeves, a surgeon sat in her car in a hospital garage with a man's handkerchief in her pocket, and a physiotherapist polished a ring on the hem of his coat.
 
-And at a small shop on a narrow street, a bowl was set on the counter, as every night, and every morning, at the eighth stool, by the pipe, and steamed, as though it knew.
+And at a small shop on a narrow street, a bowl would be set that night at the eighth stool, by the pipe, and steam, as though it knew.
 
 ---
 
 *Margin note, in pencil, in the hand of S.W.R.:*
 
-> *Entry 0016 and Entry 0818, São Paulo. A ring and a scalpel. He is afraid to take off the one; she is afraid to put down the other. They are two hands, each trying to hold the same grief and each convinced that the other has the better grip.*
+> *Entry 0016 and Entry 0818, São Paulo. A ring and a scalpel. He is afraid to take off the one; she is afraid to put down the other. They are two hands, each holding the same grief, each convinced that the other has the better grip.*
 >
-> *Entry 0510 and Entry 0810, Osaka. A bowl and a tongue. Do you see how the world is made? The one cooks for the guest who cannot taste. The other cannot taste, and will not sit at the bowl. It is the oldest comedy and it is, as always, a tragedy by Thursday.*
+> *Entry 0510 and Entry 0810, Osaka. A bowl and a tongue. The one cooks for a guest who cannot taste; the other cannot taste, and will not sit at the bowl. It is the oldest comedy and it is, as always, a tragedy by Thursday.*
 >
-> *And I notice that the lift, which is a kind of room, stopped between two floors. That is the whole state of the human heart. It is always between two floors. It is always waiting for a locksmith with a sense of occasion.*
+> *And I notice that the lift stopped between two floors. That is the whole state of the human heart. It is always waiting for a locksmith with a sense of occasion.*
 
 ---
 
@@ -3164,7 +3195,7 @@ And then, in March, the investor had changed *his mind.*
 
 It had gone quickly, as a good building goes: first the funding, then the clients, then the app store ranking, and finally, in the quiet of a Thursday, the last of the sense that anyone would ever want to talk to him about it again. The company was dead. It was simply that nobody had told its heart.
 
-He had nine employees. He paid them, on the twenty-fifth of each month, from his own account: from his savings, from his car, from the sale of a good watch, from a loan against a flat in Surulere, from the last of his father's gift. He had not told them. He had not told his sister. He had not told the neon sign, which went on, every morning, with its hopeful buzz, and which he had begun to hate.
+He had nine employees. He paid them, on the twenty-fifth of each month, from his own account: from his savings, from the sale of a good watch, from a loan against a flat in Surulere, from the last of his father's gift. He had not told them. He had not told his sister. He had not told the neon sign, which went on every morning with its hopeful buzz, and which he had begun to hate.
 
 *My company is dead,* he had written to an old woman in England, on a night in which the generator had failed, *and I keep paying salaries from my own pocket.*
 
@@ -3177,11 +3208,11 @@ He had meant it as a confession. He had not realised it was also a budget.
 
 "You are looking," said Ifeoma Bello, "like a man who has swallowed an anchor."
 
-She was sixty, a tiny, wiry, mahogany woman from Ibadan, who had gone to sea at nineteen as the only woman on a Lagos-registered freighter, and had spent thirty-one years on the oceans of the world, rising to a ship's first mate and acquiring a vocabulary that could blister a bulkhead. She had retired with a pension, a parrot-handled cane, and a very large number of opinions, and she now invested small sums of money in the young, on the condition that they take her to lunch.
+She was sixty, a tiny, wiry woman from Ibadan, who had gone to sea at nineteen as the only woman on a Lagos-registered freighter, and had spent thirty-one years on the oceans of the world, rising to first mate and acquiring a vocabulary that could blister a bulkhead. She had retired with a pension, a parrot-handled cane, and a very large number of opinions, and she now invested small sums in the young, on the condition that they take her to lunch.
 
 "I am well, Auntie."
 
-"You are lying, and it is the first thing a young man learns, and the last thing he learns to do *well*." She tore a morsel of *amala*, dipped it in *ewedu* and gbegiri, and chewed with great deliberation. "What is the number?"
+"You are lying. It is the first thing a young man learns, and the last he learns to do *well*." She tore a morsel of *amala*, dipped it in *ewedu* and gbegiri, and chewed with great deliberation. "What is the number?"
 
 "Which number?"
 
@@ -3268,9 +3299,9 @@ He looked at the mannequin.
 
 "It has a name."
 
-"Everything has a name." She went rather pink. "It is a thing I do. Do not mind it."
+"Everything has a name." She went rather pink. "Do not mind it."
 
-"May I—" He came into the room. He stood before the jacket, and he looked at it in silence, for rather a long time, with his hands in his pockets, the way one looks at a diagram that one does not understand but cannot bear to leave. It was the most extraordinary garment he had ever seen. It was powerful. It had a collar like a drawn bow. It looked like the coat of a woman who had decided, at last, to be *looked at.*
+He came into the room and stood before the jacket, looking at it in silence for a long time, with his hands in his pockets, as one looks at a diagram one does not understand but cannot bear to leave. It was the most extraordinary garment he had ever seen. It was powerful. It had a collar like a drawn bow. It looked like the coat of a woman who had decided, at last, to be *looked at.*
 
 "It is not a *design,*" said Emeka. "It is an *argument.*"
 
@@ -3302,7 +3333,7 @@ She stood in the dim, with a pin in her hand, until the generator coughed and we
 ---
 
 ### SCENE IV
-*The next evening. The lobby of Adeniran Court. The light has gone. It has not merely gone: it has been taken by the State, with a smile, and without notice, and a crowd of forty people stands in the dark with their mobile phones lit, like a congregation in a cathedral of small blue candles.*
+*The next evening. The lobby of Adeniran Court. The light has not merely gone: it has been taken by the State, with a smile, and without notice, and forty people stand in the dark with their phones lit, a congregation in a cathedral of small blue candles.*
 
 It was the night of the show.
 
@@ -3310,7 +3341,7 @@ It had been meant to take place in a great ballroom on Victoria Island, with a r
 
 So the show was in the lobby.
 
-The tenants of Adeniran Court had made themselves its audience: the lawyers from the second floor, the three young men who ran an app for hailing motorcycles, the woman with the dental practice, a pack of children from the compound, Mama Ngozi from the stairwell. There were no seats but plastic chairs. The runway was a strip of ankara cloth laid down the length of the tile. There were eight models, all friends. There was a single working speaker, and a cousin of Chidinma's in a bow tie with a laptop; and there was an enormous silence, black as an inkwell, in the middle of which, with great ceremony, the power failed.
+The tenants of Adeniran Court had made themselves its audience: the lawyers from the second floor, the three young men who ran an app for hailing motorcycles, the woman with the dental practice, a pack of children from the compound, Mama Ngozi from the stairwell. There were plastic chairs and a runway of ankara cloth laid down the length of the tile. There were eight models, all friends, a single working speaker, and a cousin of Chidinma's in a bow tie with a laptop; and in the middle of an enormous silence, with great ceremony, the power failed.
 
 "*Abeg,*" said somebody in the audience. "Not again."
 
@@ -3340,7 +3371,7 @@ Chidinma stared at him.
 
 "Go on," said Emeka, quietly. "Get ready. It will be lit."
 
-*Reader, it was.*
+*It was.*
 
 For in fifteen minutes the nine desks of AJO had been emptied, and nine staff members, whom their employer had supposed to be ignorant of the entire state of his finances, filed down the stair in a solemn procession, each carrying a laptop, an extension cable, and an expression of great composure. Tobi, the youngest, a twenty-four-year-old with spectacles and a ferocious talent for code, set down his machine on the lobby floor and opened it with a click. It lit a small circle of tile in a pale electric blue. Beside it, another. And another.
 
@@ -3404,7 +3435,7 @@ She took it down.
 
 No one spoke.
 
-At the end of the runway, in the nine small blue lights, a young man in an ironed shirt stood up out of his chair, without knowing that he had, with his hands at his sides and a pale line on his wrist, and thought, with absolute clarity, in the middle of the end of a company:
+At the end of the runway, in the nine small blue lights, a young man in an ironed shirt stood up out of his chair, without knowing that he had, with his hands at his sides and a pale line on his wrist, and thought, with absolute clarity, in the middle of the end of his company:
 
 *I know that woman. I will do anything not to lose her.*
 
@@ -3412,7 +3443,7 @@ And then, from somewhere at the back, the generator, with a long shuddering gasp
 
 The lights came on.
 
-It is a curious fact about the people of Lagos that they will applaud a thing for any reason at all, but they applaud a thing that is *true* as though it were a goal.
+The people of Lagos will applaud a thing for any reason at all, but a thing that is *true* they applaud as though it were a goal.
 
 ---
 
@@ -3420,7 +3451,7 @@ It is a curious fact about the people of Lagos that they will applaud a thing fo
 
 > *Entry 0051 and Entry 0954. A company that is dead and keeps its payroll; a woman who wears her fear and dresses it as courage. It is the same condition. Each is performing an act of faith in a thing no longer visible.*
 >
-> *I would like it noted that nine young people sat in a toilet and agreed to go on working for a man who had not told them the truth. It is the closest thing to a ledger I have seen in forty-five years. There is a kind of love that doesn't go in the register of love at all. It goes in the payroll.*
+> *I would like it noted that nine young people sat in a toilet and agreed to go on working for a man who had not told them the truth. There is a kind of love that does not go in the Register at all. It goes in the payroll.*
 >
 > *The woman will have to learn to be seen. The man will have to learn to be helped. I do not know which is harder. I only know that the generator coughed first, and the lights came on after.*
 
@@ -3445,13 +3476,13 @@ At the hour when the honest are asleep and the dishonest are, for once, at a los
 
 "You are too wet," said Pierre Dubois. "It is the weather. Do not take it personally."
 
-He was forty-five, large and stooped and flour-white to the elbow, with a nose that had been broken at rugby and a pair of hands that had never in their lives been idle. He had inherited the shop from his father and the habit of silence from his mother, and had added, by his own labour, a reputation for the best *pain de campagne* on the hill and the worst temper. He kneaded with his whole back, in the yellow light of the oven, in the warm, sweet, living dark of a bakery before dawn, which is the nearest thing on earth to the inside of a heart.
+He was forty-five, large and stooped and flour-white to the elbow, with a nose that had been broken at rugby and a pair of hands that had never in their lives been idle. He had inherited the shop from his father and the habit of silence from his mother, and had added, by his own labour, a reputation for the best *pain de campagne* on the hill and the worst temper. He kneaded with his whole back, in the yellow light of the oven, in the warm, sweet dark of a bakery before dawn, which is the nearest thing on earth to the inside of a heart.
 
 It was Sunday. On Sundays he made *the other bread.*
 
 It was a round loaf, dark-crusted, with walnuts and a little rye and a pinch of cumin that no one else in Lyon would have dared, and it had been invented in the kitchen of a small flat in the Rue Imbert-Colomès by a woman called Odile, who had died four years ago in the spring of a thing that had taken eleven months to say its name. She had baked it every Sunday of their marriage. He had never in his life made it until the first Sunday after she was gone, when he had woken at four, and found his hands in the flour, and understood that they had decided without him.
 
-He had never sold it. He gave it away. Every Sunday at six a boy of thirteen came on a bicycle, and took twelve loaves in a basket, and delivered them to the old and the lonely of the hill, who had no idea who sent them, and who ate them in silence, with butter, as if they were an answer to a prayer.
+He had never sold it. He gave it away. Every Sunday, before the first church bell, a boy of thirteen came on a bicycle, and took twelve loaves in a basket, and delivered them to the old and the lonely of the hill, who had no idea who sent them, and who ate them in silence, with butter, as if they were an answer to a prayer.
 
 *I still bake my wife's bread every Sunday,* he had written, to a stranger, in the dark. *I do not know how to stop. I do not think I want to.*
 
@@ -3463,7 +3494,7 @@ He turned. The boy was in the doorway: Baptiste Lefèvre, thirteen, a thin, seve
 
 "I am never early. *You* are late."
 
-"It is four o'clock."
+"It is not yet four."
 
 "It is *five to,*" said Baptiste, "and you have flour on your face. It is the look of a man who has been thinking."
 
@@ -3475,7 +3506,7 @@ Pierre's hands stopped in the dough.
 
 "Has what come?"
 
-"The thing," said Baptiste, with the impatience of the young explaining the obvious to the old, "that is on your step every Sunday. At half-past three. I am a boy who gets up. I have *seen.*"
+"The thing," said Baptiste, with the impatience of the young explaining the obvious to the old, "that is on your step every Sunday. A little before four. I am a boy who gets up. I have *seen.*"
 
 ---
 
@@ -3499,7 +3530,7 @@ He did not call out. His throat had forgotten how.
 
 Pierre turned. "*What?*"
 
-"Madame Laurent. From the Rue de la Martinière. The one with the sad shop." The boy shrugged, with magnificent indifference. "I do not know why. I have simply seen her. She leaves them and she looks at the window and she goes. I did not tell you, because I was not asked, and I am not good at apologising when I am wrong."
+"Madame Laurent. From the Rue de la Martinière. The one with the sad shop." The boy shrugged, with magnificent indifference. "I do not know why. She leaves them and she looks at the window and she goes. I did not tell you, because I was not asked, and I am not good at apologising when I am wrong."
 
 "You were not *wrong.*"
 
@@ -3515,7 +3546,7 @@ Pierre stood a long moment with the violets in his hand. Then he went back insid
 
 "To the Rue de la Martinière. Say nothing."
 
-"I never do," said Baptiste, with dignity, "unless I am not asked."
+"I never do," said Baptiste, "unless I am not asked."
 
 ---
 
@@ -3525,13 +3556,13 @@ Margaux Laurent was forty-two, a florist, a widow of three years' standing, with
 
 She had been walking to the flower market in the dark. She had passed the bakery on the Croix-Rousse, where the lamp was lit; and she had looked, for no reason, through the window, and seen a large man with his arms in a trough of dough, and his shoulders shaking.
 
-It is a thing we are not supposed to see. She had stood there for a full minute in the fog, with a bunch of violets in her basket meant for the market. And then she had done what a florist does, which is to know when a thing is not a bunch of flowers, but a sentence.
+It is a thing we are not supposed to see. She had stood there for a full minute in the fog, with violets in her basket meant for the market. And then she had done what a florist does, which is to know when a thing is not a bunch of flowers but a sentence.
 
 She laid them on the step. She walked away.
 
 *I left the flowers at your door,* she had written, afterwards, to an old woman in England, with the kettle going cold. *It was always me.*
 
-Now she stood in her little shop among the zinc buckets and the paper cones and the smell of wet green stalks, and said to her assistant, who happened to be her twenty-year-old brother (the hill, it must be said, had an inordinate number of Baptistes) and who was at that moment arranging chrysanthemums in a manner she found personally offensive: "He saw me."
+Now she stood in her little shop among the zinc buckets and the paper cones and the smell of wet green stalks, and said to her assistant, who happened to be her twenty-year-old brother, another Baptiste (the hill, it must be said, had an inordinate number of them), and who was at that moment arranging chrysanthemums in a manner she found personally offensive: "He saw me."
 
 "Who?"
 
@@ -3543,7 +3574,7 @@ Now she stood in her little shop among the zinc buckets and the paper cones and 
 
 "What do you intend?"
 
-"To go on," said Margaux, with a gentle and appalled dignity, "and to be a coward at the same time. It is a skill. I have been practising it for three years."
+"To go on," said Margaux, gently and appalled, "and to be a coward at the same time. It is a skill. I have been practising it for three years."
 
 The shop bell rang. A thin boy in an oversized anorak stood in the door with a basket, and in it, wrapped in a clean cloth, one round dark loaf, warm still, and smelling of walnuts and a pinch of something that no one else in Lyon would have dared.
 
@@ -3558,7 +3589,7 @@ Margaux Laurent looked at the loaf. She broke it. The steam rose, and she put he
 
 In Kraków, at every hour, a trumpeter climbs to the window of the tallest tower in the square, and plays a short, old, sad tune to the four corners of the earth; and at the exact moment the tune would reach its end, it stops.
 
-It is cut in the middle of a note, by tradition, because on one afternoon seven hundred years ago the player on the tower was shot in the throat by a Tatar arrow while sounding the alarm, and the city has kept the tune unfinished ever since, in his honour. So that every hour, in the chill clear air above the square, from the clock tower of a medieval church, a stranger may hear a thing that stops mid-sentence. *Mark this, reader. The people of Kraków have been trained for seven centuries to bear a sentence that stops.*
+It is cut in the middle of a note, by tradition, because on one afternoon long ago the player on the tower was shot in the throat by a Tatar arrow while sounding the alarm, and the city has kept the tune unfinished ever since, in his honour. So that every hour, in the clear air above the square, a stranger may hear a thing that stops mid-sentence. The people of Kraków have been trained for centuries to bear a sentence that stops.
 
 "It is noon," said Jakub Nowak, without lifting his eyes from the movement before him.
 
@@ -3580,7 +3611,7 @@ And now she had come to collect it, at noon, and was holding out his own work as
 
 He pressed the slide.
 
-*Hear it, reader, if you can.* The tiny silver chime, bright as a drop of water on glass: three high notes for the hour, then two for the quarters, then four more, as precise as a heartbeat. It filled the shop; it was the sweetest sound a clockmaker knows; and he watched her face as it rang, and saw it do a thing he did not understand.
+The tiny silver chime was bright as a drop of water on glass: high notes for the hour, then the quarters, then the minutes, as precise as a heartbeat. It filled the shop; it was the sweetest sound a clockmaker knows; and he watched her face as it rang, and saw it do a thing he did not understand.
 
 It went very still. It went, for one moment, the stillness of a person listening to a door that is not opening. And then she smiled, a bright, composed, practised smile, and said:
 
@@ -3636,7 +3667,7 @@ It was. It stood in the corner, an old upright pianino of walnut with a missing 
 
 It was a simple tune: an old Polish lullaby, four bars and a turn. He played the chords, in his careful, even, gentle way, as a man lays bricks. She took the violin from its worn case and tucked it under her chin and closed her eyes, and drew the bow, and the shop was *filled.*
 
-Reader, I cannot describe it. I am a mere narrator and I have only words. It was as though a window had been opened in a closed room, and a bird had flown in. She played the way a river runs. And he, bent over the keys, looking for the first time in his life at nothing but the notes, felt his chest do a thing that was not on any list of the diseases of the heart.
+I cannot describe it; I have only words. It was as though a window had been opened in a closed room, and a bird had flown in. She played the way a river runs. And he, bent over the keys, looking for the first time in his life at nothing but the notes, felt his chest do a thing that was not on any list of the diseases of the heart.
 
 She did not once look at him. She played with her eyes shut, her whole body bent toward the piano, her head a little turned.
 
@@ -3648,12 +3679,12 @@ He did not know what it meant. He knew only that when he slowed, a hair, in the 
 
 *A clock does not lie,* thought Jakub. *Nor does a person who plays by sight.*
 
-And the bugle sounded from the tower of St. Mary's, a quarter past noon, the thin brave tune breaking at its end in the air, and *she did not hear it.*
+And in the shop behind them a dozen clocks struck the quarter at once, in a bright, scattered chorus, and *she did not hear it.*
 
 ---
 
 ### SCENE III
-*Lisbon, Portugal. A tram, the 28, climbing the great hill of Alfama in the rain. Evening. The tiles shine like the sides of fishes.*
+*Lisbon, Portugal. A tram, the 28, climbing the hills of Graça and Alfama in the rain. Evening. The tiles shine like the sides of fishes.*
 
 The old yellow tram ground up the Rua da Graça with a noise like a bad conscience, and in the cab, behind the driver, on a folding seat, an engaged man was telling an engine that he loved it.
 
@@ -3669,7 +3700,7 @@ The old yellow tram ground up the Rua da Graça with a noise like a bad conscien
 
 It was the best receipt he had ever been issued.
 
-At the bottom of the hill, in the rain, a lamp-seller named Pereira was holding forth to a captive passenger. "I sold her a lamp, you know. A small one, for the table. She said it was for her mother. It was for the *letter.* To read it by. A person must have good light for a thing like that. It is the principal duty of my trade, and no one has ever thanked me."
+At the bottom of the hill, in the rain, Pereira the lamp-seller was holding forth to a captive passenger. "I sold her a lamp, you know. A small one, for the table. She said it was for her mother. It was for the *letter.* To read it by. A person must have good light for a thing like that. It is the principal duty of my trade, and no one has ever thanked me."
 
 Inês Carvalho, at that moment, was in her tiny flat above the sorting-office, with a small lamp on the table, and a ring that was not a ring, because he could not afford one yet, but a small loop of copper wire from a tram's motor, that he had bent into a circle with his own pliers and slipped on her finger with the solemnity of a bishop. She sat with it before her in the light. Across the table, her sister Rita, thirty-two, a journalist, was looking at her with an expression of the most complete and unrepentant smugness.
 
@@ -3736,9 +3767,9 @@ And what is true outlives the winter's gale.
 ### SCENE I
 *Istanbul, Türkiye. The Üsküdar pier, on the Asian shore. Early December, a quarter to seven. A fog has settled on the Bosphorus like a sheet on a sleeping giant, and out of it, one after another, come the ferries.*
 
-There is a city that stands with one foot in Europe and the other in Asia, and washes both in the same water, and the water has never been able to decide which of them to belong to.
+There is a city that stands with one foot in Europe and the other in Asia, and washes both in the same water, and the water has never decided which of them to belong to.
 
-It is called the Bosphorus, and it is a river only in the way that a lion is a cat. It runs for thirty kilometres between the Black Sea and the Marmara, under the old stone fortresses and the red roofs of the wooden houses, and every morning, in the grey before the call to prayer has finished echoing from the minarets, it is crossed by a thousand ferries carrying a million people to their jobs. The gulls follow them in screaming flocks. The tea-sellers move down the aisles with tulip glasses on brass trays. A boy of fourteen with a flat basket on his head sings out the price of *simit,* the sesame bread-rings of the city: "*Simit, sıcak simit!*"
+It is called the Bosphorus, and it is a river only in the way that a lion is a cat. It runs for thirty kilometres between the Black Sea and the Marmara, under the old stone fortresses and the red roofs of the wooden houses, and every morning, in the grey before the call to prayer has finished echoing from the minarets, it is crossed by a thousand ferries carrying a million people to their jobs. Gulls follow them in screaming flocks. Tea-sellers move down the aisles with tulip glasses on brass trays. A boy of fourteen with a flat basket on his head sings out the price of *simit,* the sesame bread-rings of the city: "*Simit, sıcak simit!*"
 
 Two of those ferries, on this particular morning, were red and blue.
 
@@ -3746,7 +3777,7 @@ The red was the *Hızır,* of the Yılmaz Line, which had run between Üsküdar 
 
 For thirty years the two houses had sailed the same water. For twenty-two of them they had not spoken.
 
-It had begun, like most great quarrels, in a very small place. A fog. A grounding on a sandbar in the winter of 1996. A ferry that was damaged, a passenger who was hurt, two partners who had each been at the wheel of a different boat and each remembered, quite sincerely, that the other had been at fault. Captain Süleyman Yılmaz had stood on a pier in front of three hundred people and sworn, with his hand on his heart, *by my mother's grave, I will see the Kaya flag go under.* Recep Kaya, who was not a man to be outdone in an oath, had sworn the same, and the two had gone their ways, and built their separate fleets, and the Bosphorus had been in a state of cold war ever since.
+It had begun, like most great quarrels, in a very small place. A fog. A grounding on a sandbar in the winter of 1996. A ferry damaged, a passenger hurt, two partners who had each been at the wheel of a different boat and each remembered, quite sincerely, that the other was at fault. Captain Süleyman Yılmaz had stood on a pier in front of three hundred people and sworn, with his hand on his heart, *by my mother's grave, I will see the Kaya flag go under.* Recep Kaya, who was not a man to be outdone in an oath, had sworn the same, and the two had gone their ways, and built their separate fleets, and the Bosphorus had been in a state of cold war ever since.
 
 And now, in the Council hall in Fatih, a ten-year licence for the crossing was up for award, and both families had bid.
 
@@ -3756,7 +3787,7 @@ And now, in the Council hall in Fatih, a ten-year licence for the crossing was u
 
 Elif Kaya was twenty-six, a ticket clerk, small and quick and dark-eyed, with her hair pinned up under a navy cap and a pencil behind her ear, and she was, in the unanimous opinion of the pier, the fastest hand with a ticket machine on the Bosphorus. She was also, in the unanimous ignorance of the pier, a poet.
 
-She wrote on the backs of old tickets, on the margins of the timetable, on the inside of the paper bag of her morning *simit.* She wrote in the old manner, in rhymed couplets with a repeated refrain, which her grandmother had taught her, and she put them, from the age of fifteen, in a biscuit tin under her bed.
+She wrote on the backs of old tickets, on the margins of the timetable, on the paper bag of her morning *simit,* in the old manner, in rhymed couplets with a repeated refrain, which her grandmother had taught her; and since the age of fifteen she had kept them in a biscuit tin under her bed.
 
 For six months she had been writing them to somebody.
 
@@ -3804,13 +3835,13 @@ He walked away across the pier with his basket, calling "*Simit, sıcak simit!*"
 ### SCENE II
 *The ferry café at the Eminönü landing. The cook's kitchen is a counter, two gas rings, and an enormous brass samovar. A crowd of sailors, porters, and clerks. It is the only ground on the Bosphorus on which, by an ancient custom, no quarrel may be fought.*
 
-Sema was fifty-one, wide, fierce, and floury, with her sleeves rolled to the shoulder, a headscarf of orange silk, and the strongest forearms in Eminönü. She had cooked at the landing for twenty-eight years, had fed three generations of both houses off the same chipped plates, and had made it a law that whoever brought a quarrel in at the door left it on a hook, along with the coat.
+Sema was fifty-one, wide, fierce, and floury, with her sleeves rolled to the shoulder and the strongest forearms in Eminönü. She had cooked at the landing for twenty-eight years, had fed three generations of both houses off the same chipped plates, and had made it a law that whoever brought a quarrel in at the door left it on a hook, along with the coat.
 
 "Tea has no flag," she was fond of announcing, to the room at large.
 
 "It is the *truth,*" said her husband Kerem. "I read it in a paper."
 
-Kerem Arslan was forty-four, a grocer, thin and gloomy, with a moustache like a question mark, and he believed everything he read, which was a great sorrow to the newspapers.
+Kerem Arslan was forty-four, a grocer, thin and gloomy, with a moustache like a question mark, who believed everything he read, to the great sorrow of the newspapers.
 
 "What did it say?"
 
@@ -3820,13 +3851,9 @@ Kerem Arslan was forty-four, a grocer, thin and gloomy, with a moustache like a 
 
 "I have seen it from the *bus,*" said Kerem, wounded.
 
-Sema ladled out two plates of *menemen,* the creamy eggs and tomatoes of the Turkish breakfast, and slid them across the counter in opposite directions, toward two tables, one red and one blue, where two groups of men were drinking tea with their backs to one another, in the cold dignity of ancient enemies. At the red table sat the crew of the *Hızır,* and at their head the old engineer, Kerem Aydın, seventy-three, retired in name and never in fact, who had kept the Yılmaz boats running for half a century and who had raised the captain's son with a spanner in one hand and a string of prayer beads in the other. At the blue table sat the crew of the *Nilüfer,* and at their head a short, sunburnt man with a pair of headphones round his neck: Mehmet Şahin, sixty-three, radio-man of the Kaya Line, the uncle who had raised Elif after her father's death, and who ran the fleet from a small glass room full of crackling dials, trusting, as a man must who spends his life listening, almost everything he was told.
+Sema ladled out two plates of *menemen,* the creamy eggs and tomatoes of the Turkish breakfast, and slid them across the counter in opposite directions, toward two tables, one red and one blue, where two groups of men were drinking tea with their backs to one another, in the cold manner of ancient enemies. At the red table sat the crew of the *Hızır,* and at their head the old engineer, Kerem Aydın, seventy-three, retired in name and never in fact, who had kept the Yılmaz boats running for half a century and who had raised the captain's son with a spanner in one hand and a string of prayer beads in the other. At the blue table sat the crew of the *Nilüfer,* and at their head a short, sunburnt man with a pair of headphones round his neck: Mehmet Şahin, sixty-three, radio-man of the Kaya Line, the uncle who had raised Elif after her father's death, and who ran the fleet from a small glass room full of crackling dials, trusting, as a man must who spends his life listening, almost everything he was told.
 
-"I will tell you the whole matter," said Sema to her tea-glasses, in an under-voice that carried the width of the room. "They quarrel because they are the same. Both want the crossing. Both want the other to go under. And neither can sail without the other, because a man with no one to be angry at will go quite *mad.* It is a great cruelty that God made the sea a *single sea,* and that the fools have given it so many names."
-
-"It has three," said Kerem. "The Bosphorus, the Strait, and *Boğaz.*"
-
-"It has *one.* The rest is labels."
+"I will tell you the whole matter," said Sema to her tea-glasses, in an under-voice that carried the width of the room. "They quarrel because they are the same. Both want the crossing. Both want the other to go under. And neither can sail without the other, because a man with no one to be angry at will go quite *mad.* God made the sea a *single sea,* and the fools have given it names. It has *one.* The rest is labels."
 
 *Mark this, reader. She was talking about eggs. She was, as the wise often are when they think themselves at a stove, entirely correct.*
 
@@ -3836,7 +3863,7 @@ At the red table, a voice rose.
 
 ---
 
-He had come in at the door. He was fifty-eight, a tall, magnificent, scowling man with a white moustache and a captain's cap and a voice that had been trained over thirty years to carry across a gale. He stood at the end of the red table, in the doorway, like a statue of the sea, and spoke to the room.
+He had come in at the door. He was fifty-eight, a tall, magnificent, scowling man with a white moustache, a captain's cap, and a voice trained over thirty years to carry across a gale. He stood in the doorway like a statue of the sea, and spoke to the room.
 
 "The Council will award the crossing to the family that has run it longest. That is *us.* And I tell you, on the head of the Prophet, that I will see the Kaya flag lowered on that mast if I have to haul it down myself."
 
@@ -3858,7 +3885,7 @@ Then, to the astonishment of the pier, Captain Yılmaz sat; and Mehmet Şahin sa
 
 "It is not the day *yet,*" said Kerem.
 
-*At the red table, between two mouthfuls, the old engineer Kerem Aydın met the eyes of the captain's son, who had said nothing throughout, and who sat with his fork motionless in the eggs and his gaze fixed on a point across the room where, for an instant, a pair of dark eyes in a blue cap had appeared in the café's open door, and as quickly gone.*
+*At the red table the captain's son, who had said nothing throughout, sat with his fork motionless in the eggs and his gaze fixed on the café's open door, where for an instant a pair of dark eyes in a blue cap had appeared, and as quickly gone. The old engineer, Kerem Aydın, saw it, and said nothing either.*
 
 ---
 
@@ -3867,11 +3894,11 @@ Then, to the astonishment of the pier, Captain Yılmaz sat; and Mehmet Şahin sa
 
 They did not speak. They had never spoken.
 
-They stood on the two piers, the Yılmaz and the Kaya, twenty paces apart, in the failing light, with the water between them and a white gull sitting on the rail, and she was in her cap and he was in his jersey, and in the lap of the tide, with the passing of the last ferry, was a long, soft, speaking silence.
+They stood on the two piers, the Yılmaz and the Kaya, twenty paces apart, in the failing light, with the water between them and a white gull sitting on the rail, and she was in her cap and he was in his jersey, and in the lap of the tide, with the passing of the last ferry, was a long, soft silence.
 
-It had been six months, and one hundred and seventy-three poems carried across by a boy in a basket, with four books outstanding. It had been, in return, a whistle, to which she had never replied, because there is no reply to a whistle that does not itself contain a promise.
+It had been six months, and one hundred and seventy-three poems carried across by a boy in a basket, with four books outstanding. It had been, in return, a whistle, to which she had never replied, because there is no reply to a whistle that does not contain a promise.
 
-And at last, that evening, the boy had come back with the paper bag, and on the inside of it, in a large, square, careful, unaccustomed hand, a line.
+At last, that evening, the boy had come back with the paper bag, and on the inside of it, in a large, square, unaccustomed hand, a line.
 
 It said: *I cannot write as you do. I can only say that I hear it. — A.*
 
@@ -3879,17 +3906,17 @@ She read it twice. Then she went down onto the pier in the failing light, in the
 
 He was there.
 
-He stood at the end of the Yılmaz landing, twenty paces off, with his hands at his sides, very large and very still, and she could not see his face. He lifted one hand. He did not wave. He only held it out, palm open, to the water.
+He stood at the end of the Yılmaz landing, twenty paces off, very large and very still, and she could not see his face. He lifted one hand. He did not wave. He only held it out, palm open, to the water.
 
 She lifted hers.
 
-Between them the Bosphorus slid by, black and silver and indifferent, with the lights of Europe coming on along the farther shore like a thousand small intentions. Behind her, in the glass room at the end of the pier, her uncle sat at his radio, listening to the wrong stations. Behind Ahmed, up the other hill, his father was cleaning a cap he meant to wear to the Council on the day the Kaya flag went down.
+Between them the Bosphorus slid by, black and silver and indifferent, with the lights of Europe coming on along the farther shore like a thousand small intentions. Behind her, in the glass room at the end of the pier, her uncle listened to the wrong stations. Behind Ahmed, up the hill, his father was cleaning a cap he meant to wear to the Council on the day the Kaya flag went down.
 
 *There are two oaths in this scene, reader, and neither is the one you think. One is the oath of the fathers. The other has not yet been sworn.*
 
 He began, very softly, to whistle.
 
-She stood at the edge of the pier with her hand still lifted and the tune coming over the water to her in the dusk, thin and sweet and brave, like a thread drawn through a needle; and Elif Kaya, who had a poem for everything, who had a couplet for the sea and a refrain for the night, found that she had no words at all.
+She stood at the edge of the pier with her hand still lifted and the tune coming over the water in the dusk, thin and sweet and brave, like a thread drawn through a needle; and Elif Kaya, who had a poem for everything, who had a couplet for the sea and a refrain for the night, found that she had no words at all.
 
 She put her hand to her mouth.
 
@@ -3898,9 +3925,9 @@ And from the pier behind her, from a flat basket, a boy's voice, low and pleased
 ---
 
 ### SCENE IV
-*Accra, Ghana. Osu, on Oxford Street. The same evening, which is, at that longitude, the same hour. The air is the gold of the harmattan: that dry, dust-laden wind that comes down from the Sahara every December and turns the sunsets to copper.*
+*Accra, Ghana. Osu, on Oxford Street. The same day. Accra keeps its clocks three hours behind Istanbul's, so the dusk comes here later, and the air is the gold of the harmattan: that dry, dust-laden wind that comes down from the Sahara every December and turns the sunsets to copper.*
 
-On a certain street in Accra, in the wake of the great, bright, honking river of the evening traffic, there stood two shops.
+On a certain street in Accra, beside the great, bright, honking river of the evening traffic, there stood two shops.
 
 One was a pharmacy, in whose window a very bright green cross shone through the dust; the other was a taxi depot, with a hand-lettered sign over the door, reading *MENSAH CABS — YOU CALL, WE ARRIVE (EVENTUALLY).* Between them there lay twelve metres of pavement, a gutter, and, in the hearts of the people on either side, an ocean.
 
@@ -3910,7 +3937,7 @@ On the night of the ninth of December the pharmacy was dressed in garlands, and 
 
 "*Ei!* The woman has done it," said an old driver, leaning on the bonnet of a yellow cab across the road with a bottle of malt in his hand. "She has won the prize. Who is surprised? *Quaye* is not surprised."
 
-Quaye was seventy, the oldest driver in the fleet, a small, bright, bandy-legged man in a flat cap and a faded football shirt, with a gold tooth and a commentary on everything. He kept court on the bonnet of his taxi each evening like a parliament of one, and had been known to announce the weather, the football scores, and the secret feelings of his employer in the same breath. Around him, as ever, the drivers had formed a loose half-circle, like a Greek chorus in a state of great leisure.
+Quaye was seventy, the oldest driver in the fleet, a small, bandy-legged man in a flat cap and a faded football shirt, with a gold tooth and a commentary on everything. He kept court on the bonnet of his taxi each evening like a parliament of one, and announced the weather, the football scores, and the secret feelings of his employer in the same breath. Around him the drivers had formed a half-circle, a Greek chorus at leisure.
 
 "She worked for it," said one.
 
@@ -3920,13 +3947,13 @@ There was a silence.
 
 "Who paid it?" said a young driver, who was new.
 
-"Someone who lives twelve metres to the east and is *very* bad at hiding," said Quaye. "If a man does a kindness, and then goes and sits at the back of every ceremony with a face like a church door, in my profession we call him a man with a problem. It is called *pride.* It is the worst passenger there is. It sits in the front, and it has no fare."
+"Someone who lives twelve metres to the east and is *very* bad at hiding," said Quaye. "If a man does a kindness, and then goes and sits at the back of every ceremony with a face like a church door, in my profession we call him a man with a problem. It is called *pride.* It is the worst passenger there is."
 
 *Behind him, across twelve metres of dusty pavement, in the lit doorway of the Owusu Pharmacy, a young woman in a kente stole was standing with her award in her hands.*
 
 ---
 
-Abena Owusu was twenty-eight, a pharmacist, with a sharp tongue and a straight back and a grave, watchful face, and she was holding a glass trophy in the shape of a mortar and pestle as though it were a very hot dish. Beside her stood her friend Adwoa Tetteh, forty-four, the kiosk-owner from the next street, a tall, restless woman who never forgot an insult and had been enumerating them, at length, to the guests.
+Abena Owusu was twenty-eight, a pharmacist, with a sharp tongue and a straight back and a grave, watchful face, and she was holding a glass trophy in the shape of a mortar and pestle as though it were a very hot dish. Beside her stood her friend Adwoa Tetteh, forty-four, the kiosk-owner from the next street, a tall, restless woman who never forgot an insult and had been listing them, at length, to the guests.
 
 "You must say a word," said Adwoa. "The Minister is coming."
 
@@ -3934,11 +3961,11 @@ Abena Owusu was twenty-eight, a pharmacist, with a sharp tongue and a straight b
 
 "You make *prescriptions.* It is the same. You tell people what they need and they do not like it."
 
-Abena laughed in spite of herself. And then, as the guests began to gather on the pavement in the dust-gold light, and a choir of twenty began to sing in the lively, rolling, many-voiced harmonies of the Ghanaian Methodist hymn, led by Nii Tetteh, forty-three, choir-master, devout, and a man who told lies for amusement and never in church, she turned to look across the road.
+Abena laughed in spite of herself. Then, as the guests began to gather on the pavement in the dust-gold light, and a choir of twenty began to sing in the lively, rolling, many-voiced harmonies of the Ghanaian Methodist hymn, led by Nii Tetteh, forty-three, choir-master, who told lies for amusement and never in church, she turned to look across the road.
 
 He was there.
 
-He was standing, as he always stood, at the back, by the door of his own depot, a tall, broad, quiet man of thirty-one in a plain white shirt, with his hands behind him and a face that had been carved from a very hard wood and then left out in the rain. Kwame Mensah. Taxi-fleet owner. A man who would lend money to a stranger at a lamp-post and then give a lecture on his reasons, and who could not, to save his life, pay a woman a compliment.
+He was standing, as he always stood, at the back, by the door of his own depot, a tall, broad, quiet man of thirty-one in a plain white shirt, with his hands behind him and a face that had been carved from a very hard wood and then left out in the rain. Kwame Mensah. Taxi-fleet owner. He would lend money to a stranger at a lamp-post and then lecture him on his reasons, and could not, to save his life, pay a woman a compliment.
 
 He caught her eye.
 
@@ -3960,11 +3987,11 @@ A ripple went through the crowd. On the bonnet of the taxi, Quaye took off his c
 
 There was a silence.
 
-Then the choir, which had no idea what had just occurred, and was led by a man who told lies for amusement, struck up a very loud and cheerful hymn, and the whole street began to clap; and Abena Owusu went in, with her glass mortar, and set it on a shelf between the aspirin and the ointments, and put her hand over her face.
+Then the choir, which had no idea what had just occurred, struck up a very loud and cheerful hymn, and the whole street began to clap; and Abena Owusu went in, with her glass mortar, and set it on a shelf between the aspirin and the ointments, and put her hand over her face.
 
 At the back of the depot, Kwame Mensah did not move.
 
-"*Oga,*" said Quaye, quietly, from his bonnet, "I have been your driver for nineteen years, and I have never asked you for anything but the day off for funerals. I am asking now. Go and say *something.* A man does not have to say the whole of a thing. He only has to say the first word. The road is very long, but it starts at the gate."
+"Boss," said Quaye, quietly, from his bonnet, "I have been your driver for nineteen years, and I have never asked you for anything but the day off for funerals. I am asking now. Go and say *something.* A man does not have to say the whole of a thing. He only has to say the first word. The road is very long, but it starts at the gate."
 
 Kwame looked across twelve metres of dusty street, at a lit doorway where a woman in kente had set down her prize and was straightening a row of tablets that did not need straightening.
 
@@ -4002,9 +4029,9 @@ He stopped.
 
 *Enter the Chorus, with a pocket watch in each hand and a third in his hat.*
 
-> At midnight, Dhaka; Jaipur, late
-> By half an hour; Bergen, early yet,
-> Where dusk is dinner; and, a step ahead,
+> At midnight, Dhaka; Jaipur, half an hour
+> Behind; and Bergen, five hours back, and yet
+> At dusk and dinner; and, a step ahead,
 > Yogyakarta, one o'clock, and set
 > To sleep, and not asleep. Observe, good friends:
 > The world keeps seven clocks and one true hour,
@@ -4020,7 +4047,7 @@ He stopped.
 
 There are two ways to be an heiress. The first is to inherit. The second is to be *told* you will inherit, at every wedding, by every aunt, until the word becomes a coat sewn so exactly to your shoulders that you cannot lift your arms. Priya Sharma, twenty-seven, had worn the second kind since she was nine.
 
-"Beta," said her father, Mahendra Sharma, who sat at the head of the table with the patience of a man who had lost an argument to his daughter in 1998 and had been preparing his revenge ever since. "We are a house that *sells* cloth. We have sold cloth to three maharajas and one Hollywood film. We do not make poems."
+"Beta," said her father, Mahendra Sharma, who sat at the head of the table with the patience of a man who had lost an argument to his daughter in 1998 and had been preparing his revenge since. "We are a house that *sells* cloth. We have sold cloth to three maharajas and one Hollywood film. We do not make poems."
 
 "It is not a poem, Papa. It is a collection."
 
@@ -4030,7 +4057,7 @@ There are two ways to be an heiress. The first is to inherit. The second is to b
 
 Nine uncles looked at nine cups of tea.
 
-She unrolled the cloth. It ran down the length of the table like a river that had been told a secret: dabu, the old mud-resist print of Bagru, dipped and dipped again in indigo until the blue went down into black, and across that black, in gaps where the clay had held back the dye, there were small shapes the colour of milk. They were not flowers, as every uncle in the room expected. They were the little arched windows of old Jaipur, and above each window, where a roof should have been, the cloth was left open: bare, pale, and utterly without a lid.
+She unrolled the cloth. It ran down the length of the table like a river that had been told a secret: dabu, the old mud-resist print of Bagru, dipped and dipped again in indigo until the blue went down into black, and across that black, in gaps where the clay had held back the dye, there were small shapes the colour of milk. They were not flowers, as every uncle in the room expected. They were the little arched windows of old Jaipur, and above each window, where a roof should have been, the cloth was left open: bare, pale, without a lid.
 
 "Sky," said Priya, and her voice shook only once. "I want to print the houses of this city as they are when the roof has gone and the sky has moved in. People do not want another peacock, Papa. They want to be told that a thing may fall and still be beautiful."
 
@@ -4038,7 +4065,7 @@ She unrolled the cloth. It ran down the length of the table like a river that ha
 
 "A man with no roof."
 
-At that precise moment, with a sense of timing that no stage-manager could have invented and no stage-manager would have dared, the door of the boardroom was thrown open, and into it swept a figure in a saffron safa, a waistcoat embroidered with peacocks (which Priya's uncles regarded as a personal insult), and a moustache that had been oiled, curled, and, one suspected, individually named.
+At that precise moment, with a sense of timing that no stage-manager could have invented and no stage-manager would have dared, the door of the boardroom was thrown open, and into it swept a figure in a saffron safa, a waistcoat embroidered with peacocks (which Priya's uncles regarded as a personal insult), and a moustache oiled, curled, and, one suspected, individually named.
 
 "*Namaste, esteemed gentlemen!*" cried Vikram Rathore, thirty, heritage guide, and the sole surviving heir of a house in the Chandpole bazaar whose roof had been carried off by the monsoon of 1998 and never replaced. "I am *late*. This is a deliberate strategy. A man who is early is a clerk; a man who is late is an *arrival*."
 
@@ -4048,13 +4075,13 @@ At that precise moment, with a sense of timing that no stage-manager could have 
 
 "Her *humble witness*," said Vikram, bowing so low that his moustache brushed the tea tray.
 
-He had met her five weeks before. She had come to the old city with a camera and a ruinous idea: that somewhere behind some stone gate where the paint had given up, the printing-houses of her great-grandmother's time still kept their wooden blocks, forgotten, unsold. The guild had sent a man in a peacock waistcoat who announced, in the first minute, that he had once been mistaken for a maharaja by a Dutch tourist and had not corrected her.
+He had met her five weeks before. She had come to the old city with a camera and a ruinous idea: that somewhere behind some stone gate where the paint had given up, the printing-houses of her great-grandmother's time still kept their wooden blocks, forgotten, unsold. The guild had sent a man in a peacock waistcoat who announced, in the first minute, that a Dutch tourist had once mistaken him for a maharaja and that he had not corrected her.
 
-He had led her, in the end, to his own front door: a tall carved door in a lane that smelled of marigold and diesel, and behind it a courtyard with a neem tree, a broken swing, a staircase that ascended to nothing, and, in a cathedral of light that fell straight down through the place where the roof had been, three hundred blocks of seasoned teak, stacked like the pages of a closed book.
+He had led her, in the end, to his own front door: a tall carved door in a lane that smelled of marigold and diesel, and behind it a courtyard with a neem tree, a broken swing, a staircase that ascended to nothing, and, in a shaft of light that fell straight down through the place where the roof had been, three hundred blocks of seasoned teak, stacked like the pages of a closed book.
 
-"My great-grandfather's," Vikram had said, and for the first time in her hearing he did not perform. "The family printed for the court. Then the court was gone, and the printing was gone, and then the roof. I give tours of it on Thursdays. I call it *The House That Chose the Sky.* Tourists weep." He had shrugged, a small, unlovely shrug with no peacock in it. "Mostly the Dutch."
+"My great-grandfather's," Vikram had said, and for the first time in her hearing he did not perform. "The family printed for the court. Then the court was gone, and the printing was gone, and then the roof. I give tours on Thursdays. I call it *The House That Chose the Sky.* Tourists weep." He had shrugged, a small shrug with no peacock in it. "Mostly the Dutch."
 
-She had stood in the column of daylight, with dust turning in it like slow gold, and she had thought: *There it is. There is the whole collection. A thing that lost its lid and let in the stars.*
+She had stood in the column of daylight, with dust turning in it like slow gold, and thought: *There is the whole collection. A thing that lost its lid and let in the stars.*
 
 It is a dangerous thing, reader, to be shown a ruin by a vain man who is, for one minute, not vain. Engagements are made of less.
 
@@ -4062,9 +4089,9 @@ Back in the boardroom, the humble witness cleared his throat.
 
 "Gentlemen," said Vikram, in the voice of a man who had once read the Ramayana at a wedding and been asked to stop. "A house without a roof is still a house, if the sky consents to be its ceiling. Your daughter—" a dreadful pause "—your daughter has seen what nine gentlemen with nine calculators have not. People do not buy cloth. They buy the *reason* the cloth was made. Give her fifty pieces. If they do not sell, I will personally eat my safa."
 
-"I would do it *slowly*, with chutney, and in public."
+"I would do it *slowly,*" he added, "with chutney, and in public."
 
-It was the first time the Sharma boardroom had laughed since the Gulf War. In the corridor, a writer named Pooja Tiwari, twenty-seven, who had come for the gossip and stayed for the odds, passed a folded note to the clerk who kept the tea ledger: *Ten rupees says Papa Sharma says yes. Twenty says the guide proposes by Diwali.*
+It was the first time the Sharma boardroom had laughed since the Gulf War.  In the corridor, a writer named Pooja Tiwari, twenty-seven, who had come for the gossip and stayed for the odds, passed a folded note to the clerk who kept the tea ledger: *Ten rupees says Papa Sharma says yes. Twenty says the guide proposes by Diwali.*
 
 Papa Sharma said: "Fifty pieces. Not fifty-one."
 
@@ -4075,13 +4102,13 @@ And Priya Sharma, who had held her breath since the age of nine, let it out quie
 ---
 
 ### SCENE II
-*Bergen. The sea off Askøy, 3:40 in the afternoon, which in a Norwegian December is the evening. A wooden boat, a gale, and a woman with a clipboard.*
+*Bergen. The sea off Askøy, 3:40 on a Tuesday afternoon, which in a Norwegian December is the evening. A wooden boat, a gale, and a woman with a clipboard.*
 
 If Jaipur's trouble was a roof that had gone, Bergen's was a hull that was going.
 
 The boat was the *Ragnhild,* eleven metres of tarred oak and old paint, and Lars Eriksen, who was thirty and as talkative as a granite step, called her *her* when she behaved and *it* when she did not. She was held together, as the old men of the Fisketorget liked to say, by habit and the Lord's low opinion of insurance.
 
-The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, who chartered the *Ragnhild* every Tuesday for a cod-tagging study, because her owner would take her to the deep water at six in the morning without asking why. She had not stopped moving since she came aboard. She tapped. She measured. She sighed at the water temperature, and at the plankton count, and, with some warmth, at a cormorant.
+The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, who chartered the *Ragnhild* every Tuesday for a cod-tagging study, because her owner would take her to the deep water without asking why. She had not stopped moving since she came aboard. She tapped. She measured. She sighed at the water temperature, at the plankton count, and, with some warmth, at a cormorant.
 
 "The fresh water is coming off the mountain too fast," said Sigrid. "It means the whole top layer is—Lars, are you listening?"
 
@@ -4091,7 +4118,7 @@ The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, w
 
 "It is," said Lars, "in Norwegian."
 
-"It is not a language. It is a *noise*."
+"It is not a language. It is a *noise.*"
 
 "It carries more than most." He did not look up from the engine hatch, where a spanner and a very small prayer were doing their best. "Sigrid. How long does the sample take?"
 
@@ -4099,7 +4126,7 @@ The woman with the clipboard was Sigrid Haugen, twenty-nine, marine biologist, w
 
 "We do not have forty minutes."
 
-He did not say it loudly. Lars Eriksen did not say anything loudly; he said things the way a fjord says them, by being already full. But she heard the thing under it, and she looked up at last, past the clipboard, past the grey-green slope of the water, and saw what he had been watching for an hour with the stoic's dreadful patience: the western sky going the colour of a bruise, and a line of white, low and quick and moving, coming toward them over the sound.
+He did not say it loudly. Lars Eriksen did not say anything loudly; he said things the way a fjord says them, by being already full. But she heard the thing under it, and she looked up at last, past the clipboard, and saw what he had been watching for an hour with a stoic's dreadful patience: the western sky going the colour of a bruise, and a line of white, low and quick, coming toward them over the sound.
 
 "Oh," said Sigrid.
 
@@ -4109,7 +4136,7 @@ He did not say it loudly. Lars Eriksen did not say anything loudly; he said thin
 
 "Ten minutes. Perhaps eight."
 
-The first wave struck her quarter like a hand slapping a table. There was a sound below the deck: not a crash but a long, wet *sigh*, as of an elderly person sitting down. Lars was in the hold before the spray had settled. He came up the colour of porridge.
+The first wave struck her quarter like a hand slapping a table. Below the deck came not a crash but a long, wet *sigh,* as of an elderly person sitting down. Lars was in the hold before the spray had settled. He came up the colour of porridge.
 
 "A plank's sprung. By the keel."
 
@@ -4119,7 +4146,7 @@ The first wave struck her quarter like a hand slapping a table. There was a soun
 
 "I have never steered!"
 
-"Then it will be your first. Both hands, there. Bow to the lighthouse. Do not look at the water; it will only upset you." He pulled the bilge handle, which squealed like a pig at a christening, and then, when that failed, took up a bucket, because in the end every seaman is a man with a bucket and a great deal of faith. "If the engine dies—"
+"Then it will be your first. Both hands, there. Bow to the lighthouse. Do not look at the water; it will only upset you." He pulled the bilge handle, which squealed like a pig at a christening, and when that failed he took up a bucket, because in the end every seaman is a man with a bucket and a great deal of faith. "If the engine dies—"
 
 "What happens if the engine dies?"
 
@@ -4127,9 +4154,9 @@ The first wave struck her quarter like a hand slapping a table. There was a soun
 
 ---
 
-They did not die. But for forty minutes it was neither comedy nor anything else; it was cold water, and wet wool, and the red lamp at Marstein, and a bucket going out and coming in, out and in, in the hands of a man who did not once ask for help and a woman who did not once let go of the wheel.
+They did not die. But for forty minutes it was neither comedy nor anything else: cold water, wet wool, the red lamp at Marstein, and a bucket going out and coming in, in the hands of a man who did not once ask for help and a woman who did not once let go of the wheel.
 
-At the end of it, at ten minutes to five, in the black, with the harbour lights of Vågen swimming up out of the rain like a festival, the engine coughed, and the old boat limped into the fish market quay and sat down in the water with the weary dignity of a horse that has finished its last race.
+At the end of it, at ten minutes to five, in the black, with the harbour lights of Vågen swimming up out of the rain, the engine coughed, and the old boat limped into the fish market quay and sat down in the water like a horse that has finished its last race.
 
 Lars cut the motor. In the silence the water ran out of the scuppers and clacked against the stones.
 
@@ -4139,7 +4166,7 @@ Lars cut the motor. In the silence the water ran out of the scuppers and clacked
 
 "You hired a boat. I knew what the boat was."
 
-"I—" Sigrid let go of the wheel and found that her hands would not at first unclench. "I came out today because I thought that if I counted every plankton in this fjord, I would not have to think about what happens when I have counted them all. And you let me. For a month, you let me. You said *mm*."
+"I—" Sigrid let go of the wheel and found that her hands would not at first unclench. "I came out today because I thought that if I counted every plankton in this fjord, I would not have to think about what happens when I have counted them all. And you let me. You said *mm.*"
 
 "It was the right thing to say."
 
@@ -4147,15 +4174,15 @@ Lars cut the motor. In the silence the water ran out of the scuppers and clacked
 
 "Sometimes," said Lars Eriksen, to the harbour, to the rain, to the lamp at Marstein, to the whole unlit shore of everything he could not say, "it is the only thing the boat will carry."
 
-There was a movement on the quay. It was a woman in a yellow slicker, with a stall of bright umbrellas lashed in tarpaulin under a lamp, who had been selling them to the ferry queue since morning with, so far, one customer.
+There was a movement on the quay. It was a woman in a yellow slicker, with a stall of umbrellas lashed in tarpaulin under a lamp, who had been selling them to the ferry queue since morning to, so far, one customer.
 
 "Ha!" said Solveig Dahl, thirty-six, formerly of Ålesund and lately, by her own account, a refugee from a city where it sometimes stopped raining. "You are wet! The sea has done my selling for me. Four hundred kroner."
 
 "For an umbrella?"
 
-"For the *idea.* One does not buy shelter. One buys the pretence of it." She regarded Lars, and the bucket, and the boat's low and sorry waterline, and Sigrid's hands. "The boat will sink next week," she said, quite kindly, "and you will both pretend not to mind. I do not charge for the truth. Only for the umbrellas."
+"For the *idea.* One does not buy shelter. One buys the pretence of it." She regarded Lars, and the bucket, and the boat's sorry waterline. "The boat will sink next week," she said, quite kindly, "and you will both pretend not to mind. I do not charge for the truth. Only for the umbrellas."
 
-Neither of them bought one (Sigrid owned a plum-coloured one already). She walked to the end of the quay and was sick, over the rail, with great discretion; and when she turned back, Lars was standing with his bucket, looking at the boat as at a friend who has been faithful for a very long time and does not deserve to be put down.
+Neither of them bought one (Sigrid owned a plum-coloured one already). She walked to the end of the quay and was sick, over the rail, with great discretion; and when she turned back, Lars stood with his bucket, looking at the boat as at a friend who has been faithful a very long time and does not deserve to be put down.
 
 *I am afraid,* thought Sigrid, *that I will not come back.*
 
@@ -4180,7 +4207,7 @@ They stood twelve feet apart in the rain, each with a whole unwritten letter in 
 
 "At eleven at night. On a *Friday.* The client has a first name, Bhaiya, and it has a *flower* in it." (Bunny saw everything, forgave nothing, and billed for neither.)
 
-Fayaz Rahman, twenty-six, whose company had died in the spring and whose debts had not, put the phone face down on the counter, like a man laying down a card he did not wish to explain.
+Fayaz Rahman, twenty-six, whose company had died in the spring and whose debts had not, put the phone face down on the counter, like a card he did not wish to explain.
 
 "She is a designer," he said. "From Yogyakarta. We have exchanged, I think, nine messages. Her website does not load properly. I am helping."
 
@@ -4202,7 +4229,7 @@ Bunny closed his eyes in physical pain. "Bhaiya. A man who answers in four minut
 
 "I have *observed* it." He wiped the counter with a rag the colour of old weather. "And you have a face like a closed shop. Open it a little. Otherwise she will think there is nobody home."
 
-Fayaz paid for the tea, and for two biscuits he did not want, and climbed the three flights to the flat, where his mother's breathing came faintly through the wall, in and out, like a long thread being drawn over a small rough stone; and where, on the balcony in the dark, his father sat on a plastic chair with a green ledger on his knee and a pencil he did not use.
+Fayaz paid for the tea, and for two biscuits he did not want, and climbed the three flights to the flat, where his mother's breathing came faintly through the wall, in and out, like a thread drawn over a small rough stone; and where, on the balcony in the dark, his father sat on a plastic chair with a green ledger on his knee and a pencil he did not use.
 
 "Abbu," said Fayaz softly. "You should sleep."
 
@@ -4214,7 +4241,7 @@ Fayaz paid for the tea, and for two biscuits he did not want, and climbed the th
 
 "It is not so much, Abbu."
 
-"No." The pencil moved a little in the old man's hand, and made no mark. "Go on. Go to your work. You have a client."
+"No." The pencil moved a little in the old man's hand, and made no mark. "Go on. You have a client."
 
 ---
 
@@ -4236,7 +4263,7 @@ He waited four minutes. He had never in his life waited four minutes so badly.
 
 > **Fayaz:** *Because you have not told me, and I would like to deserve being told.*
 
-There was a pause, long enough for a dog to bark twice in the lane below and for the power to flicker and, mercifully, hold.
+There was a pause, long enough for a dog to bark twice in the lane and for the power to flicker and, mercifully, hold.
 
 > **Ermis:** *That is the most irritating nice thing anyone has said to me this year.*
 
@@ -4250,7 +4277,7 @@ There was a pause, long enough for a dog to bark twice in the lane below and for
 
 > **Ermis:** *No. You have said "the file is in the wrong format." Which is the same thing, but more helpful.*
 
-It took him eleven minutes. The problem was a single photograph of an indigo vat at dawn, saved as a file the size of a small country, hidden among thirty others like a bear in a sheep-pen. He compressed it, and wrote a four-line script to resize the rest; and in the intervals, through a voice note she had left running by mistake, he heard all the sounds of a night he could not see: a stove, a tap, a pencil, and a distant, bad-tempered voice shrieking *"TOO LATE!"*
+It took him eleven minutes. The problem was a single photograph of an indigo vat at dawn, saved as a file the size of a small country, hidden among thirty others like a bear in a sheep-pen. He compressed it, and wrote a four-line script to resize the rest; and through a voice note she had left running by mistake he heard the sounds of a night he could not see: a stove, a tap, a pencil, and a distant, bad-tempered voice shrieking *"TOO LATE!"*
 
 > **Ermis:** *That is Ayu. My grandmother's parrot. She has three sentences and has never used them correctly.*
 
@@ -4264,13 +4291,9 @@ He looked at that for a little. He did not remark upon it. A man with fourteen l
 
 > **Fayaz:** *There is always a net. It is simply very far down, with a clock that is seven minutes slow.*
 
-> **Ermis:** *How do you know about the clock?*
+> **Ermis:** *How do you know about the clock? Oh. You told me in your second message. I keep your messages the way other people keep receipts.*
 
-> **Fayaz:** *I did not say that. Did I?*
-
-> **Ermis:** *You told me in your second message. You said you had never fixed it, on principle. I keep your messages the way other people keep receipts.*
-
-He laughed aloud, alone, in the dark, for the first time that week. Through the wall his mother stirred and settled. He lowered his voice, as if the words themselves might wake her.
+He laughed aloud, alone, in the dark, for the first time that week. Through the wall his mother stirred and settled.
 
 > **Fayaz:** *What time is it there?*
 
@@ -4286,13 +4309,14 @@ He laughed aloud, alone, in the dark, for the first time that week. Through the 
 
 > **Fayaz:** *Then what are you?*
 
-There were three dots. They pulsed and sank. They pulsed again. In a workshop that smelled of hot wax, a girl with a pencil in her hair looked at the ceiling beams, and at the cold blue water, and at a green bird that had gone, for once, to sleep; and then she typed the line that she would, in the spring, repeat in a different voice, to a screen going dark.
+There were three dots. They pulsed and sank. They pulsed again. In a workshop that smelled of hot wax, a girl with a pencil in her hair looked at the ceiling beams, at the cold blue water, at a green bird that had gone, for once, to sleep; and then she typed the line she would one day repeat in a different voice, to a screen going dark.
 
 > **Ermis:** *I am in your future.*
 
 > **Ermis:** *Ask me anything about tomorrow. I have seen it. It is only an hour away.*
 
-Fayaz sat quite still. In the lane below, a rickshaw bell rang and was swallowed. 
+Fayaz sat quite still.
+
 > **Fayaz:** *Will the electricity come back?*
 
 > **Ermis:** *I can only tell you that in the future, everyone has had dinner.*
@@ -4305,7 +4329,7 @@ Fayaz sat quite still. In the lane below, a rickshaw bell rang and was swallowed
 
 > **Ermis:** *It is only an hour old, Fayaz. I cannot say yet. Ask me again in an hour.*
 
-He did. He asked her an hour later, at 1:16 by his slow clock, which was truly 1:23 and therefore 2:23 in Yogyakarta, while the first rooster went up from some courtyard in the sleeping city and the first grey came into the window of a flat in Mirpur like water into a basin.
+He did. He asked her an hour later, at 1:16 by his slow clock, which was truly 1:23 and therefore 2:23 in Yogyakarta, while an early rooster, mistaking the hour, went up from some courtyard in the sleeping city.
 
 > **Fayaz:** *It is an hour later. What does tomorrow look like?*
 
@@ -4321,7 +4345,7 @@ He did. He asked her an hour later, at 1:16 by his slow clock, which was truly 1
 
 > **Ermis:** *Good night. Or good morning. Whichever of us is right.*
 
-She went offline, and the little green dot beside her name went grey. It was nearly three in the morning in her city and nearly two in his, and the neighbourhood roosters were beginning to quarrel. Fayaz Rahman closed the laptop, and sat, in the beginning of a day that was already a day old somewhere else, and discovered with some alarm that he was smiling at a wall. On the other side of it, his mother breathed, in and out, steady as a thread.
+She went offline, and the little green dot beside her name went grey. It was past two in the morning in her city and past one in his, and the neighbourhood roosters were beginning to quarrel. Fayaz Rahman closed the laptop, and sat, at the beginning of a day that was already a day old somewhere else, and discovered with some alarm that he was smiling at a wall. On the other side of it, his mother breathed, in and out, steady as a thread.
 
 *An hour,* he thought. *She is an hour ahead. Then whatever comes, she will see it first.*
 
@@ -4329,9 +4353,9 @@ It did not occur to him, until he was nearly asleep, that this might be a comfor
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., against Entries 0626, 0443 and 0713:*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0626, 0443 and 0713 (and, in a smaller hand, 0561):*
 
-> *Three clocks, three silences, and one bucket. A man who showed a stranger his own ruin; a man who said* mm *to the sea; a man asked, in the dark, to name tomorrow. The first two fell in love by the hour. The third by the minute, and he waited four.*
+> *Three clocks, three silences, and one bucket. A man who showed a stranger his own ruin, and a woman who unrolled hers on a table; a man who said* mm *to the sea; a man asked, in the dark, to name tomorrow. The first two began by the hour. The third began by the minute, and waited four.*
 >
 > *Nothing in the Register hurries. It is the clocks that do.*
 
@@ -4396,7 +4420,7 @@ The doorbell rang like a fire alarm.
 
 ---
 
-Niamh Quinn, forty-one, fishmonger, stood on the step in a coat the colour of a wet gull with a hake under one arm and a bottle of something under the other. She had the face of a woman who spends her life in the cold being gentle to dead things, which is to say, a face that had never in its whole career managed to hide a feeling.
+Niamh Quinn, forty-one, fishmonger, stood on the step in a coat the colour of a wet gull with a hake under one arm and a bottle of something under the other. She had the face of a woman who spends her life in the cold being gentle to dead things, and who had never in her whole career managed to hide a feeling.
 
 "It's Thursday," she said. "I know what Thursday is. Thursday is session, and you've a face on you like the last cow at the mart, and I thought: I'll bring her a fish."
 
@@ -4493,7 +4517,7 @@ But in the corner, near the door, where she had come in out of the rain with her
 
 ---
 
-On the low stage, which was a platform of three planks and a tablecloth, a thin man with a worse coat than any she had imagined was tuning a fiddle that he had played, by his own account, since the age of eight and fixed, by his own account, with nine different sorts of glue.
+On the low stage, which was a platform of three planks and a tablecloth, a thin man in a worse coat than any she had imagined was tuning a fiddle that he had played since the age of eight and mended, by his own account, with nine different sorts of glue.
 
 Liam O'Connor, thirty-two, pub musician, was ill.
 
@@ -4503,7 +4527,7 @@ It was visible to anyone with eyes. His face had the high, bright, dreadful colo
 
 "He's *thirty-nine degrees,*" said Niamh Quinn, from the corner, with the authority of a woman who has taken his temperature through a haddock. "It's different."
 
-Beside him sat Maeve Ryan, seventy-two, retired guard on the Galway–Athenry line, with a bodhrán across her knee and a ticket-punch on a string around her neck, which she clicked in time with the reels, because for forty years she had never known a rhythm that was not a timetable. It was Maeve who had taught him his first tunes, in a front room in Spiddal, smacking his knuckles with a ruler for sloppiness. She was a woman of few words and many coughs, and she watched him now with an expression that people took for sternness, and was in fact the face of a person counting something she did not wish to lose.
+Beside him sat Maeve Ryan, seventy-two, retired guard on the Galway–Athenry line, with a bodhrán across her knee and a ticket-punch on a string around her neck, which she clicked in time with the reels, because for forty years she had never known a rhythm that was not a timetable. It was Maeve who had taught him his first tunes, in a front room in Spiddal, smacking his knuckles with a ruler for sloppiness. She was a woman of few words and many coughs, and she watched him now with an expression that people took for sternness and that was in fact the face of a person counting something she did not wish to lose.
 
 Next to her, on a low stool, Sinéad Murphy, twenty-four, electrician, who had rewired the pub's lighting in October and could not be persuaded to stop looking at it, held a tin whistle in one hand and, in the other, a small screwdriver for emergencies.
 
@@ -4532,7 +4556,7 @@ He did not look at the door. He had known she was there since the first note of 
 > And I'd play on till the lamps were gone
 > For the one who never stays for one.*
 
-He was not a great singer. His voice was low and rough and slightly flat on the long notes, and in the third line of the third verse it nearly gave out, so that for half a bar there was only the fiddle, speaking on its own, and in the corner by the door a woman in a wet coat put her hand flat against the wall, as if the building had moved.
+He was not a great singer. His voice was low and rough and slightly flat on the long notes, and in the third line of the third verse it nearly gave out, so that for half a bar there was only the fiddle, speaking on its own, and in the corner by the door a woman in a wet coat put her hand flat against the wall to steady herself.
 
 He opened his eyes. He looked straight down the long smoky room, over eighty-four heads, over the turf-smoke and the faces and a dog, and found her.
 
@@ -4659,7 +4683,7 @@ He had read the resignation before Daniel had finished writing it.
 
 "Cannot, or have not got her name in a *cell*?"
 
-Daniel did not answer. Across the black river, past the ice floes turning slow in the lamplight and the lit bridges stitched across the water like seams, the city went on shining and not looking at him, as cities do. He had spent six years teaching nineteen-year-olds to read a screen in ninety seconds. He had spent the same six years failing, by a gap of exactly four steps, to walk into a shop in an alley off Jongno and say a sentence he had drafted one hundred and forty times.
+Daniel did not answer. Across the black river, past the ice floes turning slow in the lamplight and the lit bridges stitched across the water like seams, the city went on shining and not looking at him, as cities do. He had spent six years teaching nineteen-year-olds to read a screen in ninety seconds. He had spent the same years failing, by a gap of exactly four steps, to walk into a shop in an alley off Jongno and say a sentence he had drafted one hundred and forty times.
 
 "There is a tailor," he said at last.
 
@@ -4675,7 +4699,7 @@ Daniel did not answer. Across the black river, past the ice floes turning slow i
 
 "It is, apparently, *always imported.*"
 
-Joon-ho, who was not a man of unusual delicacy, said nothing for a long minute. A tram of wind went up the river bank, and the plastic sign above the shop door clapped like a thin applause.
+Joon-ho, who was not a man of unusual delicacy, said nothing for a long minute. A gust went up the river bank, and the plastic sign above the shop door clapped like a thin applause.
 
 "Hyung," he said, "you could say a better thing than *quiet life.*"
 
@@ -4692,7 +4716,7 @@ He sent the letter in the morning, at 9:02, a minute after the building opened. 
 ---
 
 ### SCENE II
-*Osaka. The Fukushima ward, under the railway arches, at ten minutes before midnight. A ramen shop with eight stools. Steam, trains, a paper lantern that has lost the argument with the weather.*
+*Osaka. The Tenma ward, behind the canal, under the railway arches, at ten minutes before midnight. A ramen shop with eight stools. Steam, trains, a paper lantern that has lost the argument with the weather.*
 
 There is a particular kind of Osaka night, in winter, when the trains go over the arches every four minutes and each one shakes a little salt out of the sky, and every shop beneath the tracks keeps its door half open so that you can smell the broth from the next street.
 
@@ -4718,15 +4742,15 @@ At the end of the counter, among her pickle-jars, an old woman in a quilted jack
 
 "A better world with its own timetable. I merely *note.*"
 
-Hiroshi, thirty-four, perfectionist, said very little and was said to say it in the order of importance. His hands were large, scarred, steady, with a burn along one thumb, and they moved across a clean board with the rhythm of a man who has found in repetition the only mercy of the world. Since the spring he had been saying one sentence a day. Last week a boy from Recife had put his counter on the internet, and the sentence had been *Eat.*
+Hiroshi, thirty-four, perfectionist, said very little and was said to say it in the order of importance. His hands were large, scarred, steady, with a burn along one thumb, and they moved across a clean board with the rhythm of one who has found in repetition the only mercy of the world. Since the spring he had been saying one sentence a day. Last week a retired chef from São Paulo had put his counter on the internet, and the sentence had been *Eat.*
 
 He did not look at the door. He had learned a long time ago that to look at a door is to ask it for something.
 
 The curtain moved.
 
-There are people who come into a room like a stone into a pond, and people who come in like a drop of ink, and there are people who come in like a held breath. The woman who stepped under the noren, in a grey coat the colour of an old photograph, with her face half-hidden in a scarf and her hand still on the edge of the cloth as though she had not decided whether to let go of it, was the third kind.
+There are people who come into a room like a stone into a pond, and people who come in like a drop of ink, and people who come in like a held breath. The woman who stepped under the noren, in a grey coat the colour of an old photograph, with her face half-hidden in a scarf and her hand still on the edge of the cloth as though she had not decided whether to let go of it, was the third kind.
 
-She was thirty-three. She had hair cut at the jaw, and tired eyes, and the straight, careful posture of a person who has spent eleven years looking closely at things and has lately been afraid of what she might see. For six years, on the same night every week, she had sat beside the steam pipe and eaten with her eyes closed and said almost nothing. Since March she had said nothing at all.
+She was thirty-three. She had hair cut at the jaw, and tired eyes, and the straight, careful posture of a person who has spent eleven years looking closely at things and has lately been afraid of what she might see. For two years, on the same night every week, she had sat beside the steam pipe and eaten with her eyes closed and said almost nothing. Since the new-moon night she had said nothing at all, because she had not come.
 
 "Welcome," said Hiroshi. It came out of him as a thing is said by a man who has said it fifty thousand times and has never meant it as he meant it now.
 
@@ -4738,7 +4762,7 @@ The woman stood in the doorway. She looked at the bowl, the white glaze, the fan
 
 "Mei-san," said Hiroshi.
 
-It was the first time he had said her name aloud since March. It broke a little in the middle, like a stick of kelp.
+It was the first time he had said her name aloud since the new-moon night. It broke a little in the middle, like a stick of kelp.
 
 "I was not sure you would remember."
 
@@ -4752,14 +4776,14 @@ Daichi Ito had stopped chewing. Rin Hayashi had risen halfway off his stool, a l
 
 Mei crossed the room. It was a short floor, four steps, and she took each of them as one crosses ice. She sat. The stool was warm; it had been warmed, she understood, on purpose. Her hands, bare and unsteady, came to the lip of the bowl and rested there, as if she were warming them at a fire. She lifted the spoon. She did not drink.
 
-"Hiroshi-san," she said. Her voice was very quiet. "Before I eat this, I must tell you the real reason I did not come back after the night I told you. It is not the one you think. It was not shame, and it was not that I—" Her eyes went to the broth, to the clear gold of it, and a thing crossed her face that was not quite shame, and not quite grief, but the look of a woman about to read out a verdict against herself. "It was that one morning in the spring, when I woke, and put a spoonful of miso soup into my mouth, I found that I could no longer—"
+"Hiroshi-san," she said. Her voice was very quiet. "Before I eat this, I must tell you the real reason I did not come back. It is not the one you think. It was not shame, and it was not that I—" Her eyes went to the broth, to the clear gold of it, and a thing crossed her face that was not quite shame, and not quite grief, but the look of a woman about to read out a verdict against herself. "It was that one morning in the spring, when I woke, and put a spoonful of miso soup into my mouth, I found that I could no longer—"
 
 *Here the page is torn.*
 
 ---
 
 ### SCENE III
-*Seoul. An alley off Jongno, between the bindaetteok stall and the stationer's. The shop of Han Ji-woo, on a Thursday, three weeks before the lunar new year. A bell on the door. A kettle on the ondol. The wild light of a winter afternoon.*
+*Seoul. An alley off Jongno, between the bindaetteok stall and the stationer's. The shop of Han Ji-woo, on a Thursday, nearly three weeks before the lunar new year. A bell on the door. A kettle on the ondol. The wild light of a winter afternoon.*
 
 The shop was so full of colour that it seemed less a room than an argument that silk had won. Along the walls hung jeogori jackets in jade and ember and plum, their ribbons unknotted like the fringe of some great beast; chima skirts in a hundred pinks; the white collars called *dongjeong* stacked in rows, sharp as new paper. In the back a sewing machine hummed like a bee in a bottle, and in the middle of everything, at a long cutting-table scored by thirty years of chalk, stood Ji-woo.
 
@@ -4779,7 +4803,7 @@ At the counter, in her third-best cardigan, sat a nine-year-old called Tae-yang,
 
 At the door, the bell gave its small bronze cough.
 
-"*Ji-woo-ya!*" cried a woman of fifty-eight in a gold quilted jacket, entering like weather. This was Yoon Ji-ah, goldsmith, who made the tiny knotted ornaments called *norigae* that hang from the ribbons, and who had never in her life been on time for anything, owing to the fact that she made every promise a little faster than she could keep it. "I have them! I have your *norigae!* I brought them myself. I said *tomorrow* on Tuesday and *tomorrow* on Wednesday, and I said *tomorrow* on Thursday, so it is a statistical triumph that it is only Friday."
+"*Ji-woo-ya!*" cried a woman of fifty-eight in a gold quilted jacket, entering like weather. This was Yoon Ji-ah, goldsmith, who made the tiny knotted ornaments called *norigae* that hang from the ribbons, and who had never in her life been on time for anything, owing to the fact that she made every promise a little faster than she could keep it. "I have them! I have your *norigae!* I brought them myself. I said *tomorrow* on Monday and *tomorrow* on Tuesday, and I said *tomorrow* on Wednesday, so it is a statistical triumph that it is only Thursday."
 
 "They were due three days ago."
 
@@ -4843,7 +4867,7 @@ He stood by the post. He looked at the wall, where a calendar hung of a tiger in
 
 "I have *not* dropped the—"
 
-The tape was on the floor. It lay in a loose yellow coil at her feet like a thing that had given up on discretion.
+The tape was on the floor. It lay in a loose yellow coil at her feet, having given up on discretion.
 
 There was a silence. Ji-ah the goldsmith, who had never in her life let a silence go unfilled, opened her mouth, and then, with a delicacy that surprised everyone, including herself, shut it again and began, with great interest, to reorganise the butterflies.
 
@@ -4951,7 +4975,7 @@ He had six. That was the part nobody saw.
 
 It had been a good business once. *Bekele & Brother, Green and Roasted, Since 1998:* a name on a board, two trucks, a ledger in Yared's careless left-handed hand, and a laugh that came up the lane before its owner. Then, in October, Yared had died on the Awash road, and what he left was the laugh's absence, a warehouse with a mortgage and eleven thousand sacks of green Yirgacheffe, and a list. Samuel had found it in a cigarette tin: *a baker, two cousins, a bank, a priest, a man in Dire Dawa who sold goats.* A brother who owed everyone, and had smiled about it, and had never said.
 
-Samuel, who was not a man who smiled, had said: *Then I owe everyone.* It was a sentence of a kind that, once said, will not go away.
+Samuel, who did not smile, had said: *Then I owe everyone.* Some sentences, once said, do not go away.
 
 At the front of the roastery, on a low stool beside a brazier of coals, sat Selam Tesfaye with her coat open and her bare hands round a clay cup, watching him like a judge watching a defendant who is not quite guilty.
 
@@ -4965,7 +4989,7 @@ At the front of the roastery, on a low stool beside a brazier of coals, sat Sela
 
 "I know," said Selam. "That is what I am paying for."
 
-He washed the green beans in a bowl, as they had done it in his mother's house, and set them on the pan over the coals, and began to move them with a long iron spoon. There was a sound like rain beginning on a tin roof. Then a smell rose, and it was green first, grassy, bright, and then, as the colour deepened, sweet, and then, abruptly, nutty and brown, and over the whole room the blue smoke rolled and hung in the sunlight like incense in a church, and Selam bent and fanned it toward her face with her cupped hand, as one does, and closed her eyes.
+He washed the green beans in a bowl, as they had done it in his mother's house, and set them on the pan over the coals, and began to move them with a long iron spoon. There was a sound like rain beginning on a tin roof. Then a smell rose, and it was green first, grassy, bright, and then, as the colour deepened, sweet, and then, abruptly, nutty and brown, and over the whole room the blue smoke rolled and hung in the sunlight like incense, and Selam bent and fanned it toward her face with her cupped hand, and closed her eyes.
 
 > *The bean is green, and thinks itself a stone.
 > The fire says: Open. And it will not hear.
@@ -5000,7 +5024,7 @@ The short woman in brown, who was Rahel Girma, fifty-five, landlady of the wareh
 
 "The goat man's nephew. He is outside, and he has brought a goat, as a *warning.*"
 
-At the end of the room, Selam did not move. She sat as still as a runner in the starting-blocks, her cup halfway to her mouth, with a face from which every expression had been carefully removed, as one removes the pits from olives. She was not looking at the creditors. She was not looking at him. She was looking at the pan.
+At the end of the room, Selam did not move. She sat as still as a runner in the starting-blocks, her cup halfway to her mouth, her face emptied of every expression, as olives are emptied of their stones. She was not looking at the creditors. She was not looking at him. She was looking at the pan.
 
 And Samuel, who could feel her not-looking, felt something in his chest that he had no word for in any of his languages: not shame, nor quite gratitude, but the sweet and awful sensation of being seen and spared.
 
@@ -5094,15 +5118,15 @@ At a quarter to five, with the children's class dismissed and the corridor empti
 > And never has been asked to stand on it
 > Herself, since that last night, the knee, the curtain.
 > I have not asked. I have been courteous.
-> I have been courteous for six years,
-> Which is to say a coward, with good manners.
+> I have been courteous for six years:
+> A coward, with good manners.
 > Tonight there is the snow. The room is empty.
 > If I should ask, and she should say it plain—
 > Then let her say it plain.*
 
 "You are talking to the angels," said a dry voice from the door, "again."
 
-Dmitri did not leap, though a lesser man would have. He rose, with the grave slow formality that was his only armour, and turned, and there she stood, with her black bag over her shoulder and a cane she denied was a cane. She was thirty-eight. She had a long throat and a proud flat mouth and a way of standing that was less a posture than a ruling, and the left knee, under her trousers, was stiff as a hinge in winter.
+Dmitri did not leap. He rose, with the grave slow formality that was his only armour, and turned, and there she stood, with her black bag over her shoulder and a cane she denied was a cane. She was thirty-eight. She had a long throat and a proud flat mouth and a way of standing that was less a posture than a ruling, and the left knee, under her trousers, was stiff as a hinge in winter.
 
 Anya Petrova, retired ballerina, who in her day had been called *the Swan of the Fontanka* and, in her present state, had been called by the youngest of her pupils *Madame Hurricane,* looked at him down the length of the rehearsal room as at a man who has been caught with the silver.
 
@@ -5142,7 +5166,7 @@ There was a silence. The stove ticked. It was, he noted with the instinct of his
 
 He crossed the floor. It was twelve paces; he counted them, from habit, in three. At the end of them he stopped, and bowed, with a deep old-fashioned bow, the kind that has not been seen in a Petersburg rehearsal room since the days of Imperial teachers, and came up again with a face as white as a fresh page.
 
-"Anya Petrova," he said. "I wrote a waltz. You know that. You heard it in the wings, on the night of the gala. I did not know; I learned it from four lines left under a lamp. I have never told you whom it was for. I have never asked you for anything. I am asking you now." He drew breath. "Would you do me the honour of one dance?"
+"Anya Petrova," he said. "I wrote a waltz. You know that. You heard it in the wings, on the night of the gala. I did not know whom it was for until it was written. I have never told you. I have never asked you for anything. I am asking you now." He drew breath. "Would you do me the honour of one dance?"
 
 There was no sound in the room but the stove.
 
@@ -5164,7 +5188,7 @@ Anya Petrova stood quite still. A long moment went by in which a great many thin
 
 "That is the *oldest* dancing," said Dmitri Volkov, with the sudden, startling shyness of a man saying the one true thing he has rehearsed for six years, "and I am told I have a gift for the rest."
 
-She looked at him. She looked at the rest, the silence, the held breath in the dark, the hour on the clock, the angels on the ceiling, who had looked down for a hundred years on every sort of fool.
+She looked at him. She looked at the silence, the held breath in the dark, the clock, the angels on the ceiling, who had looked down for a hundred years on every sort of fool.
 
 "No," said Anya.
 
@@ -5196,13 +5220,13 @@ She went to the door. With her hand on it she paused, and did not turn.
 
 "Play it again. With the rest."
 
-He sat. He put his hands to the keys. Behind him the door shut with a click, and her uneven footsteps went away down the stairs, step, step, and the dry small click, and the step. And he played the waltz, slowly, the whole of it, in the dark, with the rests as long as they wanted to be, and at the seventh bar, on the third beat, where a great deal of his life was kept, he held the silence so long that the plaster angels leaned from the ceiling to find out what would come next.
+He sat. He put his hands to the keys. Behind him the door shut with a click, and her uneven footsteps went away down the stairs: step, step, and the dry small click, and the step. And he played the waltz, slowly, the whole of it, in the dark, with the rests as long as they wanted to be, and at the seventh bar, on the third beat, where a great deal of his life was kept, he held the silence so long that the plaster angels leaned from the ceiling to find out what would come next.
 
-In the corridor, among a rack of tutus, with a copy of the *Evening Petersburg* held before his face like a mask, Sergei Orlov, costume-master, fifty-seven, devout, who had read a good half of the theatre's private correspondence by the simple expedient of standing very still, murmured to a feathered skirt:
+In the corridor, among a rack of tutus, with a copy of the *Evening Petersburg* held before his face, Sergei Orlov, costume-master, fifty-seven, devout, who had read half the theatre's private correspondence by the simple expedient of standing very still, murmured to a feathered skirt:
 
 "*Well, my dear,*" he said. "*She did not say never.*"
 
-Sergei, who read other people's post and other people's lives, and was wrong about the one and right about the other, crossed himself, and went away to mend a swan.
+Sergei, who read other people's post and other people's lives, and was wrong about the one and right about the other, crossed himself and went away to mend a swan.
 
 ---
 
@@ -5231,11 +5255,11 @@ Sergei, who read other people's post and other people's lives, and was wrong abo
 
 The balcony, if one is honest, is not very large.
 
-This is the first thing Giulia Rossi tells the groups, in five languages, at ten o'clock, in the careful flat voice of a woman who has said it four thousand times. *It is a small stone balcony, added to a medieval house in the nineteen-thirties to improve the story. No lovers ever stood upon it. It is a very good piece of marketing.* She says this in English to the Americans, and in Italian to the Italians, who are offended. Then she lets them take photographs. Then, because she is not a monster, she shows them the wall.
+This is the first thing Giulia Rossi tells the groups, in five languages, at ten o'clock, in the flat voice of a woman who has said it four thousand times. *It is a small stone balcony, added to a medieval house in the nineteen-thirties to improve the story. No lovers ever stood upon it. It is a very good piece of marketing.* She says this in English to the Americans, and in Italian to the Italians, who are offended. Then she lets them take photographs. Then, because she is not a monster, she shows them the wall.
 
 At seven, however, there were no groups. There was only fog, and a coffee, and a basket on the wall beneath the arch, where the night's letters had been left by the faithful, the desperate and the drunk. They came from Tokyo, Lagos, Ohio, Lima, on hotel stationery, on napkins, on the backs of boarding passes, addressed to a girl who had never lived, and every one of them was answered.
 
-"Forty-one," said Giulia, to the coffee. She was thirty-one, a small, sharp woman with ink on the heel of her hand and the expression of a person who has seen the worst of the human heart and put it in alphabetical order. "Forty-one overnight. It is the *fog.* Fog makes people honest. By March it will be seventy."
+"Forty-one," said Giulia, to the coffee. She was thirty-one, a small, sharp woman with ink on the heel of her hand and the expression of someone who has seen the worst of the human heart and filed it alphabetically. "Forty-one overnight. It is the *fog.* Fog makes people honest. By March it will be seventy."
 
 "You say that every year," said a voice from the little office behind the arch.
 
@@ -5243,7 +5267,7 @@ At seven, however, there were no groups. There was only fog, and a coffee, and a
 
 "Truth is a *habit,* child. It does not make it less so."
 
-Elena Gallo, seventy-four, retired newsagent from Mantua and, for forty years, the senior secretary of the Letters, sat in a cardigan the colour of a tobacco field, with a pair of glasses on a chain and a brass kettle that she did not trust anyone else to fill. She had taught Giulia how to read a sentence for the thing beneath it, how to answer in a voice that is neither pity nor sermon, and how to say *I do not know,* which is the hardest sentence in any language. She had also, by never minding her own business, introduced eleven couples, of whom three had stayed together, which she considered a creditable average.
+Elena Gallo, seventy-four, retired newsagent from Mantua and, for forty years, the senior secretary of the Letters, sat in a cardigan the colour of a tobacco field, with a pair of glasses on a chain and a brass kettle that she did not trust anyone else to fill. She had taught Giulia to read a sentence for the thing beneath it, to answer in a voice that is neither pity nor sermon, and to say *I do not know,* the hardest sentence in any language. She had also, by never minding her own business, introduced eleven couples, of whom three had stayed together, which she considered a creditable average.
 
 "Who is writing in tongues today?" said Elena.
 
@@ -5251,7 +5275,7 @@ Elena Gallo, seventy-four, retired newsagent from Mantua and, for forty years, t
 
 "*Ah.*"
 
-The cat lady was Francesca Costa, fifty, weaver, of Mantua, an anxious woman who drank tea at night and wrote every Tuesday. Her letters were seven pages long. They concerned her husband, her husband's cat, her husband's mother's cat, and the fundamental question of whether a woman could leave a man and keep the cats, or vice versa. She signed herself *Desperate in Mantua,* and had done so for six years, and had never once left.
+The cat lady was Francesca Costa, fifty, weaver, of Mantua, an anxious woman who drank tea at night and wrote every Tuesday. Her letters ran to seven pages and concerned her husband, her husband's cat, her husband's mother's cat, and the fundamental question of whether a woman could leave a man and keep the cats, or vice versa. She signed herself *Desperate in Mantua,* and had done so for six years, and had never once left.
 
 *Dear Desperate,* Giulia wrote that morning, with a nib that scratched like a beetle, *You have asked me nine times whether you should leave your husband. You have asked me once whether you should leave his cat. I notice that you only seem alarmed about one of these. Sign the cat over to your sister. Then we shall discuss the husband. In the meantime—drink less tea after nine.*
 
@@ -5269,7 +5293,7 @@ She opened the next letter. It was on thick cream paper, expensive, and it smell
 >
 > *— a Man Who Is Not What the Posters Say*
 
-Giulia read it twice. She read everything twice; it was what she was for. And then she did a thing she had not done in six years of answering the wall: she took off her glasses, and held them in her hand, and looked at the fog.
+Giulia read it twice. She read everything twice; it was what she was for. Then she did what she had not done in six years of answering the wall: she took off her glasses, held them in her hand, and looked at the fog.
 
 "Elena."
 
@@ -5283,16 +5307,16 @@ Giulia read it twice. She read everything twice; it was what she was for. And th
 
 "That is a *diagnosis.* The answer is for you to write." She put the kettle on, and a small, grandmotherly, wicked light came into her face. "Write it well. The famous are the ones who most need to be told the truth, and are least likely to get it."
 
-Giulia bent over the paper. She wrote for a long time. When she had finished, she read it over, and amended one line, and signed it with the only signature the Letters had ever had: *Juliet's Secretary.* Then she did something else. She added, below, in a smaller hand, four lines of verse, the first she had written since the age of nineteen, and which she would have denied under oath:
+Giulia bent over the paper. She wrote for a long time. When she had finished she read it over, amended one line, and signed it with the only signature the Letters had ever had: *Juliet's Secretary.* Then she did something else. She added, below, in a smaller hand, four lines of verse, the first she had written since the age of nineteen, and which she would have denied under oath:
 
 > *Take off your shoes. The floor is cold and real.
 > Find one face in the third row. Sing to her.
 > The thousand are a rumour; she is not.
 > And be afraid. It is how true things feel.*
 
-She sealed it. She put it in the post-basket. The envelope the letter had come in bore no name, only a printed flap that read *Posta Artisti, Teatro Filarmonico.* She looked at it only once, and then very hard, and then she poured the cold coffee out into the drain.
+She sealed it and put it in the post-basket. The envelope the letter had come in bore no name, only a printed flap that read *Posta Artisti, Teatro Filarmonico.* She looked at it only once, and then very hard, and then she poured the cold coffee down the drain.
 
-*Mark this, reader. She had addressed it to a man she had never met, and she had told him the truth, and the only person in all of Verona who did not know yet that she was falling for him was Giulia.*
+*Mark this, reader. She had addressed it to a man she had never met, and told him the truth, and the only person in all of Verona who did not yet know she was falling for him was Giulia.*
 
 ---
 
@@ -5305,7 +5329,7 @@ Marco Bellini, thirty-four, the first tenor of the north of Italy, did not belie
 
 "You are *shaving,*" said Enzo Marino, twenty-four, his dresser, a cousin from Salerno who had come north for the season with a suitcase, a guitar, and the ambition to be discovered as a baritone. "There is a difference."
 
-"Not at my level. I am a man on the edge of a precipice with a razor. Look at this face. This is a *national asset.* And tonight it will be seen by eleven hundred people, and one critic, and a *woman in the third row with a hat like a cabbage* who has sat in that seat for thirty seasons and tuts."
+"Not at my level. I am a man on the edge of a precipice with a razor. Look at this face. This is a *national asset.* Tonight it will be seen by eleven hundred people, and one critic, and a *woman in the third row with a hat like a cabbage* who has sat in that seat for thirty seasons and tuts."
 
 "So don't look at the third row."
 
@@ -5319,7 +5343,7 @@ Marco Bellini, thirty-four, the first tenor of the north of Italy, did not belie
 
 "They have gone to *ricotta.*" He sat down heavily upon a velvet stool. In the mirror, forty bulbs lit a perfect, famous, slightly sweating face. "I wrote to the wall, Enzo. To the *letters.* Like a schoolgirl. I thought, *If anyone in Verona could tell me what to do, it would be a person who spends her life answering the unanswerable.* And I signed it with no name. It has been four days. I am a fool."
 
-There was a knock at the door. A boy of fourteen, in the usher's red jacket, held out a small cream envelope with the pride of a messenger from the gods. "From the Via Cappello, Maestro. A courier brought it."
+There was a knock at the door. A boy of fourteen in an usher's red jacket held out a small cream envelope with the pride of a messenger from the gods. "From the Via Cappello, Maestro. A courier brought it."
 
 "A *courier*?"
 
@@ -5329,7 +5353,7 @@ Marco took the envelope. He held it quite still, at arm's length, as one holds a
 
 Enzo went to the far end of the dressing-room and began, tactfully, to rearrange the scarves.
 
-The note was a page long. It said that fear was not a flaw in a performer but the receipt for having cared; that the thousand were an idea and the one was a person; that the only cure for ricotta in the knees was to take off one's shoes in the wings and stand for thirty seconds on the cold floor, like a human being, and then to walk on, and find a face, and sing to it. It said that *the vain are only the shy with good lighting.* It said, at the end, in four lines of verse, the thing that made Marco Bellini put the letter down on the dressing table and cover his mouth with his hand.
+The note was a page long. It said that fear was not a flaw in a performer but the receipt for having cared; that the thousand were an idea and the one was a person; that the only cure for ricotta in the knees was to take off one's shoes in the wings and stand for thirty seconds on the cold floor, and then to walk on, and find a face, and sing to it. It said that *the vain are only the shy with good lighting.* It said, at the end, in four lines of verse, the thing that made Marco Bellini put the letter down and cover his mouth with his hand.
 
 "Enzo. Who is she? *Juliet's Secretary.* Is she a nun? Is she eighty?" He seized his cousin by both shoulders. "I have never in my life been so *perceived.* I am going to marry this woman. I do not even know whether she has teeth."
 
@@ -5339,7 +5363,7 @@ The note was a page long. It said that fear was not a flaw in a performer but th
 
 "Forty minutes, Maestro," said a voice at the door.
 
-He stood. He tied the silk tie. He put on the yellow scarf, and the lucky socks, and a look on his face that transformed him by degrees from a frightened boy into a prince, and at the stage-left curtain, in the dark, in the smell of dust and ropes and old paint, with the orchestra's tuning-A rising like a drawn breath, he did a thing which had never happened in the entire history of the Teatro Filarmonico.
+He stood. He tied the silk tie. He put on the yellow scarf, and the lucky socks, and a look that transformed him by degrees from a frightened boy into a prince; and at the stage-left curtain, in the dark, in the smell of dust and ropes and old paint, with the orchestra's tuning-A rising like a drawn breath, he did a thing which had never happened in the history of the Teatro Filarmonico.
 
 He took off his shoes.
 
@@ -5353,11 +5377,11 @@ He walked on, in his socks, in the full gold light, and there was a murmur from 
 
 He sang *Che gelida manina* to the cabbage.
 
-It is a famous aria. It is sung by every tenor in the world and murdered by half. He did not sing it as it was written, for it had never before been sung by a man who had just been told the truth. He sang it quietly, and plainly, with no scarf in the voice, to one astonished woman in a hat, and there is a thing that happens in an opera house on certain nights when the eleven hundred stop being a crowd and become one person, listening. By the end of the first verse the cabbage was weeping unreservedly into her programme. By the second, the whole of the third row was. By the last note, held a beat longer than any tenor has dared since the war, there was not a dry eye from the gallery to the pit, except the critic's, whose eyes were never dry, being a man of principle.
+It is a famous aria, sung by every tenor in the world and murdered by half. He did not sing it as it was written, for it had never before been sung by a man who had just been told the truth. He sang it quietly, and plainly, with no scarf in the voice, to one astonished woman in a hat; and on certain nights in an opera house the eleven hundred stop being a crowd and become one person, listening. By the end of the first verse the cabbage was weeping unreservedly into her programme. By the second, so was the whole third row. By the last note, held a beat longer than any tenor has dared since the war, there was not a dry eye from the gallery to the pit, except the critic's, which were never dry, he being a man of principle.
 
-In the interval, the usher boy found Marco in the wings, still in his socks, with his hands over his face.
+In the interval the usher boy found Marco in the wings, still in his socks, with his hands over his face.
 
-"Maestro," he said. "The lady in the cabbage hat says you are the best she has heard. She says it was not a *performance.* She says, 'He sang as though I were the only one.'"
+"Maestro. The lady in the cabbage hat says it was not a *performance.* She says, 'He sang as though I were the only one.'"
 
 "She *was,*" said Marco Bellini, and began, quietly and helplessly, to laugh.
 
@@ -5380,19 +5404,19 @@ The painter had not been seen since.
 
 "Where?" said Camila.
 
-"Mija, I am a woman of honour. I could not possibly say. But if I were a woman of *less* honour, I would observe that he has not washed his boots, and a man who leaves cobalt footprints is a man who wishes, in his heart, to be followed."
+"Mija, I am a woman of honour. I could not possibly say. But if I were a woman of *less* honour, I would observe that he has not washed his boots, and a man who leaves cobalt footprints wishes, in his heart, to be followed."
 
 It was a clue, and Camila knew a clue when one was left on a plate.
 
 "They go this way," said Alejandro Hernández.
 
-He was in civilian clothes, which made him look like a policeman disguised as a larger policeman. He had been suspended since the matter of the jaw, under Article Forty-One, and spent his leisure saving for a small farm in Oaxaca where he intended to keep goats and be, at last, unarguably in charge of something. In the meantime he had attached himself to Camila with the tenderness of a retired bloodhound. "A trail of paint is the oldest evidence there is. I have not *tracked* you. I have *accompanied the investigation.*"
+He was in civilian clothes, which made him look like a policeman disguised as a larger policeman. He had been suspended since the matter of the jaw, under Article Forty-One, and spent his leisure saving for a small farm in Oaxaca where he intended to keep goats and be, at last, unarguably in charge of something. Meanwhile he had attached himself to Camila like a retired bloodhound. "A trail of paint is the oldest evidence there is. I have not *tracked* you. I have *accompanied the investigation.*"
 
 "He is a very good tracker," said Lupita Hernández, twenty-five, chef, round-faced and unalarmable, who had come along from Xochimilco with a covered pan of chilaquiles, on the principle that every crisis is improved by a second breakfast. "He walked into three lamp-posts and apologised to none."
 
 "The lamp-posts were in the way," said Alejandro.
 
-The blue footprints went six blocks, faint and then fainter, and ended, as such trails do, at a roller shutter in a back street behind a tyre shop, with a hand-painted sign above it that said *TORTILLAS: SE VENDE,* the last word crossed out, and below that, in a hand too enormous to be anything but his, a single marigold the size of a cartwheel.
+The blue footprints went six blocks, faint and then fainter, and ended, as such trails do, at a roller shutter in a back street behind a tyre shop, with a hand-painted sign above it that said *TORTILLAS: SE VENDE,* the last word crossed out, and below it a single marigold the size of a cartwheel, in a hand too enormous to be anyone's but his.
 
 The shutter was half raised. Camila ducked under it.
 
@@ -5402,7 +5426,7 @@ She stopped.
 
 On every wall, on every inch of whitewashed brick from the floor to the rafters, pinned, taped, drawn in charcoal and chalk and ink, hung eyes.
 
-There were hundreds. They were green and grey and black; they were violet, they were amber; there was a pair of a deep clear blue with a scatter of tiny stars in the iris, and a pair like two coins of old gold, and a pair that were frankly alarming. They looked down, up, aslant, sidelong, closed; they looked at nothing and at everything. A little card was pinned beside each, in a quick, impatient hand: *No. No. Too kind. No. A liar's. NO.* There were two hundred and twelve pairs, and not one of them was brown.
+There were hundreds. They were green and grey and black; they were violet, they were amber; there was a pair of deep clear blue with tiny stars in the iris, and a pair like two coins of old gold, and a pair that were frankly alarming. They looked down, up, aslant, sidelong, closed; they looked at nothing and at everything. A little card was pinned beside each, in a quick, impatient hand: *No. No. Too kind. No. A liar's. NO.* There were two hundred and twelve pairs, and not one of them was brown.
 
 On a stool at the long table in the middle of the room, with his back to the door, sat Rafael Ortega, in a shirt he had apparently been wearing for a week, looking at a blank sheet of paper.
 
@@ -5410,21 +5434,21 @@ On a stool at the long table in the middle of the room, with his back to the doo
 
 "I haven't brought any," said Camila.
 
-He was on his feet before he knew it. The stool went over. He stood with his hands open and his mouth open and a dab of ochre on his chin, and the whole large impulsive weather of him went across his face and found no place to land.
+He was on his feet before he knew it. The stool went over. He stood with his hands open and a dab of ochre on his chin, and the whole large impulsive weather of him went across his face and found no place to land.
 
 "You *found* it," said Rafael.
 
 "It is not a difficult mystery. You were walking about in cobalt." She came slowly down the aisle between the walls of eyes. She did not look at them. She looked at him. "Marisol says you are afflicted."
 
-"I am not afflicted. I am—" He gestured helplessly at the walls. "You opened your eyes. It was the best morning of my life. And then I came home and there was nothing left to be. For two years I had a thing to do. I got up in the dark for it. I climbed ladders for it. I was fined by a man in a moustache. And then you went up the scaffold and put in one line of brown, and the whole wall looked at the city, and the city loved her at once, and I thought: *She does not need me. She has her own eyes now.*" He swallowed. "I came here to paint yours properly. Once. For myself. And I have been trying for three months, and look."
+"I am not afflicted. I am—" He gestured helplessly at the walls. "You opened your eyes. It was the best morning of my life. And then I came home and there was nothing left to be. For two years I had a thing to do. I got up in the dark for it. I climbed ladders. I was fined by a man in a moustache. And then you went up the scaffold and put in one line of brown, and the whole wall looked at the city, and the city loved her at once, and I thought: *She does not need me. She has her own eyes now.*" He swallowed. "I came here to paint yours properly. Once. For myself. And I have been trying for three months, and look."
 
 He pointed to the wall. Two hundred and twelve pairs of eyes looked back at both of them.
 
-"I know what colour they are. I know the green ring. I can paint a face thirty feet high from memory. But the moment I paint *these,* they look at the wall, as I always made them look, and they are *wrong.* They never look at *me.* It is the one thing I have never painted." He laughed, helplessly. "A man cannot paint himself being looked at. It is a matter of *nerve.*"
+"I know what colour they are. I know the green ring. I can paint a face thirty feet high from memory. But the moment I paint *these,* they look at the wall, as I always made them look, and they are *wrong.* They never look at *me.* It is the one thing I have never painted." He laughed, helplessly. "It is a matter of *nerve.*"
 
-There was a long silence in the old factory, in which a pigeon moved on a rafter, and Lupita, at the door, quietly lifted the lid of the chilaquiles, and Alejandro Hernández, beside her, took out a large white handkerchief and blew his nose with a sound like a cavalry charge.
+There was a long silence in the old factory, in which a pigeon moved on a rafter, and Lupita quietly lifted the lid of the chilaquiles, and Alejandro Hernández took out a large white handkerchief and blew his nose with a sound like a cavalry charge.
 
-"I am here in a private capacity," said the former Commandante thickly. "As a chaperone."
+"I am here in a private capacity," said the former Comandante thickly. "As a chaperone."
 
 Camila took off her coat. She took from her bag the heaviest book she owned, a Constitution in black buckram, and dragged the stool upright with her foot, and sat on it, in the light of the clerestory, with her hair coming out of its pencil.
 
@@ -5434,7 +5458,7 @@ Camila took off her coat. She took from her bag the heaviest book she owned, a C
 
 "Not a wall. Not thirty feet. *This.*" She opened the book, and bent her head to it, and then lifted her eyes over the top of the page, and looked at him, straight, without any flinching whatever. "I am told I read with the face of a woman who is being robbed. I am going to read Article Six, on the freedom of expression, and you are going to be looked at. For as long as it takes. I am extremely disciplined. I can hold still for hours."
 
-He did not move. Then he took the blank paper from the table with a hand that, to his own immense surprise, shook only a little, and found a stick of charcoal, and sat down on an upturned bucket of white, facing her.
+He did not move. Then he took the blank paper from the table with a hand that shook only a little, found a stick of charcoal, and sat down on an upturned bucket of white, facing her.
 
 "Don't talk," said Rafael.
 
@@ -5446,7 +5470,7 @@ He did not move. Then he took the blank paper from the table with a hand that, t
 
 He drew. She read. The charcoal went across the paper with a small dry sound, and the light slid slowly down the wall of two hundred and twelve wrong eyes. And in the doorway, a chef and a suspended policeman, who had been told to leave and had not, held a pan of cold chilaquiles between them like a sacrament, and watched a young man learn how it felt to be looked at, and a young woman, for the first time in her life, to look back.
 
-It took four hours. Alejandro cried twice. At the end, Rafael held up the paper, and it was not a mural, and it was not the face on a hundred and three walls. It was small, and quick, and a little crooked. It was a girl with a book and a raised eyebrow, looking straight out of the page at the person who held the charcoal, with an expression of the most intelligent and suspicious tenderness.
+It took four hours. Alejandro cried twice. At the end Rafael held up the paper, and it was not a mural, and it was not the face on a hundred and three walls. It was small, and quick, and a little crooked: a girl with a book and a raised eyebrow, looking straight out of the page at the person who held the charcoal, with an expression of the most intelligent and suspicious tenderness.
 
 The eyes were brown. They had a ring of green.
 
@@ -5477,7 +5501,7 @@ They were, he said, in a voice he had not used before, the first he had ever got
 ---
 
 ### SCENE I
-*Karachi. The Korangi creek road, ten o'clock on a winter morning, which in that city is a bright, dusty, forgiving twenty-two degrees. A field the colour of dry porridge. A roller sunk to its axle. Eleven boys, one man, and an aunt in sunglasses.*
+*Karachi. The Korangi creek road, ten o'clock on a winter morning, which in that city means a bright, dusty, forgiving twenty-two degrees. A field the colour of dry porridge. A roller sunk to its axle. Eleven boys, one man, and an aunt in sunglasses.*
 
 The flood had come in August, and had left in September, and had taken, in the interval, one cricket pitch, two sets of nets, a pavilion made of corrugated iron and optimism, and the entire stock of the Salt Creek Cricket Academy: nineteen bats, forty-one balls, and a trophy for the Under-Fourteen Tape-Ball Cup, won in 2016 and never forgotten.
 
@@ -5493,11 +5517,7 @@ What it had left was silt. It lay across the ground in a grey crust, cracked lik
 
 "I am an *academy.* We have the authority."
 
-Hamza was twenty-nine, tall and thin and bronze, with the unbreakable grin of a man who had decided in the second week of September that he would be cheerful, and had been, with the grim ferocity of a soldier holding a bridge, ever since. He wore a cap that had been white, and carried a bat recovered from a drain in one hand and a spade in the other, and moved among the eleven boys like a shepherd among sheep who have not been told that the barn has burned down.
-
-"Mud is the great *leveller,*" he announced. "The rich boy has a good pitch, the poor boy a bad one. Now they all have a *terrible* one. It is democracy!"
-
-"It is a *swamp,*" said a boy.
+Hamza was twenty-nine, tall and thin and bronze, with the unbreakable grin of one who had decided in the second week of September to be cheerful, and had been, with the grim ferocity of a soldier holding a bridge, ever since. He wore a cap that had been white, and carried a bat recovered from a drain in one hand and a spade in the other, and moved among the boys like a shepherd among sheep who have not been told that the barn has burned down.
 
 From a folding chair at the edge of the field, under a striped umbrella, in a pair of enormous white sunglasses that she had not removed since 1998, Ayesha Raza, fifty-four, retired schoolteacher, self-appointed scorer and commentator of the academy, lowered a dog-eared exercise book and called, in a voice that carried over three acres:
 
@@ -5507,11 +5527,11 @@ From a folding chair at the edge of the field, under a striped umbrella, in a pa
 
 "I am recording *potential.*"
 
-She was a woman of undeniable charm who had never in her life spent less than she did not have, and who kept the scorebook in a handwriting that no one could read, including herself. It was an open secret in Korangi that Ayesha Aunty had never learned to read well. She had taught for thirty years by memory, reciting every lesson aloud, with the textbook held open before her at an angle of great authority; and nobody had ever had the cruelty to point out that it was upside down.
+She was a woman of undeniable charm who had never in her life spent less than she did not have. She kept the scorebook in a handwriting that no one could read, herself included, for it was an open secret in Korangi that Ayesha Aunty had never learned to read. She had taught for thirty years by memory, reciting every lesson aloud, with the textbook held open before her at an angle of great authority; and nobody had ever had the cruelty to point out that it was upside down.
 
 At the gate, at that moment, a small blue rickshaw stopped, and a young woman got down.
 
-She was twenty-seven, short, quick, in a dusty-green kurta and sneakers that had been white at the start of the week, with a camera bag on one shoulder and, round her neck, a laminated pass that read PRESS. She had the face of a person who has been told *Wait* all her life and has never once done it. She looked at the silt, the roller, the wicket, the eleven boys and the man with the spade; and she took out a notebook.
+She was twenty-seven, short, quick, in a dusty-green kurta and sneakers that had been white at the start of the week, with a camera bag on one shoulder and, round her neck, a laminated pass that read PRESS. She had the face of a person who has been told *Wait* all her life and has never once done it. She looked at the silt, the roller, the wicket and the man with the spade, and took out a notebook.
 
 "Mr. Hamza Qureshi?"
 
@@ -5525,7 +5545,7 @@ She was twenty-seven, short, quick, in a dusty-green kurta and sneakers that had
 
 ---
 
-It took her forty minutes. He gave her tea from a flask, and the story the way he gave everything: with a joke, a shrug, and a smile. The water had come at four in the morning. The nullah had backed up. The boys had come in the dark and stood at the fence, holding the bats. He had waded in to his chest to save the trophy and had come out holding a plastic chair.
+It took her forty minutes. He gave her tea from a flask, and the story the way he gave everything: with a joke, a shrug and a smile. The water had come at four in the morning, when the nullah backed up. The boys had come in the dark and stood at the fence, holding their bats. He had waded in to his chest to save the trophy and had come out holding a plastic chair.
 
 "I saved the *chair,*" he said. "It was a very good chair."
 
@@ -5555,11 +5575,11 @@ Sana Ahmed stood quite still. The wind lifted the corner of her notebook and set
 
 "Then I shall teach them to bat in mud." He lifted the bat to his shoulder with a flourish. "It is practically a *moral education.*"
 
-She did not argue. It was a thing she could do, when it mattered, though almost nobody knew it: look at a man making a joke, and let him. She wrote in her notebook, in a fast, forward-slanting hand, *Dredging. Signboard. March. No machine.* She wrote, below it, in smaller letters, *He smiles with his mouth only.* Then she thanked him and walked out through the gate.
+She did not argue. When it mattered she could look at a man making a joke, and let him; almost nobody knew it of her. She wrote in her notebook, in a fast, forward-slanting hand, *Dredging. Signboard. March. No machine.* She wrote, below it, in smaller letters, *He smiles with his mouth only.* Then she thanked him and walked out through the gate.
 
 Across the road, in the shade of a neem tree, a grey Corolla was parked. It had been parked there the previous day, and the day before. The window was down a hand's breadth. Behind it, someone was not looking at her very carefully.
 
-She did not look back. She put on her sunglasses, and set her shoulders as her mother had taught her, and walked, at the pace of a woman with nothing whatsoever on her mind, to the end of the road to hail a rickshaw.
+She did not look back. She put on her sunglasses, set her shoulders as her mother had taught her, and walked, at the pace of a woman with nothing whatsoever on her mind, to the end of the road to hail a rickshaw.
 
 *It is nothing,* said Sana to herself. *The network has been down all week. That is why the phone rings and nobody speaks.*
 
@@ -5569,9 +5589,9 @@ By four, the boys had gone. The long light had come across the field the colour 
 
 He was not smiling.
 
-He did not know she had come back. She had left her pen in the grass, and she stood at the gate and saw him for a full minute, in the place where nobody was watching: a man of twenty-nine with his whole face let go, like a man putting down a very heavy sack at the end of a very long road. His mouth moved, and he said one word, quietly, in Urdu, and it was not a joke.
+He did not know she had come back for her pen. She stood at the gate and saw him for a full minute, in the place where nobody was watching: a man of twenty-nine with his whole face let go, as if he had set down a heavy sack at the end of a long road. His mouth moved, and he said one word, quietly, in Urdu, and it was not a joke.
 
-She walked across the crust of the field, and sat down beside him on the roller, and without a word held out her steel flask, with the tea still hot in it. He took it. He did not ask why she had come back. He drank. For some time they watched the sun go down over the creek, and the dust turn gold, and the far wickets of the lost pitch go violet and thin.
+She walked across the crust of the field, and sat down beside him on the roller, and without a word held out her steel flask, with the tea still hot in it. He took it. He did not ask why she had come back. He drank. For some time they watched the sun go down over the creek.
 
 "You tell it very well," said Sana, at last.
 
@@ -5593,7 +5613,7 @@ He gave a short exhausted laugh and handed back the flask. "If I stop," said Ham
 
 "It will be a very dangerous truth."
 
-"All the good ones are." She stood, brushing the dust off her kurta, and in the long golden light her face was resolute, and young, and not afraid, with the particular unfear of one who has practised it. "Hamza. I will tell you what I tell everyone. I am not afraid of anything. It is a *professional* quality. I have it as other people have a nose."
+"All the good ones are." She stood, brushing the dust off her kurta. In the long golden light her face was resolute and young, and not afraid, with the unfear of one who has practised it. "Hamza, I will tell you what I tell everyone. I am not afraid of anything. It is a *professional* quality. I have it as other people have a nose."
 
 "I am sure you have."
 
@@ -5604,45 +5624,45 @@ She went. At the gate she paused, and looked once at the car under the neem tree
 ---
 
 ### SCENE II
-*Istanbul. The Eminönü quay, a quarter to eight on the same grey morning, which at that latitude is the colour of a pigeon's wing. Gulls. Steam. Two ferries moored nose to tail, each flying its own house flag, and a queue of commuters between them like a river between two armies.*
+*Istanbul. The Üsküdar pier, on the Asian shore, a quarter to eight on a grey December morning, the colour of a pigeon's wing. Gulls. Steam. Two ferries moored nose to tail, each flying its own house flag, and a queue of commuters between them like a river between two armies.*
 
-The feud over the Bosphorus lines had been going on, with intervals for weddings and funerals, for thirty-one years. It concerned a licence, a landing, and a promise made by a dead man on a napkin, and it had cost both families, in lawyers and spite, roughly the price of a ferry.
+The feud over the Bosphorus lines had run, with intervals for weddings and funerals, for thirty-one years. It concerned a licence, a landing and a promise made by a dead man on a napkin, and it had cost both families, in lawyers and spite, roughly the price of a ferry.
 
-On the left of the quay lay the red boats of the Yilmaz line, on the right the blue boats of the Kaya, and between them, as it had always done, stood a plank-built café with a chimney, a samovar, and a cook.
+On the left of the quay lay the red boats of the Yılmaz line, on the right the blue boats of the Kaya, and between them, as it had always done, stood a plank-built café with a chimney, a samovar, and a cook.
 
 "*Soup,*" said Sema.
 
-She was a broad, magnificent woman of fifty-one, in an apron the size of a sail, who had been serving lentil soup to both houses for twenty-eight years on the principle that a man with a full bowl could not simultaneously throw a punch. She stood at the open hatch, ladle raised like a sceptre. "You, Captain's boy, you have not eaten. You, Kaya, you are green. I do not care whose boat you sail. Leave the quarrel on the hook with the coat. *Sit.*"
+She was a broad, magnificent woman of fifty-one, in an apron the size of a sail, who had served lentil soup to both houses for twenty-eight years on the principle that a man with a full bowl cannot also throw a punch. She stood at the open hatch, ladle raised like a sceptre. "You, Captain's boy, you have not eaten. You, Kaya, you are green. I do not care whose boat you sail. Leave the quarrel on the hook with the coat. *Sit.*"
 
-Ahmed Yilmaz, twenty-eight, the son of the Yilmaz line's old captain, sat. He was a strong, dark, impatient young man in a wool coat and a deckhand's cap, with a split in his knuckle and a stare that kept going, whenever it was not watched, to the small glass-walled ticket office on the right of the quay.
+Ahmed Yılmaz, twenty-eight, the son of the Yılmaz line's old captain, sat. He was a strong, dark, impatient young man in a wool coat and a deckhand's cap, with a split in his knuckle and a stare that kept going, whenever it was not watched, to the small glass-walled ticket office on the right of the quay.
 
 "You are looking at the *wall,*" said Sema.
 
 "I am looking at the timetable."
 
-"It is a very pretty timetable. It has a girl in it." The ladle went into the pot, and came out, dripping. "Eat your soup, Ahmed bey. In my experience a man who looks that long at a ticket office is not buying a ticket."
+"It is a very pretty timetable. It has a girl in it." "Eat your soup, Ahmed bey. In my experience a man who looks that long at a ticket office is not buying a ticket."
 
-The first sign of trouble was the rope. Ahmed saw it before he knew he saw it: a pale mooring-line on the Kaya side drawn tight, a flash of a blade, and a long slack coil sliding into the black water like a snake. The blue ferry, loosed from her post, swung slowly on the current with her gangway still down, and a Kaya deckhand, in the middle of the plank with a crate of oranges, went into the Bosphorus with an enormous, shocked, orange-scattering splash.
+The first sign of trouble was the rope. Ahmed saw it before he knew he saw it: a pale mooring-line on the Kaya side drawn tight, a flash of blade, and a long slack coil sliding into the black water like a snake. The blue ferry, loosed from her post, swung on the current with her gangway still down, and a Kaya deckhand, halfway along the plank with a crate of oranges, went into the Bosphorus with an enormous, shocked, orange-scattering splash.
 
 "*They have cut us loose!*" a voice roared.
 
 "*They have* rammed *us!*"
 
-It was not true, but in a feud the truth has no vote. Within ten seconds the quay was a thing of fists and boots, of tea-trays flung like discs and a mooring-hook swung at arm's length; and in the middle of it Ahmed's cousin Cem Koç, forty, apprentice, who had never been afraid of anything but a debt, drove a shoulder into the nearest chest and was at once knocked flat among a heap of fishing-nets.
+It was not true, but in a feud the truth has no vote. Within ten seconds the quay was a tangle of fists and boots, tea-trays flung like discs and a mooring-hook swung at arm's length; and in the middle of it Ahmed's cousin Cem Koç, forty, apprentice, who had never been afraid of anything but a debt, drove a shoulder into the nearest chest and was at once knocked flat among the fishing-nets.
 
-Ahmed did not fight. He ran to the edge of the quay. The deckhand was in the water, and the water in December was nine degrees; the man had gone under once, and came up gasping, white as paper, his arms flailing at the oranges. There was no time to remove a coat. Ahmed Yilmaz, son of the house that had sworn to ruin the Kayas, took off his cap, and put it carefully on a bollard, and dived.
+Ahmed did not fight. He ran to the edge of the quay. The deckhand was in the water, and the water in December was nine degrees. The man had gone under once, and came up gasping, white as paper, his arms flailing at the oranges. There was no time to remove a coat. Ahmed Yılmaz, son of the house that had sworn to ruin the Kayas, took off his cap, put it carefully on a bollard, and dived.
 
-He caught the man by the collar. He towed him, kicking, to the foot of the iron ladder and shoved him up it into a forest of hands, and then, as he turned, something struck him on the side of the head from above, a mooring-hook, flung and not aimed, and he went down in the green water with a bright burst of red.
+He caught the man by the collar and towed him, kicking, to the foot of the iron ladder, and shoved him up it into a forest of hands. As he turned, something struck him on the side of the head from above, a mooring-hook, flung and not aimed, and he went down in the green water with a bright burst of red.
 
 When he came up, hauled by the coat by two men in two colours who had suddenly forgotten which they were, there was blood in his eye, and the quay had gone quite quiet. The brawlers stood as if turned to stone. Not one of the Kaya had said *thank you.* But not one of them had struck again.
 
 From the little glass booth on the right, a figure had come out and stood at the end of the planking. She had a ticket-punch in one hand and no coat. Her hair had come out of its pins. She was twenty-six, quick, dark-browed, slight as a quill, with ink on her fingers that was not from tickets, and she put the back of her free hand to her mouth, and looked at the man in the water, who was looking at her.
 
-There was a great deal in that look. A good deal of it was fright. Some of it, perhaps, was something else.
+There was a great deal in that look, and not all of it was fright.
 
 "*Elif!*" shouted a voice from the Kaya side, her uncle's, harsh and cracked. "*Inside!*"
 
-She went in. But a minute after, as the police boat came round the point with its useless siren and the two families dragged away their hurt in two directions, a boy of fourteen, in a school blazer, with a tray of simit hung round his neck, who had been standing since the beginning on the bollard with his mouth wide open, slid down, and crossed the quay as if on an errand of no interest to anyone, and pressed into the bleeding hand of Ahmed Yilmaz a ticket for the 8:15 to Üsküdar.
+She went in. But a minute after, as the police boat came round the point with its useless siren and the two families dragged their hurt away in two directions, a boy of fourteen in a school blazer, a tray of simit hung round his neck, who had stood throughout on a bollard with his mouth wide open, slid down and crossed the quay as if on an errand of no interest to anyone. He pressed into the bleeding hand of Ahmed Yılmaz a ticket for the 8:15 to Karaköy.
 
 "A lady asked me to give you a ticket," said Burak, who read books and feared the telephone and was, therefore, a perfect messenger. "She says the fare is paid."
 
@@ -5657,7 +5677,7 @@ On the back, in a small, quick, dark hand, was written:
 > The boat is blue; the boy is on the red.
 > Come back alive. That is all I have said.*
 
-Ahmed read it twice, standing there with the blood running into his collar. Then he folded it, and put it inside his coat, against his heart, where a man in his condition keeps the things he means to die with; and, since the police boat was now very close, and a constable was shouting about a statement, he had just time to look once more toward the little glass booth, in which the light had gone out.
+Ahmed read it twice, with the blood running into his collar. Then he folded it and put it inside his coat, against his heart, where a man in his condition keeps the things he means to die with; and, since a constable was shouting about a statement, he had just time to look once more toward the little glass booth, in which the light had gone out.
 
 "Soup," said Sema, in his ear, and a bowl was in his hands, hot as a small sun. "*Eat.* I told you. Leave it on the hook."
 
@@ -5672,7 +5692,7 @@ He was, as the reader may already perceive, right.
 
 "I will not be told," said Sherif Sabry, "that I have been *deceived.*"
 
-He stood in the middle of the laboratory in a cream suit and a cravat, holding a blue-green vase in both arms like an infant who had misbehaved. He was seventy-two, the greatest novelist in Egypt by his own account, and the author of eleven books that nobody had read, which he maintained was the secret of his genius. "I am a student of human nature. I have never in my life been fooled by a man who sells things."
+He stood in the middle of the laboratory in a cream suit and a cravat, holding a blue-green vase in both arms like an infant who had misbehaved. He was seventy-two, the greatest novelist in Egypt by his own account, and the author of eleven books that nobody had read, which he held to be the secret of his genius. "I am a student of human nature. I have never been fooled by a man who sells things."
 
 "It is cracked from the lip to the shoulder," said Layla Mansour, taking it from him as one takes a patient from a relative.
 
@@ -5684,15 +5704,15 @@ He stood in the middle of the laboratory in a cream suit and a cravat, holding a
 
 "The *shelf* is saying nothing."
 
-Layla, thirty-two, held the vase in both hands under the lamp. She was a woman of exact movements and a dry tongue, who wore her emotions in a locked drawer and could tell the age of a glaze by the sound it made when she tapped it with a fingernail. The vessel was a deep turquoise over a body of fine pale clay, with a band of Kufic round the shoulder and a faint web of crazing, delicate as frost, over the whole. It was said to be Mamluk. It had been bought, the professor said, the spring before, in the Khan, for his granddaughter's wedding, from an honest man who had never lied to him in his life.
+Layla, thirty-two, held the vase under the lamp. She was a woman of exact movements and a dry tongue, who kept her emotions in a locked drawer and could tell the age of a glaze by the sound it made under her fingernail. The vessel was a deep turquoise over fine pale clay, with a band of Kufic round the shoulder and a web of crazing, delicate as frost, over the whole. It was said to be Mamluk. It had been bought, the professor said, the spring before, in the Khan, for his granddaughter's wedding, from an honest man who had never lied to him in his life.
 
 "Which honest man?"
 
 "Haddad and Sons. A charming fellow. He has no sons, but he has *lovely* manners."
 
-The room went quiet. In the three-way quarrel of the minarets, one of the muezzins paused for breath.
+The room went quiet. In the three-way quarrel of the minarets, one muezzin paused for breath.
 
-Layla set the vase on the bench, turned off the lamp, and clicked on the ultraviolet. In the blue dark the whole body of the vessel glowed, as a fraud does under an honest light: the crazing was too regular, the Kufic too even, and the glaze, which should have gone dull and chalky where it was old, shone with the pale violet of something made last year. And in the heart of the glaze, so fine that she would have missed it had she not spent a winter learning a certain man's hand, there was a pinprick of a different green.
+Layla set the vase on the bench, turned off the lamp, and clicked on the ultraviolet. In the blue dark the whole body of the vessel glowed, as a fraud does under an honest light: the crazing was too regular, the Kufic too even, and the glaze, which should have gone dull and chalky with age, shone with the pale violet of something made last year. And in the heart of the glaze, so fine that she would have missed it had she not spent a winter learning a certain man's hand, there was a pinprick of a different green.
 
 It was her mixture. A copper-green she had devised herself on a bad night in a bad winter, and once, at a stall in the Khan, over a glass of mint tea, in a moment of weakness, described.
 
@@ -5732,9 +5752,9 @@ Layla had taken a card from the bench, and written on it in her exact upright ha
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., against Entries 0888, 0343, 0211 and 0666:*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0888, 0343, 0211, 0732 and 0666:*
 
-> *A coach who smiles so the boys will not weep; a woman who is not afraid, as other people have a nose; a girl who keeps tickets for the sea; a restorer who mends the lie and signs the truth.*
+> *A coach who smiles so the boys will not weep; a woman who is not afraid, as other people have a nose; a boy who dives without asking whose son he saves, and a girl who keeps tickets for the sea; a restorer who mends the lie and signs the truth.*
 >
 > *Of these, two will be hurt before the winter is over. I will not say which. The Keeper does not choose; she merely counts.*
 
@@ -5755,15 +5775,15 @@ Layla had taken a card from the bench, and written on it in her exact upright ha
 ### SCENE I
 *Sofia. The Central Bus Station, ten past five on a December morning. Frost on the tram wires. A kiosk with its light on, like a small lit stage in a very large dark theatre.*
 
-There is a kiosk at the corner of the Central Bus Station that opens before the trams do, and it is owned by Radka Petrov, forty-nine, who has never sold a newspaper without reading it first, nor a banitsa without informing the buyer what was wrong with his marriage.
+At the corner of the Central Bus Station stands a kiosk that opens before the trams do. It belongs to Radka Petrov, forty-nine, who has never sold a newspaper without reading it first, nor a banitsa without informing the buyer what was wrong with his marriage.
 
 "You are not married," she said to the man at the head of the queue.
 
 "No," said Nikolai Ivanov.
 
-"A married man buys two pastries and eats one in the street, where his wife cannot see. You have bought one, and you are holding it like a document."
+"A married man buys two pastries and eats one in the street, where his wife cannot see. You have bought one, and you hold it like a document."
 
-He was thirty-eight, a senior sergeant of the Border Police, long and grey in a greatcoat the colour of wet slate, with the face of a man who had been awake, in one way or another, since a particular night nine years before.
+He was thirty-eight, a senior sergeant of the Border Police, long and grey in a greatcoat the colour of wet slate, with the face of someone who had been awake, in one way or another, since a particular night nine years before.
 
 "I have a niece," said Radka. "Stand there and eat. I am doing Sofia."
 
@@ -5773,9 +5793,7 @@ For a month the whole city had been reading the Register of Black Stars, and Rad
 
 Nikolai, who had just bitten into the pastry, discovered that he could not swallow it.
 
-"A border guard," said a taxi driver, who had come for cigarettes and stayed for the theology.
-
-"Of course. Who else lets children cross?"
+"A border guard," said a taxi driver, who had come for cigarettes and stayed for the theology. "Who else lets children cross?"
 
 "A man like that," said Radka, her glasses sliding down her nose, "should be *married.* Nine years he has carried it in his pocket like a stone. That is a conscience. In Bulgaria we have so few that we should keep them in a museum, with a guard." She turned the page. "And this one has a story in it. Number five hundred thirty-four. *'There is a forged passport in my coat for someone I love.'*"
 
@@ -5785,13 +5803,13 @@ There was a pause, of the kind in which one hears a tram bell three streets away
 
 "What is surprising? Every man in Bulgaria owns two, and one is for show." The queue laughed; she raised a hand, and it stopped, for she had a sovereign's ear for a crowd. "But think. A woman, it is a woman, a man would say *wallet,* sits at night with a needle and a magnifying glass, frightened, and does it anyway. That is not a criminal. That is a seamstress with a cause."
 
-Nikolai set the banitsa down on the lip of the kiosk, carefully, as one sets down a thing that might be armed. Sixteen years at checkpoints had taught him to look like a wall, and the wall did not move. But in the instant between *forged* and *coat* something went through him, quick as a fish in a dark pond: the knowledge that, among the thousands who crossed the western border every week, there might be a woman with a heavy coat folded on her lap.
+Nikolai set the banitsa down on the lip of the kiosk, carefully, as one sets down something that might be armed. Sixteen years at checkpoints had taught him to look like a wall, and the wall did not move. But in the instant between *forged* and *coat* something went through him, quick as a fish in a dark pond: among the thousands who crossed the western border every week, there might be a woman with a heavy coat folded on her lap.
 
 "You are pale, Sergeant," said Radka. "It is the pastry. It is meant to be eaten warm, not mourned." But she was looking at him with a kinder and sharper face. She pushed a second paper bag across the counter, which he had not ordered. "For the checkpoint. Do not eat it. Carry it. A man who carries bread is going to be kind to somebody. It is a rule."
 
 "I did not know there was such a rule."
 
-"I have just made it. It is the best I know."
+"I have just made it."
 
 At the door he stopped, and said without turning, so quietly that she might have taken it for a cough: "Entry thirty-two. Did it say anything more?"
 
@@ -5804,15 +5822,15 @@ And he went off down the frozen platform with a bag of bread against his heart; 
 ---
 
 ### SCENE II
-*Bergen. An hour behind Sofia, and a night earlier. Half past eleven. The all-night fish-soup hatch on the harbour front, lit like a small golden ship.*
+*Bergen. An hour behind Sofia, on the same night, some hours before the dawn. Half past eleven. The all-night fish-soup hatch on the harbour front, lit like a small golden ship.*
 
-In Bergen the soup is served by a bus conductor. Thea Larsen, fifty-one, drove the number twelve by day and ran the fish-soup hatch from ten at night until three, on the principle that both trades consisted of taking wet persons and conveying them somewhere warmer without comment.
+In Bergen the soup is served by a bus driver. Thea Larsen, fifty-one, drove the number twelve by day and ran the fish-soup hatch from ten at night until three, on the principle that both trades consisted of taking wet persons and conveying them somewhere warmer without comment.
 
 "You are going out," she said to Lars Eriksen, putting a bowl in front of him. "I can tell from the shoulders. A man should not go to sea on an empty stomach and a full opinion."
 
-Lars ate with the concentration of a man filling a hold. Behind him the rain fell on the harbour in long sideways threads, and the masts swung against the lights of Bryggen like a hundred jostling compass needles. The forecast was a gale at six. The *Ragnhild* lay at her mooring with a new, expensive, and inadequate part inside her engine.
+Lars ate as if filling a hold. Behind him the rain fell on the harbour in long sideways threads, and the masts swung against the lights of Bryggen like a hundred jostling compass needles. The forecast was a gale at six. The *Ragnhild* lay at her mooring with a new, expensive and inadequate part inside her engine.
 
-"You are not going," said Marit Strand, arriving in the middle of a sentence, as she always did, in a good coat and a wave of hair that had taken an hour to look careless. She was thirty-eight, a train guard, and his oldest friend. "—and I said a signal fault is only a man with a lantern who has changed his mind. Lars. You are wearing the Eriksen face, the one where you look carved off the front of a boat."
+"You are not going," said Marit Strand, arriving in the middle of a sentence, as she always did, in a good coat and a wave of hair that had taken an hour to look careless. She was thirty-eight, a train guard, Kristian's daughter, and Lars's friend since the cradle. "—and I said a signal fault is only a man with a lantern who has changed his mind. Lars. You are wearing the Eriksen face, the one where you look carved off the front of a boat."
 
 "The lines are out. If I lose them, I lose sixty thousand kroner. I owe four hundred and twelve already. I can be there and back in four hours."
 
@@ -5820,15 +5838,15 @@ Lars ate with the concentration of a man filling a hold. Behind him the rain fel
 
 "Something always happens. It is a question of how much."
 
-At the end of the zinc, mending a very small and ugly umbrella, sat Solveig Dahl, who sold umbrellas at the Fisketorget by day and kept, beneath her bed, a tin of savings towards the day she would leave a country with weather in it, and had told no one.
+At the end of the zinc, mending a very small and ugly umbrella, sat Solveig Dahl, who sold umbrellas at the Fisketorget by day and kept beneath her bed a tin of savings towards the day she would leave a country with weather in it, and had told no one.
 
-"A storm is not personal," she observed, to the umbrella. "That is its comfort and its insult. I have sold forty umbrellas this week and we both knew they would not survive. It is a ritual. One goes out to meet the weather with something in one's hand. It need not *work.* It need only be held."
+"A storm is not personal," she observed, to the umbrella. "That is its comfort and its insult." She held the umbrella up to the lamp. "One goes out to meet the weather with something in one's hand. It need not *work.* It need only be held."
 
 "Is that an argument for going," said Marit, "or against?"
 
 "It is an argument for the umbrella, and I would be obliged if you would buy one."
 
-The door banged. In came a draught, a puddle, and Sigrid Haugen in her yellow oilskin, with a printout in one hand and a plum-coloured umbrella dripping from the other. She had run the whole length of Nordnes.
+The door banged. In came a draught, a puddle, and Sigrid Haugen in her yellow oilskin, with a printout in one hand and, in the other, a borrowed umbrella that the wind had turned inside out. She had run the whole length of Nordnes.
 
 "The front is early," she said. "Do not say *mm.* I have the buoy at Fedje. Eight metres already, and the wind went northwest an hour ago. It is not six. It is *two.* You will not be there and back in four."
 
@@ -5842,7 +5860,7 @@ The door banged. In came a draught, a puddle, and Sigrid Haugen in her yellow oi
 
 "No," said Lars Eriksen. "Cod have no *Sigrid.*"
 
-It had not been intended, and nobody could afterward say whom it surprised most. Marit, for once, did not speak. Sigrid's face went through five stages in a heartbeat and ended in a very dark red.
+It had not been intended, and nobody could afterward say whom it surprised most. Marit, for once, did not speak. Sigrid's face went through five stages in a heartbeat and ended a very dark red.
 
 "That is not an argument," she said. "It is worse than an argument."
 
@@ -5850,20 +5868,20 @@ It had not been intended, and nobody could afterward say whom it surprised most.
 
 From the dark under the awning came the voice of a waiter, old and dry. "Your table will be kept, young master."
 
-Kristian Strand stood there, seventy-eight, with a napkin over his left forearm, having come down from his flat because he had heard the wind change, as old waiters can hear a kitchen from three streets off. He had never in his life said *be careful.* He said, with the severity of a man who has laid ten thousand tables and never been thanked for a clean cloth: "The soup will be hot at eight. I shall not hold it past nine."
+Kristian Strand stood there, seventy-eight, with a napkin over his left forearm, having come down from his flat because he had heard the wind change, as old waiters can hear a kitchen from three streets off. He had never in his life said *be careful.* He said, with the severity of one who has laid ten thousand tables and never been thanked for a clean cloth: "The soup will be hot at eight. I shall not hold it past nine."
 
 "Far—"
 
-"I lied to you once, about where I was the night your mother died. I was at a table in the restaurant, because I could not bear the room. It is a poor sort of father who must wait for a gale to say it. *Nine,* young master."
+"I lied to you once, about where I was the night your mother died. I was at the restaurant, laying a table, because I could not bear the room. It is a poor sort of father who must wait for a gale to say it. *Nine,* young master."
 
-Lars laid coins on the counter for a soup he had not finished, which is what a man does when his throat has closed and his hands want work. Then he went out into the rain, and Sigrid watched until the dark had him.
+Lars laid coins on the counter for a soup he had not finished, as a man does when his throat has closed and his hands want work. Then he went out into the rain, and Sigrid watched until the dark had him.
 
 "I shall go to the institute," she said. "We have a radio."
 
 ---
 
 ### SCENE III
-*The sea off Fedje. Ten minutes to two in the morning. Nothing is visible but weather.*
+*The sea off Hernar. Ten minutes to two in the morning. Nothing is visible but weather.*
 
 There are storms that come like an army, with a horn and a drum, and storms that come as a hand laid flat across a table. This was the second kind, and at ten minutes to two it swept the sea clean.
 
@@ -5872,7 +5890,7 @@ The *Ragnhild* stood on her tail and fell. A grey slope of water with a white be
 Reader, a man alone in a wheelhouse with a dead engine has the right to say what he likes. He did not shout. He put his forehead against the streaming glass and spoke as a silent man must, if he is to be trusted: slowly, and in measure.
 
 > *So here we are, old girl, the pair of us,
-> Nine miles from anything that has a roof.
+> Miles from anything that has a roof.
 > I owe the bank. I owe my father. I
 > Owe every man who ever told me no
 > And was ignored. I thought the sea was cold
@@ -5890,7 +5908,7 @@ A wave took the starboard rail, and the chart lamp went out.
 
 ---
 
-In a lit room on the Nordnes peninsula, with the rain going across the windows in white ropes, Sigrid Haugen sat before a radio set that was used, as a rule, to ask research vessels about water temperature. She had spent forty minutes learning it. She had spent nine more watching a single blue dot on a screen, the transponder on the roof of a fishing boat, which had been crawling away from the harbour and now pulsed in the same place, in a field of red. On the wall the buoy trace was no longer a line. It was a saw.
+In a lit room on the Nordnes peninsula, with the rain going across the windows in white ropes, Sigrid Haugen sat before a radio set that was used, as a rule, to ask research vessels about water temperature. She had spent forty minutes learning it, and nine more watching a single blue dot on a screen, the transponder of a fishing boat that had crawled away from the harbour and now pulsed in one place, in a field of red. On the wall the buoy trace was no longer a line. It was a saw.
 
 "*Ragnhild,* this is the Institute station at Nordnes. Lars. Come in."
 
@@ -5900,7 +5918,7 @@ Hiss. And then, in the heart of the static, as a hand comes up through water, a 
 
 She put her fist against her mouth, and took it away.
 
-"Listen. You are four miles southwest of Fedje light. The swell will turn you beam-on in four minutes unless you put out the sea anchor. West of you is a shoal where the water goes from two hundred metres to forty, and the big waves break on it. You must not go west. When the anchor takes you will drift southeast, and in two hours you will come under the lee of Hernar. It is steep and it is not kind. But there is a light. I have my finger on it."
+"Listen. You are four miles northwest of Hernar light. The swell will turn you beam-on in four minutes unless you put out the sea anchor. West of you is a shoal where the water goes from two hundred metres to forty, and the big waves break on it. You must not go west. When the anchor takes you will drift southeast, and in two hours you will come under the lee of Hernar. It is steep and it is not kind. But there is a light. I have my finger on it."
 
 "*The engine is dead.*"
 
@@ -5935,15 +5953,15 @@ Then, in the dead air, with nobody to hear it but a blue dot and a rain-streaked
 ---
 
 ### SCENE IV
-*Kalotina. The Serbian border, sixty kilometres west of Sofia. A quarter past six, in the grey. The checkpoint stands on a plain of frozen mud, with the Balkan range going up behind it like a long blue wall, and a line of lorries stretching back until it vanishes in its own breath.*
+*Kalotina. The Serbian border, sixty kilometres west of Sofia. A quarter to seven, in the grey. The checkpoint stands on a plain of frozen mud, with the Balkan range going up behind it like a long blue wall, and a line of lorries stretching back until it vanishes in its own breath.*
 
-The guard room at Kalotina has a stove, three desks, a photograph of a mountain, and a kettle that has been boiling since the Berlin Wall.
+The guard room at Kalotina has a stove, three desks, a photograph of a mountain, and a kettle that has been boiling since the Berlin Wall fell.
 
 "Sergeant Ivanov," said a young officer named Georgi, putting his head round the door. "They have brought a family off a lorry. Four. The father speaks only Dari and a little Russian. The legal-aid office has sent a translator on the early bus. Georgieva. They say she is *discreet.* I do not know what that means in a translator. It sounds like a fault."
 
-Nikolai got up. He had been awake twenty-two hours. In the paper bag at his elbow lay a banitsa he had not eaten, carried across the whole night like a charm.
+Nikolai got up. In the paper bag at his elbow lay Radka's second banitsa, uneaten, carried sixty kilometres like a charm.
 
-She stood by the radiator with her hands folded, as a person stands who has spent her life in rooms where she alone understood both sides and had learned never to speak first. Thirty-four. A narrow quiet face, a high forehead, eyes the colour of a pond under ice. Over a dark dress she wore a long coat of heavy grey wool with the collar up. It was too thick for a heated building. It hung on her with a peculiar weight, as a coat hangs when something has been put in the hem.
+She stood by the radiator with her hands folded, like one who has spent her life in rooms where she alone understood both sides, and had learned never to speak first. Thirty-four. A narrow quiet face, a high forehead, eyes the colour of a pond under ice. Over a dark dress she wore a long coat of heavy grey wool with the collar up. It was too thick for a heated building, and hung on her with the peculiar weight of a coat with something in the hem.
 
 "Elena Georgieva," she said. "Dari, Russian, Turkish, English. I am told there is a child."
 
@@ -5951,7 +5969,7 @@ She stood by the radiator with her hands folded, as a person stands who has spen
 
 The family sat on a bench in the interview room: a father in a jacket too thin for the country, sitting very straight as though the chair might be taken away; a mother with a bundle in a shawl; and between them, with her feet not reaching the floor, a girl of about eight, staring at the stove.
 
-Nikolai had a rule. He had made it nine years before, on a bridge, and he kept it as one keeps a thorn in a shoe: he did not look at children for long. He asked, through the translator, names, dates, route. Elena rendered each question into a language soft as pebbles in a stream, and gave the answers back with a courtesy so exact that it was almost tenderness. She did not soften what was said, and she did not sharpen it. She stood between two walls, and she was the door.
+Nikolai had a rule. He had made it nine years before, on a bridge, and he kept it as one keeps a thorn in a shoe: he did not look at children for long. He asked, through the translator, names, dates, route. Elena rendered each question into a language soft as pebbles in a stream, and gave the answers back with a courtesy so exact that it was almost tenderness. She did not soften what was said, and she did not sharpen it. She stood between two walls, and was the door.
 
 At one point the girl slid off the bench, walked across the room, and put into his hand a crayon drawing on the back of a customs form: a lorry, a house, a very large sun, and a small man in green standing before all of them with an arm outstretched like a bridge.
 
@@ -5961,9 +5979,9 @@ At one point the girl slid off the bench, walked across the room, and put into h
 
 "She says she has drawn the man who will not hurt them. It is what she has decided. I do not think it is a question of evidence. I think it is a child who has done a great deal of travelling and made up her mind."
 
-*Mark this, reader.* At another crossing, nine years before, a child in a red wool hat had put her hand in his, and he had been told to take her to the office. He had looked instead at the river, for one long minute; and when he turned back the road was empty and a pair of small boots was going up a hill into fog. He has never known if she lived. It is the whole reason he is here, at six in the morning, holding a crayon sun.
+*Mark this, reader.* Nine years before, on a bridge, a child in a red wool hat had put her hand in his, and he had been told to take her to the office. He had looked instead at the river, for one long minute; and when he turned back the road was empty and a pair of small boots was going up a hill into fog. He has never known if she lived. It is the whole reason he is here, at seven in the morning, holding a crayon sun.
 
-By ten the formalities were done. It was not a victory. It was a kind of decency, and in that country and that year a decency was as much as a decent man could manage before lunch.
+By ten the formalities were done. It was not a victory. It was a kind of decency, which in that country and that year was as much as a decent man could manage before lunch.
 
 In the passage, Elena reached for her coat. It hung on a peg by the stove, and Nikolai, who was nearest, took it down and held it open, as a man will in Bulgaria whether or not he is told it is out of fashion.
 
@@ -5973,7 +5991,7 @@ He had searched a good many. He knew what a coat should weigh as a butcher knows
 
 *There is a forged passport in my coat for someone I love.*
 
-He did not move. In the long grey instant before the next heartbeat he heard the tram, and Radka's voice in the frozen air reading a sentence as if it were the price of tomatoes. He saw a woman at a table by lamplight with a magnifying glass and a needle. He saw a pair of boots going up a hill.
+He did not move. In the long grey instant before the next heartbeat he heard Radka's voice in the frozen air reading a sentence as if it were the price of tomatoes. He saw a woman at a table by lamplight with a magnifying glass and a needle. He saw a pair of boots going up a hill.
 
 He lifted his eyes. They met hers in the cracked mirror above the radiator; and in her face, trained to give away nothing, there was no fear whatever. There was only quiet, exact attention: the look of a person who has weighed a question for a long time, and means to wait for the answer with her hands at her sides.
 
@@ -5989,23 +6007,23 @@ It would have taken eleven seconds. A word to Georgi. A hand on a hem. A table, 
 
 "I shall mind it."
 
-He settled the coat on her shoulders with a care that anyone not knowing might have taken for the manners of a handsome sergeant at the end of a long night. His hands did not shake. They were the steadiest they had ever been, which is how he knew that something had been decided, somewhere below the level of his speech.
+He settled the coat on her shoulders with a care that a stranger might have taken for the manners of a handsome sergeant. His hands did not shake. They were the steadiest they had ever been, which is how he knew that something had been decided, somewhere below the level of his speech.
 
 "Thank you, Sergeant."
 
 "It was nothing."
 
-"No," said Elena Georgieva. "It was not." She buttoned the grey coat to the neck and went out across the frozen yard, past the lorries and the barrier and the little glass booth, towards the early bus. At the corner of the car park she climbed the step, and minded it.
+"No," said Elena Georgieva. "It was not." She buttoned the grey coat to the neck and went out across the frozen yard, past the lorries and the barrier and the little glass booth, towards the bus. At the corner of the car park she climbed the step, and minded it.
 
 *Twice,* thought Nikolai. *Now it is twice.*
 
-There is a ledger, reader, kept by someone, in the margin of every border in the world: not of the people who cross, but of the people who watch them. It does not hurry, and it does not forget, and it has this in common with the stars, that nobody sees it, and that it bends everything near.
+There is a ledger, reader, kept in the margin of every border in the world: not of the people who cross, but of the people who watch them. It does not hurry, and it does not forget, and it has this in common with the stars, that nobody sees it, and that it bends everything near.
 
 In the paper bag on the desk, the banitsa had gone cold. He ate it standing at the window, to the last crumb.
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., against Entries 0032, 0443 and 0534:*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0032, 0443, 0610 and 0534:*
 
 > *I am asked what became of the boat. I do not know. The sea keeps a ledger of its own and has never allowed me to consult it. I will say only that the page was torn neither by me nor by the one who wrote it. It tears at the place where the reader must begin to hope. That is a kind of rule.*
 >
@@ -6030,7 +6048,7 @@ In the paper bag on the desk, the banitsa had gone cold. He ate it standing at t
 
 The name Naledi means *star,* and her mother had chosen it in the hope that it would make her bright. It had made her nervous. Naledi Khumalo, twenty-nine, host of *The Last Dedication* on Goldreef FM, had spent her whole life being introduced as a celestial body, and had accordingly developed the voice of a woman who would very much prefer to be a lamp.
 
-It was a wonderful voice. It was warm, and wry, and low, and it sounded like someone who has just taken off her shoes and wishes you to do the same. From eleven until one, six nights a week, it travelled across the Reef to taxi drivers, night nurses, security guards in their glass booths, bakers beginning their shift in Soweto, and a great many people who were simply awake and ashamed of it. And every night, at a quarter to midnight, it said the same thing.
+It was a wonderful voice. It was warm, and wry, and low, and it sounded like someone who has just taken off her shoes and wishes you to do the same. From eleven until one, six nights a week, it travelled across the Reef to taxi drivers, night nurses, security guards in their glass booths, bakers beginning their shift in Soweto, and a great many people who were simply awake and ashamed of it. And every night she was on the air, at a quarter to midnight, it said the same thing.
 
 "This one," said Naledi into the microphone, "goes out, as it has gone out every night for two winters, to the man behind the door on Kerk Street. I heard you once from the back of a minibus taxi at one in the morning. I did not see your face. I did not get your name. I only know that you were playing a tenor saxophone as if you were trying to talk a person down from a ledge. Wherever you are, this is for you." She slid the fader. "Nina Simone. Try to sleep."
 
@@ -6044,7 +6062,7 @@ It was a wonderful voice. It was warm, and wry, and low, and it sounded like som
 
 "It is not a dedication any more. It is a *haunting.*"
 
-This was Thandi Zulu, thirty, of Pretoria, who sold *amagwinya,* the golden fried dough-balls of the Highveld, from a trolley at the station gate between ten and two, and who had by degrees, and without a contract, become the programme's call screener. Her qualifications were an enormous stomach for gossip and a belief that no problem existed which could not be improved with a fritter. When the intern ran to the toilet she answered the phones, and had been known to refuse to put a caller through "because he has the voice of a man who is lying about his mother."
+This was Thandi Zulu, thirty, of Pretoria, who sold *amagwinya,* the golden fried dough-balls of the Highveld, from a trolley at the station gate until ten each night, and who had by degrees, and without a contract, become the programme's call screener. Her qualifications were an enormous appetite for gossip and a belief that no problem existed which could not be improved with a fritter. She had been known to refuse a caller "because he has the voice of a man who is lying about his mother."
 
 "You will say something wise, now," said Naledi. "You usually do, by accident."
 
@@ -6054,7 +6072,7 @@ This was Thandi Zulu, thirty, of Pretoria, who sold *amagwinya,* the golden frie
 
 "The one in your head," said Thandi Zulu. "Now read the Register. They have been calling since ten. They want the Johannesburg page."
 
-This was true. For six weeks the whole country had been reading the thousand letters, and Goldreef had set aside a corner of the show for the confessions that belonged to the Reef. Naledi did not much care for it. She had her own entry in the Register, number seven hundred and forty-nine, and she was in the unusual position of being a woman who read other people's secrets on the air for a living, while hers lay in the same ledger, pretending to be someone else's.
+This was true. For five weeks the whole country had been reading the thousand letters, and Goldreef had set aside a corner of the show for the confessions that belonged to the Reef. Naledi did not much care for it. She had her own entry in the Register, number seven hundred and forty-nine, and so read other people's secrets on the air for a living while hers lay in the same ledger, pretending to be someone else's.
 
 She pulled the laptop toward her.
 
@@ -6068,7 +6086,7 @@ Then she stopped.
 
 On the air, a gap opened.
 
-It was an ordinary gap, the length of a breath, and then it was not ordinary. It was two seconds. Then five. In the glass booth, Thandi's mouth fell open. In the control room, the engineer, a young man named Siya who had never in his life experienced the thing called *dead air,* turned the colour of old chewing gum and began to make small circular signs with his hand, which in his profession means *for the love of God.*
+It was an ordinary gap, the length of a breath, and then it was not ordinary. It was two seconds. Then five. In the glass booth, Thandi's mouth fell open. In the control room, the engineer, a young man named Siya who had never in his life met *dead air,* turned the colour of old chewing gum and began to make small circular signs with his hand, which in his profession means *for the love of God.*
 
 *Reader, there is no horror in broadcasting like silence. A voice on the radio is a rope, and the whole country is holding the other end.*
 
@@ -6078,7 +6096,7 @@ It was an ordinary gap, the length of a breath, and then it was not ordinary. It
 
 Four kilometres away, in a basement club in Braamfontein called the Blue Rand, a man in a dark waistcoat knelt in the dressing room and picked a reed off the floor.
 
-Thabo Dlamini, thirty-one, tenor saxophonist, had been a smooth, easy, apparently unflappable man since the age of six, on the stage. Offstage he had the manner of a person who had been left in a shop and was waiting to be collected. He listened to the radio every night between sets, on a small cracked transistor with a coat hanger for an aerial, with the dial fixed on Goldreef. He did not explain to himself why. He told himself it was the news.
+Thabo Dlamini, thirty-one, tenor saxophonist, had been smooth and unflappable on a stage since the age of six. Offstage he had the manner of a child left in a shop and waiting to be collected. He listened to the radio every night between sets, on a small cracked transistor with a coat hanger for an aerial, the dial fixed on Goldreef. He did not explain to himself why. He told himself it was the news.
 
 The reed had fallen because his hand had opened.
 
@@ -6096,7 +6114,7 @@ The reed had fallen because his hand had opened.
 
 "You do not know that it is her."
 
-"I know the silence," said Thabo. "I know it as I know my own breath. It is the silence that comes in a bar when you reach a note you were not sure you would reach." He picked up the saxophone. It was old and dented, with a lacquer worn to the brass at the places where his fingers rested, and it hung from his neck like a very large and very patient animal. "I am going to telephone."
+"I know the silence," said Thabo. "It is the silence that comes in a bar when you reach a note you were not sure you would reach." He picked up the saxophone. It was old and dented, the lacquer worn to the brass where his fingers rested, and it hung from his neck like a very large and very patient animal. "I am going to telephone."
 
 "The station?"
 
@@ -6108,7 +6126,7 @@ The reed had fallen because his hand had opened.
 
 ---
 
-In the alley behind the Blue Rand there was a dustbin, a cat, a lamp, and the smell of the storm still rising off the stones. He leaned against the wall and spoke, because the dark and the horn and the hour were all that he possessed, and a man who cannot be eloquent in company will often, alone, manage a few lines that do very well:
+In the alley behind the Blue Rand there was a dustbin, a cat, a lamp, and the smell of the storm still rising off the stones. He leaned against the wall and spoke, because the dark and the horn and the hour were all that he possessed; and a man who cannot be eloquent in company will often, alone, manage a few lines that do very well:
 
 > *I have played to a stranger's silence for two years,
 > And called it practice. Every night I turn
@@ -6136,7 +6154,7 @@ In the alley behind the Blue Rand there was a dustbin, a cat, a lamp, and the sm
 
 "I do not wish to say."
 
-"A man with no name." Thandi looked through the glass at the host, who was sitting quite motionless with her hands in her lap and her headphones half off, like a woman who has been told a bell is about to ring. "What do you want to tell her?"
+"A man with no name." Thandi looked through the glass at the host, who sat quite motionless, hands in her lap, headphones half off. "What do you want to tell her?"
 
 "I do not know. I play the saxophone."
 
@@ -6156,15 +6174,11 @@ A pause. Then, over the crackle of an alley and a cat and a distant taxi hooter,
 
 "It is the only name I am sure of."
 
-"Mr. Johannesburg." She had to stop; and when she resumed, her voice was a good deal smaller. "I read an entry tonight. Number four hundred and sixty-six. I stopped because I thought—I did not know if it—" She gave an unsteady laugh. "I am a professional. I am a woman who has read the weather for eleven years."
+"Mr. Johannesburg." She had to stop; when she resumed, her voice was a good deal smaller. "I read an entry tonight. Number four hundred and sixty-six. I stopped because I thought—I did not know if it—" She gave an unsteady laugh. "I am a professional. I am a woman who has read the weather for eleven years."
 
-"I know. I have been listening."
+"I know. I have been listening. Every night, between sets. I have a transistor with a coat hanger. It is the only thing I own that I have never had to repair."
 
-"Every night?"
-
-"Every night," said the voice. "Between sets. I turn the dial to you. I have a transistor with a coat hanger. It is the only thing I own that I have never had to repair."
-
-The whole of the Reef, that night, in its taxis and its glass booths and its kitchens, was listening. It was afterward estimated, by people who like to know such things, that four hundred and eleven thousand persons heard the next two minutes, and that eleven of them were in the same room.
+The whole of the Reef, that night, in its taxis and its glass booths and its kitchens, was listening. It was afterward estimated, by people who like to know such things, that four hundred and eleven thousand persons heard the next two minutes, and that four of them were in the same room.
 
 "Where do you play?" said Naledi.
 
@@ -6172,7 +6186,7 @@ The whole of the Reef, that night, in its taxis and its glass booths and its kit
 
 She put her hand over her mouth.
 
-"It is a green door," said the man. "It does not close properly. It was blue once. There was a taxi in the road at one in the morning, with its window open, in July, and I was playing a thing called 'In a Sentimental Mood,' badly, because it was cold. I did not see who was in it."
+"It is the stage door of the Blue Rand," said the man. "A green door. It does not close properly. It was blue once. There was a taxi in the road at one in the morning, with its window open, in July, and I was playing a thing called 'In a Sentimental Mood,' badly, because it was cold. I did not see who was in it."
 
 "It was me."
 
@@ -6182,7 +6196,7 @@ She put her hand over her mouth.
 
 "It is a very good door."
 
-She laughed. It was a lovely laugh, a little wet, the laugh of a woman who has been carrying a heavy parcel and has been told, quite unexpectedly, where to set it down. Behind the glass Thandi Zulu was weeping into a sugar-covered handkerchief and making no attempt to hide it.
+She laughed. It was a lovely laugh, a little wet, the laugh of someone who has carried a heavy parcel and been told, quite unexpectedly, where to set it down. Behind the glass Thandi Zulu was weeping into a sugar-covered handkerchief and making no attempt to hide it.
 
 "Would you play for me?" said Naledi. "I mean now. I do not mean at the club. I mean—you have the saxophone."
 
@@ -6190,7 +6204,7 @@ She laughed. It was a lovely laugh, a little wet, the laugh of a woman who has b
 
 "Then play."
 
-There was a long moment. In the dark of the alley, on the far side of a telephone, a man put a mouthpiece to his lips and a phone to the bell of his horn, which is not how it is done, and which has no support in the literature. And then, in the studio of Goldreef FM, and in four hundred thousand rooms, there came a sound that is difficult to describe to anyone who was not there. It was low, and unhurried, and full of a particular breathless courage. It sounded like a man standing at the edge of something, deciding. It climbed. It did not hurry. It was exactly, as she had once said, the sound of someone talking a person down from a ledge; and when it reached its last note, which it held, and held, and then let go in a long soft fall like a hand being opened, nobody in Johannesburg said a word.
+There was a long moment. In the dark of the alley, on the far side of a telephone, a man put a mouthpiece to his lips and a phone to the bell of his horn, which is not how it is done, and which has no support in the literature. And then, in the studio of Goldreef FM and in four hundred thousand rooms, there came a sound that is hard to describe to anyone who was not there. It was low, and unhurried, and full of a particular breathless courage. It sounded like a man standing at the edge of something, deciding. It climbed. It was exactly, as she had once said, the sound of someone talking a person down from a ledge; and when it reached its last note, which it held, and held, and then let go in a long soft fall like a hand being opened, nobody in Johannesburg said a word.
 
 The engineer, Siya, discovered that he had stopped making signs.
 
@@ -6237,13 +6251,13 @@ They are made of coloured paper over a bamboo frame, five-pointed, with a bulb i
 
 Arjun Nair, up a ladder, was hanging a black one.
 
-"That is not a star," said Lakshmi Panicker, from the doorway of the café next door, where she was holding a tray of banana fritters like a woman presenting arms. "That is a *bereavement.*"
+"That is not a star," said Lakshmi Panicker, from the doorway of the café next door, where she was holding a tray of banana fritters like a soldier presenting arms. "That is a *bereavement.*"
 
 "It is a star."
 
 "It is *black.*"
 
-"The paper was left over." He tied the cord, with the care of a man who has been tying knots in his own heart for seven years. "I pricked it, Lakshmi. Look. With a pin. When the lamp is lit, you will see the holes."
+"The paper was left over." He tied the cord with care. "I pricked it, Lakshmi. Look. With a pin. When the lamp is lit, you will see the holes."
 
 "What do they say?"
 
@@ -6253,7 +6267,7 @@ Arjun Nair, up a ladder, was hanging a black one.
 
 He did not answer. He came down the ladder, and switched on the bulb, and stood in the lane with his hands at his sides and his mended spectacles gleaming, looking at what he had made.
 
-It was a dark star, and it glowed. Through the black paper, in a thousand pin-holes, the light came out in a scatter of gold, thick in some places and thin in others, like a constellation that had not been entered in any chart. It looked like the whole sky from some other, kinder planet. In the middle of it, in a small bright cluster, you could, if you knew the script, read a line in Malayalam.
+It was a dark star, and it glowed. Through the black paper, in a thousand pin-holes, the light came out in a scatter of gold, thick in some places and thin in others, like a sky from some other, kinder planet. In the middle of it, in a small bright cluster, you could, if you knew the script, read a line in Malayalam.
 
 *Ask me what I wrote.*
 
@@ -6265,17 +6279,17 @@ He did not turn round. He could not have.
 
 "Good evening, Meera."
 
-"It is not a good evening. It is a serious evening. I have been wearing a damp page in my blouse for twenty-eight days, and I have come to demand the rest of it."
+"It is not a good evening. It is a serious evening. I have been wearing a damp page in my blouse for twenty-three days, and I have come to demand the rest of it."
 
 She stood in the lane, in the sea-light, in the green sari. She had not, this time, tucked up the hem. She held, in her right hand, a little folded square of paper, gone grey at the creases and soft as cloth.
 
 "I am sorry," said Arjun. "I—what rest?"
 
-"Do not do that. Do not do the voice of a man who has no idea." Her chin came up. "On the first of this month a child in my class, whose name I will not tell you, and who has the manner of a very small Russian novelist, took me to the library computer and showed me the Register. She said, *Teacher, the one in Kochi is Mr. Arjun.* I said that I did not follow. She said: *Entry six hundred ninety-nine. Read it.*"
+"Do not do the voice of a man who has no idea." Her chin came up. "On the first of this month a child in my class, whose name I will not tell you, and who has the manner of a very small Russian novelist, took me to the library computer and showed me the Register. She said, *Teacher, the one in Kochi is Mr. Arjun.* I said that I did not follow. She said: *Entry six hundred ninety-nine. Read it.*"
 
 He had gone quite white. She did not seem to notice. She was looking at the black star.
 
-"*I hid a poem in a book I knew you would buy,*" said Meera. "Do you know what I thought? I thought, *he knew I would buy it.* For seven years I believed I was the one who kept finding. I did not know that I was being *expected.* It is a very different thing to be expected. It makes a person feel, in a lane, in the evening, as though she has been walking on a floor that someone has been sweeping."
+"*I hid a poem in a book I knew you would buy,*" said Meera. "Do you know what I thought? I thought, *he knew I would buy it.* For seven years I believed I was the one who kept finding. I did not know that I was being *expected.* It is a very different thing to be expected. It feels like walking on a floor that someone has been sweeping."
 
 "I am so sorry. I did not want to—to presume—"
 
@@ -6311,7 +6325,7 @@ He could not speak. He held out his hand. She put the grey square of paper into 
 
 "So it is not a request," said Meera. "It never was. It is the reader's line. You left it to me. You have been leaving it to me for seven years, and I have been reading right past it, because I thought it was your word."
 
-She took the paper from his hand. She took, from the string of her blouse, a stub of pencil, and she wrote, with it, on the smudge, in her own quick bright hand, the single word.
+She took the paper from his hand. She took, from the tuck of her sari, a stub of pencil, and she wrote, with it, on the smudge, in her own quick bright hand, the single word.
 
 *മനസ്സിലായി.*
 
@@ -6329,9 +6343,9 @@ The star turned. Somewhere across the water a ferry sounded its horn, and a hund
 
 "I should like to do it slowly."
 
-"Then you will have to carry my shoes," said Meera, "because they are in my bag," and she put into his hands, with a perfectly serious face, a pair of green sandals; and he took them, as a man takes a sacrament; and they went down the lane in the light of a thousand stars, forty paces, very slowly, not touching, the width of a shelf apart.
+"Then you will have to carry my sandals," said Meera, "because they are in my bag," and she put into his hands, with a perfectly serious face, a pair of green sandals; and he took them as one takes a sacrament; and they went down the lane in the light of a thousand stars, forty paces, very slowly, not touching, the width of a shelf apart.
 
-On the café doorstep, Lakshmi Panicker set down her tray and addressed the whole lane, with the air of a woman announcing a verdict.
+On the café doorstep, Lakshmi Panicker set down her tray and addressed the whole lane, in the manner of a judge.
 
 "It took seven years," she said, "and one flood, and a black star. I would like it to be known that I said so."
 
@@ -6345,7 +6359,7 @@ On the café doorstep, Lakshmi Panicker set down her tray and addressed the whol
 
 > *Four letters, two instruments, a radio and a book. One man who cannot speak will play; one who cannot play will write. A woman reads another's secret aloud and trips on her own.*
 >
-> *Observe that neither pair has yet met. A letter, a sound, and a poem are three ways of being near. The fourth is a lane, and forty paces, and a pair of shoes.*
+> *Observe that one pair has yet to meet. A letter, a sound and a poem are three ways of being near. The fourth is a lane, and forty paces, and a pair of sandals.*
 >
 > *The saxophone is unfinished. I have noted that unfinished things, in my experience, are the ones that arrive.*
 
@@ -6366,7 +6380,7 @@ On the café doorstep, Lakshmi Panicker set down her tray and addressed the whol
 ### SCENE I
 *Buenos Aires. San Telmo, a Saturday afternoon in January. It is thirty-six degrees. Every shutter in the barrio is closed and every fan is praying. On the first floor of a former printing house, the Academia Cruz.*
 
-January in Buenos Aires is summer, and this is the one city in this winter's book where nobody is cold. The tar softens. The whole of San Telmo smells of hot stone, grilled meat, and the sweet brown ghost of dulce de leche, and in the Academia Cruz, whose floor is old pine and whose mirrors are older, eleven ceiling fans turned over two persons who were not speaking.
+January in Buenos Aires is summer, and this is the one city in this winter's book where nobody is cold. The tar softens. San Telmo smells of hot stone, grilled meat and the sweet brown ghost of dulce de leche, and in the Academia Cruz, whose floor is old pine and whose mirrors are older, eleven ceiling fans turned over two persons who were not speaking.
 
 "Again," said Valentina Cruz.
 
@@ -6374,29 +6388,23 @@ January in Buenos Aires is summer, and this is the one city in this winter's boo
 
 "You have done it *wrongly.* Again."
 
-Valentina was thirty-three, a tango teacher, small and straight and dark, with a bun pinned so tightly it looked like a decision, and eyes that had been watching other people's feet for fifteen years and had arrived at a low opinion of most of them. She wore black. She had worn it since September two years ago, and told her students that it was practical.
+Valentina was thirty-three, a tango teacher, small and straight and dark, with a bun pinned so tightly it looked like a decision, and eyes that had watched other people's feet for fifteen years and arrived at a low opinion of most of them. She wore black. She had worn it since September two years ago, and told her students that it was practical.
 
-Across the floor stood Mateo Fernández, thirty-five, who had been the best male dancer in the city for a decade, and knew it, and had arranged his entire bearing around the fact, as a cathedral arranges itself around a relic. He was tall, silver at the temples, and graceful in the manner of a thing that has never had to ask. His right arm was raised and curved. His left hand rested on the air at the height of a woman's shoulder-blade, with the fingers a little spread, holding no one.
+Across the floor stood Mateo Fernández, thirty-five, who had been the best male dancer in the city for a decade, and knew it, and had arranged his entire bearing around the fact, as a cathedral arranges itself around a relic. He was tall, silver at the temples, and graceful in the way of something that has never had to ask. His right arm was raised and curved. His left hand rested on the air at the height of a woman's shoulder-blade, with the fingers a little spread, holding no one.
 
-For two years he had danced like that, at milongas, at weddings, at the Mundial. He had never been without a partner: she was simply not visible. The patrons moved aside for the empty place. Some of the old ladies, it was said, curtsied to it.
+For two years he had danced like that, at milongas, at weddings, at the Mundial. He had never been without a partner: she was simply not visible. Patrons moved aside for the empty place. Some of the old ladies, it was said, curtsied to it.
 
 "I cannot do it with anyone else," said Mateo. "I have told you."
 
 "You have told me nineteen times. It is a very repetitive grief."
 
-"I came here to rehearse."
-
-"You came here," said Valentina, "to dance with my sister. I am not offering a lesson. I am a landlady." Her voice, which was perfectly even, did a very small thing at the word. "Marisol would have corrected your left shoulder. It is a half-beat high. It has been a half-beat high since the funeral. A man holds a ghost higher than he held a woman. Did you know that?"
-
-"No."
-
-"It is the most common error in grief."
+"You came here," said Valentina, "to dance with my sister. I am not offering a lesson. I am a landlady." Her voice, which was perfectly even, did a very small thing at the word. "Marisol would have corrected your left shoulder. It has been a half-beat high since the funeral. A man holds a ghost higher than he held a woman. It is the most common error in grief."
 
 From the doorway, where he had been sitting for an hour on a plastic chair with a newspaper held at the angle of disapproval, a voice said: "I put twenty pesos on the shoulder."
 
-This was Ramiro Romero, sixty-seven, a retired choir director, blunt, a matchmaker by temperament and a gossip by vocation, who applied to tango the acid ear of a man who had spent forty years listening for the flat tenor in the back row.
+This was Ramiro Romero, sixty-seven, a retired choir director, a matchmaker by temperament and a gossip by vocation, who brought to tango the acid ear of one who had spent forty years listening for the flat tenor in the back row.
 
-"On the *shoulder?*" said Agustina Benítez, who had come up the stairs with a thermos and a gourd of mate and was handing it round like a priestess. She was fifty-four, a tea seller from Rosario, and sold by the cup to the dancers, the loafers, and the heartbroken, who in her professional opinion were the only ones who tipped. "Everyone knows it is the *chest.* A man who has lost a woman keeps the chest closed, like a shop in a bad month. Mateo, sweetheart, open the shop."
+"On the *shoulder?*" said Agustina Benítez, who had come up the stairs with a thermos and a gourd of mate and handed it round like a priestess. She was fifty-four, a mate seller from Rosario, who sold by the cup to the dancers, the loafers and the heartbroken, who in her professional opinion were the only ones who tipped. "Everyone knows it is the *chest.* A man who has lost a woman keeps the chest closed, like a shop in a bad month. Mateo, sweetheart, open the shop."
 
 "I do not require a *commentary.*"
 
@@ -6404,7 +6412,7 @@ This was Ramiro Romero, sixty-seven, a retired choir director, blunt, a matchmak
 
 ---
 
-Valentina set down her mate. She crossed the floor, in her flat black practice shoes, in the thick shimmering light that came between the shutters, and stopped in front of him, closer than she had stood since a morning in September in a churchyard.
+Valentina set down her mate. She crossed the floor in her flat black practice shoes, through the thick shimmering light between the shutters, and stopped in front of him, closer than she had stood since a morning in September in a churchyard.
 
 "Take your hand down," she said.
 
@@ -6412,17 +6420,17 @@ Valentina set down her mate. She crossed the floor, in her flat black practice s
 
 "Because it is on the wrong person."
 
-He did not move. It was, she saw, the first time in two years that anyone had told him the thing, and he stood quite still, with his arm held out, as though the air were still warm.
+He did not move. It was, she saw, the first time in two years that anyone had told him, and he stood quite still, his arm held out, as though the air were still warm.
 
 "She used to say," said Mateo, quietly, "that I led like a man carrying a tray. Everything perfect and nothing spilt. And then, in the last year, she said: *You have started to listen.* I do not know when it was. I would give anything to have asked her what she heard."
 
 "She heard you, you idiot," said Valentina Cruz, "*breathing.*" And before she knew that she was going to do it, she lifted her own hand, and laid it flat upon his left arm, and drew it down; and then she stepped into the space where the ghost had stood.
 
-It was only a walk. In tango the first thing, the only thing, is the walk: eight steps, forward, with the weight carried from heel to ball like a secret from one hand to another. She did not dance. She stood in the circle of his arm, with her face turned away, with her left hand on his shoulder, which was indeed a half-beat high, and she said, not looking at him: "Walk."
+It was only a walk. In tango the first thing, the only thing, is the walk: eight steps, with the weight carried from heel to ball like a secret passed from one hand to another. She did not dance. She stood in the circle of his arm, face turned away, her left hand on his shoulder, which was indeed a half-beat high, and said, not looking at him: "Walk."
 
 He walked.
 
-She went backward, as a follower goes, with the whole of her attention on the one point of contact on her back, as a blind woman listens to a hand upon a banister. Eight steps. At the fourth he stumbled. At the fifth he was wrong. At the sixth, to his own astonishment, he knew where she was going to be.
+She went backward, as a follower goes, with the whole of her attention on the one point of contact on her back. Eight steps. At the fourth he stumbled. At the fifth he was wrong. At the sixth, to his own astonishment, he knew where she was going to be.
 
 "There," said Valentina. "That is her. That is not her. That is *me,* and I am alive, and I do not hold the way she did. I am heavier. I lean on the left. I would rather die than be led through a turn." She stopped. Her voice cracked once, like ice on a pond. "I have hated you for two years, Mateo. She was my sister, and she danced with you, and I taught her. I taught her every step of it. And when she danced with you she never looked at me again."
 
@@ -6462,19 +6470,19 @@ Later, when they had gone, and the fans turned over an empty floor, Valentina sa
 ### SCENE II
 *Santos, on the coast of São Paulo state. Sunday, the same weekend. A small blue house two streets from the port, where the cranes stand over the roofs like patient herons.*
 
-The invitation had come in a hand-written envelope, with a drawing of a bus on it. *Dona Zuleide Teles requests the presence of the Doutora and the Seu Carlos at a lunch in memory of her husband, who would have been fifty-nine.*
+The invitation had come in a handwritten envelope, with a drawing of a bus on it. *Dona Zuleide Teles requests the presence of the Doutora and the Seu Carlos at a lunch in memory of her husband, who would have been fifty-nine.*
 
 It was the first time they had been in the same room since the lift. In the intervening nine weeks Dr. Lima had found it necessary to follow up eleven patients at the Santa Aurora rehabilitation wing, every one of whom, Carlos had observed, was in perfect health. Dona Cida, who was seventy-one and nobody's fool, had said: "That girl has not looked at me once. She is looking at *you.* In my day we called it a follow-up."
 
-Now they sat on a back veranda under a lemon tree, among forty bus drivers in the uniform shirts of the Linha 7, and a widow in black, and a hot Atlantic wind. Beatriz's father had taken over the kitchen at nine in the morning, in defiance of the entire code of hospitality, and was presiding over a feijoada of such majesty that a driver of sixty, who had not wept at his friend's funeral, was weeping into a pork rib.
+Now they sat on a back veranda under a lemon tree, among forty bus drivers in the uniform shirts of the Linha 7, and a widow in black, and a hot Atlantic wind. Beatriz's father had taken over the kitchen at nine in the morning, in defiance of the entire code of hospitality, and presided over a feijoada of such majesty that a driver of sixty, who had not wept at his friend's funeral, was weeping into a pork rib.
 
 "Senhora," said Pedro Rocha, from the stove, in the voice of a prophet, "a widow has cooked enough."
 
-Dona Zuleide was a small wrinkled woman of sixty-six with a face like a clenched walnut and the eyes of a bird, and she had been watching Carlos since he arrived. She watched him now as he carried the plates to the kitchen and ran water over his hands at the sink, scrubbing them, since he was a physiotherapist and believed that hands, after food, should be returned to the profession.
+Dona Zuleide was a small wrinkled woman of sixty-six with a face like a clenched walnut and the eyes of a bird, and she had been watching Carlos since he arrived. She watched him now as he carried the plates to the kitchen and scrubbed his hands at the sink, being a physiotherapist who believed that hands, after food, should be returned to the profession.
 
 He took off the ring.
 
-He did it without thought, as a man does a thing that has become necessary, and set it on the windowsill beside the soap, where the light fell through the lemon leaves and made it look, for a moment, like a small gold sun.
+He did it without thought, and set it on the windowsill beside the soap, where the light fell through the lemon leaves and made it look, for a moment, like a small gold sun.
 
 Then he dried his hands and went out to the veranda, and forgot it.
 
@@ -6482,15 +6490,15 @@ Then he dried his hands and went out to the veranda, and forgot it.
 
 Beatriz found it ten minutes later. She had come in for water.
 
-She did not pick it up. She stood, with the glass in her hand, and looked at a plain gold band on a windowsill, and the light moving over it, and at the inside of the band, where a line of tiny letters had caught the sun: *M. & C. — 14.3.* Under it a second date. There was only the one name. She did not have to be told what it meant. She was a surgeon. She knew what it was to read an X-ray and see, without being told, the old break that has healed.
+She did not pick it up. She stood with the glass in her hand and looked at a plain gold band on a windowsill, and at the inside of the band, where a line of tiny letters had caught the sun: *M. & C. — 14.3.* She did not have to be told what it meant. She was a surgeon. She knew what it was to read an X-ray and see, without being told, the old break that has healed.
 
 "He is a widower, child," said a voice at her elbow.
 
 Dona Zuleide Teles had come in, as small women do, with no sound at all.
 
-"I know a widower when I see one wash his hands without his ring," said the old woman. "A married man leaves it on. A widower takes it off in other people's kitchens, where nobody will remark." She took the glass out of Beatriz's grip, and drank from it, with a certain firmness. "I was a wife for forty-one years. I am a widow since the third of November. I have not yet taken mine off. The ring is not a lie, child. It is a *door.* He has been holding it open for her for a very long time. Somebody has to say to him: *You may come through.*"
+"A married man leaves his ring on," said the old woman. "A widower takes it off in other people's kitchens, where nobody will remark." She took the glass out of Beatriz's grip and drank from it, with a certain firmness. "I was a wife for forty-one years. I am a widow since the third of November. I have not yet taken mine off. The ring is not a lie, child. It is a *door.* He has been holding it open for her for a very long time. Somebody has to say to him: *You may come through.*"
 
-"I am not—it is not—Dona Zuleide, I have no right—"
+"Dona Zuleide, I have no right—"
 
 "You have a pulse," said the widow, tartly. "In my experience it is the only credential. Go and ask him."
 
@@ -6500,7 +6508,7 @@ He was in the garden by the lemon tree, looking at the cranes.
 
 "Seu Carlos," said Beatriz. "I have a question, and I am a surgeon, so I am going to ask it in the most efficient manner possible. Are you married?"
 
-He turned. The wind lifted his hair. He looked at her for a long time, with his warm crooked face, and in it she saw, one after the other, six or seven things he might have said, none of which he said.
+He turned. He looked at her for a long time, with his warm crooked face, and she saw, one after the other, six or seven things he might have said, none of which he said.
 
 "I was," said Carlos Mendes. "Marina died in March, two years ago. It was long. I would sooner not say how long. I have worn the ring because it is easier than a sentence." He drew breath. "I did not tell you in the lift because the word was heavier than the lift."
 
@@ -6510,23 +6518,17 @@ He turned. The wind lifted his hair. He looked at her for a long time, with his 
 
 "I saw it on the sill. I am sorry. I did not touch it."
 
-"It is not a thing one needs to protect," said Carlos, gently, and, to her great surprise, smiled. "I left it there on purpose. I did not know I had. I think my hands had decided something before I had."
+"It is not a thing one needs to protect," said Carlos gently, and, to her great surprise, smiled. "I left it there on purpose. I did not know I had. I think my hands had decided something before I had."
 
 They stood together under the lemon tree. Over the roofs the cranes of the port lifted a blue container into the white sky, slowly, with the grave ceremony of the very large.
 
-"I am not asking for anything," said Beatriz. "I wished to know. It is a matter of—of accuracy."
-
-"Doutora Lima."
-
-"Yes."
+"I am not asking for anything," said Beatriz. "I wished to know. It is a matter of accuracy."
 
 "I will fetch it," said Carlos. "I would not leave it in a stranger's kitchen." He walked into the house, and when he came out the ring was in his hand, and he stood a moment with it, turning it as he had turned it a thousand times against the hem of his coat.
 
-He did not put it on.
+He did not put it on. He slid it, instead, into the breast pocket of his shirt, on the left, over the heart, where it could be felt and was not worn.
 
-He slid it, instead, into the breast pocket of his shirt, on the left, over the heart, where it could be felt, and was not worn.
-
-"It is not that I am free," said Carlos. "I do not know what I am. But I think I should like to find out, in daylight, with no ring on my hand, and a surgeon who comes to my ward eleven times in nine weeks to follow up on patients who are not ill."
+"It is not that I am free," said Carlos. "I do not know what I am. But I should like to find out, in daylight, with no ring on my hand, beside a surgeon who comes to my ward eleven times in nine weeks to follow up on patients who are not ill."
 
 "It was *nine* times," said Beatriz, scarlet.
 
@@ -6539,11 +6541,11 @@ And from the veranda, in a voice of sacred solemnity, her father began, over for
 ---
 
 ### SCENE III
-*Yogyakarta. A workshop behind a house in the Prawirotaman quarter. The wet season. The rain is coming down on the tiles in a long continuous roar, as if the sky were being poured out of a very large jug.*
+*Yogyakarta. A workshop behind a house in the Prawirotaman quarter. The wet season. The rain comes down on the tiles in a long continuous roar, as if the sky were being poured from a very large jug.*
 
 Ermis Larasati opened the email on a Wednesday, at eleven in the morning, with a canting in her right hand.
 
-She had been drawing wax on a cloth: a *kawung,* the old pattern of four ovals, which looks like a field of seeds and is said to be the oldest design on Java. The little copper-spouted pen, the *canting,* ran hot wax in a thread as fine as hair. It is the whole art. One draws with wax whatever one wishes to protect; the cloth is put into the dye; the dye takes everything unprotected; and when the wax is boiled away what remains, in a white line against the indigo, is the thing that was kept.
+She had been drawing wax on a cloth: a *kawung,* the old pattern of four ovals, which looks like a field of seeds and is said to be among the oldest designs on Java. The little copper-spouted pen, the *canting,* ran hot wax in a thread as fine as hair. One draws with wax whatever one wishes to protect; the cloth goes into the dye; the dye takes everything unprotected; and when the wax is boiled away what remains, a white line against the indigo, is the thing that was kept.
 
 Her phone gave a soft chime on the table. She read the subject line with the pen still in the air, and a drop of wax fell on the cloth, and made a small spreading golden mistake.
 
@@ -6553,7 +6555,7 @@ Her phone gave a soft chime on the table. She read the subject line with the pen
 
 *It is with great pleasure that the selection committee offers you a two-year residency, with a studio, a stipend, and full access to the Laboratory's collection of historical dye-works. The programme begins on the twenty-second of May. We would be grateful for your acceptance by the thirty-first of January…*
 
-She read it three times. She put down the canting, with great care, in its brass dish. She sat for some time with her hands in her lap in the roar of the rain.
+She read it three times. She put down the canting, with great care, in its brass dish, and sat for some time with her hands in her lap in the roar of the rain.
 
 Behind her, on the window-rail, the green parrot opened a yellow eye.
 
@@ -6575,7 +6577,7 @@ It was Eyang Sri, her grandmother, eighty-one, who had made batik for sixty-eigh
 
 "I do not know."
 
-"You know. Your hand has put a mistake on a *kawung* and you have not corrected it. When a girl does not correct an error in her best pattern, she is thinking of a very great thing." She sat down on the low stool, and took her granddaughter's hand, and turned it palm up, as if the matter might be written there. "Is there a boy?"
+"You know. Your hand has put a mistake on a *kawung* and you have not corrected it. When a girl leaves an error in her best pattern, she is thinking of a very great thing." She sat down on the low stool and turned her granddaughter's hand palm up, as if the matter might be written there. "Is there a boy?"
 
 "*Eyang.*"
 
@@ -6623,19 +6625,13 @@ On Friday, at 22:00 in Dhaka and 23:00 in Yogyakarta, the green dot came on.
 
 "I am four minutes early," said Ermis. "It is called being the one who is ahead."
 
-He had come up from the tea stall, where Bunny had delivered an opinion on his shirt, and sat at the desk with the laptop propped on a stack of textbooks. It was the dry cold of Dhaka's winter, the season of shawls and date-palm juice and wood-smoke, and the lane outside was misted over like a dream of itself. On the corner of the desk, face down beneath a paperweight, lay an envelope with an embassy's crest, which he had been not opening for nine days.
+He had come up from the tea stall, where Bunny had delivered an opinion on his shirt, and sat at the desk with the laptop propped on a stack of textbooks. It was the dry cold of Dhaka's winter, the season of shawls and date-palm juice and wood-smoke, and the lane outside was misted over. On the corner of the desk, face down beneath a paperweight, lay an envelope with an embassy's crest, which he had been not opening for nine days.
 
-They talked of Ayu, who had learned a fourth word, which was *invoice.* They talked of a firm in Singapore that had sent him a test project, five nights, with a decision after; of his sister's physics, which had taken on the aspect of a religious conflict; of whether a *kawung* was better in blue or in brown. They talked for an hour and ten minutes, as one talks across a very small table. Twice he made her laugh so hard the pen rattled.
+They talked of Ayu, who had learned a fourth word, which was *invoice;* of a firm in Singapore that had sent him a test project, five nights, with a decision after; of his sister's physics, which had taken on the aspect of a religious conflict; of whether a *kawung* was better in blue or in brown. They talked for forty minutes, as one talks across a very small table. Twice he made her laugh so hard the pen rattled. Twice she opened her mouth.
 
-Twice she opened her mouth.
+"Ermis?" said Fayaz, the second time. "You were going to say something."
 
-"Ermis?" said Fayaz, the second time.
-
-"Yes?"
-
-"You were going to say something."
-
-*Say it,* thought Ermis. *Say: I have been offered two years in a country with water. Say: I am an hour ahead of you and I am about to be nine thousand miles.*
+*Say it,* thought Ermis. *Say: I have been offered two years in a country with water. Say: I am an hour ahead of you and I am about to be five hours behind.*
 
 "I was going to say," said Ermis, "that you have a very good face for a man who is in debt."
 
@@ -6647,7 +6643,7 @@ He considered this.
 
 "I will tell him. He will be insufferable."
 
-"He is already. It is the family trait of the very young." The screen flickered. "Same time next Friday?"
+"He is already. Same time next Friday?"
 
 "I have never missed one."
 
@@ -6657,7 +6653,7 @@ He considered this.
 
 She laughed, and cut the call, and the screen went black, and in the bright small mirror of the dark he saw his own face, and the unopened letter behind it, and did not touch it.
 
-In Yogyakarta, in the rain, with the wax going cold in its dish, Ermis sat for the length of one breath and then another, before the glowing rectangle of her second screen. At seven minutes past midnight, by her clock, which was truly seven past eleven in the lane at Mirpur, where a young man was walking to the corner for a last cup of tea and a little of the cold, she put out her hand, and pressed *Accept.*
+In Yogyakarta, in the rain, with the wax going cold in its dish, Ermis sat for a long while before the glowing rectangle of her second screen. At seven minutes past midnight, by her clock, which was seven past eleven in the lane at Mirpur, where a young man was walking to the corner for a last cup of tea, she put out her hand and pressed *Accept.*
 
 "*TOO LATE,*" said Ayu, from the rail, very softly.
 
@@ -6667,7 +6663,7 @@ In Yogyakarta, in the rain, with the wax going cold in its dish, Ermis sat for t
 
 *Margin note, in pencil, in the hand of S.W.R., against Entries 0027, 0230, 0016, 0818, 0713 and 0714:*
 
-> *Three people today have laid down something that they should have set down long before; and three have refused to set down what they should. A ring is moved to a pocket. A hand is lowered from the air. A letter lies face-down beneath a paperweight.*
+> *Some today have laid down what they should have set down long before; and some have refused to set down what they should. A ring is moved to a pocket. A hand is lowered from the air. A letter lies face-down beneath a paperweight.*
 >
 > *He is an hour behind her. She has pressed the key. It is already tomorrow for the one of them, and tonight, still, for the other. I have told you before: it is not the clocks that part us. It is the thing each of us keeps for the morning.*
 
@@ -6688,15 +6684,15 @@ In Yogyakarta, in the rain, with the wax going cold in its dish, Ermis sat for t
 ### SCENE I
 *Kano, Nigeria. The tailors' lane behind Kurmi Market, ten in the morning, in the season of the harmattan. The wind has come down from the Sahara with a load of fine red dust, and the sun hangs in the sky like a coin at the bottom of a pond.*
 
-In the lane behind Kurmi Market the treadle machines clatter in their hundreds, like a town of nervous sparrows, and on a harmattan morning the dust lies on the cloth, on the counters, on the cats, and on the eyelashes of the goldsmith, who was Aminu Yakubu, fifty, the owner of the loudest laugh in Kano and the shop next door to a tailor.
+In the lane behind Kurmi Market the treadle machines clatter in their hundreds, like a town of nervous sparrows, and on a harmattan morning the dust lies on the cloth, on the counters, on the cats, and on the eyelashes of the goldsmith, who was Bashir Yakubu, fifty, the owner of the loudest laugh in Kano and the shop next door to a tailor.
 
 "*Yusuf!*" he roared, through the wall. "There is a very old woman in your doorway, and she is holding a fan like a sword!"
 
 "I know," said Yusuf Abdullahi, from the dark of his shop. "I am hiding."
 
-He was thirty-three, a tailor, devout and modest and the best in the lane, which he would have denied under oath. He was a narrow man with a clean-shaven, serious face, and hands like a pianist's, long and exact, that moved on a seam as if it were a sleeping child. He had a Singer treadle machine older than himself, a tape measure around his neck like a stole, and a prayer-cap that sat very straight. He had never said an unnecessary word, and had accordingly said, in thirty-three years, hardly any at all.
+He was thirty-three, a tailor, devout and modest and the best in the lane, which he would have denied under oath. He was a narrow man with a clean-shaven, serious face and long, exact hands that moved along a seam as if it were a sleeping child. He had a Singer treadle machine older than himself, a tape measure around his neck like a stole, and a prayer-cap that sat very straight. He had never said an unnecessary word, and had accordingly said, in thirty-three years, hardly any at all.
 
-"Malam Yusuf," said Hajiya Zainab Bello, sweeping in. She was sixty-nine, a retired pharmacist and, in the opinion of Kano, the finest matchmaker north of the Niger. She had arranged four hundred and six marriages and been wrong, by her own count, in two. She sat on the stool in the corner and arranged her *zani* about her like a general disposing her flag. "I have come to commission a dress."
+"Malam Yusuf," said Hajiya Zainab Bello, sweeping in. She was sixty-nine, a retired pharmacist and, in the opinion of Kano, the finest matchmaker north of the Niger. She had arranged four hundred and six marriages and been wrong, by her own count, in two. She sat on the stool in the corner and arranged her *zani* about her like a general disposing a flag. "I have come to commission a dress."
 
 "For whom, Hajiya?"
 
@@ -6712,7 +6708,7 @@ He was thirty-three, a tailor, devout and modest and the best in the lane, which
 
 There was a very small sound. It was the sound of a tape measure being dropped.
 
-*A man of Yusuf Abdullahi's character does not faint. He merely sat down, with great deliberation, on the nearest bolt of cloth, and looked at a small lizard on the opposite wall as if it had said something of the highest importance.*
+Yusuf Abdullahi did not faint; it was not in his character. He sat down, with great deliberation, on the nearest bolt of cloth, and looked at a small lizard on the opposite wall as if it had said something of the highest importance.
 
 "Hauwa," said Yusuf.
 
@@ -6740,15 +6736,15 @@ When she had gone, the goldsmith put his head round the wall with a plate of gro
 
 "I am only going to say—"
 
-"Aminu."
+"Bashir."
 
-"—that I have sold gold to four hundred grooms," said Aminu Yakubu, "and I have never once seen one look as you looked just now. And you are not the groom." He placed the plate carefully on the counter. "I have a wife. I know nothing. Eat the nuts."
+"—that I have sold gold to four hundred grooms," said Bashir Yakubu, "and I have never once seen one look as you looked just now. And you are not the groom." He placed the plate carefully on the counter. "I have a wife. I know nothing. Eat the nuts."
 
 ---
 
 The dress of Hauwa Garba came on Thursday, folded in a clean cloth, in the arms of her mother.
 
-It was a plain green cotton dress, worn at the elbows, with a pocket on one side where a pencil had been carried, and ink on the right cuff, a small blue-black stain. She wrote the register of births. It was the stain of four hundred children's names. He turned it on the table beneath the lamp, and measured, as he had been told, the shoulder, the sleeve, the fall, and in the measuring he read her, as a man reads a page in a language he has studied for years: the way she carried her left arm a little crooked, from lifting; the narrowness of the waist, from forgetting to eat; the fold at the elbow where a woman has leaned on a doorframe through a long night, waiting for a head to crown.
+It was a plain green cotton dress, worn at the elbows, with a pocket on one side where a pencil had been carried, and ink on the right cuff, a small blue-black stain. She wrote the register of births. It was the stain of four hundred children's names. He turned it on the table beneath the lamp, and measured, as he had been told, the shoulder, the sleeve, the fall, and in the measuring he read her, as one reads a page in a language studied for years: the way she carried her left arm a little crooked, from lifting; the narrowness of the waist, from forgetting to eat; the fold at the elbow where a woman has leaned on a doorframe through a long night, waiting for a head to crown.
 
 He did not say her name. He had a rule.
 
@@ -6781,7 +6777,7 @@ Hauwa Garba had been awake since the previous dawn. She had delivered a child in
 
 She was thirty, tall, quiet, with a long, still face and brown eyes that missed nothing. She had delivered four hundred and twelve children. She had learned to wait. It was a skill, she told the young nurses, and it was not the same as having time.
 
-She was to be married in May. She knew the baker, who was honourable, and silent, and had once walked past her clinic door a hundred times without going in. She knew her father's heart, which was set on it, and Hajiya Zainab's, which was set on everything. She had said nothing. A woman of thirty in Kano has a great many ways of saying it.
+She was to be married in May. She knew the baker, who was honourable, and silent, and had once walked past her clinic door a hundred times without going in. She knew her father's heart, which was set on it, and Hajiya Zainab's, which was set on everything. She had said nothing. A woman of thirty in Kano has a great many ways of saying nothing.
 
 In the lane, in the grey, one light was burning. It was a little yellow flame behind a slit in a shutter, in a shop the width of a coffin; and through the slit, because she was a midwife and had learned to see in the dark, she saw a man with his head down, quite still, with a thread in his teeth, and on his table a long cloth the colour of milk.
 
@@ -6806,7 +6802,7 @@ She did not say it aloud. She said, instead, very softly, to the lamp, in the wa
 
 The company had died on a Thursday and been buried on a Friday, in the form of a letter from a lawyer in Ikoyi; and the nine members of its staff, having read it aloud to one another in the toilet, had agreed to take it as a suggestion.
 
-So they had stayed. Emeka Okafor, twenty-eight, founder of nothing, sat among them with a calculator and the expression of a man who has been forgiven by a congregation and cannot decide what to do with it. Tobi, twenty-four, had built a spreadsheet of Chidinma Eze's order book so beautiful that it was shown to visitors. Ngozi Afolabi, her oldest friend, a mechanic, had taken the big Juki sewing machine apart on the floor, in her coverall, and was speaking to it quietly, as one talks to a horse before an operation.
+So they had stayed. Emeka Okafor, twenty-eight, founder of nothing, sat among them with a calculator and the look of one who has been forgiven by a congregation and cannot decide what to do with it. Tobi, twenty-four, had built a spreadsheet of Chidinma Eze's order book so beautiful that it was shown to visitors. Ngozi Afolabi, her oldest friend, a mechanic, had taken the big Juki sewing machine apart on the floor, in her coverall, and was speaking to it quietly, as one talks to a horse before an operation.
 
 "A machine that has been set to one stitch," said Ngozi, "hates to be asked for another. That is not a fault. That is *character.*"
 
@@ -6881,7 +6877,7 @@ On the seat was a paper boat.
 
 It was folded neatly, as a child folds one, with a crisp bow and stern. It had been made from a page of notebook paper. She knew the ruling. She knew the faint blue lines. She knew, with a cold, clear, slow dropping of the stomach, the handwriting that ran across the sail, because it was her own.
 
-*Name. Contractor. Amount.* It was a page from the third notebook, from the bottom of her bag, in the office, in the locked drawer.
+*Name. Contractor. Amount.* It was a page from the third notebook, which she kept in the locked drawer of her desk.
 
 On the other side, in a different hand, a hand that had been taught to write by a clerk, a single line:
 
@@ -6889,9 +6885,9 @@ On the other side, in a different hand, a hand that had been taught to write by 
 
 Sana Ahmed stood in the lamplight for a long time.
 
-She did not look round. She did not need to. She had interviewed enough frightened men to know exactly how it felt when someone was watching from a car with the lights off, and she would not give him the pleasure. She turned the boat over once in her palm. It weighed nothing. It weighed about as much as a sentence.
+She did not look round. She did not need to. She had interviewed enough frightened men to know exactly how it felt when someone was watching from a car with the lights off, and she would not give him the pleasure. She turned the boat over once in her palm. It weighed about as much as a sentence.
 
-Then she did the bravest thing she knew. She folded it back along its creases, and put it into the pocket of her bag, and put on her helmet, and she started the engine, and she rode the same way home.
+Then she did the bravest thing she knew. She folded it back along its creases, put it into the pocket of her bag, put on her helmet, started the engine, and rode the same way home.
 
 *Reader, I will not tell you that she was not afraid. The Keeper has read her letter; it says plainly: "A man has threatened me and I pretend I am not afraid." Pretending is not the absence of fear. It is a form of rowing.*
 
@@ -6944,39 +6940,39 @@ She took out the paper boat. He held it for a long time, in the pale morning, wi
 ---
 
 ### SCENE I
-*Lyon. The Croix-Rousse, the first Sunday of February, twenty past three in the morning. It is snowing on the hill of the silk-weavers, softly, as though the sky were folding linen.*
+*Lyon. The Croix-Rousse, the first Sunday of February, half past three in the morning. It is snowing on the hill of the silk-weavers, softly, as though the sky were folding linen.*
 
 Pierre Dubois opened the shutter at half past three, and found a woman on his step.
 
-She was standing in the snow in a long grey coat, with a bunch of violets held out in front of her like a candle in a procession. Her shoulders were white, and her scarf, the colour of a pigeon's wing, had acquired a small drift. She had come to leave them and run, as she had run twelve Sundays running; and at the last moment, with her hand already lowered toward the stone, she had found that her feet would not.
+She stood in the snow in a long grey coat, a bunch of violets held out before her like a candle in a procession. Her shoulders were white, and her scarf had acquired a small drift. She had come to leave them and run, as she had run eleven Sundays running; and at the last moment, with her hand already lowered toward the stone, she had found that her feet would not.
 
 "Madame Laurent," said Pierre.
 
-"Monsieur Dubois." Margaux Laurent drew a breath, which smoked. "I have been practising what to say for eleven weeks. It was very good. I seem to have mislaid it."
+"Monsieur Dubois." Margaux Laurent drew a breath, which smoked. "I have been practising what to say for twelve weeks. It was very good. I seem to have mislaid it."
 
 "You are covered in snow."
 
 "It is the violets I am worried about."
 
-"They are *Parma* violets. They are made for nothing else." But he had taken them, in his floury hand, and held them as one holds a bird. "Come in. It is a bakery. It is the only thing about me that is warm."
+"They are *Parma* violets. They are made for snow." But he had taken them, in his floury hand, and held them as one holds a bird. "Come in. It is a bakery. It is the only thing about me that is warm."
 
-They sat on two upturned crates beside the oven, in the sweet gold dark, and he put into her hands, without a word, a round dark loaf with walnuts in it, warm from the rack. It was the first he had ever given with his own hand to a person he could see.
+They sat on two upturned crates beside the oven, in the sweet gold dark, and he put into her hands, without a word, a round dark loaf with walnuts in it, warm from the rack. It was the first he had ever given with his own hand to anyone he could see.
 
 "It is Odile's," said Pierre, to the loaf. "My wife's. She died four years ago in the spring. I have made it every Sunday since. I do not know how to stop."
 
-"I know," said Margaux. "I have eaten thirteen of them. One came to my shop in a basket, from a witness." She turned the bread over. "My husband made violins. Luc. I keep a bow of his in the shop, behind the ribbons. I tell the customers it is for the arrangement."
+"I know," said Margaux. "I have eaten one of them. It came to my shop in a basket, from a witness." She turned the bread over. "My husband made violins. Luc. I keep a bow of his in the shop, behind the ribbons. I tell the customers it is for the arrangement."
 
 "Does anyone believe you?"
 
-"Everyone. It is a *florist's* shop." She smiled, and her face did a thing that her face had not done in some time. "I wrote it in the Register, you know. *I left the flowers at your door. It was always me.*"
+"Everyone. It is a *florist's* shop." She smiled, which her face had not done in some time. "I wrote it in the Register, you know. *I left the flowers at your door. It was always me.*"
 
 "I read it on Tuesday," said Pierre. "I was too afraid to come."
 
-"We are a pair of very large cowards."
+"We are a pair of very large cowards," said Pierre.
 
 "It is a *skill,*" said Margaux Laurent. "I have been practising for three years."
 
-They broke the bread. The steam rose between them, and in it two persons who had made things all their lives for the dead found out, with some astonishment, that it is permitted to make them for the living.
+They broke the bread. In the steam between them two persons who had made things for the dead found out, with some astonishment, that it is permitted to make them for the living.
 
 At six, a bicycle came up the hill in the dark, and a thin boy in an anorak stopped dead at the door.
 
@@ -6989,19 +6985,17 @@ At six, a bicycle came up the hill in the dark, and a thin boy in an anorak stop
 ---
 
 ### SCENE II
-*Crete. A village in the White Mountains, and a shop behind the harbour at Chania. The olive harvest is over; the first snow has come to the high peaks, which stand in the east like a row of white pages.*
+*Crete. A village in the White Mountains, and a shop behind the harbour at Chania. The olive harvest is over; snow lies on the high peaks, which stand in the east like a row of white pages.*
 
 On the same morning, on a mountain road, a taxi came round a bend at the speed of an argument.
 
-"Women," said Kostas Mavros, forty-four, taxi driver, who had one eye on the road and the other on his passenger, an arrangement that has made orphans of whole families, "are like the White Mountains. You do not conquer them. You—"
+"Women," said Kostas Mavros, forty-four, taxi driver, who kept one eye on the road and the other on his passenger, an arrangement that has made orphans of whole families, "are like the White Mountains. You do not conquer them. You—"
 
-"Everyone has heard it, Kostas," said the young woman beside him. She was Anastasia Georgiou, twenty-five, a street vendor from Heraklion, with a theatrical conviction that she was the heroine of whatever room she was in. She sat very straight with a wooden crate across her knees, tied with kitchen string, like a martyr being taken to the stake in a hired car. "I do not wish to look at him. I shall look at an olive tree."
-
-"There are four thousand. Choose one that is not on fire."
+"Everyone has heard it, Kostas," said the young woman beside him. She was Anastasia Georgiou, twenty-five, a street vendor from Heraklion, with a theatrical conviction that she was the heroine of any room. She sat very straight with a wooden crate across her knees, tied with kitchen string, like a martyr being driven to the stake. "I do not wish to look at him. I shall look at an olive tree."
 
 In the crate lay thirty letters.
 
-They had been written, one every spring for thirty years, by a man who grew olives at the end of this road, to a woman in a shop behind the Venetian harbour, and every one had been taken in by that woman and put in a drawer. She had never opened one. Last Tuesday, in the back room of the shop that said *CREDIT IS A SIN,* she had read on a telephone, in the plain white type of the Register, *I have written to you every spring for thirty years,* and had sat a long time with her hand flat on the counter. Then she had fetched the box from the drawer, and tied the string, and sent for her niece.
+They had been written, one every spring for thirty years, by a man who grew olives at the end of this road, to a woman in a shop behind the Venetian harbour, and every one had been taken in by that woman and put in a drawer. She had never opened one. Last Tuesday, in the back room of the shop that said *CREDIT IS A SIN,* she had read on her telephone, in the plain white type of the Register, *I have written to you every spring for thirty years,* and had sat a long time with her hand flat on the counter. Then she had fetched the box from the drawer, and tied the string, and sent for her niece.
 
 "What am I to say to him?" Anastasia had demanded.
 
@@ -7011,65 +7005,63 @@ They had been written, one every spring for thirty years, by a man who grew oliv
 
 "It means," said Eleni Stavrou, "that I have thirty letters and a very bad character." And she had gone into the storeroom and shut the door.
 
-*Reader, a person may do a brave thing and a cruel thing with the same pair of hands, and at the moment of doing it be unable to say which.*
+George Papadakis was sixty years old, and he was pruning a tree. He stood on a stepladder in the grey light, in the oldest grove on the mountain, among trees that had been in the ground since the Venetians, and turned his head at the sound of the car with the slowness of one who has been disappointed by a great many vehicles. He climbed down. He took off his cap.
 
-George Papadakis was sixty years old, and he was pruning a tree. He stood on a stepladder in the grey light, in the oldest grove on the mountain, among trees that had been in the ground since the Venetians, and turned his head at the sound of the car with the careful slowness of a man who has been disappointed by a great many vehicles. He climbed down. He took off his cap.
+The young woman looked, with theatrical fixity, at the nearest olive. She said "From Chania," in the voice of one reading a death sentence, put the crate into his arms, and went back to the taxi.
 
-The young woman looked, with theatrical fixity, at the nearest olive. She said "From Chania," in the voice of one reading a death sentence, and put the crate into his arms, and went back to the taxi without a word.
+He knew, before he lifted the lid, what it was: the weight of thirty springs. They lay in their order, in their cream envelopes, soft with age, her name on each in his own hand growing older, and on every one the round stamp of a post office that had delivered it to the right door. They had never been opened. There was no note.
 
-He knew, before he lifted the lid, what it was; it was the weight of thirty springs. They lay in their order, in their old cream envelopes, soft with age, with her name on them in his own hand getting older, and on every one the little round seal of a post office that had delivered it to the right door. They had never been opened. There was no note.
-
-"Well," said Kostas Mavros, leaning from the window of the taxi. "That is a *no.* I am very sorry, my friend. I could drive you down. We could have a raki."
+"Well," said Kostas Mavros, leaning from the taxi window. "That is a *no.* I am sorry, my friend. We could have a raki."
 
 "Thank you," said George Papadakis. "I will sit a little."
 
 He sat down on the ground, with his back to the oldest tree and the crate in his lap, and did not untie the string. In the east the white mountains were turning gold along their edges.
 
-"Thirty springs," said George, to the tree. "It was never the answer I wanted. But I had the *post.* A man who writes a letter has a conversation, whether anyone answers. And now they have all come home at once, like sheep."
+"Thirty springs," said George, to the tree. "A man who writes a letter has a conversation, whether anyone answers. And now they have all come home at once, like sheep."
 
-He sat until the light was entirely gold. He did not open the box. Kostas, who had come back with the engine off to sit unseen in the lane, would say afterward that in all his years of driving he had never seen anything like it: an old man under a tree with a box of letters, being, in the whole of that bright mountain, perfectly still.
+He sat until the light was entirely gold. He did not open the box. Kostas, who had crept back with the engine off to sit unseen in the lane, would say afterward that in all his years of driving he had never seen anything like it: an old man under a tree with a box of letters, perfectly still, in the whole of that bright mountain.
 
 ---
 
 ### SCENE III
 *Kraków. The Main Market Square, Thursday at dusk. Snow lies on the roofs of the Cloth Hall. The horses of the carriages stand in blankets. In the high window of St. Mary's tower a light has come on.*
 
-At dusk on Thursday, as always, Zofia Kowalska came to the foot of the tower in a red scarf, and opened her violin case on the stones.
+At dusk on Thursday, as always, Zofia Kowalska came to the foot of the tower in a red scarf and opened her violin case on the stones.
 
-She was twenty-three. She had played here every Thursday for three winters, with a saucer for the coins, and the people of Kraków, who are not easily moved, had come to stop for her, without knowing why, for the length of one tune. Across the square, under the arcade of the Cloth Hall, as every Thursday of the last year, a fair-haired young man with a loupe pushed up into his hair stood with his hands in his pockets, and did not cross.
+She was twenty-three. She had played here every Thursday for three winters, with a saucer for the coins, and the people of Kraków, who are not easily moved, had come to stop for her, without knowing why, for the length of one tune. Across the square, under the arcade of the Cloth Hall, as on every Thursday of the last year, a fair-haired young man with a loupe pushed up into his hair stood with his hands in his pockets, and did not cross.
 
-She tucked the violin under her chin and closed her eyes. She was playing a *kujawiak,* a slow dance of the plain, and all through the first phrase it was as it had been for four months: the thin upper strings fading into mist, the middle notes clear, the low notes warm. She had told nobody. In her left ear there was a sea, and it had been rising since September.
+She tucked the violin under her chin and closed her eyes. She played a *kujawiak,* a slow dance of the plain, and through the first phrase it was as it had been for four months: the thin upper strings fading into mist, the middle notes clear, the low notes warm. She had told nobody. In her left ear there was a sea, and it had been rising since September.
 
-Above her, in the window of the tower, the trumpeter lifted the horn. In seven hundred years the *hejnał* has never been missed, and at the end of it the tune will stop in the middle of a note, in honour of the man who was shot through the throat while sounding the alarm. She had heard it five thousand times. She saw his cheeks fill, and a long white breath go up from the bell of the horn into the snow, and she lifted her head to hear.
+Above her, in the window of the tower, the trumpeter lifted the horn. In seven hundred years the *hejnał* has never been missed, and at the end of it the tune will stop in the middle of a note, in honour of the man who was shot through the throat while sounding the alarm. She had heard it five thousand times. She saw his cheeks fill, and a long white breath go up from the horn into the snow, and she lifted her head to hear.
 
 *Reader, here the sound went out.*
 
-It did not fade. It went as a lamp goes out, on a single indrawn breath: the mist and the sea and the warm low notes together, and in their place a clean, wide, enormous quiet, as of a world on which a very large white sheet has been laid. She saw the horn. She saw the pigeons rise off the Cloth Hall like thrown paper. She felt the string under her fingertip, the little hum of it in the bones of her jaw. And she heard, as the dead may be said to hear the sea, absolutely nothing at all.
+It did not fade. It went as a lamp goes out, on a single indrawn breath: the mist and the sea and the warm low notes together, and in their place a clean, wide, enormous quiet, as of a world on which a very large white sheet has been laid. She saw the pigeons rise off the Cloth Hall like thrown paper. She felt the string under her fingertip, the little hum of it in the bones of her jaw. And she heard, as the dead may be said to hear the sea, absolutely nothing at all.
 
-She went on playing. It is a skill that nobody tells you about. The fingers know. For eleven bars she played the dance through the silence, by the weight of the bow, by the place in the body where music had been kept for twenty years, as a woman walks through her own dark house; and when she knew, by the slow white clapping of gloves, that she had finished, she opened her eyes.
+She went on playing. The fingers know. For eleven bars she played the dance through the silence, by the weight of the bow, by the place in the body where music had been kept for twenty years, as one walks through one's own dark house; and when she knew, by the slow white clapping of gloves, that she had finished, she opened her eyes.
 
-A fair-haired young man in a worn coat came across the square in a straight line, through the snow and the people. He did not look at her face. He looked at the case, as a man looks at a thing he has been meaning to do for a year, and took from his pocket a single large silver coin, and laid it in the saucer so gently that it made no sound at all.
+A fair-haired young man in a worn coat came across the square in a straight line, through the snow and the people. He did not look at her face. He looked at the case, as at a thing he had been meaning to do for a year, and took from his pocket a single large silver coin, and laid it in the saucer so gently that it made no sound at all.
 
 "Thursday," said Jakub Nowak.
 
 She did not hear it. She read it, as one reads a word through frosted glass.
 
-"I have a pianino," he said, slowly, in the shape of a man who has been careful with his words all his life and is trying to be careful with these. "It is out of tune. It always will be. Come and play it with me."
+"I have a pianino," he said, slowly, shaping each word, like one who has been careful with words all his life and is trying to be careful with these. "It is out of tune. It always will be. Come and play it with me."
 
-She nodded, once, and smiled the bright composed practised smile of a person who has been listening to a door that has finally closed. He looked at it for the length of a held breath; and, being a clockmaker, he did not say a word, for it is the first law of the trade that one does not hurry a promise.
+She nodded, once, and smiled a bright, composed, practised smile. He looked at it for the length of a held breath; and, being a clockmaker, he said no more, for it is the first law of the trade that one does not hurry a promise.
 
 That night she walked through the snow to the Academy and woke her teacher, and told her, in the voice of one reading out a will. She would not tell the boy until March.
 
 ---
 
 ### SCENE IV
-*Istanbul. The Üsküdar pier, the same evening. The Council has met that afternoon in the hall at Fatih, and has decided, in the manner of councils, to decide later.*
+*Istanbul. The Üsküdar pier, the same evening. The Council has met that afternoon and decided, in the manner of councils, to decide later.*
 
-A wind had come down from the Black Sea at noon. The Turks call it *poyraz,* and it comes without apology and brings the snow in its pocket. By five the Bosphorus had gone the colour of slate and begun to climb the piers. At six it was announced that all crossings would cease at seven. And at ten past six, in the glass room at the end of the Kaya pier, a small man with headphones round his neck heard a voice on his radio say, with terrible calm, that the *Hızır* of the Yılmaz Line would sail at seven-ten, as always.
+A wind had come down from the Black Sea at noon. The Turks call it *poyraz,* and it comes without apology and brings the snow in its pocket. By five the Bosphorus had gone the colour of slate and begun to climb the piers. At six it was announced that all crossings would cease at seven. At ten past six, in the glass room at the end of the Kaya pier, Captain Mehmet Şahin of the *Nilüfer,* a small man with headphones round his neck, heard a voice on his radio say, with terrible calm, that the *Hızır* of the Yılmaz Line would sail at seven-ten, as always.
 
 "They will *not,*" said Mehmet Şahin.
 
-"They are saying the crossing will go to the house that stays on the water."
+"They are saying the crossing will go to the house that stays on the water," said his mate.
 
 "Then we sail," said Mehmet Şahin; and the whole matter of the night was decided by two old men in two glass rooms, each waiting for the other to be the first to be sensible.
 
@@ -7077,7 +7069,7 @@ A wind had come down from the Black Sea at noon. The Turks call it *poyraz,* and
 
 At a quarter past six, under the lamp at the end of the pier, in the snow, a boy of fourteen stood with a flat basket between two persons who had never spoken.
 
-"This," said Burak Aydın, "is neutral ground. I have a sesame basket. Nothing may be quarrelled over a basket. I am the Switzerland of the Üsküdar pier. Begin."
+"This," said Burak Aydın, "is neutral ground. Nothing may be quarrelled over a sesame basket. I am the Switzerland of the Üsküdar pier. Begin."
 
 She was in her blue cap with snow on the brim, he in his navy jersey with a rope on his shoulder, three feet apart, with the basket held between them like a flag of truce.
 
@@ -7093,7 +7085,7 @@ She was in her blue cap with snow on the brim, he in his navy jersey with a rope
 
 "Ahmed."
 
-She laughed, a short wet startled sound, and put a gloved hand over her mouth. In the dark above them the first snow of the night came down between the lamps, very large, very slow, like something sent by a more tender power.
+She laughed, a short startled sound, and put a gloved hand over her mouth. Above them the first snow of the night came down between the lamps, very large, very slow, like something sent by a more tender power.
 
 "I have a hundred and seventy-three poems in a biscuit tin," said Elif, "and I cannot think of one."
 
@@ -7113,21 +7105,21 @@ From the sea came the hoarse voice of the *Hızır,* calling the crossing.
 
 "I know. Mine is the radio." She put out her hand in its wet glove, and for the first time, across the width of a sesame basket, they touched; and neither said anything for the whole length of one blast of a ship's horn, as though the strait had held still to listen.
 
-*Mark this, reader. They have said, between them, thirty-one words. Hold on to them.*
+*Mark this, reader. They have said, between them, about a hundred words. Hold on to them.*
 
 ---
 
-The *Hızır* and the *Nilüfer* left the Üsküdar pier within a minute of one another, in a gale, with six hundred stranded people between them, each captain with his jaw set and his hand on a throttle, and the hearts of both houses gone to the bottom of the sea some hours before.
+The *Hızır* and the *Nilüfer* left the Üsküdar pier within a minute of one another, in a gale, with six hundred stranded people between them, each captain with his jaw set and his hand on a throttle, and the hearts of both houses already at the bottom of the sea.
 
-Burak had been told not to go. He had gone, as boys of fourteen do, with the last of the simit, on the blue boat. He stood at the rail in the whirling snow, calling the price into the wind, and the red boat rose beside her in the dark, a stone's throw off, the old rivals running abreast as they had run for thirty years; and on her bow a tall man in a navy jersey lifted his hand.
+Burak had been told not to go. He had gone, as boys of fourteen do, with the last of the simit, on the blue boat. He stood at the rail in the whirling snow, calling the price into the wind, and the red boat rose beside her in the dark, a stone's throw off, the old rivals running abreast as they had for thirty years; and on her bow a tall man in a navy jersey lifted his hand.
 
 The boy lifted his own.
 
-It was the oldest thing in the world, and the sea made no decision about it. A wave came out of the north-east and went under the two boats alike; the blue one heeled; a basket of simit went into the water like a handful of coins, and with it, with a short bright sound of astonishment, a boy.
+The sea made no decision about it. A wave came out of the north-east and went under the two boats alike; the blue one heeled; a basket of simit went into the water like a handful of coins, and with it, with a short bright sound of astonishment, a boy.
 
-Ahmed Yılmaz saw it from the bow. He did not stop. There was nothing that anyone could have said to him, then or afterward, about the cold, or the current the old fishermen call the Devil's. He put down the rope. He went over the rail of his father's boat into a black sea six degrees from ice, and the whole ship cried out.
+Ahmed Yılmaz saw it from the bow. He did not stop. Nothing anyone could have said to him, then or afterward, about the cold, or the current the old fishermen call the Devil's, would have stopped him. He put down the rope. He went over the rail of his father's boat into a black sea a few degrees above ice, and the whole ship cried out.
 
-They were to say afterward in the cafés of Eminönü that it took less than a minute: that he got an arm round the boy's chest, as one is taught, and kicked toward the blue boat's light; that the old radio-man Mehmet Şahin, who had run out of his glass room and onto the *Nilüfer* in his headphones, threw the life-ring himself, and threw it right. They said that Ahmed Yılmaz put the boy's two hands into it and pushed him toward the ladder with the last of the strength in his arms. And they said that when six men had hauled Burak Aydın, coughing and alive, over the rail, and turned to look for the other, there was nothing in the water but snow.
+They said afterward in the cafés of Eminönü that it took less than a minute: that he got an arm round the boy's chest, as one is taught, and kicked toward the blue boat's light; that Captain Mehmet Şahin, who had come down from the wheelhouse of the *Nilüfer* with his headphones still round his neck, threw the life-ring himself, and threw it right. They said that Ahmed Yılmaz put the boy's two hands into it and pushed him toward the ladder with the last of the strength in his arms. And they said that when six men had hauled Burak Aydın, coughing and alive, over the rail, and turned to look for the other, there was nothing in the water but snow.
 
 He had been whistling. The boy said so, later, in the hospital, with his teeth chattering: he had whistled the whole way to the ring, so that there should be something to follow. It was the shepherd's tune. He had got the third bar right.
 
@@ -7135,29 +7127,27 @@ He had been whistling. The boy said so, later, in the hospital, with his teeth c
 
 They searched until it was light.
 
-Every boat on the Bosphorus was out, red and blue together, and the lamps went to and fro in the snow like the tails of two comets that had found the same sky. On the Üsküdar pier, at the very edge, a young woman in a blue cap stood until the dawn with her hands pressed to her mouth, and was not led away, because no one on the pier would have dared.
+Every boat on the Bosphorus was out, red and blue together, and the lamps went to and fro in the snow like two comets that had found the same sky. On the Üsküdar pier, at the very edge, a young woman in a blue cap stood until dawn with her hands pressed to her mouth, and was not led away, because no one would have dared.
 
 At six in the morning, in the grey, two old men met on the Yılmaz landing.
 
-Captain Süleyman Yılmaz had taken off his cap. His white moustache was full of snow, and for the first time in his life he was a smaller man than the sea. Mehmet Şahin stood a yard from him, and between them, stooped over a steaming urn, was a woman in an orange headscarf, who had come across the water in the first boat of the morning with a hundred glasses on a tray.
+Captain Süleyman Yılmaz had taken off his cap. His white moustache was full of snow, and for the first time in his life he was smaller than the sea. Mehmet Şahin stood a yard from him, and between them, stooped over a steaming urn, was a woman in an orange headscarf, who had come across the water in the first boat of the morning with a hundred glasses on a tray.
 
 "Tea," said Sema, quite simply, "has no flag."
 
 Nobody moved.
 
-"Leave the quarrel on the hook," said Sema. Her voice broke, and she did not hide it. "Leave it with the coats. There is no one left to fight. Drink."
+"Leave the quarrel on the hook," said Sema. Her voice broke, and she did not hide it. "There is no one left to fight. Drink."
 
-It was Süleyman Yılmaz who took the first glass, and with a hand that shook so that the tea slopped in its saucer, held it out across the yard of stone.
+It was Süleyman Yılmaz who took the first glass and, with a hand that shook so that the tea slopped in its saucer, held it out across the yard of stone.
 
-"By my mother's grave," he said, hoarsely, "I swore the Kaya flag would go under. And it was my son."
+"By my mother's grave," he said hoarsely, "I swore the Kaya flag would go under. And it was my son."
 
-Mehmet Şahin looked at the glass for a long time.
+Mehmet Şahin looked at the glass for a long time. "It was my niece's heart," he said, "on the other pier." And he took it.
 
-"It was my niece's," he said, "who is on the other pier." And he took it.
+The two old men stood together in the falling snow, drinking tea from the same tray; and at the far end of the Kaya pier a girl in a blue cap lifted her head, for there had come over the water a sound so thin and crooked, one note flat in the third bar, that for a moment nobody could say whether it was the wind. It was Kerem Aydın, seventy-three, retired engineer, who had helped raise the captain's son with a spanner in one hand and prayer beads in the other, and who had come down alone to the end of the red pier in his shirt-sleeves, and was whistling the shepherd's tune badly, because he had never in his life been able to, and because somebody must.
 
-The two old men stood together in the falling snow, drinking tea from the same tray; and at the far end of the Kaya pier a girl in a blue cap lifted her head, for there had come over the water a sound so thin and crooked, so exactly one note flat in the third bar, that for a moment nobody could say whether it was the wind. It was Kerem Aydın, seventy-three, retired engineer, who had raised the captain's son with a spanner in one hand and prayer beads in the other, and who had come down alone to the end of the red pier in his shirt-sleeves, and was whistling the shepherd's tune badly, because he had never in his life been able to, and because somebody must.
-
-Elif Kaya walked to the edge. She did not weep. She took a crumpled ticket-stub from her pocket and turned it over, and on the back, in pencil, in a hand that did not shake, she wrote what she had not been able to write the night before:
+Elif Kaya walked to the edge. She did not weep. She took a crumpled ticket-stub from her pocket and, on the back, in pencil, in a hand that did not shake, wrote what she had not been able to write the night before:
 
 > *The boat is blue; the boy was on the red;
 > Tell him: I hear it. I have always heard.
@@ -7166,9 +7156,9 @@ Elif Kaya walked to the edge. She did not weep. She took a crumpled ticket-stub 
 > The sea has taken what the strait would give.
 > Tell him, tell him, tell him: I hear. I heard.*
 
-She folded the paper small, as she had a hundred and seventy-three times. She put it into a paper boat. And she set it on the water of the Bosphorus, which took it at once, as a hand takes a hand.
+She folded the paper small, as she had a hundred and seventy-three times, made it into a paper boat, and set it on the water of the Bosphorus, which took it at once, as a hand takes a hand.
 
-The sea gave him back three days later, on the stones below the Maiden's Tower, in his navy jersey, and he is buried at Karacaahmet. Burak Aydın lived to be eighty-one, and was a poet, and began every poem with a whistle. And Elif Kaya lived to be ninety, and ran the Kaya Line, and, when the two flags flew from one mast, she was known on the Bosphorus for one eccentricity only: that every morning, at the hour the first ferry came in, she stood at the edge of the pier in a blue cap and whistled a tune from the Black Sea coast, a little flat in the third bar, so that somebody out on the water should know she was still there.
+The sea gave him back three days later, on the stones at Salacak below the Maiden's Tower, in his navy jersey, and he is buried at Karacaahmet. Burak Aydın lived to be eighty-one, and was a poet, and began every poem with a whistle. And Elif Kaya lived to be ninety, and ran the Kaya Line, and, when the two flags flew from one mast, she was known on the Bosphorus for one eccentricity only: that every morning, at the hour the first ferry came in, she stood at the edge of the pier in a blue cap and whistled a tune from the Black Sea coast, a little flat in the third bar, so that somebody out on the water should know she was still there.
 
 ---
 
@@ -7232,11 +7222,11 @@ And love hath promised more than sleep can keep.
 
 In spring, in Kyoto, everybody wears a mask, and nobody thinks it strange.
 
-It is the pollen. The cedars on the hills let go in March, and the whole city sneezes in a sort of general agreement, and goes about behind white paper like a congregation of surgeons. A woman may walk from Gion to the Kamo river and not once be recognised. A man may weep on a bus. It is, the Keeper has always thought, the most honest season of the year, since it is the only one in which a person may hide her face and be thought merely sensible.
+It is the pollen. The cedars on the hills let go in March, and the whole city sneezes in a sort of general agreement, and goes about behind white paper like a congregation of surgeons. A woman may walk from Gion to the Kamo river and not once be recognised. A man may weep on a bus. It is, the Keeper has always thought, the most honest season of the year, since in it a person may hide her face and be thought merely sensible.
 
 In a house the colour of strong tea, at the end of a lane, two hundred faces watched the dust.
 
-They hung on nails and lay in baskets and stood in rows on cypress shelves: the long pale women of the Noh stage, with high painted brows and mouths like closed leaves; old men with beards of horsehair; demons with eyes of beaten gold; and, most of all, the girl called *ko-omote,* the little face, whose expression is neither smile nor weeping, and which has been copied, by carver after carver, for six hundred years. They had been made by one man in a corner of the room, with a set of chisels as long as his forearm and the patience of a person who is waiting for the wood to say what it wishes to be.
+They hung on nails and lay in baskets and stood in rows on cypress shelves: the long pale women of the Noh stage, with high painted brows and mouths like closed leaves; old men with beards of horsehair; demons with eyes of beaten gold; and, most of all, the girl called *ko-omote,* the little face, whose expression is neither smile nor weeping, and which has been copied, by carver after carver, for six hundred years. One man had made them, in a corner of the room, with chisels as long as his forearm and the patience of someone waiting for the wood to say what it wishes to be.
 
 "You must not carve today," said Daichi Kobayashi.
 
@@ -7244,13 +7234,13 @@ They hung on nails and lay in baskets and stood in rows on cypress shelves: the 
 
 "It is the same. It has the same intention."
 
-Daichi was twenty-five, and had been a primary-school teacher for exactly one term, from which he had retired on grounds of health, the health being the children's. He was now the apprentice, in a tea-stained apron, drinker of too much tea at night, and a young man of strong superstitions. He had salted the doorstep. He had turned the mask of the old woman toward the wall because she had looked at him in a bad way. He had said, three times, without being asked, that a cypress block with a knot in the left eye would bring misfortune on the house before the cherries fell.
+Daichi was twenty-five, and had been a primary-school teacher for exactly one term, from which he had retired on grounds of health, the health being the children's. He was now the apprentice, in a tea-stained apron, a drinker of too much tea, and a young man of strong superstitions. He had salted the doorstep. He had turned the mask of the old woman toward the wall because she had looked at him in a bad way. He had said, three times, without being asked, that a cypress block with a knot in the left eye would bring misfortune on the house before the cherries fell.
 
 "It has a knot," said Daichi.
 
 "It has a flaw," said Kenji. "It is a different thing. A knot is an accident. A flaw is the place where the wood has told the truth." He turned the block in the light.
 
-He was twenty-seven. He was tall and narrow, with careful hands and a mouth that closed on its words as a shutter closes, and he had been quiet since the age of six, when a schoolmaster had told him that his face was *unreadable* and he had taken it for a compliment. At fifteen he had been apprenticed to the great carver of the district. In twelve years he had learned that a Noh mask is a face with its mind removed: it holds a feeling as an empty cup holds the shape of water. He was very good at it. He had never been able to show anyone what he felt. It was possible, as the Register has already told us, that the two facts were related.
+He was twenty-seven, tall and narrow, with careful hands and a mouth that closed on its words like a shutter, and he had been quiet since the age of six, when a schoolmaster had told him that his face was *unreadable* and he had taken it for a compliment. At fifteen he had been apprenticed to the great carver of the district. In twelve years he had learned that a Noh mask is a face with its mind removed: it holds a feeling as an empty cup holds the shape of water. He was very good at it. He had never been able to show anyone what he felt. It was possible, as the Register has already told us, that the two facts were related.
 
 The door slid.
 
@@ -7258,7 +7248,7 @@ The door slid.
 
 She came in as she always came into a room: without sound.
 
-She was twenty-six. She wore a plain grey kimono, with her hair up in a knot, and carried against her chest a flat box of paulownia wood, tied with a purple cord, in both hands, as though it held something that might wake. Over her nose and mouth she wore a white paper mask, like everyone; and above it, her eyes were large, dark, and extremely controlled. They had a small, fixed, courteous brightness, the shine of a smile that has been held so long that the muscles have been trained to do it alone.
+She was twenty-six. She wore a plain grey kimono, her hair up in a knot, and carried against her chest, in both hands, a flat box of paulownia wood tied with a purple cord, as though it held something that might wake. Over her nose and mouth she wore a white paper mask, like everyone; and above it, her eyes were large, dark, and extremely controlled. They had a small, fixed, courteous brightness, the shine of a smile that has been held so long that the muscles have been trained to do it alone.
 
 "Excuse me," said Haruka Mori. "I am sorry to trouble you."
 
@@ -7268,13 +7258,13 @@ She was twenty-six. She wore a plain grey kimono, with her hair up in a knot, an
 
 "I am the carver Watanabe."
 
-She looked at him then. He was looking at the box. It was a thing he did: he looked at the object, and the person arrived in the corner of his eye, as one may see a deer in a wood by not looking for it.
+She looked at him then. He was looking at the box. It was his habit: he looked at the object, and the person arrived in the corner of his eye, as a deer may be seen in a wood by not looking for it.
 
 "It is cracked," said Haruka. "It cracked on the stage, at the Kanze, the Saturday before last. It was cold in the theatre. It was the line where she says *I have waited a very long time.* I felt it go at the temple, under the lacquer. I finished the scene." Something that was almost a laugh went across the paper. "I do not know why I am telling you. One does not tell a carver. One merely hands him the damage."
 
 She untied the cord, and lifted the lid, and in the tray of white silk, as small as a child's face, lay the *ko-omote.*
 
-It was very old. Kenji knew at once, as a doctor knows an age from a bone. The cypress had gone the colour of tea; the white shell-paint of the face had a skin of fine crackle, like the glaze of a bowl; the mouth had been touched in, a long time ago, with a brush of a single hair. Across the left temple ran a crack no longer than a grain of rice. He did not touch it. He did not breathe. For a little while there was no sound in the workshop but the pollen ticking against the paper of the window, and the sound of one old face, in a box, being looked at.
+It was very old. Kenji knew at once, as a doctor reads an age from a bone. The cypress had gone the colour of tea; the white shell-paint of the face had a skin of fine crackle, like the glaze of a bowl; the mouth had been touched in, a long time ago, with a brush of a single hair. Across the left temple ran a crack no longer than a grain of rice. He did not touch it. He did not breathe. For a little while there was no sound in the workshop but the pollen ticking against the paper window.
 
 "Whose?" he said.
 
@@ -7306,7 +7296,7 @@ It was a perfectly ordinary sentence. Daichi, who was standing behind the pillar
 
 "I will not wear it. I will hold it."
 
-She did not hold it. She raised the old face to her own, with the practised grace of a woman who had done it ten thousand times, and the paper mask went away somewhere behind it, and the little cypress girl, with her brow and her faint terrible smile, looked at the carver across the width of the bench.
+She did not hold it. She raised the old face to her own, with the practised grace of one who had done it ten thousand times, and the paper mask vanished behind it, and the little cypress girl, with her faint terrible smile, looked at the carver across the width of the bench.
 
 From behind it a voice said: "It is much easier from here."
 
@@ -7314,7 +7304,7 @@ It was not the voice she had come in with. It was lower, and muffled by the wood
 
 "I am sorry," said the voice. "I know it is rude. I have said *thank you* and *please* and *it was nothing* to everyone in Kyoto since I was nineteen, and I am so tired. I cannot do it behind a face of my own, you see. It will not hold. But if there is a mask in front of it, the mouth can be anything. Do you understand? It can say that it is cold. It can say that it was afraid. Behind this one I could say anything."
 
-Kenji Watanabe sat quite still. He had made faces for twelve years. No one had ever, in all that time, told him what they were *for.*
+Kenji Watanabe sat quite still. He had made faces for twelve years, and no one had ever told him what they were *for.*
 
 "Say it, then," he said, to the mask.
 
@@ -7328,7 +7318,7 @@ Silence. In the lane a bicycle bell rang, and a child laughed, and somewhere a c
 
 "Because," said Kenji, "the wood is always there under the paint." And he went a dull and complete red, to the roots of his hair, which she could not see, because she was looking at him through a mask, and he was looking at the floor.
 
-She laughed. It came from behind the face like water out of stone. She lowered the mask, and the paper one was back in its place, and the small, correct, immovable smile above it was a little less so.
+She laughed, and it came from behind the face like water out of stone. She lowered the mask, and the paper one was back in its place, and the small, correct, immovable smile above it was a little less so.
 
 "Thursdays," said Haruka Mori, and bowed, and was gone, without sound, into the yellow light.
 
@@ -7338,7 +7328,7 @@ When the door had slid shut, Daichi came out from behind the pillar with the tea
 
 "Mori-san."
 
-"She wears it in the *street.* She wears that smile in the street and the station and the shop. They say that nobody has seen her without it in six years." He lowered his voice, in the way of the very young. "I turned three to the wall. I think it was not enough."
+"She wears it in the *street.* She wears that smile in the street and the station and the shop. They say that nobody has seen her without it in six years." He lowered his voice, as the very young do. "I turned three to the wall. I think it was not enough."
 
 "It is not a smile," said Kenji.
 
@@ -7372,7 +7362,7 @@ That night, with the shutters closed, and the faces on their nails turned polite
 
 It had been Papa Sharma's decision that the fifty pieces should be shown for three days, in the back of the showroom, behind the curtain with the dead fly in it.
 
-He had given her exactly fifty. He had said *not fifty-one* in front of nine uncles, with a dry and entire malice; and on the first morning of the Gangaur week, in the long cool shop where Sharma Textile House had sold its peacocks and its marigolds and its pomegranates to the courts of three maharajas and a Hollywood film, fifty lengths of indigo cloth hung from a wire like the washing of a very serious sky.
+He had given her exactly fifty. He had said *not fifty-one* in front of nine uncles, with dry and entire malice; and on the first morning of the Gangaur week, in the long cool shop where Sharma Textile House had sold its peacocks and its marigolds and its pomegranates to the courts of three maharajas and a Hollywood film, fifty lengths of indigo cloth hung from a wire like the washing of a very serious sky.
 
 They were exceedingly beautiful, and by noon they had sold three.
 
@@ -7382,7 +7372,7 @@ They were exceedingly beautiful, and by noon they had sold three.
 
 "Three is the number of persons who are lost."
 
-She stood at the end of the room in a plain white kurta, with indigo to the wrists, and counted the people who came through the curtain. They came; they looked; they murmured "very modern"; they asked, with a polite tilt of the head, whether it was available with a peacock. A woman from Delhi said it was *brave,* which in the textile trade is the word for a funeral. The window-arches of old Jaipur drifted on their black sea, each with its small open roof, and in the great hot noise of the bazaar, with the whole of the city shopping for Gangaur and dressed in marigold, it seemed that nobody wished to be told that a thing may fall and still be beautiful.
+She stood at the end of the room in a plain white kurta, with indigo to the wrists, and counted the people who came through the curtain. They came; they looked; they murmured "very modern"; they asked, with a polite tilt of the head, whether it was available with a peacock. A woman from Delhi said it was *brave,* which in the textile trade is the word for a funeral. The window-arches of old Jaipur drifted on their black sea, each with its small open roof, and in the hot noise of the bazaar it seemed that nobody wished to be told that a thing may fall and still be beautiful.
 
 *"Priya-ji,"* said a voice at her elbow. "May I be of professional assistance?"
 
@@ -7408,7 +7398,7 @@ It was women. It was hundreds of women, in the week of Gangaur, in orange and gr
 
 At half past nine, with the shutters half down, Mahendra Sharma stood alone at the end of the showroom, and looked at the wire.
 
-He was fifty-eight, in a good grey suit, with a thin black moustache and the face of a man who has lost an argument in 1998 and has been preparing his revenge ever since. He heard the curtain move. He did not turn.
+He was fifty-eight, in a good grey suit, with a thin black moustache and the face of someone who lost an argument in 1998 and has been preparing his revenge ever since. He heard the curtain move. He did not turn.
 
 "Fifty," said Priya.
 
@@ -7416,7 +7406,7 @@ He was fifty-eight, in a good grey suit, with a thin black moustache and the fac
 
 "No."
 
-"They have all gone." He said it like a man reading the figures off a gravestone. "I am told the reorder is two hundred. The buyers of three shops in Delhi, who are fools, have telephoned. I have said that I will think."
+"They have all gone." He said it as one reads figures off a gravestone. "I am told the reorder is two hundred. The buyers of three shops in Delhi, who are fools, have telephoned. I have said that I will think."
 
 "Papa."
 
@@ -7424,13 +7414,13 @@ He was fifty-eight, in a good grey suit, with a thin black moustache and the fac
 
 "No, Papa," said Priya.
 
-It was said quite gently. It was the voice, the Keeper has always thought, of someone who has practised a sentence in the bath for seven years and finds, at the moment of speaking, that it has grown shorter.
+It was said quite gently. It was the voice of someone who has practised a sentence in the bath for seven years and finds, at the moment of speaking, that it has grown shorter.
 
 "Fifty was the collection. The rest is a different house. I have taken a room." She drew breath. "It is a corner of the haveli, in Chandpole. The north wing. There is a courtyard, and a neem tree, and no roof. The rent is a thousand rupees a month. I shall block-print there, with twelve women from Bagru, under my own name. You may have your two hundred yards, Papa, if you like. I will sell them to you at a fair price, like any supplier. But I will not be *inherited.*"
 
 For a long time Mahendra Sharma did not move.
 
-Then he put out one hand, and took hold of the last scrap of indigo that had been left on the wire, a rag, a cutting, a nothing, and rubbed it between his finger and thumb, as a mill-owner does, to learn the weave. His face did not change. But something went through his thumb and into the cloth, a long and unadmitted tenderness, as if what he was feeling for was a window.
+Then he put out one hand, and took hold of the last scrap of indigo that had been left on the wire, a rag, a cutting, a nothing, and rubbed it between his finger and thumb, as a mill-owner does, to learn the weave. His face did not change. But something went through his thumb and into the cloth, a long and unadmitted tenderness.
 
 "It is a very good dye," said Papa Sharma.
 
@@ -7444,13 +7434,13 @@ He put the cutting in his breast pocket. He straightened his tie, and walked to 
 
 "I will draw up a contract."
 
-"See that you do." And he went out through the dead fly and the dust, a small stiff grey man in a good suit, who had not forgiven anyone and who walked, for the first time in a long time, as though he were looking at something a little above his head.
+"See that you do." And he went out through the dead fly and the dust, a small stiff grey man who had not forgiven anyone, and who walked, for the first time in years, as though looking at something a little above his head.
 
 ---
 
 The haveli, that night, had no moon over it, and so the sky was very large.
 
-She found him in the great ground-floor room, under the place where the roof had been, in a column of starlight, with three hundred blocks of seasoned teak stacked around him like the pages of a closed book. He was sitting on the floor in his waistcoat, without the safa, and without the moustache wax, for the first time in her knowledge looking like what he was, which was a tired and kind man of thirty on a stone floor.
+She found him in the great ground-floor room, under the place where the roof had been, in a column of starlight, with three hundred blocks of seasoned teak stacked around him like the pages of a closed book. He was sitting on the floor in his waistcoat, without the safa, and without the moustache wax, for once looking like what he was, a tired and kind man of thirty on a stone floor.
 
 "I have brought the rent," said Priya.
 
@@ -7460,7 +7450,7 @@ She found him in the great ground-floor room, under the place where the roof had
 
 She put into his hand an envelope with a thousand rupees in it, in notes of one hundred, and a receipt, which she had drawn up herself, and which said, in a very exact hand, *Received, one month's rent on the north wing, with sky.*
 
-He read it twice. In the starlight his face did the unpractised thing that it had done in her father's boardroom, when for the length of a breath it had not performed.
+He read it twice. In the starlight his face did the unpractised thing it had done in her father's boardroom: for the length of a breath, it did not perform.
 
 "It is the first rent in forty years," said Vikram. "My grandfather let it go the year the roof went. I thought the house had stopped being a *house.*" He folded the paper, as if it were something that might spill. "I will not spend it. I shall frame it. And then I shall spend it, I think, on the first tile."
 
@@ -7468,7 +7458,7 @@ He read it twice. In the starlight his face did the unpractised thing that it ha
 
 "It is not for the tile," said Vikram Rathore. "It is for the *direction.*"
 
-On the far side of the city, a girl with a pen was walking home from a column and a deadline, adding a line to a bet. *Twenty rupees,* it read, *says the roof goes up before Diwali. Fifty says the guide proposes under it.* She read it over, and smiled, and crossed out *fifty.* She wrote *a hundred.*
+On the far side of the city, Pooja Tiwari was walking home from a deadline, adding a line to a bet. *Twenty rupees,* it read, *says the roof goes up before Diwali. Fifty says the guide proposes under it.* She read it over, and smiled, and crossed out *fifty.* She wrote *a hundred.*
 
 ---
 
@@ -7494,11 +7484,11 @@ On the far side of the city, a girl with a pen was walking home from a column an
 
 **Bucharest, a Tuesday in April, 10:40 in the morning.**
 
-The Circul Aurora kept its winter quarters in a tin-roofed hangar beside the Dâmbovița, where the river ran the colour of weak tea and the pigeons had learned to nest in the trapeze rigging, on the theory that if a man may fly for a living, a bird may do it for free.
+The Circul Aurora kept its winter quarters in a tin-roofed hangar beside the Dâmbovița, where the river ran the colour of weak tea and the pigeons nested in the trapeze rigging, on the theory that if a man may fly for a living, a bird may do it for free.
 
-It was nearly spring. The hangar smelled of sawdust, horse, resin, and the hot sugar of the popcorn machine that Mihai Stanciu, the company carpenter, kept running for no reason except that a circus without the smell of sugar is only a barn with ambitions. High above the ring, nine metres up under the iron rafters, a wire was strung. On the wire, in grey training clothes and bare feet, with a balance pole across his palms like a man carrying a sleeping child, walked Andrei Popescu.
+The hangar smelled of sawdust, horse, resin, and the hot sugar of the popcorn machine that Mihai Stanciu, the company carpenter, kept running because a circus without the smell of sugar is only a barn with ambitions. High above the ring, nine metres up under the iron rafters, a wire was strung. On the wire, in grey training clothes and bare feet, with a balance pole across his palms like a man carrying a sleeping child, walked Andrei Popescu.
 
-He was thirty-one, and he was the best the company had. Everyone said so, including the posters, which were a little out of date and showed him ten years younger. He had walked the wire in Prague and Lyon and Tbilisi. He had once walked it across a courtyard in the rain with a lit candle on his head, and not a drop of wax had fallen. Now he walked it as other men walk to the kitchen, easily, thinking of nothing, humming under his breath a tune that was most probably a lullaby.
+He was thirty-one, and he was the best the company had. Everyone said so, including the posters, which showed him ten years younger. He had walked the wire in Prague and Lyon and Tbilisi, and once across a courtyard in the rain with a lit candle on his head, without losing a drop of wax. Now he walked it as other men walk to the kitchen, thinking of nothing, humming a tune that was most probably a lullaby.
 
 In the front row of the empty seats, as she had been every morning for three weeks, sat a librarian.
 
@@ -7510,15 +7500,15 @@ Reader, here is the secret of the wire, which no poster tells. A man who walks i
 
 Andrei reached the middle. He paused, as he always paused, to give the audience time to forgive him for being so graceful. There was no audience; there was only Roxana, and the pigeons, and the sugar smell. He lifted his rear foot to turn, and a hot white thread ran up the left side of his spine and tied itself, very neatly, behind his eyes.
 
-He did not cry out. A man at nine metres does not cry out; he calculates. He calculated that the net was below him, that the net had a new corner rope since Thursday, that if he turned a quarter-turn on the way down he would land on the shoulder, and a shoulder is a thing one may spare. He calculated all this in the time it takes to say *no*.
+He did not cry out. A man at nine metres does not cry out; he calculates. He calculated that the net was below him, that if he turned a quarter-turn on the way down he would land on the shoulder, and a shoulder is a thing one may spare. He calculated all this in the time it takes to say *no*.
 
 Then the wire let him go.
 
-He turned the quarter-turn. It was beautiful, and nobody has ever said so, because it was also a fall. The net took him, and the net's new rope, and the iron ring at the corner where Mihai had been meaning, since Thursday, to fix a loose bolt. There was a sound like a sack of flour set down on a table. Then there was a silence, and in the silence a pigeon, offended, left the rafters.
+He turned the quarter-turn. It was beautiful, and nobody has ever said so, because it was also a fall. The net took him, and then the iron ring at the corner, where Mihai had been meaning, since Thursday, to fix a loose bolt, gave a little. There was a sound like a sack of flour set down on a table. Then there was a silence, and in the silence a pigeon, offended, left the rafters.
 
 "*Doamne!*" said Roxana Ionescu, and there was nothing comic in it.
 
-Mihai was already running, with his carpenter's apron flapping and his heart in his mouth, which is not a safe place for a heart to run with a hammer.
+Mihai was already running, apron flapping, hammer still in his fist.
 
 "Andrei! Andrei, do not move! Do not move, I'll call—"
 
@@ -7532,11 +7522,11 @@ Mihai was already running, with his carpenter's apron flapping and his heart in 
 
 **The Emergency Department, Floreasca, 1:15 the same night.**
 
-(*The waiting room. A vending machine that hummed a single note, flat, forever. Under its fluorescent light the Bucharest night shift went about its holy work, which is mopping.*)
+(*The waiting room. A vending machine that hummed a single note, flat, forever. Under its fluorescent light the Bucharest night shift went about its holy work, which is mopping. Andrei had refused an ambulance for fourteen hours, on the principle that a man who can still complain can still work; at one in the morning the pain won the argument.*)
 
-The nurse on duty at the triage desk was named Ioana Dumitrescu. She was twenty-eight, and she wore her hair in a plait so tight that patients sometimes thought she must be angry, when she was only thorough. She had a pen in her pocket and another in her hair, and in her handbag a small ugly sandwich which she meant to eat at four, and would not.
+The nurse on duty at the triage desk was named Ioana Dumitrescu. She was twenty-eight, and she wore her hair in a plait so tight that patients sometimes thought she must be angry, when she was only thorough. She had a pen in her pocket and another in her hair, and in her bag a small ugly sandwich she meant to eat at four, and would not.
 
-At 1:15 a tall man in grey training clothes was brought in on a trolley by two ambulance men, a carpenter, and a librarian who would not be told to wait outside. He was greyish in the face, and he was making jokes.
+At 1:15 a tall man in grey training clothes was brought in on a trolley by two ambulance men, a carpenter, and a librarian who would not be told to wait outside. He was grey in the face, and he was making jokes.
 
 "My name," said the man, to the ceiling, "is Andrei Popescu, I am thirty-one years old, and I have fallen from a height of nine metres, which in my profession is called *a Tuesday*."
 
@@ -7544,15 +7534,13 @@ At 1:15 a tall man in grey training clothes was brought in on a trolley by two a
 
 *Popescu, Andrei.*
 
-She had read that name in October, at the private clinic on Calea Dorobanților where she worked three Saturdays a month for the extra money, on the back of a radiograph that had been left in the wrong envelope. It had been the spine of a young man, thirty, a dancer or a soldier by the muscle on the shadows, and in it were two vertebrae, the first and second lumbar, that had been broken once and had healed crooked, like a road mended by a poet. The report beneath had said, in the cold type of such reports: *Unfit for load-bearing athletic activity. Recommend immediate cessation.* The envelope had been collected an hour later by a man in a cap, who had kept his face turned to the wall. She had thought of that spine a good deal since. One cannot be in love with an envelope; but a nurse is uneasy about a lamp left burning in a stranger's window.
+She had read that name in October, at the private clinic on Calea Dorobanților where she worked three Saturdays a month for the extra money, on a radiograph that had been left in the wrong envelope. It had been the spine of a young man, a dancer or a soldier by the muscle on the shadows, and in it were two vertebrae, the first and second lumbar, that had been broken once and had healed crooked, like a road mended by a poet. The report beneath had said, in the cold type of such reports: *Unfit for load-bearing athletic activity. Recommend immediate cessation.* The envelope had been collected an hour later by a man in a cap, who had kept his face turned to the wall. She had thought of that spine a good deal since. A nurse is uneasy about a lamp left burning in a stranger's window.
 
 "Ms. Dumitrescu?" said the carpenter. "Is anything wrong?"
 
 "No," said Ioana. She capped the pen. "Take him to Bay Four. Gently. Mind the corner."
 
 It was a long night. They did the scans. The registrar, a grave young man who tapped his teeth with a biro, said that nothing was newly broken, that the left shoulder was badly bruised, and that there was an old injury of the lumbar spine, quite old, curious. He asked the patient whether he had ever hurt his back before. "Never," said Andrei, brightly. "I am a man of the air. Backs are for people who stay on the ground." The registrar looked at Ioana. Ioana looked at the wall chart, on which was a diagram of a heart, with valves, in cheerful red.
-
-"Never," said Andrei, brightly. "I am a man of the air. Backs are for people who stay on the ground."
 
 When the registrar had gone, and the curtain around Bay Four had been drawn, and the night had settled, she came in with a cup of water he had not asked for and a blanket he had.
 
@@ -7564,7 +7552,7 @@ When the registrar had gone, and the curtain around Bay Four had been drawn, and
 
 "I read your X-ray," said Ioana. "In October."
 
-He did not move. There are two kinds of stillness: the kind that is peace, and the kind that is a man holding a plate on his head in an earthquake. This was the second.
+He did not move. There are two kinds of stillness: the kind that is peace, and the kind that is holding a plate on one's head in an earthquake. This was the second.
 
 "Which X-ray?"
 
@@ -7586,7 +7574,7 @@ He did not move. There are two kinds of stillness: the kind that is peace, and t
 
 "Is a lamp so terrible?"
 
-"For a man who has lived by the dark between two points?" He turned his head and, for the first time, looked at her. His eyes were brown, and wet, and amused at themselves. "Nurse Dumitrescu. I will ask you something unreasonable."
+"For someone who has lived in the air between two points?" He turned his head and, for the first time, looked at her. His eyes were brown, and wet, and amused at themselves. "Nurse Dumitrescu. I will ask you something unreasonable."
 
 "I am a nurse. I am used to it."
 
@@ -7600,7 +7588,7 @@ She was silent for a long time. Out in the corridor a trolley rolled by with a s
 
 "Then I would be on the night shift," said Ioana, "in any case."
 
-She rose, and drew up the blanket, and left, and did not look back; for a nurse never looks back at a lit bay, on the principle that the light is the patient's.
+She rose, and drew up the blanket, and left, and did not look back; a nurse never does, at a lit bay.
 
 Alone, in the night, with a vending machine humming flat in the distance and the whole city sleeping on its fault-line of old and new, Andrei Popescu spoke to the ceiling, which was the only audience he had ever fully trusted:
 
@@ -7631,7 +7619,7 @@ At 6:10 in the morning, the hour when Karachi smells most of the sea, Hamza Qure
 
 "Again," he said. "Wrist. *Wrist,* Waqar."
 
-Waqar Shah, eleven years old, in a shirt three sizes too large and a cap with *Fear Nobody* sewn on it, pushed the bat forward in the grey dust and missed the air by a hand. Hamza, who was twenty-nine and who wore his optimism like a good coat, so that no one should see what it covered, clapped.
+Waqar Shah, eleven years old, in a shirt three sizes too large and a cap with *Fear Nobody* sewn on it, pushed the bat forward in the grey dust and missed the air by a hand. Hamza, who was twenty-nine and wore his optimism like a good coat, so that no one should see what it covered, clapped.
 
 "Better!"
 
@@ -7639,7 +7627,7 @@ Waqar Shah, eleven years old, in a shirt three sizes too large and a cap with *F
 
 "You missed it *better*. Last week you missed it badly. A man who misses better each week will, one day, by pure accident, hit it, and then he is a batsman and I am a genius."
 
-"Coach," said Sana Ahmed. "I said I would bring it myself."
+"Coach," said a voice from the boundary rope. Sana Ahmed stood there in her riding jacket, helmet in one hand, a newspaper in the other. "I said I would bring it myself."
 
 He took it. It was still warm from the press, the way a loaf is warm. The headline was in the black Urdu of serious news, and beneath it, in smaller type, in English, for the benefit of the ministries: **WHO DRAINED THE CREEK? The Money Behind Karachi's Flooded Streets, and the Names Behind the Money.**
 
@@ -7651,17 +7639,13 @@ By Sana Ahmed. A long article, three pages, with photographs: of a dry channel, 
 
 "Sana."
 
-"I know what you will say."
-
-"You do not."
-
 "You will say that I should be careful."
 
 "I was going to say," said Hamza gently, "that you have not eaten."
 
 She stared at him. Then, to her own great surprise, she laughed, a short unwilling laugh, which turned in the middle into something else; and he put the paper down on the bare pitch, under a stone, and put into her hands, instead, a paper cup of chai that had been brewed by the sea wind on a kerosene stove and was, in consequence, the best she had ever tasted.
 
-At the wall, Sana's mother, Mrs. Hira Shah, seventy-five, retired lifeguard of Clifton beach and the only person in Karachi who had pulled eleven strangers and one husband from the Arabian Sea, had come up quietly behind her daughter and set her hand between her shoulder-blades, the place where one checks a swimmer's breathing.
+At the wall, Sana's mother, Mrs. Hira Shah, seventy-five, retired lifeguard of Clifton beach and the only person in Karachi who had pulled eleven strangers and one husband from the Arabian Sea, had come up quietly behind her daughter and set her hand between her shoulder-blades, where one checks a swimmer's breathing.
 
 "Beta," said Hira. "You are home."
 
@@ -7669,7 +7653,7 @@ At the wall, Sana's mother, Mrs. Hira Shah, seventy-five, retired lifeguard of C
 
 "Yes. And I am only here for the sea." She did not take her hand away.
 
-Then, from the lane, the sound of a car, slow and grey, that did not belong to any neighbour, and which, once it had stopped by the gate, did not at once turn off its engine. A man got out. He was in a clean grey shalwar kameez and good shoes, quite unhurried, and under his arm, folded small, was the same newspaper. He did not look at Sana. He looked at the boys, one by one, like a man counting fruit. Then he walked up to little Waqar Shah, who stood with the bat in both hands and his cap that said *Fear Nobody,* and smiled at him, and bent down, and said, in a voice as mild as milk—
+Then, from the lane, the sound of a car, slow and grey, that did not belong to any neighbour, and which, once it had stopped by the gate, did not at once turn off its engine. A man got out. He was in a clean grey shalwar kameez and good shoes, quite unhurried, and under his arm, folded small, was the same newspaper. He did not look at Sana. He looked at the boys, one by one, as if counting fruit. Then he walked up to little Waqar Shah, who stood with the bat in both hands and his cap that said *Fear Nobody,* and smiled at him, and bent down, and said, in a voice as mild as milk—
 
 *Here the page is torn.*
 
@@ -7681,27 +7665,25 @@ Then, from the lane, the sound of a car, slow and grey, that did not belong to a
 
 Ji-woo Han, twenty-six, hanbok tailor, was pinning a sleeve and not thinking about the man who was late.
 
-She was exact. All her life she had been exact. She had measured the bride from Busan and the grandmother from Daegu and the boy of three who would not stand still for his first-birthday *dol*; she knew the width of every shoulder in the lane, and the tilt of every neck, and which woman in the district had lately lost, in sorrow, an inch round the waist. She had measured the whole city, one citizen at a time, and not once had she measured Daniel Cho.
+She was exact. She had measured the bride from Busan and the grandmother from Daegu and the boy of three who would not stand still for his first-birthday *dol*; she knew the width of every shoulder in the lane, and the tilt of every neck, and which woman in the district had lately lost, in sorrow, an inch round the waist. She had measured the whole district, one citizen at a time, and never once Daniel Cho.
 
 This she regarded as a professional lapse.
 
 "Unlocked again," said a voice at the door, and in came Ji-ah Yoon, fifty-eight, goldsmith, from the shop next door, wearing a magnifier on her forehead like a third eye and carrying a plate of rice cakes, which she placed on the cutting table without being asked. "Every night I go home and check, and every morning it is unlocked."
 
-"I locked it."
+"I locked it," said Ji-woo.
 
-"Anything," said Ji-woo, "has been walking in. Two cats and a man selling insurance."
+"Then anything has been walking in. Two cats and a man selling insurance. And a boy who coaches the computer-game people."
 
-"And a boy who coaches the computer-game people."
+"He does not walk in." She bit off a thread. "He stands in the doorway for five minutes every Thursday and looks at the silk. And then he buys a pair of socks."
 
-"No." She bit off a thread. "He stands in the doorway of my shop for five minutes every Thursday and looks at the silk. And then he buys a pair of socks."
-
-"How many pairs of socks has the boy got?"
+"How many pairs has the boy got?"
 
 "Forty-one."
 
 "*Forty-one!*" The goldsmith removed the magnifier, the better to look reverent. "That is the most romantic thing I have ever heard."
 
-At that moment the bell over the door gave its small bronze cough, and Daniel Cho, twenty-seven, tall, awkward, with the folded posture of a man who has spent years bent over other people's screens, stood in the doorway, with rain on his shoulders and an umbrella he had plainly been lent against his will.
+At that moment the bell over the door gave its small bronze cough, and Daniel Cho, twenty-seven, tall, awkward, with the folded posture of one who has spent years bent over other people's screens, stood in the doorway, with rain on his shoulders and an umbrella he had plainly been lent against his will.
 
 "I am not late," said Daniel.
 
@@ -7719,7 +7701,7 @@ But the goldsmith was gone, and the bell had rung, and the rain, that had grown 
 
 She went to the mannequin. She lifted the sleeves from their basket, one in each hand, as a priest lifts the vessels. And she fixed them, quite quickly, with five pins, to the shoulders of the charcoal-blue shape in the window; and it was suddenly not a shape at all, but a coat.
 
-It was a *durumagi*, the overcoat of the old gentlemen, long and plain and wide in the sleeve, cut from a ramie the colour of the sky just before it has decided to be night. The collar was narrow; the ribbons were of undyed silk, the grey of a dove's back; the seams were so fine that they might have been drawn by a pencil. It was not a coat for a young man. It was a coat for a man who intended to be quiet for the rest of a long life, and wanted to be dressed for it.
+It was a *durumagi*, the overcoat of the old gentlemen, long and plain and wide in the sleeve, cut from a ramie the colour of the sky just before it has decided to be night. The collar was narrow; the ribbons were of undyed silk, the grey of a dove's back; the seams so fine they might have been drawn in pencil. It was not a coat for a young man. It was a coat for someone who intended to be quiet for the rest of a long life, and wished to be dressed for it.
 
 "I cannot afford it," said Daniel.
 
@@ -7729,7 +7711,7 @@ It was a *durumagi*, the overcoat of the old gentlemen, long and plain and wide 
 
 "A coat," said Ji-woo. "Put it on."
 
-He did. It was an odd, solemn moment, with the bell silent and the rain on the awning and a man in a wet shirt being buttoned into the future. She stood behind him, to tug the shoulders straight. The coat fell from his neck to his shin as water falls from a hillside, without effort; it was exactly as long as his arms, exactly as wide as his back, exactly the weight of the evening.
+He did. It was an odd, solemn moment, with the bell silent and the rain on the awning and a man in a wet shirt being buttoned into the future. She stood behind him, to tug the shoulders straight. The coat fell from his neck to his shin as water falls from a hillside; it was exactly as wide as his back, exactly the weight of the evening.
 
 "It fits," said Daniel, in a voice of pure astonishment.
 
@@ -7749,11 +7731,11 @@ He did. It was an odd, solemn moment, with the bell silent and the rain on the a
 
 "I want a quiet life."
 
-"I know that too." She walked round, until she was facing him, and took from her pocket the cloth tape she wore about her neck, like a stole, for it was her oldest instrument and her least decorative. She held it up. "And now, with your permission, because the coat is finished and I should like it to be *correct*: your arms. Out. For the cuffs."
+"I know that too." She walked round, until she was facing him, and took the cloth tape from about her neck, her oldest instrument and her least decorative, and held it up. "And now, with your permission, because the coat is finished and I should like it to be *correct*: your arms. Out. For the cuffs."
 
 He held out his arms.
 
-She measured them, wrist to shoulder, with the grave concentration of an astronomer fixing a star; and then, because the tape had run out, and because he was not looking at the tape, she let her fingers rest, for one instant longer than the measure required, upon the inside of his wrist, where the pulse was loud as a drum in a small room.
+She measured them, wrist to shoulder, with the grave concentration of an astronomer fixing a star; then, because the tape had run out, and because he was not looking at the tape, she let her fingers rest, for one instant longer than the measure required, upon the inside of his wrist, where the pulse was loud as a drum in a small room.
 
 "Sixty-one centimetres," said Ji-woo, a little unsteadily.
 
@@ -7763,7 +7745,7 @@ She measured them, wrist to shoulder, with the grave concentration of an astrono
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., against Entry 0697 (Bucharest):*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0697 and 0137 (Bucharest):*
 
 > *A wire, a scan, a sleeve: three kinds of thread, and not one of them knows how much weight it will be asked to bear.*
 >
@@ -7810,7 +7792,7 @@ It was nearly done. The deck was laid. The cables sang, very faintly, in the eve
 
 Mustafa Karim stood on the western half and looked at the nothing.
 
-He was thirty-four, a civil engineer, and a man who believed in numbers because numbers, unlike people, could be checked. He had a pencil behind his ear, a hard hat in his hand, and a small, patient, stubborn face that had spent twelve years learning to look as though it had no feelings and had never once managed it. He had been awake since four. He had a spreadsheet in his head that told him the exact weight, in kilonewtons, that each cable would carry, and another, which he did not consult, that told him how many days it was until the woman who had drawn the bridge went away.
+He was thirty-four, a civil engineer, who believed in numbers because numbers, unlike people, could be checked. He had a pencil behind his ear, a hard hat in his hand, and a patient, stubborn face that had spent twelve years trying to look as though it had no feelings and had never once managed it. He had been awake since four. He had a spreadsheet in his head that told him the exact weight, in kilonewtons, that each cable would carry, and another, which he did not consult, that told him how many days it was until the woman who had drawn the bridge went away.
 
 "You are staring," said Shaimaa Al-Obaidi.
 
@@ -7822,7 +7804,7 @@ She was the stonemason, twenty-eight, broad of shoulder and dry of tongue, in a 
 
 "Shaimaa."
 
-"I carve stone, Engineer. I am not obliged to be tactful. It is the privilege of the trade. The stone cannot hear me and the public does not read the small print." She blew the dust from a letter. "Do you want to know what the committee wants me to write?"
+"I carve stone, Engineer. I am not obliged to be tactful. The stone cannot hear me and the public does not read the small print." She blew the dust from a letter. "Do you want to know what the committee wants me to write?"
 
 "I have read the draft."
 
@@ -7850,7 +7832,7 @@ Shaimaa laughed out loud. Mustafa, who was trying not to, took a long time to fi
 
 She came at sunset, as she always came. He would never have admitted that he knew the hour.
 
-Noor Hashim was thirty, an architect, and she walked like a woman who has been told, since the age of six, that she is going to be remarkable, and had made the best of it. She wore a long coat the colour of wet sand and carried a roll of drawings under one arm and, in her satchel, where it had lain for eleven days, an envelope with a foreign stamp.
+Noor Hashim was thirty, an architect, and she walked like someone who has been told since the age of six that she is going to be remarkable, and has made the best of it. She wore a long coat the colour of wet sand and carried a roll of drawings under one arm and, in her satchel, where it had lain for eleven days, an envelope with a foreign stamp.
 
 She had drawn the bridge. Not the cables and the weight; that was his. She had drawn the *way* of it: the long curve, the benches in the shade of the pylons, the lamps along the rail, each set in a small pierced shade of brass so that at night the light fell on the deck in the patterns of old Abbasid windows, stars within stars. A hundred and twelve lamps. She had drawn every one of them by hand.
 
@@ -7906,9 +7888,9 @@ She turned the glass in her fingers. In her satchel the envelope lay against her
 
 "I have had eleven days to practise."
 
-She laughed, not happily; she set down her glass. "You are *impossible.* You will not ask. You will not say stay. You will not even say that you will mind."
+She laughed, not happily, and set down her glass. "You are *impossible.* You will not ask. You will not say stay. You will not even say that you will mind."
 
-"If I said that I minded," said Mustafa, "you would stay. Out of kindness. And in a year you would be a woman who had stayed out of kindness, and you would look at this bridge, and you would not see a bridge. You would see a *wall.*" He turned to her at last, and his face, in the going light, was as plain and as gentle as a brick. "I would rather be a man you left than a man you were *kept* by."
+"If I said that I minded," said Mustafa, "you would stay. Out of kindness. And in a year you would be a woman who had stayed out of kindness, and you would look at this bridge, and you would not see a bridge. You would see a *wall.*" He turned to her at last, and his face, in the going light, was plain and gentle as a brick. "I would rather be a man you left than a man you were *kept* by."
 
 "And what if I come back?"
 
@@ -7918,7 +7900,7 @@ She laughed, not happily; she set down her glass. "You are *impossible.* You wil
 
 "It will be here. I will be somewhere near it." He tried a smile, and nearly managed. "I am an engineer. I only promise things that have been load-tested."
 
-She stood up. She walked to the very edge of the western span, where the white deck stopped, and stood there in her sand-coloured coat with the wind pulling at the roll of drawings, and looked across the gap to the other side, where the bookshops were putting out their lamps. A single boy was crossing the old stone arch at the end of the street, with a sack on his shoulder. He was very small at that distance. He looked, she thought, like a comma.
+She stood up. She walked to the very edge of the western span, where the white deck stopped, and stood there in her sand-coloured coat with the wind pulling at the roll of drawings, and looked across the gap to the other side, where the bookshops were putting out their lamps. A single boy was crossing the old stone arch at the end of the street, with a sack on his shoulder, very small at that distance. He looked, she thought, like a comma.
 
 "I will tell you what I will do," said Noor. "I will not answer tonight. And I will not answer tomorrow. I will answer *after.* After the bridge is opened. After I have walked across it. I want to know what it feels like, to cross a thing I have made, before I decide to cross a thing I have not."
 
@@ -7948,7 +7930,7 @@ She read it, and did not ask what it meant. It was the span of her stride.
 
 The women's field had been called to the line, and Selam Tesfaye was kneeling on the tarmac with her left leg stretched before her like an unpaid bill.
 
-"Do not look at it," said Abel Haile, the nurse who had been her friend for eleven years and her physiotherapist for the last four, and who was, at that moment, taping her knee with the grim concentration of a man defusing a clock. "It is looking at *you*, and it is not impressed."
+"Do not look at it," said Abel Haile, the nurse who had been her friend for eleven years and her physiotherapist for the last four, and who was, at that moment, taping her knee with the grim concentration of a bomb-disposal officer. "It is looking at *you*, and it is not impressed."
 
 "It has been looking at me for nine months."
 
@@ -7958,23 +7940,25 @@ The women's field had been called to the line, and Selam Tesfaye was kneeling on
 
 "And?"
 
-"I am not a tribunal, Abel. I do not rule on knees." Selam was thirty-three. She was lean and brown and fierce, with a long jaw and long thighs and a stillness at the centre of her that unsettled strangers; she had run for her country at three Games, and tomorrow, in all probability, would be able to run for her own convenience, and only that. "Four more hours. Then it may be as unhappy as it likes."
+"I am not a tribunal, Abel. I do not rule on knees." Selam was thirty-three, lean and brown and fierce, with a long jaw, long thighs and a stillness at the centre of her that unsettled strangers; she had run for her country at three Games, and after today, in all probability, would run only for her own convenience. "Three more hours. Then it may be as unhappy as it likes."
 
-"And the injection?" said Abel, with the air of a man asking a thing he already knows the answer to.
+"And the injection?" said Abel, who knew the answer.
 
 "No."
 
-At the barrier, a small, grey, exquisitely dressed man of sixty-two, with a spray of red roses held against his chest like a rifle, was watching her with an expression of deep suspicion. Yonas Mekonnen had been a florist for forty years and her coach for nineteen, and distrusted all things that could not be pruned.
+At the barrier, a small, grey, exquisitely dressed man of sixty-two, with a spray of red roses held against his chest like a rifle, was watching her with an expression of deep suspicion. Yonas Mekonnen had been a florist for forty years and her coach for nineteen, and distrusted anything that could not be pruned.
 
 "Take it," he said, pushing a rose through the barrier. "A rose in the pocket is a good-luck thing."
 
 "It will be crushed."
 
+"So will we all."
+
 "That is not a comfort, Yonas."
 
 "I did not say it was a comfort. I said it was a rose."
 
-Beside him, in a white netela shawl and a grey-brown headscarf, her prayer-cord wound twice round her fingers, stood the oldest and most terrible of her supporters: her mother, Tigist Girma, seventy-six, retired fishmonger, who had never been fooled by a daughter in her life and knew perfectly well that the knee was not the only thing the girl had decided not to mention. Tigist said nothing. She raised her cross, and kissed it, and held it for a moment above her daughter's head; then she lowered it, and put into Selam's hands a small twist of cloth in which were three roasted coffee beans.
+Beside him, in a white netela shawl and a grey-brown headscarf, her prayer-cord wound twice round her fingers, stood the oldest and most terrible of her supporters: her mother, Tigist Girma, seventy-six, retired fishmonger, who had never been fooled by a daughter in her life and knew perfectly well that the knee was not the only thing the girl had decided not to mention. Tigist said nothing. She kissed her cross, held it for a moment above her daughter's head, and put into Selam's hands a small twist of cloth holding three roasted coffee beans.
 
 "Chew them at the thirty-kilometre mark," said Tigist. "The beans know you."
 
@@ -7986,19 +7970,19 @@ Beside him, in a white netela shawl and a grey-brown headscarf, her prayer-cord 
 
 "Run like a woman who has *finished,*" said her mother, "not like a woman who is *finishing.* There is a difference. The first has already won."
 
-"I look forward to it," said Selam gravely.
+"I will try, Mama."
 
-"You will not even *be* here!"
+"Do not try. Trying is for those who are still afraid."
 
-"No," said Selam, and there was in it the whole of a long season. "I think that I won't."
+"No," said Selam, and there was in it the whole of a long season. "I think that I am not."
 
 At the very back of the crowd, behind the barrier, stood the man Selam did not look for.
 
-Samuel Bekele was thirty-six, a coffee exporter of Merkato, steady, proud, and extremely tired. His brother, who had died in October, had left him eleven thousand sacks of green Yirgacheffe, a warehouse with a mortgage, and an unbroken chain of polite and utterly merciless creditors. He had a meeting at ten o'clock with the landlady of the warehouse, a blunt woman of fifty-five named Rahel Girma, who had told him that he might have until noon and not an hour after. He had a buyer in Hamburg who would sign for a price that was a kind of robbery, by the same hour. He had a telephone in his pocket, which had been ringing since five. He had not slept. He was wearing the wrong shoes. He had come to see her run.
+Samuel Bekele was thirty-six, a coffee exporter of Merkato, steady, proud, and very tired. His brother, who had died in October, had left him eleven thousand sacks of green Yirgacheffe, a warehouse with a mortgage, and an unbroken chain of polite and utterly merciless creditors. He had a meeting at ten o'clock with the landlady of the warehouse, a blunt woman of fifty-five named Rahel Girma, who had told him that he might have until noon and not an hour after. He had a buyer in Hamburg who would sign for a price that was a kind of robbery, by the same hour. He had a telephone in his pocket, which had been ringing since five. He had not slept. He was wearing the wrong shoes. He had come to see her run.
 
 ---
 
-**The Gulele Road, kilometre thirty-eight. Two hours and fifty-one minutes after the start.**
+**The Gulele Road, kilometre thirty-eight. Two hours and thirty-one minutes after the start.**
 
 (*Dawit Tadesse, fifty-nine, librarian of Bahir Dar and a man who had never been to the sea, was sitting in a café on the corner with a transistor radio. He was a little vain. He had been given leave to narrate.*)
 
@@ -8010,9 +7994,9 @@ Samuel Bekele was thirty-six, a coffee exporter of Merkato, steady, proud, and e
 
 "How do you know there's a rose in her pocket?"
 
-"I have *imagination,*" said Dawit, with great dignity. "It is the chief function of the librarian."
+"I have *imagination,*" said Dawit, with dignity. "It is the chief function of the librarian."
 
-In truth, a mile and a half to the north, the race was no longer a matter for epic. At thirty-eight kilometres, a runner is not a hero; a runner is a small, hot, rhythmic debt, owing the road everything. Selam ran. Her breath came in two beats and went out in two. The sun was well up now, and the hills had turned the colour of honey; the crowds at the roadside had thinned, and then grown, and then become a single sound. Her left knee was no longer a joint. It was an argument, delivered at intervals, in the voice of a hot nail.
+In truth, out on the road, the race was no longer a matter for epic. At thirty-eight kilometres, a runner is not a hero; a runner is a small, hot, rhythmic debt, owing the road everything. Selam ran. Her breath came in two beats and went out in two. The sun was well up now, and the hills had turned the colour of honey; the crowds at the roadside had thinned, and then grown, and then become a single sound. Her left knee was no longer a joint. It was an argument, delivered at intervals, in the voice of a hot nail.
 
 She chewed her three beans.
 
@@ -8032,7 +8016,7 @@ At the thirty-ninth kilometre, on the corner by the old petrol station, there wa
 
 It was a plain steel thermos with a dent in it. The hand that held it was a man's, not young, tired, and quite steady. It held it out for the length of two strides, and she could have taken it, and did not; for to take it she would have had to look. She looked.
 
-Samuel Bekele was not saying anything. He had no breath to spare. He had run, she saw, along the barrier from the three-kilometre point, in the wrong shoes, in a jacket and a good tie, with a telephone buzzing like a trapped wasp in his pocket. His face was grey. He had never in his life looked less like a coffee merchant, and never more like a man.
+Samuel Bekele was not saying anything. He had no breath to spare. He had abandoned a minibus stuck in the crowds and run along the barrier for the last three kilometres, she saw, in the wrong shoes, in a jacket and a good tie, with a telephone buzzing like a trapped wasp in his pocket. His face was grey. He had never looked less like a coffee merchant, and never more like a man.
 
 "It is *buna,*" he gasped. "Black. No sugar. Mama said the beans know you, but the *coffee* knows me."
 
@@ -8044,7 +8028,7 @@ She laughed. It cost her a breath, and she paid it.
 
 "At ten."
 
-"It is nine-forty."
+"It is nine thirty-five."
 
 "You will be late."
 
@@ -8058,7 +8042,7 @@ She laughed. It cost her a breath, and she paid it.
 
 "I am going," said Samuel. And he kept running.
 
-He ran with her to the corner of the square. He ran when the barrier ended and the road narrowed, along the footpath, among the crowds. He ran the last four hundred metres on the pavement, a man in a tie, weeping and laughing and out of breath, while on the road beside him the woman he had not yet said a single word to about love gave her last whole self to the line. A hundred metres out her knee went, as a branch goes in a storm, and she did not stop. She did not stop; she ran on it, the leg dragging like a flag, and the crowd, who knew what it was seeing, rose up in one body and made a noise that Dawit, in his café, described as *the sound of Mount Entoto clearing its throat.*
+He ran when the barrier ended and the road narrowed, along the footpath, among the crowds. He ran the last four hundred metres on the pavement, a man in a tie, weeping and laughing and out of breath, while on the road beside him the woman he had not yet said a single word to about love gave her last whole self to the line. A hundred metres out her knee went, as a branch goes in a storm, and she did not stop. She did not stop; she ran on it, the leg dragging like a flag, and the crowd, who knew what it was seeing, rose in one body and made a noise that Dawit, in his café, described as *the sound of Mount Entoto clearing its throat.*
 
 She crossed the line in third place, in two hours and forty-one minutes, and sat down on the road.
 
@@ -8082,9 +8066,9 @@ But Samuel went through the barrier, at last, and gave her the coffee.
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R.:*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0076, 0165, 0233 and 0243:*
 
-> *Entry 0076 and Entry 0243. A bridge and a road. One is built that a person may return; the other is run that a person may leave. I have noticed that the builders and the runners of this world are, very often, the same people, at different hours.*
+> *A bridge and a road. One is built that a person may return; the other is run that a person may leave. I have noticed that the builders and the runners of this world are, very often, the same people, at different hours.*
 >
 > *I do not know whether Noor will cross. I know only that Mustafa drew a line the length of her stride, and that a man who does that has already said a great deal more than he thinks.*
 >
@@ -8108,7 +8092,7 @@ But Samuel went through the barrier, at last, and gave her the coffee.
 
 The shop of Jonas Müller, maker of violins, had a door with a bell on it, and the bell rang a flat A.
 
-Not very flat. A quarter of a tone, perhaps; the sound of a thing that has been left out in the rain and has decided to make the best of it. A man with a perfect ear would hear it and want to lie down. Jonas, who spent his days adjusting the soul-posts of instruments by a fraction of a hair, had owned the bell for three years, and could have replaced it for four euros.
+Not very flat. A quarter of a tone, perhaps; the sound of a thing that has been left out in the rain and has decided to make the best of it. A man with a perfect ear would hear it and want to lie down. Jonas, who spent his days adjusting violins by a fraction of a hair, had owned the bell for three years, and could have replaced it for four euros.
 
 He had not.
 
@@ -8120,7 +8104,7 @@ He had not.
 
 "I am a man of few denials."
 
-"You are a man of few *everything.*" She hung up her coat. She was forty-nine, a former tax inspector, and the oldest apprentice in the history of Viennese lutherie; she had spent twenty years finding out what people owed and wanted, for a change, to be paid in beauty. She wore an apron the colour of strong mustard, and on every Monday of the year she greeted her master with the same remark.
+"You are a man of few *everything.*" She hung up her coat. She was forty-nine, a former tax inspector and the oldest apprentice in the history of Viennese lutherie; she had spent twenty years finding out what people owed, and wanted, for a change, to be paid in beauty. She wore a mustard-coloured apron, and on every Monday of the year she greeted her master with the same remark.
 
 "I shall not live to see you married," said Theresa.
 
@@ -8132,15 +8116,15 @@ He had not.
 
 "*Do not,*" said Theresa, with menace, "make me say the name."
 
-The workshop was long and narrow and smelled of spruce, varnish, hide glue, and the sweetness of old maple, the smell of wood that has been waiting. On the walls hung forty-one violins in various stages of undress, drying on their hooks like a row of small, patient saints. At the far end, in the one good light, on a bench scored with thirty years of other men's knives, lay a violin that was not forty-second in the line and was not for sale.
+The workshop was long and narrow and smelled of spruce, varnish, hide glue, and the sweetness of old maple, the smell of wood that has been waiting. On the walls hung forty-one violins in various stages of undress, like a row of small, patient saints. At the far end, in the one good light, on a bench scored with thirty years of other men's knives, lay a violin that was not forty-second in the line and was not for sale.
 
-It was dark-gold, a little small in the body. Its neck was very thin. Its scroll had been carved by a hand that had trembled at one moment and corrected itself. Inside it, visible through the f-hole to anyone who held it at the right angle to the lamp, a label had been written in pencil:
+It was dark-gold, a little small in the body. Its neck was very thin. Inside it, visible through the f-hole to anyone who held it at the right angle to the lamp, a label had been written in pencil:
 
 *Für C. W. — die einzige Hand, die es braucht.*
 
 For C. W. — the only hand that needs it.
 
-Jonas had been making it for four years. It was finished. He had finished it in November and had not been able to put down the file.
+Jonas had been making it for three years. It was finished. He had finished it in November and had not been able to put down the file.
 
 ---
 
@@ -8148,17 +8132,13 @@ Jonas had been making it for four years. It was finished. He had finished it in 
 
 (*The orchestra, in its work-clothes, tuning. A hundred and one people, each wishing to be the exception to something.*)
 
-On the podium, with her back to the Vienna Spring Orchestra and her face to the stage door, stood Clara Weber, thirty-two, imperious, in a black polo-neck and flat shoes, with a baton held between two fingers like a cigarette she had quit. She had been, at twenty-two, a violinist of astonishing promise; at twenty-three, a violinist with a tendon in her left hand that had snapped, in the middle of a Bach partita, like a thread in a draught. She had said, aloud, to the dressing-room mirror: *Very well.* Then she had picked up a baton, with the other hand, and made herself the finest conductor in the city.
+On the podium, with her back to the Vienna Spring Orchestra and her face to the stage door, stood Clara Weber, thirty-two, imperious, in a black polo-neck and flat shoes, with a baton held between two fingers like a cigarette she had given up. She had been, at twenty-two, a violinist of astonishing promise; at twenty-three, a violinist with a tendon in her left hand that had snapped, in the middle of a Bach partita, like a thread in a draught. She had said, aloud, to the dressing-room mirror: *Very well.* Then she had picked up a baton, with the other hand, and made herself the finest conductor in the city.
 
 Her face was as calm as a coin. Behind it, as every morning, was something that was not calm.
 
 For three years, there had been, in her perfect life, one flat note.
 
 It was not in the orchestra. It was in a small lane in the Josefstadt, where she passed on Mondays on her way to the Musikverein, since the bakery there made the only rye bread in Vienna she could stand. It was a doorbell. It rang a quarter-tone below the A. And she had developed, in three years, a whole system of avoidance: she crossed the lane on the diagonal; she held her breath; she took, on one memorable occasion, a taxi in the other direction.
-
-"What did you say?"
-
-"Nothing," Jonas had said. "I said the *tension* is not in the violin. The wood is sound. It is only that it has been asked to do too much."
 
 "Maestra?" said the concertmaster. "We are ready."
 
@@ -8170,9 +8150,9 @@ And at that moment the stage door opened, and in came a man in a conductor's uni
 
 "He is *the other kind,*" Theresa said afterwards, to anyone who would listen.
 
-It was all, in a manner of speaking, Theresa's doing; though she denied it with the fervour of a person who has put a hand in a cash-box. For in Vienna there are two sorts of conductors. There is the sort that stands on a podium and makes a hundred people produce Schubert. And there is the sort that stands on the number 49 tram, with a leather bag and a ticket-punch, and makes four hundred people a day produce a sullen euro-seventy. Lukas Bauer, thirty-seven, of the second sort, had that morning, at Theresa's request, been entrusted with a violin case.
+It was all, in a manner of speaking, Theresa's doing, though she denied it with the fervour of one caught with a hand in the cash-box. For in Vienna there are two sorts of conductors. There is the sort that stands on a podium and makes a hundred people produce Schubert. And there is the sort that stands on the number 49 tram, with a leather bag and a ticket-punch, and makes four hundred people a day produce a sullen euro-seventy. Lukas Bauer, thirty-seven, of the second sort, had that morning, at Theresa's request, been entrusted with a violin case.
 
-"I am to give this," said Lukas, in the doorway of the Brahms Hall, with the case held out before him like an offering, "to the other conductor."
+"I am to give this," said Lukas, in the doorway of the Brahms Hall, case held out before him like an offering, "to the other conductor."
 
 "Which other conductor?" said the concertmaster.
 
@@ -8180,7 +8160,7 @@ It was all, in a manner of speaking, Theresa's doing; though she denied it with 
 
 "*Put it down,*" said Clara Weber, in a voice that had stopped, in its time, four hundred people mid-chord, "on the *chair.*"
 
-He put it on the chair. He bowed to the orchestra, and, to the vast and delighted indignation of a hundred and one professionals, he punched the stage door ticket, from habit, and left.
+He put it on the chair. He bowed to the orchestra and, to the delighted indignation of a hundred and one professionals, punched the stage-door pass from sheer habit, and left.
 
 For a moment the hall was silent.
 
@@ -8188,7 +8168,7 @@ Then Clara, who could not help it, came down from the podium. She crossed the st
 
 She opened it.
 
-The violin lay on the blue velvet, dark-gold, a little small, quite perfect. It had, she saw at once, a very thin neck. It had a chin-rest set a little lower than the standard. It had a nut cut a hair wider, to give a weak hand space to spread. It had been made, with a patience that was nearly an insult, for a hand that was not quite the hand of a violinist, and was quite the hand of one particular woman.
+The violin lay on the blue velvet, dark-gold, a little small, quite perfect. It had, she saw at once, a very thin neck. It had a chin-rest set a little lower than the standard. It had a nut cut a hair wider, to give a weak hand space to spread. It had been made, with a patience that was nearly an insult, for a hand that was not quite a violinist's and was entirely one particular woman's.
 
 She lifted it. It weighed nothing. It weighed, she thought, about as much as a held breath.
 
@@ -8218,13 +8198,13 @@ She turned. She put the violin carefully back in its case. She closed the lid.
 
 The bell rang. It was the wrong note. It had always been the wrong note, and today it was the only note in the world.
 
-Jonas, with his back to the door, was engaged in the delicate business of fitting a soul-post, a small spruce dowel, no thicker than a pencil, between the belly and the back of a violin, by means of a hooked steel tool and the sort of breath-held prayer that a man in his trade learns early. He did not turn round. He could not afford to; the post would slip. He said only, to the violin:
+Jonas, with his back to the door, was engaged in the delicate business of fitting a soul-post, a small spruce dowel, no thicker than a pencil, between the belly and the back of a violin, by means of a hooked steel tool and the breath-held prayer his trade teaches early. He did not turn round. He could not afford to; the post would slip. He said only, to the violin:
 
 "We are closed."
 
 "You are *not.*"
 
-He turned. The soul-post fell over. In the doorway, in a black polo-neck and flat shoes, with a violin case in her hand and a look on her face that had in its time dissolved the nerve of three tenors and a prime minister, stood the finest conductor in Vienna.
+He turned. The soul-post fell over. In the doorway, in a black polo-neck and flat shoes, with a violin case in her hand and a look that had in its time dissolved the nerve of three tenors and a prime minister, stood the finest conductor in Vienna.
 
 "Frau Weber," said Jonas.
 
@@ -8248,7 +8228,7 @@ The door to the back room closed. It did not click shut. It closed with the poin
 
 "I know. I *heard.*"
 
-"It is the only note," said Jonas, and he said it with such effort that the words came out one by one, like coins counted onto a counter, "that I had, the first day you came in. I took your violin. I looked at it. I said something foolish about tendons. And as you left, the bell rang. And you stopped in the street, and you said, to nobody, *Your bell is flat.*" He swallowed. "It was the only thing you ever said to me. I could not mend it. It was yours."
+"It is the only note," said Jonas, and the words came out one by one, like coins counted onto a counter, "that I had, the first day you came in. I took your violin. I looked at it. I said something foolish about tendons. And as you left, the bell rang. And you stopped in the street, and you said, to nobody, *Your bell is flat.*" He swallowed. "It was the only thing you ever said to me. I could not mend it. It was yours."
 
 "I did not mean it as a gift."
 
@@ -8258,7 +8238,7 @@ The door to the back room closed. It did not click shut. It closed with the poin
 
 "Yes."
 
-"And you made me a violin—*for me*—for four years, with a neck for this hand, and you tuned it to the bell."
+"And you made me a violin—*for me*—for three years, with a neck for this hand, and you tuned it to the bell."
 
 "I did not tune it to the bell. I tuned it to *you.* It happens that the bell is where you are." He drew a breath. "Frau Weber. You are the most perfect musician I have ever seen. You have not made a mistake in my hearing. And I have thought, for three years, that if there were a single place in the world where a perfect woman might be allowed to be a quarter of a tone below the pitch, without the whole hall turning its head, I should like to have been the man who made it."
 
@@ -8280,7 +8260,7 @@ Then she said, in a very odd voice:
 
 "*Clara,*" said Jonas Müller, as though he were testing a string.
 
-She opened the case. She took out the violin, and she did what he had been afraid, for four years, she would do, and what he had never dared to hope. She tucked it under her jaw, and set her left hand on the thin neck, and drew from it, very slowly, the first four bars of a slow movement of Schubert that he knew she knew, because he had seen the score on her stand. It was not a virtuoso's performance. Her left hand shook; there was a place where the fourth finger would not quite reach, and she took the note up an octave. But the sound was a long gold thread. It went through the dusty light, and the unfinished backs, and the sleeping varnish, until all forty-one violins on the walls seemed to hold their breath.
+She opened the case. She took out the violin, and she did what he had been afraid, for three years, she would do, and what he had never dared to hope. She tucked it under her jaw, and set her left hand on the thin neck, and drew from it, very slowly, the first four bars of a slow movement of Schubert that he knew she knew, because he had seen the score on her stand. It was not a virtuoso's performance. Her left hand shook; there was a place where the fourth finger would not quite reach, and she took the note up an octave. But the sound was a long gold thread. It went through the dusty light, and the unfinished backs, and the sleeping varnish, until all forty-one violins on the walls seemed to hold their breath.
 
 When she finished, she lowered the bow. She did not say anything.
 
@@ -8314,7 +8294,7 @@ From behind the door of the back room there came, quite audibly, the sound of a 
 
 "And that," said Giulia Rossi, thirty-one, balcony tour guide, cynic, in a green jacket with a laminated badge that said GUIDE and a pencil through her hair, "is the end of the tour. Thank you for your attention. Please do not take a photograph with the statue's hand in the position that I have asked you, three times, *not* to take it."
 
-"But it is *lucky,*" said Francesca Costa, a weaver of fifty from Mantua in the rear of the party, and a woman who had been anxious since 1998. "If you touch it, you will find love."
+"But it is *lucky,*" said Francesca Costa, a weaver of fifty from Mantua in the rear of the party, who had been anxious since childhood. "If you touch it, you will find love."
 
 "You will find a hand," said Giulia, "that has been touched by four million other people, and a mild case of something. Next."
 
@@ -8344,7 +8324,7 @@ There was a pause. In the arch of the entrance, with his collar up and a cap dra
 
 He was Marco Bellini, thirty-four, tenor, and he was terrified.
 
-It was not the sort of terror one sees in the ordinary man. It was the terror of a person whose whole life is arranged for a single moment, three hours long, in front of eleven thousand people, in an arena of stone; a moment in which he was celebrated, golden-throated, perfect; and in which, since the winter, he had been seized by an unknown hand and shaken like a bell. He forgot words. His knees sang. In a rehearsal in February he had stood on the stage in Parma and been unable to produce a single note, and the conductor had said, kindly: *Take your time, Maestro;* and he had taken eleven minutes.
+It was the terror of a person whose whole life is arranged for a single moment, three hours long, in front of eleven thousand people in an arena of stone; a moment in which he had been celebrated, golden-throated, perfect, and in which, since the winter, he had been seized by an unknown hand and shaken like a bell. He forgot words. His knees sang. In a rehearsal in February he had stood on the stage in Parma unable to produce a single note, and the conductor had said, kindly: *Take your time, Maestro;* and he had taken eleven minutes.
 
 In his coat pocket, as he stood in the arch, was a letter he had written and not posted. In his other pocket, folded very small, was the last reply he had received from the wall. It was written in a small, upright, rather severe hand, on cream paper, and it said:
 
@@ -8382,7 +8362,7 @@ When he had finished, the silence lasted a very long time. Then Francesca Gallo,
 
 "That was acceptable."
 
-The courtyard erupted. Marco bowed, and laughed, and wiped his face, and for the first time since February did not mind being seen to do it. And as the children surged round him, he glanced across the heads, and met the eyes of the guide in the green jacket, who was applauding with the contained air of a woman putting out a small fire.
+The courtyard erupted. Marco bowed, and laughed, and wiped his face, and for the first time since February did not mind being seen to do it. And as the children surged round him, he glanced across the heads, and met the eyes of the guide in the green jacket, who was applauding like a woman putting out a small fire.
 
 "Signorina," he said, over the din. "You know the Secretaries of Juliet."
 
@@ -8428,11 +8408,11 @@ And as the Neapolitan children trooped, singing, out into the Via Cappello, and 
 
 **Dunga Beach, Kisumu, on the shore of Lake Victoria. Five-forty in the morning.**
 
-(*The lake was the colour of pewter and the size of a small country. Papyrus stood in the shallows like a crowd of green feather dusters. A fish eagle called from a dead tree, a long, laughing, descending cry, as though it had just been told something indecent about the government.*)
+(*The lake was the colour of pewter and the size of a small country. Papyrus stood in the shallows like a crowd of green feather dusters. A fish eagle called from a dead tree, a long, laughing, descending cry, as though it had just heard something indecent about the government.*)
 
 "Quiet on the set!" said Juma Njenga, who was a plumber from Nairobi and had been flown to Kisumu, at his own expense, to be a hurricane.
 
-He stood in two feet of water in rolled-up trousers, holding the nozzle of a fire-hose that ran back across the sand to a borrowed pump. Beside him sat an industrial fan the size of a barn door, plugged into a generator, and a boy with a bucket of fish scales waiting to throw them on cue. Forty yards out on the flat water, in a rented boat with a name painted on its prow in fading blue, *MAMA ATIENO,* a man in a yellow oilskin was standing with his legs apart and a fixed expression of heroic defiance.
+He stood in two feet of water in rolled-up trousers, holding the nozzle of a fire-hose that ran back across the sand to a borrowed pump. Beside him sat an industrial fan the size of a barn door, plugged into a generator, and a boy with a bucket of fish scales waiting to throw them on cue. Forty yards out on the flat water, in a rented boat named in fading blue paint, *MAMA ATIENO,* a man in a yellow oilskin was standing with his legs apart and a fixed expression of heroic defiance.
 
 "*Action!*" cried Juma.
 
@@ -8440,13 +8420,13 @@ The hose roared. The fan howled. The scales flew. The boat rocked, very slightly
 
 "*They said the lake would break me! But I am Captain Otie, the Lake Lion, and the Lake Lion does not break!*"
 
-Otieno Odhiambo, twenty-nine, fisherman of Dunga and star of the most popular channel on the lake, waded ashore with the carriage of a lion and the face of a man who has just been caught eating the last biscuit. Under the yellow oilskin he was a slim, laughing, slightly stooping young man in a faded football shirt, with a gap in his front teeth and no idea what to do with his hands when no one was watching.
+Otieno Odhiambo, twenty-nine, fisherman of Dunga and star of the most popular channel on the lake, waded ashore with the carriage of a lion and the face of a man caught eating the last biscuit. Under the yellow oilskin he was a slim, laughing, slightly stooping young man in a faded football shirt, with a gap in his front teeth and no idea what to do with his hands when no one was watching.
 
-"And what does it do when the lion cannot swim?"
+"And what does the Lion do," said Juma, "when the lion cannot swim?"
 
 There was a pause. The fish eagle laughed again.
 
-It was a secret that half of Dunga knew, and that Otieno kept as a man keeps a hot coal in a pocket: that he, a son of the lake, who had gone out every night since he was fourteen in a leaky boat to catch omena by lantern-light, had never learned to swim. Many fishermen in that country had not. Water is for working on, not in. But a Lion must wrestle crocodiles, and so he had a plumber, a pump, and, on the wall of his hut, a laminated sign in his own hand that said: **DEPTH: 2 FEET. COURAGE: INFINITE.**
+It was a secret that half of Dunga knew, and that Otieno kept like a hot coal in a pocket: that he, a son of the lake, who had gone out every night since he was fourteen in a leaky boat to catch omena by lantern-light, had never learned to swim. Many fishermen in that country had not. Water is for working on, not in. But a Lion must wrestle crocodiles, and so he had a plumber, a pump, and, on the wall of his hut, a laminated sign in his own hand that said: **DEPTH: 2 FEET. COURAGE: INFINITE.**
 
 "She will see through it," he said at last.
 
@@ -8456,7 +8436,7 @@ It was a secret that half of Dunga knew, and that Otieno kept as a man keeps a h
 
 "What of it?"
 
-"What of it?" Otieno took the phone from the tripod and looked at it as a man looks at a letter that has come with the wrong stamp. "She is the only one who has ever *looked.* A hundred thousand people watch the Lion. She watches the *seams.* And she is not even cross about it. She writes like a woman looking for something and being sorry to find it."
+"What of it?" Otieno took the phone from the tripod and looked at it as at a letter that has come with the wrong stamp. "She is the only one who has ever *looked.* Two million people watch the Lion. She watches the *seams.* And she is not even cross about it. She writes like someone looking for something and sorry to find it."
 
 ---
 
@@ -8466,7 +8446,7 @@ Wanjiru Kamau had been looking at the same sentence for forty minutes.
 
 She was twenty-seven, a technology reporter with a reputation for being unpleasant to press officers, and she had a degree in computer science, a desk with a very small cactus, and a secret she had not told her editor or her mother or her lawyer, who at that moment was reading her draft in the chair beside her with an expression of gathering gloom.
 
-"*The Lake Lion Does Not Swim,*" read Mwangi Mutua, forty-three, solicitor, her oldest friend and the only man in the building who had never been afraid of her. "That is the headline."
+"*The Lake Lion Does Not Swim,*" read Mwangi Mutua, forty-three, advocate, her oldest friend and the only man in the building who had never been afraid of her. "That is the headline."
 
 "It is accurate."
 
@@ -8476,17 +8456,17 @@ She was twenty-seven, a technology reporter with a reputation for being unpleasa
 
 "It is. I am only noting that it is also very funny."
 
-"It is not funny." She said it with some force. "He has two million followers. They send him money. Last month a boy in Nyeri swam out into a dam, trying to wrestle a catfish like the Lion, and was taken to hospital. It is not funny. It is a *pattern.* He has built a false man, and people have drunk him."
+"It is not funny." "He has two million followers. They send him money. Last month a boy in Nyeri swam out into a dam, trying to wrestle a catfish like the Lion, and was taken to hospital. It is not funny. It is a *pattern.* He has built a false man, and people have drunk him."
 
 "And the real man?"
 
 She said nothing.
 
-On a Tuesday night two winters ago she had started to be a fool. In a video, for one half-second in the middle of a sentence, a man in an oilskin on a boat had worn an expression of such transparent anxiety that she had watched it a hundred times. *That is not the Lion,* she had thought. *That is a man who has just remembered he is on a boat.* She had begun, God forgive her, to wait for the places where he failed to be perfect. And then, with the desperate self-contempt of a woman who has always been right and is now, in one narrow respect, completely wrong, she had written a single sentence on a card and posted it to an old astronomer in England, who was said to keep such things. In November the ledger had opened, and there it was in the open air, number 826, in her own words.
+On a Tuesday night two winters ago she had started to be a fool. In a video, for one half-second in the middle of a sentence, a man in an oilskin on a boat had worn an expression of such transparent anxiety that she had watched it a hundred times. *That is not the Lion,* she had thought. *That is a man who has just remembered he is on a boat.* She had begun, God forgive her, to wait for the places where he failed to be perfect. And then, with the self-contempt of a woman who has always been right and is now, in one narrow respect, completely wrong, she had written a single sentence on a card and posted it to an old astronomer in England, who was said to keep such things. In November the ledger had opened, and there it was in the open air, number 826, in her own words.
 
 *I fell for the man on the videos.*
 
-It was not the man. That was the horror of it. It was a man made of tripods. And for nine weeks, with the cold professional fury of a woman who has been fooled by her own heart, she had taken him apart, one seam at a time.
+It was not the man. That was the horror of it. It was a man made of tripods. And for nine weeks, with the cold fury of one fooled by her own heart, she had taken him apart, one seam at a time.
 
 "Wanjiru," said Mwangi, gently.
 
@@ -8496,19 +8476,19 @@ It was not the man. That was the horror of it. It was a man made of tripods. And
 
 "You were about to."
 
-The woman at the desk was Njeri Wafula, twenty-five, who had a stall by the matatu stage that sold airtime, phone covers, sunglasses, and, in the back, packages of social-media followers at two hundred shillings the thousand. She was loyal to a fault, a chatterbox, and a total innocent about ethics.
+Waiting by the door with a plastic bag of tea and mandazi was Njeri Wafula, twenty-five, who kept a stall by the matatu stage that sold airtime, phone covers, sunglasses and, in the back, social-media followers at two hundred shillings the thousand. She was loyal to a fault, a chatterbox, and a total innocent about ethics.
 
 "Madam," said Njeri, in a whisper of audible dimensions. "I did not sell him the followers. But when I saw your story on the screen I said, aha, Njeri, you must go and tell her the thing about the song."
 
 "What song?"
 
-"The one he hums. Captain Otie. When he thinks the camera is off. At the end of the one with the crocodile, in the minute after he says *cut.* He goes, *mm, mm-mm, mm-mm-mm*—" and Njeri, in the middle of the fourth floor, hummed, quite beautifully, eleven notes of a Luo lullaby, "and I said to myself: *that is my grandmother's song.* It is the song she sang when we were going to sleep. It is not a Lion's song. It is a song for a child with a cold."
+"The one he hums. Captain Otie. When he thinks the camera is off. At the end of the one with the crocodile, in the minute after he says *cut.* He goes, *mm, mm-mm, mm-mm-mm*—" and Njeri, in the middle of the fourth floor, hummed, quite beautifully, eleven notes of a lullaby, "and I said to myself: *that is my grandmother's song.* It is the song she sang when we were going to sleep. It is not a Lion's song. It is a song for a child with a cold."
 
 There was a very long pause.
 
 "Thank you, Njeri," said Wanjiru, in a voice that did not sound like hers.
 
-Njeri looked at her. And then, with the swift merciless perception of the very simple, she said, as she picked up the bag: "Aaah. Madam. *You* like him."
+Njeri looked at her. And then, with the swift merciless perception of the very simple, she said, picking up her bag: "Aaah. Madam. *You* like him."
 
 "I like," said Wanjiru, "*accuracy.*"
 
@@ -8518,39 +8498,37 @@ Njeri looked at her. And then, with the swift merciless perception of the very s
 
 **The Kalotina checkpoint, the Bulgarian–Serbian border. Midday on a Thursday in May.**
 
-(*The mud had dried to dust. The Balkan range stood up behind the barrier in a blue spring haze. A line of lorries stretched along the road with their cabs open, and drivers sitting on the steps in the sun, eating sunflower seeds and spitting the husks into the gutter with the practised contempt of men who have been on a border since breakfast.*)
+(*The mud had dried to dust. The Balkan range stood up behind the barrier in a blue spring haze. A line of lorries stretched along the road with their cabs open, and drivers sitting on the steps in the sun, eating sunflower seeds and spitting the husks into the gutter with the contempt of men who have been on a border since breakfast.*)
 
-Senior Sergeant Nikolai Ivanov had for four months been seeking duty at Kalotina in all the hours for which it was possible to sign. He gave reasons for this to his captain, who had not asked. He did not say that every time a bus drew in from Sofia his eyes went through its windows like a hand through a pocket, and that he had stopped being surprised to find himself disappointed.
+Senior Sergeant Nikolai Ivanov had for four months been seeking duty at Kalotina in all the hours for which it was possible to sign. He gave reasons for this to his captain, who had not asked. He did not say that every time a bus drew in from Sofia his eyes went through its windows like a hand through a pocket, and that he had stopped being surprised to be disappointed.
 
-The bus that arrived at a quarter to twelve was the local one from Dragoman, full of the old and the thrifty, who crossed into Serbia on Thursdays to buy cheaper sugar. It was a loud bus. It had a woman with a hen in a basket and a man carrying a ladder.
+The bus that arrived at a quarter to twelve was the local one from Dragoman, full of the old and the thrifty, who crossed into Serbia on Thursdays to buy cheaper sugar. It was a loud bus, with a woman carrying a hen in a basket and a man carrying a ladder.
 
 And it had, at the very back, in the second to last row, an old woman in black.
 
-She was bent over a stick. She wore a black headscarf, pulled low, and thick spectacles, and a man's grey cardigan with the sleeves rolled, and she carried a string bag of onions. She moved slowly. She leaned on the arm of a girl of seventeen or so, in a school anorak and a red wool hat, who walked beside her with the careful, patient face of a granddaughter on a long errand.
+She was bent over a stick. She wore a black headscarf, pulled low, and thick spectacles, and a man's grey cardigan with the sleeves rolled, and she carried a string bag of onions. She leaned on the arm of a girl of seventeen or so, in a school anorak and a red wool hat, who walked beside her with the careful, patient face of a granddaughter on a long errand.
 
 They came to the booth in their turn. The old woman held out two passports in a shaking hand, and said, in a cracked, quavering Bulgarian, the Bulgarian of a small village in the north-west: "Good day, son. We are going to see my sister in Pirot, and we are coming back before dark. She has a bad leg. It is a long way for an old woman."
 
 Nikolai Ivanov looked at the passports.
 
-He did not look at the old woman's face. It was a rule. The face is the one thing a person can arrange; the hands are not so easily lent. And the hands that held the documents, thin, brown, extraordinarily steady beneath their affected tremor, with two small calluses on the first finger of the right, such as are made by years of holding a pen, were the hands of a woman who had stood at his elbow in December, translating a child's crayon drawing of a sun.
-
-He heard the tram. He heard the kiosk, and the stove, and the ticking of a radiator in a December dawn.
+He did not look at the old woman's face. It was a rule. The face is the one thing a person can arrange; the hands are not so easily lent. And the hands that held the documents, thin, brown, extraordinarily steady beneath their affected tremor, with a small callus on the first finger of the right, such as years of holding a pen will make, were the hands of a woman who had stood at his elbow in December, translating a child's crayon drawing of a sun.
 
 The first passport was the old woman's, and it was in order. The second, the girl's, was a very beautiful piece of work. It was made of the correct paper and the correct thread, and it gave a name and a place of birth and a father, and was not, in any particular that a machine could discern, false. He laid it on the glass, under the lamp. The machine gave a small green glow.
 
 He felt, then, a particular weight on the back of his neck. He looked up, very slowly, through the window of the booth, and saw, in the guardroom opposite, the figure of the young officer Georgi, with a mug of tea in his hand, standing quite still at the glass.
 
-Georgi was looking at him. Georgi, who was young and kind and not at all stupid, wrote nothing down.
+Georgi was looking at him. Georgi, who was young and kind and not at all stupid, wrote nothing.
 
 *A man who does not write,* thought Nikolai, *is a man who is remembering.*
 
 He looked at the girl.
 
-She was looking at the barrier. She had a long brown face and grave dark eyes, the eyes of a person who has done a great deal of travelling and has found it difficult to be surprised, and under the red wool hat her hair was cut short like a boy's. She stood with her hands in the pockets of her anorak as one stands who has been told that if she is quite still and quite ordinary, no one will see her at all.
+She was looking at the barrier. She had a long brown face and grave dark eyes, the eyes of someone who has done a great deal of travelling and finds it difficult to be surprised, and under the red wool hat her hair was cut short like a boy's. She stood with her hands in her anorak pockets, as one stands who has been told that if she is quite still and quite ordinary, no one will see her at all.
 
 And the red wool hat was a little too small for her, and had been mended at one ear.
 
-He did not know why that struck him. He would turn it over for months. He would never, in the course of his life, find out.
+He did not know why that struck him. He would turn it over for months, and never find out.
 
 He stamped the passports.
 
@@ -8566,7 +8544,7 @@ There was a short pause. A hen in a basket, in the next lane, said something coa
 
 She went through the barrier on the girl's arm, bent over her stick. At the far side, a woman in a grey car with Serbian plates, a woman in a blue headscarf who had been standing beside it for two hours and was now crying openly, ran forward with her arms out; and the girl in the red hat, who had not cried for any border in her life, put down her bag in the road, and ran to meet her.
 
-*(Mark this, reader. A girl had once gone up a hill in the fog, nine winters before, in a red hat, from a crossing by a river, and a guard had turned his head away. She had walked until dark, and been found, at the edge of a village, by a translator from Sofia with a flask of tea, who spoke her mother's language, and who had said: "You are not to be afraid. I have a spare room." That was the child. That was the one for whom a coat was sewn. And the man in the glass booth, who had carried her for nine years in his pocket like a stone, had just, for a third time, with his own hand and no knowledge at all, let her cross; and would never, if the page is honest, be told.)*
+*(Mark this, reader. A girl had once gone up a hill in the fog, nine winters before, in a red hat, from a crossing by a river, and a guard had turned his head away. She had walked until dark, and been found at the edge of a village by a translator from Sofia with a flask of tea, who spoke her mother's language and said: "You are not to be afraid. I have a spare room." That was the child. That was the one for whom a coat was sewn. And the man in the glass booth, who had carried her for nine years like a stone in his pocket, had just let her cross a third time, with his own hand and no knowledge at all; and would never, if the page is honest, be told.)*
 
 ---
 
@@ -8580,7 +8558,7 @@ At the other end of the bench, at a respectful distance, which was exactly the l
 
 "I thought you might wonder."
 
-"I did not wonder." She looked at the road. "I have been wondering for five months, Sergeant. It is very different from wondering a moment."
+"I did not wonder." She looked at the road. "I have been wondering for five months, Sergeant. It is different from wondering for a moment."
 
 He held out the bag.
 
@@ -8590,7 +8568,7 @@ He held out the bag.
 
 "A woman at a kiosk."
 
-She laughed, a short laugh, startled out of her. And then, in the dusk, with the spring swallows going over, Elena Georgieva put her face in her hands and wept, quietly, for ten whole minutes, while the man at the other end of the bench looked straight ahead and held out, for the whole of that time, a paper bag of banitsa, not moving it nearer or farther, like a lamp set at a window.
+She laughed, a short laugh, startled out of her. And then, in the dusk, with the spring swallows going over, Elena Georgieva put her face in her hands and wept, quietly, for ten whole minutes, while the man at the other end of the bench looked straight ahead and held out, the whole time, a paper bag of banitsa, not moving it nearer or farther, like a lamp set at a window.
 
 At last she took it.
 
@@ -8600,7 +8578,7 @@ At last she took it.
 
 "Nikolai."
 
-It was the first time she had used his name. He turned his head, and she was looking at him with her narrow ice-water eyes, steady and bright and wet, and for the first time he saw how much she had been afraid.
+It was the first time she had used his name. He turned his head, and she was looking at him with her narrow ice-water eyes, steady and bright and wet, and he saw for the first time how afraid she had been.
 
 "It was a child," she said. "That is all I will tell you. It was a child that no paper had wanted. Everything else, someday, I will say; but not tonight. Tonight I am only so tired."
 
@@ -8622,7 +8600,7 @@ It was the one that Mwangi had said he could not change.
 
 "She is a very cruel woman," said Kiprono Wafula, eighty-one, retired boat-mender, who had been sitting at the end of the pier since before the generator and would, if no one stopped him, be sitting there when it was over. "She has written four thousand words, and the best of them is the last. That is how you know a person is cruel. They do it with *style.*"
 
-"Mzee. She is not cruel."
+"Mzee, she is not cruel."
 
 "No?"
 
@@ -8630,9 +8608,9 @@ It was the one that Mwangi had said he could not change.
 
 "Ah," said the old man, with great satisfaction. "Then it is worse."
 
-The sun had come up. The lake, which had been pewter, was brass. On the far side, a line of fishing boats came in from the night, their lanterns going pale. Kisumu was waking, as it had woken every morning for a thousand years, in no way concerned with the opinions of the internet.
+The sun had come up. The lake, which had been pewter, was brass. On the far side, a line of fishing boats came in from the night, their lanterns going pale. Kisumu was waking, as it had woken every morning for a thousand years, unconcerned with the opinions of the internet.
 
-He did not jump. He was not a fool. But he sat on the end of the planks and put his feet in the lake to the ankle, and spoke aloud, not to the phone, nor to the old man, nor to any person, but to the water; for we all of us, in the end, have one listener we can trust:
+He did not jump. He was not a fool. But he put his feet in the lake to the ankle, and spoke aloud, not to the phone, nor to the old man, but to the water; for we all, in the end, have one listener we can trust:
 
 > *I told you that I'd wrestle you, old lake.
 > I never did. I stood in you two feet
@@ -8657,7 +8635,7 @@ He turned the phone, and filmed, for two minutes and nineteen seconds, with no e
 
 He posted it before he could think. He put the phone face-down on the planks.
 
-In a newsroom in Nairobi, on the fourth floor, at nine minutes past seven, a woman with a small cactus and a bad night behind her opened her laptop to find that her notifications had stopped being a list and become a waterfall. She did not at first understand. Then she saw the thumbnail: a man's face, in dawn light, not looking at the camera, but past it, as one looks at a thing one is ashamed to need.
+In a newsroom in Nairobi, on the fourth floor, at nine minutes past seven, a woman with a small cactus and a bad night behind her opened her laptop to find that her notifications had stopped being a list and become a waterfall. She did not at first understand. Then she saw the thumbnail: a man's face in dawn light, looking not at the camera but past it, as one looks at a thing one is ashamed to need.
 
 *"Erokamano,"* the title said. *Thank you.*
 
@@ -8667,11 +8645,11 @@ Then she did.
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., against Entries 0483, 0826 and 0534:*
+*Margin note, in pencil, in the hand of S.W.R., against Entries 0483, 0826, 0032 and 0534:*
 
 > *Of all the unmaskings, the kindest are those done by a person who is sorry to do them. I have kept a great many letters from people who feared they were someone else. I have received very few from people who were relieved to find they were not.*
 >
-> *Elena: a coat can be heavy for love and light for it too. Nikolai: you are writing a bill in a hand that does not know its own sum. I would pay it for you if I could. It is not permitted.*
+> *Elena: a coat can be heavy and light for the same reason. Nikolai: you are writing a bill in a hand that does not know its own sum. I would pay it for you if I could. It is not permitted.*
 
 ---
 
@@ -8709,7 +8687,7 @@ Then she did.
 ### SCENE I
 *Mirpur, Dhaka. A tea stall at the corner of a lane. Friday, 9:20 p.m. Rain, then no rain, then rain again, as though the sky were undecided.*
 
-Bunny, who was thirteen, owned a kettle, a bench, and an opinion on every subject, and had never once been asked for any of them.
+Bunny, who was thirteen, owned a kettle, a bench, and an opinion on every subject, and had never once been asked for any of them. His uncle owned the stall; Bunny owned the customers.
 
 "Bhaiya," he said, as he poured the tea (two spoons of sugar, one of condensed milk, as prescribed), "you are wearing your *good* shirt."
 
@@ -8741,14 +8719,14 @@ Then the light bulb above the stall went out. The whole lane went out. The hummi
 
 "An *hour*?"
 
-"You see," said Bunny. "Everything in your life is an hour."
+"You see," said Bunny. "Everything in your life is an hour." He took the candle stub from under the counter, the last of the Eid supply, and set it in Fayaz's hand as a priest sets a blessing. "Go. Tell the timetable I said it will be on time."
 
 ---
 
 ### SCENE II
 *The same night. Fayaz's flat, third floor. A candle. A phone. One laptop, at eleven percent.*
 
-At 9:58 by his clock, which meant 10:58 by hers, Fayaz propped the laptop on two textbooks and a copy of *Thinking in Systems*, lit a candle (the electrician had been, as ever, a romantic), and pressed the green button.
+At 9:58 by his clock, which meant 10:58 by hers, Fayaz propped the laptop on two textbooks and a copy of *Thinking in Systems*, lit a candle, and pressed the green button.
 
 For a moment there was nothing but a spinning ring.
 
@@ -8780,7 +8758,9 @@ She laughed, and he heard the tin roof, the rain, the particular music that had 
 
 "She sounds wise."
 
-"She is *vile.* Ayu! *Diam!*"
+"She is *vile.* Ayu! *Diam!* She is Eyang's parrot, not mine. My grandmother is eighty-one and has never lost an argument, and she has taught the bird to do it for her."
+
+"*BEAUTIFUL!*"
 
 "*BEAUTIFUL!*"
 
@@ -8798,9 +8778,9 @@ There was a silence. It was a comfortable silence, as the best ones are, with tw
 
 "I can do that. I am the most patient man in Mirpur. It is my only qualification."
 
-She took a breath. She took it carefully, like a woman who, in her profession, had learned how long wax takes to cool.
+She took a breath, carefully, like someone who has learned in her profession how long wax takes to cool.
 
-"I have been offered a fellowship," she said. "In Rotterdam. At a textile lab that works with *tulis* masters from four continents. Two years. They pay for everything. I will have my own studio. I will learn what I cannot learn here. I will…" She stopped. She looked down at her hands. "I have known since January."
+"I have been offered a fellowship," she said. "In Rotterdam. At the Maashaven Textile Lab, which works with *tulis* masters from four continents. Two years. They pay for everything. I will have my own studio. I will learn what I cannot learn here. I will…" She stopped. She looked down at her hands. "I have known since January."
 
 "Since *January*?"
 
@@ -8808,7 +8788,7 @@ She took a breath. She took it carefully, like a woman who, in her profession, h
 
 "I withdraw the question."
 
-"I did not tell you," said Ermis, "because I did not want you to look at me the way you are looking at me now."
+"I said yes in January," said Ermis. "At seven minutes past midnight, an hour after we had said goodnight. I sat with my finger on the button, and then I pressed it, and then I sat there until my tea went cold. That is the part I am ashamed of. Not that I accepted. That I did it after you had said goodnight, so that I would not have to see your face. And I did not tell you, because I did not want you to look at me the way you are looking at me now."
 
 "How am I looking at you?"
 
@@ -8830,7 +8810,7 @@ Fayaz said nothing. In his flat, the candle burned very straight, there being no
 
 "I know." She wiped her cheekbone with the back of her wrist; the smudge of indigo went with it, leaving a long blue comet. "I know exactly what they are for."
 
-And then, because he was kind, and because he was twenty-six, and because it was Friday, and because it was the dark of a great city in which nobody was permitted to be selfish for very long, Fayaz Rahman did the thing that cost him the most.
+And then, because he was kind, and because he was twenty-six, and because the whole dark city seemed to forbid anyone to be selfish for very long, Fayaz Rahman did the thing that cost him the most.
 
 He smiled. A real smile, not a courtesy.
 
@@ -8844,7 +8824,7 @@ He smiled. A real smile, not a courtesy.
 
 "No. You were too kind to say it. That is why I am saying it."
 
-For a long moment she looked at him. The wax on her stove had started to smoke a little; she reached out without looking and turned the flame down.
+For a long moment she looked at him, and he could not read her face, which was a thing he had never before had to say. The wax on her stove had started to smoke a little; she reached out without looking and turned the flame down.
 
 "You are a very stubborn man," said Ermis.
 
@@ -8859,7 +8839,7 @@ For a long moment she looked at him. The wax on her stove had started to smoke a
 
 "My turn for what?"
 
-"For telling me the thing you are not telling me." She said it lightly, the way one walks across ice. "I said you could not speak until I finished. I have finished. So: speak. What is it this week? The company? Your father? Tithi's exams? Do not say 'nothing'. You say 'nothing' like a man putting a lid on a pot that is boiling over."
+"For telling me the thing you are not telling me." She said it lightly, the way one walks across ice. "I said you could not speak until I finished. I have finished. So: speak. What is it this week? The company? Your father? Tithi's exams? Do not say 'nothing'. You say 'nothing' like a man sitting on the lid of a pot that is boiling over."
 
 Fayaz laughed once, ruefully, and rubbed the back of his neck.
 
@@ -8879,7 +8859,11 @@ He told her. It took longer than he intended, and shorter than it felt. He told 
 
 "Then it is a wall with *excellent* manners."
 
-She did not laugh. She leaned her chin on her hand, and her eyes, which were large and dark and the color of strong tea, moved slowly over his face, as though reading a pattern she had known for months and was only now seeing in full.
+"Eyang says a wall is only a door that has been told to wait," said Ermis.
+
+"Your grandmother says a great many things."
+
+"She is eighty-one. She has earned the rest." She did not laugh. She leaned her chin on her hand, and her eyes, which were large and dark and the color of strong tea, moved slowly over his face, as though reading a pattern she had known for months and was only now seeing in full.
 
 "You wrote," she said, "*I would tell you everything, if I were free to.*"
 
@@ -8889,7 +8873,7 @@ She did not laugh. She leaned her chin on her hand, and her eyes, which were lar
 
 "I was twenty-four. I had a company. I was a very confident man."
 
-"Are you free to now?"
+"And now? Are you free to?"
 
 He considered it. The candle shivered; the battery icon blinked an amber warning.
 
@@ -8929,11 +8913,15 @@ Ermis took a very deep breath.
 
 "It was a line of poetry."
 
-"It was a *forecast.*" Her mouth trembled and then, with great resolution, did not. "It means this. Whatever you are about to become, Fayaz Rahman: I have already seen it. An hour ago, in your future, I lived it already. And I want you to know that you were kind in it. All of it. The debt, and the dark, and the long middle. You were kind."
+"It was a *forecast.*" Her mouth trembled and then, with great resolution, did not. "It means this. I am an hour in your future, Fayaz Rahman. I have already seen it. And I want you to know that you were kind. All of it. The debt, and the dark, and the long middle. You were kind."
 
-His throat closed. He did not trust himself to speak.
+His throat closed. He did not trust himself to speak. Outside, the rain began again, as if to give him cover.
 
 "So that is my appointment," said Ermis. "Fridays. Ten, yours; eleven, mine. And I will tell you what I will do, between Fridays. I will draw a pattern, on indigo, with no name. It will be a field of dots—*bintang,* stars—and every dot will be black. And when it is finished I will call it *Bintang Hitam,* because someone must, and because that is what it is. Black star. A thing that cannot be seen and that bends everything near it." She breathed out. "And I will send it to you when it is done."
+
+"A field of black stars," said Fayaz, "and nobody to see them."
+
+"You will see them." She said it so simply that it did not sound like a promise. It sounded like weather.
 
 "I have no way to repay a thing like that."
 
@@ -8958,7 +8946,7 @@ She laughed. She laughed until the pen rattled in the dish and the wax on the st
 
 The screen died on a half-laugh, which is, of all the ways to die, perhaps the kindest.
 
-For a time Fayaz sat quite still in his flat, with a candle for a sun and the sound of the rain going on and off like a clock being wound by a clumsy hand. Below in the lane a boy was whistling. Through the wall, his mother coughed twice and was quiet. In the next room Tithi was asleep with a physics textbook on her face.
+For a time Fayaz sat quite still in his flat, with a candle for a sun and the rain going on and off like a clock wound by a clumsy hand. Below in the lane a boy was whistling. Through the wall, his mother coughed twice and was quiet. In the next room Tithi was asleep with a physics textbook on her face.
 
 He picked up his phone, which still had nine percent, and opened the chat window, which had a little pale dot of green beside her name.
 
@@ -8994,13 +8982,11 @@ The dots pulsed once more.
 
 Outside, the rain stopped. Somewhere, a generator coughed and started. A lamp in the lane came on, and then another, and then the whole street, like a thousand small decisions made at once.
 
-And in a rented room in Mirpur, a young man with an ironed shirt and an unsalvaged fortune looked at the little green dot on a screen, and thought, for the first time in two years, with a surprise that he would have been embarrassed to admit:
+From the lane below, a thirteen-year-old voice shouted, "*Bhaiya! The light has come! Is the girl still there?*" and was answered by nobody.
+
+And in a third-floor flat in Mirpur, a young man in an ironed shirt, with no fortune to speak of, looked at the little green dot on a screen, and thought, for the first time in two years, with a surprise that he would have been embarrassed to admit:
 
 *It is possible that I am happy.*
-
----
-
-*End of Chapter 30.*
 
 ---
 
@@ -9009,6 +8995,10 @@ And in a rented room in Mirpur, a young man with an ironed shirt and an unsalvag
 > *Entry 0713 and Entry 0714. They will meet. Not this year, and not by plan. Not before the debts are paid, nor before the work is done. But I have read the margins of a thousand lives, and I know the handwriting of a fate when I see it.*
 >
 > *She is an hour ahead. He is, I think, on his way.*
+
+---
+
+*End of Chapter 30.*
 
 
 ---
@@ -9040,7 +9030,7 @@ When the bus was empty save for one acrobat in a good shirt and one nurse in a g
 
 The restaurant was a *crama*, a cellar in the old merchants' quarter, down eleven worn steps from the cobbled lane: all vaults and whitewash and strings of dried peppers, with candles in wine bottles and an old man in the corner with an accordion. On the table: *zacuscă* with black bread, a carafe of plum brandy that Andrei was forbidden to touch and touched, a bowl of tripe soup sharp with garlic, and, to come, stuffed cabbage rolls the size of a baby's fist.
 
-Neither had ever been taught how to have a dinner. She had spent six years on night shifts, learning to eat standing; he had spent twelve on a diet of bananas and fear.
+Neither had been taught how to have a dinner. She had spent six years of night shifts learning to eat standing; he had spent twelve on bananas and fear.
 
 "I should say," said Andrei, "that I have been discharged with orders. No wire for six weeks. A physiotherapist named Mrs. Radu says that my core is a *rumour.*"
 
@@ -9056,7 +9046,7 @@ Neither had ever been taught how to have a dinner. She had spent six years on ni
 
 "You are in a cellar," said Andrei gravely. "It is eleven steps *down,* but one must begin somewhere."
 
-She laughed at last; the plait came undone a little; the old man struck up a waltz. They said nothing of importance, which is the most important thing two people can do at a first dinner. At the end of it she took his wrist across the table, with the casual authority of one who has done it ten thousand times to ten thousand strangers, and held two fingers on the pulse.
+She laughed at last; the plait came undone a little; the old man struck up a waltz. They said nothing of importance, which is the most important thing two people can do at a first dinner. At the end of it she took his wrist across the table, with the casual authority of long practice, and held two fingers on the pulse.
 
 "Well?" said Andrei.
 
@@ -9072,7 +9062,7 @@ She looked at him for a long time.
 
 **Johannesburg. A weeknight in Braamfontein, eleven minutes past one in the morning.**
 
-(*A city of gold and glass, in the pitch dark. Load-shedding, Stage Six. A thousand windows out, and above them a great many stars, which had not been seen over Johannesburg in years and seemed a little embarrassed by the attention.*)
+(*A city of gold and glass, in the pitch dark. Load-shedding, Stage Six. A thousand windows out, and above them a great many stars, a little embarrassed by the attention.*)
 
 On the ninth floor of an old tailoring factory turned radio station, with a wind-up lamp on the desk and a battery pack in the mixing-board, Naledi Khumalo, twenty-nine, host of *Late Light* on Nightjar FM, did the thing no host is trained to do. She put down her script.
 
@@ -9084,7 +9074,7 @@ In a flat above a dry-cleaner's on the other side of town, in the dark, sitting 
 
 "I do not know what he looks like," the voice went on, from a transistor radio on the sill. "I know how he breathes. Each night at ten minutes to two he plays me something down a telephone line, for four minutes, and I put it on the air. I know the sound of a man who stops, just before the last note, to be afraid of it. Tonight the line is down. So I am telling you what it is to be given a song every night by a stranger who asks for nothing. That is the show."
 
-Thabo stood up. There was no logic in it. He was a very good saxophonist whose whole life had been arranged so as to avoid being looked at; he played from the back of the stage with his eyes closed, so that he need not meet anyone's. He had not, in fourteen months, taken a taxi to the building in Braamfontein, on a principle which he believed to be *respect.*
+Thabo stood up. There was no logic in it. He was a very good saxophonist whose life had been arranged to avoid being looked at; he played from the back of the stage with his eyes closed, so that he need not meet anyone's. He had not, in fourteen months, taken a taxi to the building in Braamfontein, on a principle which he believed to be *respect.*
 
 "*Hawu,*" said Jabu Mokoena, twenty-nine, absent-minded shopkeeper and his oldest friend, in the stairwell, in a pyjama top, with his keys in his hand. "I will drive. I have been waiting fourteen months for you to do something stupid, and I do not intend to miss it."
 
@@ -9108,7 +9098,7 @@ He played.
 
 It was an old slow tune from the township, a tune his mother had hummed when she washed the floor. He played it with his eyes closed, as he always did, and the sound went out of the ninth floor into the transmitter and from the transmitter over the dark roofs: into the cab of a taxi stuck at a dead traffic light, where the driver stopped the engine; into a night nurse's kitchen in Hillbrow, where she turned off the stove; into a shebeen in Soweto, where a hundred people stopped in the middle of an argument. And when he came to the last note, the place where he always stopped, and was afraid, and went on, he opened his eyes.
 
-She was standing quite close, crying openly, as a child cries, with no regard for the microphone.
+She was standing quite close, crying openly, with no regard for the microphone.
 
 At that moment the city's power returned. The lights of the factory, the lights of the street, the windows of ten thousand rooms, the robots flickering green from the Brixton tower to the Carlton Centre; and a great sound rising off the roofs, from people at their windows and in their cars, who had heard the last note in the dark and had, with the lights, begun to clap.
 
@@ -9124,13 +9114,13 @@ On the top step Jabu Mokoena sat down with a hand on his chest, and said, in a v
 
 **Naples. A Sunday in the Piazza Bellini, three in the afternoon.**
 
-(*The smell of woodsmoke, hot oil, orange blossom, and a thousand years of argument. Laundry hung across the lane like bunting. Above the rooftops, the lilac shoulder of Vesuvius, asleep, like a large dog that has been listening.*)
+(*The smell of woodsmoke, hot oil, orange blossom, and a thousand years of argument. Laundry hung across the lane like bunting. Above the rooftops, the lilac shoulder of Vesuvius, asleep, or pretending.*)
 
 The feud between the pizzeria of Alessandro Greco and the pasticceria of Chiara Esposito was in its fourth year, and had by now a constitution.
 
 They stood at either end of a narrow lane off the Via dei Tribunali, in two shops facing each other like two old actresses on opposite sides of a stage. On the left, with a red-brick wood-oven and a hand-painted sign that said **DA SASÀ — PIZZA DAL 1961,** was Alessandro: thirty-three, broad, handsome, a man who shouted everything, including *good morning,* and who made the best margherita in the quarter by common consent and by his own. On the right, with a window full of golden sfogliatelle and a pink neon sign in the form of a spoon, was Chiara: thirty-one, small, quick, a pastry chef with a mouth like a drawn knife, who sold her babà in little boxes marked, in capitals, **NO REFUNDS.**
 
-The cause was famous. Two Easters ago, at the Festival of the Quarters, Alessandro had won the Golden Peel with a creation called *Pizza Immacolata:* a pizza whose crust, to the astonishment of the judges, was crisp as a biscuit, buttery as a pastry, and scented with orange-flower and a trace of Sorrento lemon. It was, as every old woman in the lane would tell you, *Chiara Esposito's grandmother's pastiera dough,* which had never been written down, and which he had somehow obtained from a card in a bag of flour. He had never said so. She had never said so. They had stopped speaking on the Monday.
+The cause was famous. Four Easters ago, at the Festival of the Quarters, Alessandro had won the Golden Peel with a creation called *Pizza Immacolata:* a pizza whose crust, to the astonishment of the judges, was crisp as a biscuit and scented with orange-flower and a trace of Sorrento lemon. It was, as every old woman in the lane would tell you, *Chiara Esposito's grandmother's pastiera dough,* which had never been written down, and which he had somehow obtained from a card in a bag of flour. He had never said so. She had never said so. They had stopped speaking on the Monday.
 
 "*Pasta frolla,*" bellowed Alessandro, rolling out a dough, "*is for people who do not believe in fire!*"
 
@@ -9140,7 +9130,7 @@ The cause was famous. Two Easters ago, at the Festival of the Quarters, Alessand
 
 "You were patient *once.* You waited three weeks to steal a recipe."
 
-A gasp went through the lane. A man selling cornetto charms stopped selling. An old woman leaned from a balcony with a bowl of peas; and a thin gossipy man named Paolo Ricci, thirty, choir director and self-appointed town crier of the quarter, stepped into the cobbles with an accordion at his hip and raised both hands.
+A gasp went through the lane. A man selling cornetto charms stopped selling. An old woman leaned from a balcony with a bowl of peas; and a thin, gossipy man named Paolo Ricci, thirty, choir director and self-appointed town crier of the quarter, stepped into the cobbles with an accordion at his hip and raised both hands.
 
 "Citizens! It is Easter week, and in this lane there are two persons who have been shouting about a recipe for four years. I say: let it be *settled.* A duel! Pizza against pastry! Each shall make a single dish, in the piazza, today, and it shall be judged, not by foreigners with clipboards, but by *the people.*"
 
@@ -9152,7 +9142,7 @@ A gasp went through the lane. A man selling cornetto charms stopped selling. An 
 
 By three o'clock the Piazza Bellini was a theatre. There were two long tables, two portable ovens, and a referee: Matteo Conti, fifty-three, police officer, gossipy, holding a pizza cutter as a sceptre and a whistle as a threat. The judges were nine persons drawn from a hat, among them Anna Bruno, seventy-eight, retired rickshaw-puller; Lucia Bruno, nine, schoolchild, severe; and Paola Fontana, twenty-five, a lifeguard. "We live by the sea," she said, with dignity.
 
-Alessandro worked like a thunderstorm. Dough flew. Flames roared. He slapped, stretched, spun, cried out to the crowd, and slid a margherita into the oven with a cry like a man launching a ship. Matteo Ricci, twenty-six, a welder and the brother of the pastry chef, stood by with a wrench, to see that the oven door did not fall off.
+Alessandro worked like a thunderstorm. Dough flew. Flames roared. He slapped, stretched, spun, cried out to the crowd, and slid a margherita into the oven with a cry like a man launching a ship. Matteo Ricci, twenty-six, a welder and a cousin of the pastry chef, stood by with a wrench, to see that the oven door did not fall off.
 
 Chiara worked in silence. She made, to the bafflement of the crowd, not a babà, not a pastiera, but a flat white disc of dough, and put it into the oven, and took it out, and covered it with something, and covered that with something else, and finally, with trembling fingers, laid across the top a circle of Sorrento lemon peel, thin as a thread. She carried it across the cobbles herself.
 
@@ -9168,7 +9158,7 @@ He took a bite. For a moment he forgot to shout. It was the first time in thirty
 
 Then he put down the pizza and took off his big white apron, with the name of his grandfather's pizzeria stitched on the bib, and folded it with great care and laid it on the table, as one lays down a sword.
 
-"I will not make a dish," said Alessandro Greco, and, to the stupefaction of the whole square, he said it softly. "I will lose the duel. I stole a recipe from you two Easters ago. It came in a bag of flour, with a card, in a hand that I knew, and I read it, and I thought: *this is the best thing I have ever seen.* And I did not send it back. I won a prize with it. I have been ashamed, every day since, to the bottom of my boots. I stole your recipe, and I am sorry."
+"I will not make a dish," said Alessandro Greco, and, to the stupefaction of the whole square, he said it softly. "I will lose the duel. I stole a recipe from you four Easters ago. It came in a bag of flour, with a card, in a hand that I knew, and I read it, and I thought: *this is the best thing I have ever seen.* And I did not send it back. I won a prize with it. I have been ashamed, every day since, to the bottom of my boots. I stole your recipe, and I am sorry."
 
 There was an enormous silence. Even the pigeons stopped.
 
@@ -9194,13 +9184,13 @@ The whole piazza was quiet enough to hear a spoon fall.
 
 "It was a little further to the left."
 
-He laughed, a great helpless broken laugh that came out of him like water out of a cracked pipe, and the whole square roared with it, and Paolo Ricci began to play, with a tear running down his nose, something sentimental and sixty years out of date. In the third row, Anna Bruno, seventy-eight, keeper of every secret in the quarter, who had seen the card go into the flour and had watched it for four years like a woman watching a pot that would not boil, nodded once, and said to the child beside her: "That is the first honest dough I have eaten since the war."
+He laughed, a great helpless broken laugh that came out of him like water out of a cracked pipe, and the whole square roared with it, and Paolo Ricci began to play, with a tear running down his nose, something sentimental and sixty years out of date. In the third row, Anna Bruno, seventy-eight, keeper of every secret in the quarter, who had seen the card go into the flour and had waited four years for the pot to boil, nodded once, and said to the child beside her: "That is the first honest dough I have eaten since the war."
 
 "Which war?" said Lucia Bruno, nine, severe.
 
 "Any of them," said her great-aunt.
 
-The vote was declared a draw. The referee blew his whistle and wept into his cap; and Matteo the welder handed the oven door to his sister's rival with the gravity of a man giving away a bride. "It is a very good door," he said. "Do not break it."
+The vote was declared a draw. The referee blew his whistle and wept into his cap; and Matteo the welder handed the oven door to his cousin's rival with the gravity of a man giving away a bride. "It is a very good door," he said. "Do not break it."
 
 "I have never broken anything of hers," said Alessandro. "I did not steal it. It was a gift."
 
@@ -9243,21 +9233,21 @@ The vote was declared a draw. The referee blew his whistle and wept into his cap
 
 **Dubai. The thirty-first floor of a glass tower above the Creek. Eight in the morning.**
 
-(*Below the window the old Creek went about its business as it had for a thousand years: abras crossing with their cargo of clerks, wooden dhows riding low with refrigerators and cooking oil for the far shores of the Gulf, a single heron, who did not care what a dirham was worth.*)
+(*Below the window the old Creek went about its business as it had for a thousand years: abras crossing with their cargo of clerks, wooden dhows riding low with refrigerators and cooking oil for the far shores of the Gulf, a single heron, indifferent to the dirham.*)
 
 Tariq Al-Rashid wore the best suit in Dubai, and it was, in the strictest sense, a lie.
 
-It was charcoal, cut in Milan, with a lining of dove-grey silk. He was thirty-seven, a shipping broker of the old Creek school, polished, courteous, quick with figures, with a smile that opened doors in four languages and shut, very quietly, in a fifth. He had never in his life been late for a vessel. And for fourteen months, in a locked drawer of a desk of Italian walnut, he had kept a stack of papers, each of which began with the same word: *Notice.*
+It was charcoal, cut in Milan, with a lining of dove-grey silk. He was thirty-seven, a shipping broker of the old Creek school, polished, courteous, quick with figures, with a smile that opened doors in four languages and shut, very quietly, in a fifth. He had never been late for a vessel. And for fourteen months, in a locked drawer of a desk of Italian walnut, he had kept a stack of papers, each of which began with the same word: *Notice.*
 
-It was a matter of a guarantee. An old schoolmate had chartered a ship and a cargo and lost both to a storm and a bad insurer; and Tariq, who had signed the guarantee in a moment of friendship and a restaurant, had been left to pay. Four million, two hundred thousand dirhams. It was not the end of the world. It was only the end of every plan he had made for ten years. He had spoken of it to nobody, so little that the silence had acquired a shape, and a weight, and a smell, rather like the drawer.
+It was a matter of a guarantee. An old schoolmate had chartered a ship and a cargo and lost both to a storm and a bad insurer; and Tariq, who had signed the guarantee in a moment of friendship and a restaurant, had been left to pay. Four million, two hundred and nine thousand, four hundred dirhams. It was not the end of the world. It was only the end of every plan he had made for ten years. He had spoken of it to nobody, and the silence had acquired a shape, and a weight, and a smell, rather like the drawer.
 
 "Sir," said a voice from the washroom, in Arabic with a Sharjah accent. "I am afraid I have found something."
 
-Saeed Al-Balushi, fifty-eight, plumber, an anxious man with a face like a worried walnut, emerged holding a soggy bundle of papers the size of a small loaf. "It was behind the tank. It is the reason for the leak. I did not read it, sir. In forty years I have never read anything I found in a pipe. But *Ya Allah,* the letters at the top! It says *FINAL NOTICE.* In red. Eleven times." He lowered his voice. "I loved your mother, you know. Before you were born. I mean that I once mended her sink in 1983, and she gave me tea, and I thought: *there is a woman with the correct opinion of water.* I would not say a word to anyone, sir. I am a vault. I am a *grave.*"
+Saeed Al-Balushi, fifty-eight, plumber, an anxious man with a face like a worried walnut, emerged holding a soggy bundle of papers the size of a small loaf. "It was behind the tank. It is the reason for the leak. I did not read it, sir. In forty years I have never read anything I found in a pipe. But *Ya Allah,* the letters at the top! It says *FINAL NOTICE.* In red. Eleven times." He lowered his voice. "I loved your mother, you know. Before you were born. I mean that I once mended her sink in 1987, and she gave me tea, and I thought: *there is a woman with the correct opinion of water.* I would not say a word to anyone, sir. I am a vault. I am a *grave.*"
 
 He went down in the lift, and across the Creek by abra, to a kiosk in Deira, where a man named Rashid Al-Harthy sold cold drinks, prepaid SIM cards, and, to the discerning, the whole inner life of the quarter.
 
-By eleven it was known to the old women of Al Rigga. By noon it had reached the mother of the man in question, Mariam Al-Harthy, seventy-three, retired schoolteacher and gossip of the first magnitude, who could keep a secret for exactly as long as it took to find a second person who would be moved by it. At twenty to two a call reached the thirty-first floor from Latifa Al-Habsi, forty-two, a journalist in Sharjah and the oldest friend he had.
+By eleven it was known to the old women of Al Rigga. By noon it had reached the mother of the man in question: Mariam Al-Harthy, seventy-three, retired schoolteacher, who had kept her own family name as the women of her generation did, and gossip of the first magnitude, who could keep a secret for exactly as long as it took to find a second person who would be moved by it. At twenty to two a call reached the thirty-first floor from Latifa Al-Habsi, forty-two, a journalist in Sharjah and the oldest friend he had.
 
 "Tariq. There is a piece going out tomorrow in the *Gulf Maritime Review.* It has your name, the guarantee, the figure. I stopped it for two days. I cannot stop it for three."
 
@@ -9273,7 +9263,7 @@ He looked out of the window. Far below, an abra was crossing, with a clerk in a 
 
 **Muscat. The souq of Mutrah, in the late afternoon.**
 
-(*The labyrinth of Mutrah: carved lintels, frankincense smoke, lanterns of pierced brass, a thousand narrow lanes that smelled of silver and rosewater and the dust of the sea. The call to prayer rose from three mosques at once, like a rope being plaited from three strands of one thread.*)
+(*The labyrinth of Mutrah: carved lintels, frankincense smoke, lanterns of pierced brass, a thousand narrow lanes that smelled of silver and rosewater and the dust of the sea. The call to prayer rose from three mosques at once, a rope plaited from three strands.*)
 
 The shop of Al-Sayed Pearls had no sign. It had a heavy teak door, a brass knocker in the shape of a hand, and a single window in which, on black velvet, lay one pearl: not large, not perfect, the colour of a very old tooth, faintly pink, faintly gold, with a small flaw at the crown. It had been brought to the shop forty years before by a diver's widow, in a twist of cotton, in exchange for six months' rent. It had lain in the window ever since.
 
@@ -9281,13 +9271,13 @@ Maryam Al-Sayed, thirty-three, sat behind a long counter of carved walnut with a
 
 "This is real," she said.
 
-"I have been saying that they are not," said Khalid Al-Mazrouei, sixty-five, dreamy, who ran the flower stall at the end of the lane and was never quite at home on the ground. "I am here, you understand, because there is a man coming. I saw him in the lane. He has a suit, and the shape of his shoulders suggests a letter. I found a letter once on your doorstep, last summer. Sealed, in a man's hand, very upright. I did not open it. I put it through your door."
+"I have been saying that they are not," said Khalid Al-Mazrouei, sixty-five, dreamy, who ran the flower stall at the end of the lane. "I am here, you understand, because there is a man coming. I saw him in the lane. He has a suit, and the shape of his shoulders suggests a letter. I found a letter once on your doorstep, last summer. Sealed, in a man's hand, very upright. I did not open it. I put it through your door."
 
 "I did not receive a letter."
 
 "Ah," said Khalid, serenely. "Then he sent another."
 
-From a shadowed corner at the back came a slow dry *tick, tick, tick,* and a soft cough. This was her uncle, Majid Al-Hinai, fifty-six, clockmender, who had raised her after her parents' death and sat at a bench with forty clocks in various stages of death around him. He was her chaperone for the purposes of propriety and her counsellor for the purposes of life, and performed both offices principally by being present, unobtrusive, and extremely amused.
+From a shadowed corner at the back came a slow dry *tick, tick, tick,* and a soft cough. This was her uncle, Majid Al-Hinai, fifty-six, clockmender, who had raised her after her parents' death and sat at a bench with forty clocks in various stages of death around him. He was her chaperone for propriety and her counsellor for life, and performed both offices by being present, unobtrusive, and extremely amused.
 
 "The broker from Dubai," he said, to the clock. "The one who has called nine times about the shipment, each time with a different excuse for calling. I have sat in this corner for three weeks, and I have watched you take the loupe out of your eye every time he enters the lane. I know the sound of a mainspring that has been wound too tight."
 
@@ -9301,7 +9291,7 @@ The teak door opened. The bell above it rang a short bright note. And in the lig
 
 It was a long afternoon, and a courteous one. This is the Gulf, and nobody in it has ever said a hard thing before the coffee.
 
-She received him in the majlis at the back: a low room of carpets and cushions, with brass lamps and a window on a courtyard where a lemon tree stood in a pot. Her uncle sat in the corner with his clocks. An elderly man in a white dishdasha and a small embroidered cap sat cross-legged on a cushion with an expression of immense contentment: Salim Al-Balushi, eighty-three, retired imam of a small mosque by the Creek, a man of theatrical piety and quiet mischief, who had come on the same flight that morning. He had come, he said, to see the pearls. He had come, in fact, because he was eighty-three and wanted to see how a story ended.
+She received him in the majlis at the back: a low room of carpets and cushions, with brass lamps and a window on a courtyard where a lemon tree stood in a pot. Her uncle sat in the corner with his clocks. An elderly man in a white dishdasha and a small embroidered cap sat cross-legged on a cushion with an expression of immense contentment: Salim Al-Balushi, eighty-three, retired imam of a small mosque by the Creek, a man of theatrical piety and quiet mischief, who had come up from Dubai the day before. He had come, he said, to see the pearls. He had come, in fact, because he was eighty-three and wanted to see how a story ended.
 
 The coffee was brought in a brass pot, thin and bitter and scented with cardamom, and poured into tiny handleless cups with the right hand. Dates were passed. Greetings were exchanged for six whole minutes. Then there was a pause, and the sea, somewhere, breathed.
 
@@ -9330,7 +9320,7 @@ He set down his cup and put both hands flat on his knees, as a man does who is a
 
 The clock stopped. It had not run down; it had been stopped by a clockmender's thumb on the pendulum. From the lane a boy's voice cried *jasmine, jasmine, five baisa a string.*
 
-"I had a speech. I had a ring, which is in my pocket, and which is, I am bound to tell you, *on credit.* I had a very good suit. And I have just heard that a young man in Dubai will publish, tomorrow morning, a number I have not told you. So I will tell it myself, before the newspaper does, that you may have it from the one person who would have preferred, with all his heart, to be the last." He drew a breath. "Four million, two hundred and nine thousand, four hundred dirhams. It is a guarantee. I signed it for a friend over a plate of grilled fish, on a Tuesday. He lost the ship. I have lost the money. I have been paying the interest out of my salary for fourteen months, and I have not told my mother, or my banker, or you. I wanted to ask for your hand as a man with *nothing to hide.* And the truth is that I have been nothing *but* a thing to hide, for a year, in a very good suit."
+"I had a speech. I had a ring, which is in my pocket, and which is, I am bound to tell you, *on credit.* I had a very good suit. And I have just heard that a journal in Dubai will publish, tomorrow morning, a number I have not told you. So I will tell it myself, before the newspaper does, that you may have it from the one person who would have preferred, with all his heart, to be the last." He drew a breath. "Four million, two hundred and nine thousand, four hundred dirhams. It is a guarantee. I signed it for a friend over a plate of grilled fish, on a Tuesday. He lost the ship. I have lost the money. I have been paying the interest out of my salary for fourteen months, and I have not told my mother, or my banker, or you. I wanted to ask for your hand as a man with *nothing to hide.* And the truth is that I have been nothing *but* a thing to hide, for a year, in a very good suit."
 
 Nobody spoke. Salim Al-Balushi had closed his eyes, and his lips were moving in the beginning of a prayer.
 
@@ -9348,7 +9338,7 @@ Maryam laid her loupe on the carpet. She rose, as slowly as if climbing from a w
 
 He looked at the nine small pearls on the black velvet, dull gold, pink, white, cream, looking to his eye exactly alike.
 
-"I cannot tell," said Tariq. "I will not guess. I would rather tell you that I do not know than be right by luck and have you think it was skill. It is the first time in fourteen months that I have said that sentence aloud. It is a curious sensation. I feel as if I had put down a great stone, and found that I am still standing."
+"I cannot tell," said Tariq. "I will not guess. I would rather tell you that I do not know than be right by luck and have you think it was skill. It is the first time in fourteen months that I have said that sentence aloud. I feel as if I had put down a great stone, and found that I am still standing."
 
 There was a long silence.
 
@@ -9366,19 +9356,19 @@ Maryam took up the fourth pearl from the left with the silver tweezers, held it 
 
 They called it *El Cielo de los Zapatos,* the Heaven of Shoes, and in the fourteen months since the night that Luciana Cruz died, Mateo Fernández had not set foot in it.
 
-He came in at a quarter to midnight, in a black suit with a white scarf, with the shoulders of a man who has been the finest dancer in the barrio and has forgotten how to be seen. He was thirty-five, handsome in a hard, vain, wounded way, like a statue left out in the rain that has decided the rain was its idea. He stood at the top of the stairs, under the single red lamp, while the room, as it does in Buenos Aires, went on dancing and *noticed.*
+He came in at a quarter to midnight, in a black suit with a white scarf, with the shoulders of the finest dancer in the barrio, who has forgotten how to be seen. He was thirty-five, handsome in a hard, vain, wounded way. He stood at the top of the stairs, under the single red lamp, while the room, as it does in Buenos Aires, went on dancing and *noticed.*
 
 "*Che,*" said the woman at the foot of the stairs.
 
 Agustina Benítez, fifty-four, sold mate and hot water from a stool with a great steel thermos, and had acquired, over thirty years, the right to say what she liked to anyone who had to pass her. She was also, in a way no one had established, a fortune-teller, though she charged only for the hot water.
 
-"Fourteen months," said Agustina, and poured a cup. "It is a long time for a foot. Nobody comes to a milonga to *dance,* Mateo. They come to look, and find themselves dancing, as a man who goes to the sea to look finds that he is wet."
+"Fourteen months," said Agustina, and poured a cup. "It is a long time for a foot. Nobody comes to a milonga to *dance,* Mateo. They come to look, and find themselves dancing, as a man who goes to the sea to look finds he is wet."
 
 "I have not come to dance."
 
 "No. You have come because she is here."
 
-At the long table of the teachers, with her back to the wall and a glass of mineral water before her, sat Valentina Cruz, thirty-three: Luciana's elder sister, and the finest teacher of tango in the city. She wore black. She sat upright and a little apart, like a woman at a funeral who has been told she may leave, and has decided to stay. She was proud, and guarded, and had not said Mateo's name aloud since the funeral without something in her face closing, like a shop at five.
+At the long table of the teachers, with her back to the wall and a glass of mineral water before her, sat Valentina Cruz, thirty-three: Luciana's elder sister, and the finest teacher of tango in the city. She wore black. She sat upright and a little apart, proud and guarded, and had not said Mateo's name aloud since the funeral without something in her face closing, like a shop at five.
 
 "She will not dance with you," said Ramiro Romero, appearing at Mateo's elbow like a bad conscience. Ramiro, sixty-seven, a retired choir director and the oldest matchmaker in San Telmo, was as blunt as a stone. "You are like a choir, Mateo, with no basses. All treble, no ground. I would have you *cross the room.*"
 
@@ -9386,7 +9376,7 @@ At the long table of the teachers, with her back to the wall and a glass of mine
 
 "The code was written by people who had never lost anybody. You need only a pair of legs and no sense."
 
-A tanda of vals began, slow and dark, with the bandoneón climbing a note at a time, like a man going up a stair with a heavy case. Mateo crossed the dance floor through the slow river of couples, who parted for him like water. He did not stop in front of Valentina. He stopped before the chair beside hers, which had been empty for fourteen months, for it had been Luciana's, and nobody in San Telmo would sit in it.
+A tanda of vals began, slow and dark, the bandoneón climbing a note at a time. Mateo crossed the dance floor through the slow river of couples, who parted for him like water. He did not stop in front of Valentina. He stopped before the chair beside hers, which had been empty for fourteen months, for it had been Luciana's, and nobody in San Telmo would sit in it.
 
 He bowed to the empty chair.
 
@@ -9414,7 +9404,7 @@ She stood, and laid her hand, very lightly, in his.
 
 They danced the first song at the width of a hand.
 
-The old teachers say that the embrace of the tango is not two bodies but a third thing between them, an animal made of breath and weight, which has to be fed. Mateo opened his arms, as he had done ten thousand times, and Valentina stepped into them; and there was between her chest and his a space as wide as a palm, in which something invisible was being held. Neither closed it. He led a slow walk, a pause, a turn, a long held trembling silence on the downbeat; and she followed with her eyes shut and her cheek turned away, as one follows a person in the dark who is not quite sure of the road. A hundred people stood at the edges of the room and watched two people dance with the whole of a grief held open between them like a door.
+The old teachers say that the tango embrace is not two bodies but a third thing between them, made of breath and weight, which has to be fed. Mateo opened his arms, as he had done ten thousand times, and Valentina stepped into them; and there was between her chest and his a space as wide as a palm, in which something invisible was being held. Neither closed it. He led a slow walk, a pause, a turn, a long held trembling silence on the downbeat; and she followed with her eyes shut and her cheek turned away. A hundred people stood at the edges of the room and watched two people dance with a whole grief held open between them like a door.
 
 It was the width of a sister.
 
@@ -9477,17 +9467,17 @@ And on a shelf above the bandoneón, where it had been put fourteen months earli
 
 **Manila, 9:40 p.m.**
 
-There are two congregations in the Philippines: the one that meets on Sundays under a roof, and the one that meets every day on four wheels. The second is the larger, the louder, and the more devout, since it prays not once a week but at every red light.
+There are two congregations in the Philippines: the one that meets on Sundays under a roof, and the one that meets every day on four wheels. The second is the larger, the louder, and the more devout, since it prays at every red light.
 
-The chapel in question was a jeepney called *Hiraya*, which is to say *May Your Wish Come True*, and it was running the Santa Mesa–Guadalupe line with nine passengers, one Santo Niño in red velvet glued to the dashboard, a garland of sampaguita swinging from the mirror like a censer, and a driver of twenty-eight who was singing a love ballad off-key to the traffic, which did not mind.
+The chapel in question was a jeepney called *Hiraya*, which is to say *May Your Wish Come True*, and it was running the Santa Mesa–Guadalupe line with nine passengers, one Santo Niño in red velvet glued to the dashboard, a garland of sampaguita swinging from the mirror, and a driver of twenty-eight who was singing a ballad off-key to the traffic, which did not mind.
 
-His name was Gabriel Santos. He was cheerful in the way that a lamp is cheerful: not by effort, but because that was what he was for. He gave free rides to nuns and to schoolchildren who had spent their fare on fishballs. He was generous with everything in the world but one thing, and that one thing was sitting in the front seat beside him, as she had done every night for seven months, with her lanyard tucked into her blouse and her eyes shut, resting them before the long work.
+His name was Gabriel Santos. He was cheerful as a lamp is cheerful: not by effort, but because that was what he was for. He gave free rides to nuns and to schoolchildren who had spent their fare on fishballs. He was generous with everything in the world but one thing, and that thing was sitting in the front seat beside him, as she had done every night for seven months, with her lanyard tucked into her blouse and her eyes shut, resting them before the long work.
 
-Her name was Maricel Dela Cruz. She was twenty-six. She was a call-centre agent on the night shift for a company that sold the internet to Americans, and on the telephone she was a woman named *Marcy*, who was from Ohio, in a manner of speaking. *Marcy* was brisk, friendly, and entirely without a past. Maricel had a past, a mother's grave, a sister who wrote poems, and a way of laughing that made the whole jeepney lean slightly to the left.
+Her name was Maricel Dela Cruz. She was twenty-six. She was a call-centre agent on the night shift for a company that sold the internet to Americans, and on the telephone she was a woman named *Marcy*, who was from Ohio, in a manner of speaking. *Marcy* was brisk, friendly, and entirely without a past. Maricel had a past: a mother's grave, a sister who wrote poems, and a laugh that made the whole jeepney lean slightly to the left.
 
 "Bayad po," said a voice from the back.
 
-The fare began its journey. In a jeepney the money travels by hand, from passenger to passenger down the long benches, until it arrives at the driver, who does not look, because he knows from the weight of the coins, as a priest knows from the weight of a confession, who has given what. It is the most honest postal service in the Republic.
+The fare began its journey. In a jeepney the money travels hand to hand down the long benches until it arrives at the driver, who does not look, because he knows from the weight of the coins who has given what. It is the most honest postal service in the Republic.
 
 Maricel's coin arrived, as it did nightly, warm from her palm. Gabriel took it and, as he did nightly, did not give it back.
 
@@ -9503,7 +9493,7 @@ Maricel's coin arrived, as it did nightly, warm from her palm. Gabriel took it a
 
 "Then it is *very* broken," said Gabriel, with perfect gravity, and dropped the coin into a biscuit tin that lived under the dashboard, where it joined, had she known, one hundred and ninety-six of its brothers, none of which had ever been spent.
 
-"The shortest library in Manila," said Joy Aquino, from the bench behind. She was fifty-six, a librarian from the Sampaloc branch, and a woman who trusted everybody, which in a librarian is a courtesy, and in a Manila librarian is a hobby. "Borrow, return, never overdue. I would give you a card, Gabriel, but I lent forty books last week to a nice young man from the Department of Education, and he left me nothing but a very warm handshake."
+"The shortest library in Manila," said Joy Aquino, from the bench behind. She was fifty-six, a librarian from the Sampaloc branch, and a woman who trusted everybody, which in a librarian is a courtesy, and in a Manila librarian is a hobby. "Borrow, return, never overdue. I would give you a card, Gabriel, but I lent forty books last week to a nice young man from the Department of Education, and I have only his handshake."
 
 "Hay naku, Ma'am Joy."
 
@@ -9517,9 +9507,9 @@ From the far end of the bench came Ramon Garcia, thirty-nine, a weaver and the s
 
 "Your mother's loom has been promised to eleven people," said Gabriel.
 
-At the back, in the corner, where he had sat every night to the cemetery gate for the whole of the year, an old man named Rey Bautista, who had taught philosophy for forty years and was now seventy-seven and travelled this line for reasons he gave to nobody, turned a page of his book and said, without looking up, "In my experience, a man who rides the same bus every night for seven months does not own a bus. He owns a reason."
+At the back, in the corner, an old man named Rey Bautista, seventy-seven, who had taught philosophy for forty years and rode this line every night to the cemetery gate for reasons he gave to nobody, turned a page of his book and said, without looking up, "In my experience, a man who rides the same bus every night for seven months does not own a bus. He owns a reason."
 
-There was a very long silence, in which Santo Niño rocked on his dashboard and a truck passed with a pig in it.
+There was a long silence, in which Santo Niño rocked on his dashboard and a truck passed with a pig in it.
 
 "Para po!" cried an eleven-year-old, Grace Ocampo, who rode the jeepney home from school and was the fiercest critic of the romance. She had been sitting very upright for twenty minutes with her arms folded. "Kuya Gabriel, *you* are very stupid. And *Ate* Maricel is very stupid. And if I have to watch another month of this I will tell everyone on the line myself!"
 
@@ -9539,13 +9529,13 @@ On the rear panel, in the careful hand of a father long dead, the scroll told al
 
 **Kano, Nigeria. Eleven in the morning, under a sun that did not negotiate.**
 
-On the other side of the world, in the tailors' lane behind Kurmi Market, where the treadle machines clatter like a town of nervous sparrows and the heat stands in the doorway like a customer who will not leave, a man of thirty-three stood in a shop the width of a coffin, with a bridal gown hidden under a white sheet.
+In another week, on another continent, in the tailors' lane behind Kurmi Market, where the treadle machines clatter like nervous sparrows and the heat stands in the doorway like a customer who will not leave, a man of thirty-three stood in a shop the width of a coffin, with a bridal gown hidden under a white sheet.
 
 Yusuf Abdullahi was devout, modest, and the best tailor in the lane, which he would have denied under oath. For forty nights, after the dawn prayer, he had sat before this one gown: Swiss lace the colour of milk from a clean bowl, sleeves to the wrist, a hem that fell as water falls, and down the placket an embroidery in white upon white, so close that the pattern lived only in the changing of the light.
 
 It was for a bride who was to be married in a fortnight, in Zaria, to a good man, a baker, Aminu Danjuma, forty-three, superstitious, honourable, and not known to have said one kind word aloud in his life, though he had done a great many in dough. It was for the bride that the tailor was, at this moment, trying not to look.
 
-"Malam Yusuf," said Hajiya Zainab Bello, sixty-nine, retired pharmacist, matchmaker of Kano, and chaperone for the occasion, who had arranged the match herself. She sat on a stool in the corner with a fan, pretending to doze, in the way that a hawk pretends. "Is it ready or is it not ready? A woman does not get married by being kept waiting."
+"Malam Yusuf," said Hajiya Zainab Bello, sixty-nine, retired pharmacist, matchmaker of Kano, and chaperone for the occasion, who had arranged the match herself. She sat on a stool in the corner with a fan, pretending to doze, as a hawk pretends. "Is it ready or is it not ready? A woman does not get married by being kept waiting."
 
 "It is ready, Hajiya."
 
@@ -9585,7 +9575,7 @@ It was at this moment that the door-curtain moved again, and a woman came in out
 
 She did not smile. She did not look away. She crossed the little shop, laid her hand on the corner of the sheet, and drew it off.
 
-It stood on its form in the wavering light, so quiet and so entirely made that nobody spoke. The embroidery rose in the light and fell in the shade, and the shade was a pattern, and the pattern was a sky.
+It stood on its form in the wavering light, so quiet and so entirely made that nobody spoke. The embroidery rose in the light and fell in the shade, and the pattern was a sky.
 
 Then she did what a midwife does with everything: she used her hands. She turned back the hem of the skirt, gently, and examined the inside seam, and there, in the shadow of the lining where no bride would see and no groom would think to look, among ten thousand white stitches, she found a single small star, worked in black thread, five points, no larger than her thumbnail.
 
@@ -9605,7 +9595,7 @@ Then she did what a midwife does with everything: she used her hands. She turned
 
 "No." The tailor looked up, and his face, in the sun, was very young. "It is what I *could* say."
 
-Hajiya Zainab had stopped pretending to sleep. Aminu the goldsmith had put down the groundnuts. Even the treadle machines in the next three shops seemed to have found some reason to pause.
+Hajiya Zainab had stopped pretending to sleep. Aminu the goldsmith had put down the groundnuts. Even the treadle machines in the next three shops had found a reason to pause.
 
 "Hajiya," said Hauwa, without turning. "Please tell my father that I will not marry Aminu Danjuma."
 
@@ -9617,17 +9607,17 @@ The fan fell out of the old woman's hand.
 
 "You will," said Hauwa, "by the evening prayer." And at that, even Yusuf, who had never been known to laugh before noon, made a noise that was mostly breath.
 
-She turned at last to him. "I have delivered four hundred and twelve children," she said, "and I have learned one thing about time from all of them. Nobody is promised the hour. I have heard a woman begin a sentence at three in the morning, *I will tell my husband tomorrow*, and I have not heard her finish it. I will not wait to be sure of a thing I already know."
+She turned at last to him. "I have delivered four hundred and twelve children," she said, "and learned one thing about time from them. Nobody is promised the hour. I have heard a woman begin a sentence at three in the morning, *I will tell my husband tomorrow*, and I have not heard her finish it. I will not wait to be sure of a thing I already know."
 
 "Hauwa—"
 
-"The dress is not for sale," she said. "It is not for another man's bride. Hang it where it is. If you wish to ask me, Malam, you will ask me as it is done, with your mother, and with the Hajiya, who has been doing this longer than you have been alive and will be insufferable about it." She looked at the little black star again, and her voice cracked very slightly, like a thread under strain. "You sewed it where I would find it."
+"The dress is not for sale," she said. "It is not for another man's bride. Hang it where it is. If you wish to ask me, Malam, you will ask me as it is done, with your mother, and with the Hajiya, who has been doing this longer than you have been alive and will be insufferable about it." She looked at the little black star again, and her voice cracked very slightly. "You sewed it where I would find it."
 
 "I sewed it where *no one* would find it."
 
 "I am not no one," said Hauwa Garba. "Barka da rana."
 
-She went out into the white heat, with the slow step of one who has chosen. The curtain swung shut. In the shop, Yusuf Abdullahi sat down on the nearest stool as though his legs had been cut, and Hajiya Zainab, who had never in forty years been speechless at a match, said at last, to the ceiling:
+She went out into the white heat, with the slow step of one who has chosen. The curtain swung shut. In the shop, Yusuf Abdullahi sat down on the nearest stool as though his legs had been cut, and Hajiya Zainab, who had never in forty years been speechless at a match, said to the ceiling:
 
 "I arranged the *wrong* wedding."
 
@@ -9637,9 +9627,9 @@ She went out into the white heat, with the slow step of one who has chosen. The 
 
 **Manila, the second week of May. A glass tower, and a storm.**
 
-The weather bureau had begun to speak in the tones that people use at hospital doors. A storm had formed in the Pacific, six weeks before its season; the old people said the sea had misread the calendar. It had been given a name, Isidra, and a number, three, and then, in the course of one afternoon, a number higher.
+The weather bureau had begun to speak in the tones people use at hospital doors. A storm had formed in the Pacific, weeks before its season; the old people said the sea had misread the calendar. It had been given a name, Isidra, and a signal number, three.
 
-The company had not closed. Companies like that do not close. The Americans, in their daylight, needed their internet; the agents, a bulletin stated, with the kind of courtesy that is also a locked door, would *shelter in place on the floor, as the shuttle service has been suspended, in the interest of client continuity.*
+The company had not closed. Companies like that do not close. The Americans, in their daylight, needed their internet; the agents, a bulletin stated, with the courtesy that is also a locked door, would *shelter in place on the floor, as the shuttle service has been suspended, in the interest of client continuity.*
 
 So Maricel did not take the 9:40 that night. At 8:15 the first wall of rain came off the bay, and she was at her desk, in her headset, with eight hundred other people in a glass tower, when the lights flickered once, and the generators answered.
 
@@ -9647,7 +9637,7 @@ So Maricel did not take the 9:40 that night. At 8:15 the first wall of rain came
 
 "Well, hello there, Marcy," said a voice like an old gate, from a great distance. "My name's Walt. I think I've broken the internet."
 
-He was eighty-one. He lived in Duluth, Minnesota, where it was ten in the morning and a great lake sat outside his window like a grey animal. His router had a red light, and a daughter in Phoenix had told him to call this number and had not said that it would be a stranger.
+He was eighty-one. He lived in Duluth, Minnesota, where it was ten in the morning and a great lake sat outside his window like a grey animal. His router had a red light, and a daughter in Phoenix had told him to call this number.
 
 "Mr. Halvorsen, let's see what we can do. Can you tell me what colour the light is?"
 
@@ -9659,15 +9649,15 @@ A pause. A very long pause. Then, in a tone of great and honourable surprise: "M
 
 She laughed, and the whole row of agents looked up, because it was not Marcy's laugh but Maricel's, the one that made rooms lean.
 
-That call took forty-one minutes in a company where the target was nine, and it was fixed in the first two. For the rest, Walt did not want to hang up. He had a kitchen in which a dead woman's cup was still on the hook. He told Maricel about the lake, and she told him, in a voice she had never used for the clients, about the rain on the glass, and the jeepney she was not in.
+That call took forty-one minutes in a company where the target was nine, and it was fixed in the first two. For the rest, Walt did not want to hang up. He had a kitchen in which a dead woman's cup still hung on its hook. He told Maricel about the lake, and she told him, in a voice she had never used for clients, about the rain on the glass, and the jeepney she was not in.
 
 "A jeepney," said Walt. "That's a bus?"
 
 "It is a chapel," said Maricel. "With a driver."
 
-On her desk the phone had buzzed, three times, face-down, in the manner of an insect that wants to be freed.
+On her desk the phone had buzzed three times, face-down, like an insect that wants to be freed.
 
-The rain struck the tower like thrown gravel. She rose, left her headset on the chair, and went to the pantry window with her phone in her hand. Below, thirty-one floors down, Manila was a black bowl with a few lights swimming in it. She spoke then, as the lonely do, to the glass, and in verse, because there are hours when prose will not hold the weight:
+The rain struck the tower like thrown gravel. She rose, left her headset on the chair, and went to the pantry window with her phone in her hand. Thirty-one floors down, Manila was a black bowl with a few lights swimming in it. She spoke then, as the lonely do, to the glass, and in verse, because there are hours when prose will not hold the weight:
 
 > *Six hours a night I speak to strangers' ears.
 > I know their routers, daughters, dead wives' cups;
@@ -9700,7 +9690,7 @@ She read the message screen. There were three.
 
 But it was already an hour old.
 
-She went back to her desk. Walt, who had waited on the line through four minutes of silence, as only a man can who has learned what silence is for, said gently, "You went away, honey."
+She went back to her desk. Walt, who had waited on the line through four minutes of silence, said gently, "You went away, honey."
 
 "I'm sorry, Mr. Halvorsen."
 
@@ -9725,7 +9715,7 @@ At 4:10 the screen lit again.
 > **Gabriel:** *Isang trip pa, tapos diyan na ako. May sasabihin ako.*
 > *(One more trip, and then I'll be there. I have something to tell you.)*
 
-She sat very still. A thing went through her which was not hope, since hope is a lamp, and this was more like the moment before a lamp, when the wire is warm. *He has something to say.* The man who had not once in seven months spoken a word to her that could not be said before a nun had, in that rain, on that road, made an oath.
+She sat very still. Something went through her that was not hope, since hope is a lamp, and this was the moment before a lamp, when the wire is warm. *He has something to say.* The man who had not once in seven months spoken a word to her that could not be said before a nun had, in that rain, on that road, made an oath.
 
 She began to type.
 
@@ -9740,11 +9730,11 @@ It was her own, reflected in the dark glass.
 
 The rain slackened, and slackened, and then, a little before six, lifted off the city like a hand from a table.
 
-At 6:20 she took the stairs, since the lifts had failed, thirty-one floors. The lobby was a pond. A little behind the security desk, in a grey blanket from the school gym, with her wet hair stuck to her forehead, sat Joy Aquino, the librarian, with the biscuit tin from the dashboard held in her lap like a baby. She had walked the quarter-mile from the gym through water to the knee, because she had been told to.
+At 6:20 she took the stairs, since the lifts had failed, thirty-one floors. The lobby was a pond. A little behind the security desk, in a grey blanket from the school gym, with her wet hair stuck to her forehead, sat Joy Aquino, the librarian, with the biscuit tin from the dashboard held in her lap like a baby. She had waded a quarter-mile from the gym through water to the knee, because he had told her to bring it.
 
 Maricel stopped on the last step.
 
-"Hija," said Joy. "He has not come back to the gym." And that was all, for a while. There are some silences that a librarian knows better than a priest, since she has stood in them every day beside the shelves.
+"Hija," said Joy. "He has not come back to the gym." And that was all, for a while. There are silences that a librarian knows better than a priest, having stood in them every day beside the shelves.
 
 It was Joy who told it, afterward, and she told it exactly the same each time, because she had resolved that it should be told exactly. He had come to the roofs by Pandacan at one in the morning, with the water at the footboards and the wind trying to lift the roof off his chapel. He had taken thirteen people on the first trip, eleven on the second. On the fifth he took Joy herself, and the old, and the children, to the school gym on the high ground by Guadalupe, and put them down in the dry, and then turned the jeepney round for the one family whose roof was left.
 
@@ -9756,7 +9746,7 @@ It was Joy who told it, afterward, and she told it exactly the same each time, b
 
 She did not understand, then. She understood afterward that he had meant the coins: *sukli*, in the language of the street; what is left over; what is given back. The rest of the sentence belonged to the road.
 
-They found *Hiraya* at nine, when the water went down, at the foot of the underpass, with the Santo Niño still on the dashboard, red velvet, unspoiled, face to the glass. The family of the last roof was safe. He had lifted them, one by one, onto the dry ramp, the child with the cat last, and then the water had taken the chapel. That, reader, is the part of the story to hold: that seven people were counted at the gym that morning who would not have been counted at all.
+They found *Hiraya* at nine, when the water went down, at the foot of the underpass, with the Santo Niño still on the dashboard, unspoiled, face to the glass. The family of the last roof was safe. He had lifted them, one by one, onto the dry ramp, the child with the cat last, and then the water had taken the chapel. That, reader, is the part of the story to hold: that seven people stood on the dry ramp that morning who would not have stood anywhere at all.
 
 And on the rear panel, above the brown water, as bright as the day his father painted it, were the four words, which in the morning meant one thing, and now meant another, and never once ceased to mean both.
 
@@ -9800,9 +9790,9 @@ The Golden Hare held sixty-three seats, a stage the size of a generous kitchen, 
 
 For Petr was a person to whom words came easily, as long as there was something wooden between them and the world. Give him a Kašpárek, the little red-capped fool of every Czech childhood, and he would be funny, wise, cruel, tender, and shrewd for two hours, in a dozen voices. Take the puppet away, and he would say, *Yes. Thank you. That is correct,* and go and stand in the corner like an umbrella.
 
-His brother Vojtěch, a cobbler, who had the wit that a man gets from spending his life at other people's feet, put it best. "Most human trouble," he liked to say, "is a matter of soles. The rest is a matter of souls. And people confuse the two at their peril. You cannot mend a heart with leather, Petr. But you can sometimes get it to walk."
+His brother Vojtěch, a cobbler, who had the wit that comes of spending a life at other people's feet, put it best. "Most human trouble," he liked to say, "is a matter of soles. The rest is a matter of souls. And people confuse the two at their peril. You cannot mend a heart with leather, Petr. But you can sometimes get it to walk."
 
-He had come that evening with a dozen pairs of tiny shoes, to be glued to tiny feet, and was now seated cross-legged in the wings with a pot of glue and the absent-minded air of a man who has forgotten whether he is wearing his own.
+He had come that evening with a dozen pairs of tiny shoes, to be glued to tiny feet, and was now seated cross-legged in the wings with a pot of glue, wearing the absent-minded air of a man who has forgotten whether he has his own.
 
 "Strawberry-coloured heels for the Queen," said Vojtěch. "Are you sure?"
 
@@ -9810,7 +9800,7 @@ He had come that evening with a dozen pairs of tiny shoes, to be glued to tiny f
 
 "Good. Certainty is for cobblers who have never met a foot."
 
-Beside him, a girl of fifteen with a stage-hand's black T-shirt and a pencil through her bun was threading a silk line through the head of a dragon. This was Jana, Petr's niece, and she was watching him in the way that the young watch the old when they have decided to make a project of them.
+Beside him, a girl of fifteen with a stage-hand's black T-shirt and a pencil through her bun was threading a silk line through the head of a dragon. This was Jana, Petr's niece, and she was watching him as the young watch the old when they have decided to make a project of them.
 
 "Uncle," said Jana.
 
@@ -9879,13 +9869,13 @@ Sixty heads went round in the dark, like a field of sunflowers. In F7, Lucie Hor
 
 And from behind the curtain, in a spill of lamplight, with the puppet dangling forgotten at his side and nothing between himself and sixty strangers but his own forty years, stepped a tall, thin, shy man in a black jumper, who said, to the room, in a voice which shook like a ladder:
 
-"Thank you for coming."
+"*Děkuji, že jste přišli.*" Thank you for coming.
 
-It was four words in Czech. It was the first speech of his life. A woman in the third row began to clap, and then a child, and then, like rain on a roof, the whole house.
+It was four words in Czech, and the first speech of his life. A woman in the third row began to clap, and then a child, and then, like rain on a roof, the whole house.
 
 In F7, a critic put her pencil on her knee and did not write one word.
 
-She was gone before the second curtain-call, hat and scarf and all. Markéta, at the cloakroom, returned the coat with the air of one returning a rescued infant. There was an envelope on the counter, with a coin in it that was far too large.
+She was gone before the second curtain-call, hat and scarf and all. Markéta returned the coat at the cloakroom as one returns a rescued infant. There was an envelope on the counter, with a coin in it that was far too large.
 
 "For the dignity," said Markéta.
 
@@ -9911,7 +9901,7 @@ Jana began to laugh, and could not stop, and had to sit on the dragon.
 
 **Crete. The same week, in the hills above Chania, before the sun was well awake.**
 
-Kostas Mavros, forty-four, taxi driver, had one eye on the road and the other on his passenger, which on a Cretan mountain road is an arrangement that has made orphans of whole families, and which he deployed with serene indifference.
+Kostas Mavros, forty-four, taxi driver, had one eye on the road and the other on his passenger, an arrangement that has made orphans of whole families on Cretan mountain roads, and which he practised with serene indifference.
 
 "Women," said Kostas, as the old Mercedes took a bend at the speed of an argument, "are like the White Mountains. You do not conquer them. You wait for the snow to melt."
 
@@ -9925,9 +9915,9 @@ Kostas Mavros, forty-four, taxi driver, had one eye on the road and the other on
 
 There was a goat. There had been a goat for some time, and it was now a little behind them, in the mirror, wearing the look of a creature that has just seen the hereafter.
 
-George was a man whom the sun and the olives had made into one piece, with a face like a good boot, and a heavy hand that had been taught to be gentle by thirty years of branches. He sat very straight in his one good suit, with a wooden crate across his knees. In the crate were two things. The first was a tin of oil from the first pressing of the year, the green, peppery *agiourelaio* that has been known to make grown men cough and ask for their mothers. The second, tied with kitchen string, was a bundle of thirty letters, which had come back to him, one winter morning, in the hands of a niece who would not meet his eyes: every one that he had written to Eleni Stavrou, in the thirty springs since she left, returned unopened.
+George had been made by sun and olives into one piece, with a face like a good boot and a heavy hand taught to be gentle by thirty years of branches. He sat very straight in his one good suit, with a wooden crate across his knees. In the crate were two things. The first was a tin of oil from the first pressing of the year, the green, peppery *agiourelaio* that has been known to make grown men cough and ask for their mothers. The second, tied with kitchen string, was a bundle of thirty letters, which had come back to him, one winter morning, in the hands of a niece who would not meet his eyes: every one that he had written to Eleni Stavrou, in the thirty springs since she left, returned unopened.
 
-He had not read them since. He had not needed to. He knew them as a man knows a field he has ploughed.
+He had not reread them. He had not needed to. He knew them as he knew his own terraces.
 
 "You will go in," said Kostas, "and you will say, *Eleni, I am here.* And she will say, *George, what is this, a tragedy?* And you will say, *No, a delivery.* Ha! Because you have the oil! You see? I have the whole thing arranged. All you have to do is open your mouth."
 
@@ -9951,7 +9941,7 @@ On a stool in the doorway, with her arms folded and the expression of a magistra
 
 "I am an olive man."
 
-"Mrs. Eleni cried in the storeroom when the postman brought the box back. I heard it. She said it was the dust." The girl surveyed him, from boots to hat, with merciless attention. "Is it true you wrote thirty letters?"
+"Mrs. Eleni cries in the storeroom every April, when the almond flowers. I have heard it. She says it is the dust." The girl surveyed him, from boots to hat, with merciless attention. "Is it true you wrote thirty letters?"
 
 "It is true."
 
@@ -9971,7 +9961,7 @@ On a stool in the doorway, with her arms folded and the expression of a magistra
 
 Katerina went, looking back over her shoulder like a comet.
 
-Eleni Stavrou stood in the doorway of her own storeroom, fifty-eight, in a black cardigan, a widow of six years, with a carved wooden spoon in one hand like a sceptre. She had hair that had gone silver before she had permitted it, and she was not a handsome woman, but she was a *finished* one, as a good wall is finished, and the two of them stood and looked at each other across a floor of cold stone and thirty springs.
+Eleni Stavrou stood in the doorway of her own storeroom, fifty-eight, in a black cardigan, a widow of six years, with a carved wooden spoon in one hand like a sceptre. Her hair had gone silver before she had permitted it, and she was not a handsome woman, but a *finished* one, as a good wall is finished, and the two of them stood and looked at each other across a floor of cold stone and thirty springs.
 
 "You have got fat," said Eleni.
 
@@ -9996,7 +9986,7 @@ At the end of it, when the cup was empty and the light on the harbour had turned
 > *Thirty springs I sent my blossoms down the road to you;
 > The post said "not at this address," but still the blossom grew.*
 
-It was a *mantinada*, one of those rhyming couplets that the Cretans fling at one another across a table like olives: a verse that does not ask a question, only leaves a space where an answer might sit.
+It was a *mantinada*, one of those rhyming couplets the Cretans fling at one another across a table like olives: a verse that asks no question, only leaves a space where an answer might sit.
 
 Eleni did not look up. The wooden spoon lay on the table. A long breath came out of her, and then, quite quietly, in a dry, half-broken voice which belonged entirely to the girl of twenty-eight who had left, she gave the answer. It was the old rule of the form, that you must not leave a couplet standing alone:
 
@@ -10066,7 +10056,7 @@ At the south-western tip of the old Dutch fort, where the ramparts run out of wa
 
 On the morning that concerns us, it was failing.
 
-"It is the bearing," said Anil Perera, thirty-two, lighthouse keeper's son, lying on his back beneath the great lens with a torch in his teeth, so that what he said came out in the shape of a hum. "The monsoon got into the housing in March. It has been grinding for a month. Last night it stopped."
+"It is the bearing," said Anil Perera, thirty-two, lighthouse keeper's son, lying on his back beneath the great lens with a torch in his teeth, so that what he said came out in the shape of a hum. "The last monsoon got into the housing in February. It has been grinding for two months. Last night it stopped."
 
 "What does that mean?" said the young woman who was holding the other torch.
 
@@ -10096,15 +10086,15 @@ What she had not got was a place to put down the torch. And so, when the tall qu
 
 At which moment there was a great clanking on the stair, and a voice that came before its owner like a crier before a king: "*Aney, aney,* the god-blessed Perera boy and the nurse madam! I have brought *offerings!*"
 
-Chaminda Abeywardena, forty-seven, proprietor of the newsagent's by the clock tower, was a devout man in the same sense that a sponge is a wet one. He carried in his arms, with the care of a procession, six king coconuts, a flask of tea, a bundle of white thread, and the front page of a newspaper dated the fourth of February 1989. "I have kept every paper since the day I started," he declared, "and today I thought: what is a lighthouse but a very old newspaper? It tells the news, and warns of danger. It is the same trade."
+Chaminda Abeywardena, forty-seven, proprietor of the newsagent's by the clock tower, was devout in the way a sponge is wet. He carried in his arms, with the care of a procession, six king coconuts, a flask of tea, a bundle of white thread, and the front page of a newspaper dated the fourth of February 1989. "I have kept every paper since the day I started," he declared, "and today I thought: what is a lighthouse but a very old newspaper? It tells the news and warns of danger. It is the same trade."
 
 "Chaminda," said Anil, from the floor, "why have you brought the *paper*?"
 
-"For the pirith! I will bless the lamp. I have brought the sacred thread. And for the *luck* I have brought the paper of the day the lamp was last repaired." He unfolded it. "This," he said, with great tenderness, "is Wimbledon."
+"For the pirith! I will bless the lamp. I have brought the sacred thread. And for the *luck* I have brought the paper of the day the lamp was last repaired." He unfolded it. "This," he said, with great tenderness, "is the Independence Day parade."
 
 "Chaminda, the lamp was last repaired in 1994."
 
-"Then I have brought the *wrong* Wimbledon," said the newsagent, calmly, and sat down on the floor and began, in a noble baritone, to chant.
+"Then I have brought the *wrong* parade," said the newsagent, calmly, and sat down on the floor and began, in a noble baritone, to chant.
 
 It was in the eleventh minute of this blessing, with Anil swearing quietly in two languages at a seized housing, and the sea behind the great curved glass the colour of a very old coin, that Nadeesha, who had been lying on her stomach holding a torch into the cavity behind the lens pedestal, said, in an entirely different voice:
 
@@ -10112,7 +10102,7 @@ It was in the eleventh minute of this blessing, with Anil swearing quietly in tw
 
 ---
 
-It was an old biscuit tin, with a faded painting of a coach and four on its lid, and it had been placed in the hollow behind the brickwork so long ago that the rust had bonded it to the wall. They had to cut it out. Anil did it with a chisel, as gently as a man delivers a calf, and when it came free, he carried it to the window as one carries a sleeping child.
+It was an old biscuit tin, with a faded painting of a coach and four on its lid, and it had been placed in the hollow behind the brickwork so long ago that the rust had bonded it to the wall. They had to cut it out. Anil did it with a chisel, as gently as a man delivers a calf, and when it came free he carried it to the window like a sleeping child.
 
 Inside lay the letters.
 
@@ -10126,7 +10116,7 @@ Nadeesha did not touch them. She sat on the bottom step of the gallery stair, wi
 
 It was she who opened the first. It had been written in the summer of 1964, by a girl of eighteen about to go to London to study the stars:
 
-*Dear Mr. Perera. Thank you for letting me stand in your lamp-room last August, and for not laughing when I asked what the light was for. You said, "for the ships." I have been thinking since. I think it is for the ones who do not know they need it. I am going to London. I shall write to you. You need not answer. A keeper is not expected to. A light does not reply, it only goes on being there. — Seraphine W.-R.*
+*Dear Mr. Perera. Thank you for letting me stand in your lamp-room when I was twelve, and again last August, and for not laughing when I asked what the light was for. You said, "for the ships." I have been thinking since. I think it is for the ones who do not know they need it. I am going to London. I shall write to you. You need not answer. A keeper is not expected to. A light does not reply, it only goes on being there. — Seraphine W.-R.*
 
 She read it aloud. Chaminda had stopped chanting, which, in an age of miracles, was perhaps the whole miracle. When she had finished she held it against her chest.
 
@@ -10134,19 +10124,19 @@ She read it aloud. Chaminda had stopped chanting, which, in an age of miracles, 
 
 ---
 
-The afternoon went. The bearing went in, a new bronze one that had come up from Colombo on a bus, on the knee of Nadeesha's brother Sampath, who had sold tea to the driver all the way. Anil set it with a tenderness that was almost indecent. The brass housing was oiled; the lens, which was the size of a small room and held all its glass in the exact attitude in which it had been set by a foundry long ago, was released.
+The afternoon went. The bearing went in, a new bronze one that had come up from Colombo on a bus, on the knee of Nadeesha's brother Sampath, who had sold tea to the driver all the way. Anil set it with a tenderness that was almost indecent. The housing was oiled; the lens, the size of a small room, was released.
 
-At half past six, with the tropical dusk coming down like a cloth on a table, a girl of fifteen with a basket of jasmine appeared at the foot of the stair and shrieked something up the well of the tower. This was Kumari Senanayake, who had been telling the whole of the Fort for a month that the lighthouse keeper looked at the sea when the nurse was not there, and at the nurse when she was not looking.
+At half past six, with the dusk coming down like a cloth on a table, a girl of fifteen with a basket of jasmine appeared at the foot of the stair and shrieked something up the well of the tower. This was Kumari Senanayake, who had been telling the whole of the Fort for a month that the lighthouse keeper looked at the sea when the nurse was not there, and at the nurse when she was not looking.
 
 "What did she say?" said Nadeesha.
 
-"I did not hear it," said Anil, who had. He went to the switch. His father, who had kept the Galle Light for thirty-eight years and whose eyes were now two milk-white moons, stood in the doorway of the lamp-room in his old white jacket, with one hand on the rail and his head tilted, as a man listens to a thing he has heard ten thousand times. Nobody had asked him to come up the stairs. Nobody had been able to stop him.
+"I did not hear it," said Anil, who had. He went to the switch. His father, who had kept the Galle Light for thirty-eight years and whose eyes were now two milk-white moons, stood in the doorway of the lamp-room in his old white jacket, with one hand on the rail and his head tilted, listening. Nobody had asked him to come up the stairs. Nobody had been able to stop him.
 
 "Throw it, putha," said Mr. Perera.
 
 Anil threw it.
 
-For a moment there was nothing but the light, white and round and enormous in the glass. Then, with a faint sigh, like a deep breath let out after a long swim, the lens began to turn. The beam swung out across the sea, a hard bright road laid down on the water, and went round, and found the horizon, and went on. Far below, on the ramparts, on the beach, on the road of the fort, people looked up, as a congregation looks up when the bell is finally rung.
+For a moment there was nothing but the light, white and round and enormous in the glass. Then, with a faint sigh, the lens began to turn. The beam swung out across the sea, a hard bright road laid down on the water, and went round, and found the horizon, and went on. Far below, on the ramparts and the beach and the fort road, people looked up, as a congregation looks up when the bell is finally rung.
 
 "Twelve seconds," said Mr. Perera, listening. He had counted it by ear. "Twelve. Same as always." His blind face turned, with great accuracy, toward the nurse. "Madam. Your aunt used to stand at the rail where you are standing. She was twelve, I think. My father allowed it. She never once said thank you. She only looked."
 
@@ -10160,9 +10150,9 @@ She went down. It seemed the only thing to do. She went out through the old iron
 
 Behind her, high up, the beam went round.
 
-It found her, as it passed. It left her. It came back. Twelve seconds, a circle of light, a long turn of dark, and again the light on her wet face, and again the dark, a pulse like the beat of a slow heart. She could not have said why this should comfort her. Perhaps because something in the world had been turned, at last, in the right direction and was going on being turned whether or not she could stand it.
+It found her, as it passed. It left her. It came back. Twelve seconds, a circle of light, a long turn of dark, and again the light on her wet face, a pulse like a slow heart. She could not have said why this should comfort her. Perhaps because something in the world had been turned, at last, in the right direction and would go on being turned whether or not she could stand it.
 
-Above her, in the gallery, with a spanner still hanging forgotten from his belt and his father humming softly beside him, Anil stood at the rail and watched the small figure on the rock. Each time the light passed over her, he saw her face for the length of a breath. Then the dark. Then, twelve seconds on, the face. He found he had begun to count. He found that it was the longest he had ever waited for anything, and the shortest.
+Above her, in the gallery, with a spanner still hanging forgotten from his belt and his father humming softly beside him, Anil stood at the rail and watched the small figure on the rock. Each time the light passed over her, he saw her face for the length of a breath. Then the dark. Then, twelve seconds on, the face. He found he had begun to count. It was the longest he had ever waited for anything, and the shortest.
 
 He spoke then, quietly, as men do who have kept silent for a very long time and find that the night is not listening, and are mistaken:
 
@@ -10210,7 +10200,7 @@ She folded it.
 
 "You were not *asked*," said Nadeesha. "You came with a spanner and a torch and a king coconut." And then, because there are limits to what a person can carry in one evening, she laughed, and wiped her face with the heel of her hand, and walked across the room and put her hand on the brass rail of the lens beside his own.
 
-They did not speak. The great glass turned above them, and every twelve seconds the room flashed white and dark and white again, and in each flash the two of them were standing a little closer, as in a flickering reel of film, until at the last their hands lay together on the rail, which was warm from the lamp, and neither one said anything at all.
+They did not speak. The great glass turned above them, and every twelve seconds the room flashed white and dark and white again, and in each flash the two of them were standing a little closer, until at the last their hands lay together on the rail, which was warm from the lamp, and neither one said anything at all.
 
 In the corner, Chaminda Abeywardena, who had been present throughout and had been entirely forgotten, took out the front page of the fourth of February 1989 and, with the greatest delicacy, laid it over his face.
 
@@ -10222,7 +10212,7 @@ The workshop of Kenji Watanabe smelled of cypress and glue and the old sweet dus
 
 They were all of one family: the long pale women of the Noh stage, with brows high-painted and mouths like closed leaves; the old men with beards of horsehair; the demons with gold eyes; the girl called *ko-omote*, whose face is neither smiling nor weeping and has been copied, by carver after carver, for six hundred years. They watched the room with the patience of the dead.
 
-"You may not touch the chisel today," said Daichi Kobayashi, twenty-five, apprentice, drinker of too much tea at night, and a young man of strong superstitions, to a figure bent over a workbench in the corner. "It is *Butsumetsu*. It is a day of ill omen. A man who carves on Butsumetsu will make a face that will not look at him."
+"You may not touch the chisel today," said Daichi Kobayashi, twenty-five, apprentice, tea-drinker, and a young man of strong superstitions, to a figure bent over a workbench in the corner. "It is *Butsumetsu*. It is a day of ill omen. A man who carves on Butsumetsu will make a face that will not look at him."
 
 "I am not carving," said Kenji. "I am finishing."
 
@@ -10234,7 +10224,7 @@ On the bench before him, wrapped in a square of purple silk, lay the thing that 
 
 "Master," said a voice at the door, "the wood you ordered has come."
 
-It was Yuto Shimizu, the river-boatman from Arashiyama, a hot-tempered man of twenty-nine who believed what he was told by anyone who looked sure of themselves, and who had brought with him, on a handcart, an enormous slab of timber with the air of a man presenting a firstborn. "Genuine three-hundred-year-old cypress. From a temple that burned down. My cousin's friend got it. Look at the *grain.*"
+It was Yuto Shimizu, the river-boatman from Arashiyama, a hot-tempered man of twenty-nine who believed whatever he was told by anyone who looked sure of themselves, and who had brought on a handcart an enormous slab of timber, presenting it like a firstborn. "Genuine three-hundred-year-old cypress. From a temple that burned down. My cousin's friend got it. Look at the *grain.*"
 
 Kenji looked at the grain. He tapped the slab. He bent and smelled it.
 
@@ -10244,13 +10234,13 @@ Kenji looked at the grain. He tapped the slab. He bent and smelled it.
 
 "There is a small fish-scale in the corner."
 
-"It is a mark of *age!*" said Yuto, and sat down on the handcart, abruptly, with the expression of a man betrayed by a cousin and a cousin's friend. "I paid four hundred thousand yen."
+"It is a mark of *age!*" said Yuto, and sat down on the handcart, abruptly, betrayed by a cousin and a cousin's friend. "I paid four hundred thousand yen."
 
 "You were robbed," said Daichi, with delight.
 
 "I was *educated*," said Yuto, with dignity.
 
-The door slid, and there was a hush, because there is always a hush when a certain kind of person comes into a room. She came in as she always came, without sound. She was twenty-six. She wore a plain grey kimono and her hair up, and there was a small, correct, immovable smile on her face that she wore through the streets, and the station, and her mother's table, and the green-room of every theatre in the city, like a mask she'd never learned to remove.
+The door slid, and there was a hush, because there is always a hush when a certain kind of person comes into a room. She came in as she always came, without sound. She was twenty-six. She wore a plain grey kimono and her hair up, and there was a small, correct, immovable smile on her face that she wore through the streets, and the station, and her mother's table, and the green-room of every theatre in the city.
 
 Haruka Mori was a Noh actress, and a very fine one, in a tradition that had not been built for her. On the stage she could, in the turn of a head, be a ghost of a thousand years. Off it she was a woman with a polished smile, who said *Yes, of course,* and *It was nothing,* and *Please don't trouble,* and who had told no one in six years what it cost.
 
@@ -10324,13 +10314,13 @@ She read it. She folded the silk. She said, in a voice quite without the smile, 
 
 **Antioquia, Colombia. Stage Six of the Vuelta. A quarter to eight in the morning, on the climb of Las Palmas, inside a cloud.**
 
-In the Colombian Andes the cloud does not drift; it sits down on the mountain, like a hen on an egg, and stays until it has been sufficiently admired.
+In the Colombian Andes the cloud does not drift; it sits down on the mountain like a hen on an egg, and stays until it has been sufficiently admired.
 
-On this particular morning it had been sitting for six hours, and the road up from Medellín, which climbs a thousand metres in eleven kilometres by way of hairpins and prayer, had been swallowed to the knee. Along its edges the people of the mountain stood in their ponchos with their transistor radios held to their ears like the wounded holding hearts. They sold empanadas and sweet *aguapanela* from steaming pots. They shouted the names of men they could not see. And over every radio, from a motorbike somewhere in the white, boomed the voice of the most beloved commentator in the south-west of the Republic, a gentle, nervous, cardiganed man from Cali named Esteban Ortiz, who became, the moment a microphone came near, a thunderstorm.
+On this particular morning it had been sitting for six hours, and the road up from Medellín, which climbs a thousand metres in eleven kilometres by way of hairpins and prayer, had been swallowed to the knee. Along its edges the people of the mountain stood in their ponchos with transistor radios held to their ears. They sold empanadas and sweet *aguapanela* from steaming pots. They shouted the names of men they could not see. And over every radio, from a motorbike somewhere in the white, boomed the voice of the most beloved commentator in the south-west of the Republic, a gentle, nervous, cardiganed man from Cali named Esteban Ortiz, who became, the moment a microphone came near, a thunderstorm.
 
 *"Amigos del ciclismo, GOOD MORNING! Nobody can see anything, which is the finest thing that can happen to a radio man! I am inside a cloud, I am inside a legend! Here come the leaders, I think. I hear them. It sounds like a swarm of very expensive bees! And behind them, forty seconds behind, comes the story of the day, ladies and gentlemen: Sebastián Torres of Bogotá! Eleven months ago, a crash on the descent at Letras. A collarbone, a hip, ten months of hospital and rehabilitation. And today, the comeback! I have lost a bet on this man four times, and I would lose it again for the pleasure!"*
 
-The man in question was at that moment climbing at the speed of a determined snail, in a group of six, with the white wall closing before his front wheel and his own breath loud as a bellows in his ears. Sebastián Torres, twenty-nine, professional cyclist, stubborn by trade and humorous by reflex, could not see his handlebar. He could see a foot of grey tarmac, and a rival's rear tyre, and now and then a yellow leg like a drowned man's.
+The man in question was at that moment climbing at the speed of a determined snail, in a group of six, with the white wall closing before his front wheel and his own breath loud in his ears. Sebastián Torres, twenty-nine, professional cyclist, stubborn by trade and humorous by reflex, could not see his handlebar. He could see a foot of grey tarmac, and a rival's rear tyre, and now and then a yellow leg like a drowned man's.
 
 *It is a strange thing,* he thought, *to ride for a year toward a day, and have it arrive in a cloud.*
 
@@ -10357,7 +10347,7 @@ The cloud thinned.
 
 **The same morning, at a green gate on the left.**
 
-The farm was called La Nube: The Cloud. That spring it had been living up to its name.
+The farm was called La Nube: The Cloud. That season it had been living up to its name.
 
 Daniela Ruiz, twenty-eight, flower farmer, bright and proud and out of money, had stood in her greenhouses before dawn, among forty thousand roses that nobody would now buy. A Miami buyer had cancelled by e-mail on Thursday, with a pleasant apology, and the apology had arrived at the precise moment that the letter from the bank had arrived with an unpleasant one. A rose, once cut, keeps for nine days. These had been cut on Wednesday. By Friday they would be a very expensive compost.
 
@@ -10377,7 +10367,7 @@ And then, out of the white, with his head down and his jersey the grey of old as
 
 *"It is Torres!"* cried Esteban Ortiz, and his voice cracked in half. *"He has seen it! He is riding the roses! He is following them as a blind man follows a rail! Señoras y señores, a man who crashed because of a flower is climbing through a cloud on a red road. I am a professional. I am not supposed to cry. I am crying."*
 
-She saw him pass. It was a second, no more. His face was streaked and grey and grimly absurd. His eyes went sideways, once, to a girl in rubber boots standing at a gate with her hands clasped under her chin, and held there, as you hold a hot plate you have no intention of putting down. And then he was gone into the white, and the sound of his freewheel faded up the hill like a thing that goes on being sung.
+She saw him pass. It was a second, no more. His face was streaked and grey and grimly absurd. His eyes went sideways, once, to a girl in rubber boots standing at a gate with her hands clasped under her chin, and held there, as you hold a hot plate you have no intention of putting down. And then he was gone into the white, and the sound of his freewheel faded up the hill.
 
 He did not win. It should be said at once, since the reader is an honest person and will want to know. He came over the summit in eleventh, with a time that Esteban Ortiz described to the Republic, in a voice quite gone, as *the best eleventh place in the entire history of cycling, and I have the figures.*
 
@@ -10433,7 +10423,7 @@ And she smiled, and put her forehead against his shoulder, and they stood in the
 
 ---
 
-**Bucharest, Romania. The Circus of the Silver Mare, on the night of the new programme.**
+**Bucharest, Romania. The Circul Aurora, on the night of the new programme.**
 
 Elena Stanciu, seventy-seven, retired hotelier, had sat in the third row of every circus performance in Bucharest since 1962, and was therefore in a position to inform the young woman beside her that nothing, in the entire history of the circus, had ever been as dangerous as it looked, or as safe.
 
@@ -10441,13 +10431,15 @@ Elena Stanciu, seventy-seven, retired hotelier, had sat in the third row of ever
 
 "That is not comforting, doamnă," said Ioana Dumitrescu.
 
-She was twenty-eight, a nurse, and she was sitting bolt upright, with her hands knotted in her lap and her coat still on. She had read the scans. She could have drawn the hairline in the third lumbar vertebra of Andrei Popescu with her eyes shut, and had told him that if he went up without a net, she would not watch. And here she was, with her eyes open, as the lights died on the ring and the owner of the circus, Ionuț Radu, forty-three, a dentist who had inherited the big top and pulled teeth on Mondays, made his announcement in the voice of a man who has bitten on something and decided to enjoy it.
+She was twenty-eight, a nurse, and she was sitting bolt upright, with her hands knotted in her lap and her coat still on. She had read the scans. She could have drawn the crooked seam between the first and second lumbar vertebrae of Andrei Popescu with her eyes shut, and had told him that she would not tell him to stop, and would not pretend to like it. She had brought her bag, and it sat on her knees like a small black dog. Here she was, eyes open, as the lights died on the ring and the owner of the circus, Ionuț Radu, forty-three, a dentist who had inherited the big top and pulled teeth on Mondays, made his announcement in the voice of a man who has bitten on something and decided to enjoy it.
 
 "Ladies and gentlemen! Without nets, without harness, without insurance, and with my *deepest regrets*—the man who has walked the wire for eleven years! *Andrei Popescu!*"
 
 The drums began.
 
-He came out in white. He was thirty-one, lean, quiet-faced, fearless in the air and timid on the ground, a man who in the ordinary world could not ask a woman to dinner without rehearsing it, and who now climbed a rope ladder as though it were a staircase in his own house. At the top he stood on the little platform, twelve metres above the sawdust. He lifted his pole. He looked down, once, over the rows, until he found the third seat in the third row, and a woman with her hands in her lap.
+There had been a low wire, six feet from the ground, with a net beneath it, built for him by Mihai for the gala. Andrei had walked it twice in rehearsal, thanked the owner with great courtesy, and asked for the high one.
+
+He came out in white. He was thirty-one, lean, quiet-faced, fearless in the air and timid on the ground, a man who in the ordinary world had needed a conspiracy of six people to ask a woman to dinner, and who now climbed a rope ladder as though it were a staircase in his own house. At the top he stood on the little platform, twelve metres above the sawdust. He lifted his pole. He looked down, once, over the rows, until he found the third seat in the third row, and a woman with her hands in her lap.
 
 He smiled. And he set his foot on the wire.
 
@@ -10576,7 +10568,7 @@ Dr. Hassan Idris, thirty-five, courteous to the point of illness, bent over the 
 
 "Yes. It is very hot. That is why you are coughing. It is also why I am asking you to breathe in."
 
-On his phone, which lay on the desk face-up, a voice note had come in from Omdurman. It had been arriving in pieces since seven, in a staccato of dropped syllables, like a man running over stepping-stones. *Hassan... Mama... the fever... the pharmacy is... no, the road to... Hassan, I cannot... do you hear...* His brother Osman, who made umbrellas and was therefore, in that country, a prophet. He had said it nine times, this morning, in nine different broken ways, and it came to the same thing: *Mother is not well. Come. Or do not come, and send the money, and say nothing.*
+On his phone, which lay on the desk face-up, a voice note had come in from Omdurman. It had been arriving in pieces since seven, in a staccato of dropped syllables. *Hassan... Mama... the fever... the pharmacy is... no, the road to... Hassan, I cannot... do you hear...* His brother Osman, who made umbrellas and was therefore, in that country, a prophet. He had said it nine times, this morning, in nine different broken ways, and it came to the same thing: *Mother is not well. Come. Or do not come, and send the money, and say nothing.*
 
 He had not said anything. He had gone on listening to the child's chest, which was clear.
 
@@ -10594,7 +10586,7 @@ It belonged to Old Zuhura, who had been the cleaner of this building since it wa
 
 It was her idea, too, that the walls of the waiting room should wear poems.
 
-She had had it in January, when a young Egyptian woman named Amal Yusuf had come, with an enormous bag and a face like a lit match, to ask whether the clinic would allow her to read verse to the patients on Thursday afternoons, *as waiting rooms are the only churches without sermons.* Hatim Babiker, the manager, a nurse of sixty-two from Omdurman who was superstitious and could not keep time, and who arrived every day at noon with a fresh omen to account for it, had consulted a cat, and said yes.
+She had had it in January, when a young Egyptian woman named Amal Yusuf had come, with an enormous bag and a face like a lit match, to ask whether the clinic would allow her to read verse to the patients on Thursday afternoons, *as waiting rooms are the only churches without sermons.* Hatim Babiker, the manager, a nurse of sixty-two from Omdurman who was superstitious and could not keep time, and who arrived every day at noon with a fresh omen to account for it, consulted a cat, and said yes.
 
 Since then the poems had begun, like moss, to appear. They were taped to the wall beside *WASH YOUR HANDS*; they were stuck up with plasters; and Zuhura, who could not read them, had decided, with great confidence, that they were *the prescriptions of the clinic's second doctor, the better one,* and had begun to dispense them by instinct.
 
@@ -10618,9 +10610,9 @@ On the other side of a desert, at a quarter to twelve, in a heat of forty-six de
 
 "Never. A telephone is a leash. A man at the other end of it wants something."
 
-The bridge was a footbridge, six hundred metres of steel and pale stone, from the old book-market at the bottom of Mutanabbi Street across the brown water to the Karkh shore, and it was due to open in the autumn, and was, at the moment, exactly two metres of air short of the far bank. A gap, like the gap in a child's smile. The two halves stood in the river, each reaching, and in the middle the Dijla went through, as slow as a thought.
+The bridge was a footbridge, six hundred metres of steel and pale stone, from the old book-market at the bottom of Mutanabbi Street across the brown water to the Karkh shore, and it was due to open in the autumn, and was, at the moment, exactly two metres of air short of the far bank. A gap, like the gap in a child's smile. The two halves stood in the river, each reaching, and between them the Dijla went through, slow as a thought.
 
-"*Habibti!*" came a roar from the quay, and up the steps, with a steaming foil parcel the size of a baby, came a short wide man in a stained apron, perspiring with the indignity of a fortune-teller whose predictions have been publicly mislaid. This was Zaid Jabbar, thirty-five, a butcher of Basra, who had driven eight hours with the lunch, and who made promises faster than he could keep them, a habit that had made him, at once, the best matchmaker in the south and its most unpopular. "I promised the kebabs by noon!"
+"*Habibti!*" came a roar from the quay, and up the steps, with a steaming foil parcel the size of a baby, came a short wide man in a stained apron, perspiring with indignity. This was Zaid Jabbar, thirty-five, a butcher of Basra, who had driven eight hours with the lunch, and who made promises faster than he could keep them, a habit that had made him, at once, the best matchmaker in the south and its most unpopular. "I promised the kebabs by noon!"
 
 "It is three minutes past," said Shaimaa.
 
@@ -10638,13 +10630,13 @@ The engineer put down his drawings.
 
 "Her father," he repeated.
 
-"On the five o'clock! He will not telephone, because he fears the telephone, he is seventy-eight, he was a lifeguard on the Shatt al-Arab for forty years and he has never in his life been willing to say a thing to a machine that he could say to a face! I have it from the cousin of the baker's wife. He is coming up to Baghdad, to see his daughter, for the *answer*." The butcher put down the kebabs. His voice dropped by an octave, which for him was a collapse. "She has until tomorrow midnight. The Italians, I am told, are impatient."
+"On the five o'clock! He will not telephone, because he fears the telephone, he is seventy-eight, he was a lifeguard on the Shatt al-Arab for forty years and he has never in his life been willing to say a thing to a machine that he could say to a face! I have it from the cousin of the baker's wife. He is coming up to Baghdad, to see his daughter, for the *answer*." The butcher put down the kebabs. His voice dropped by an octave, which for him was a collapse. "She has until tomorrow midnight. The Danes, I am told, are impatient."
 
 Nobody spoke. Down on the water a boy in a very small boat passed under the gap, singing to himself, and a pair of pigeons crossed the open air above the Dijla in a short, scornful line, unimpeded by engineering.
 
 For the past five months, Mustafa Karim had built a bridge. He had stood in the river at dawn with a surveyor's staff. He had drawn the piers and checked the tolerances and argued with a committee of sixteen. And on every one of those mornings, he had been joined, at six, with two glasses of sweet black tea, by the architect who had designed the lamps, the railings, and the little pavilion at the Rusafa end, in which a man could sit and read; Noor Hashim, thirty, ambitious, eloquent, with a pencil in her hair and a way of looking at a half-finished span as though it owed her an explanation.
 
-He had built the whole of it so that she should have somewhere to come back to. It was a sentence he had written to a stranger in a ledger, and not once said aloud.
+He had built the whole of it so that she should have somewhere to come back to. It was a sentence he had written to a stranger in a ledger, and had never once said aloud.
 
 "Eat the kebab," said Shaimaa Al-Obaidi, unexpectedly, in the voice of a woman who, for all her war against the telephone, was a good deal kinder than she let on. "It will get cold. The rest is the river's business."
 
@@ -10671,7 +10663,7 @@ Amal Yusuf was thirty-one. She was fierce and lyrical, and wrote, as she lived, 
 
 A silence settled over the waiting room, the kind that comes after a thing has touched the right bone. Somebody blew her nose.
 
-At the back, against the wall, with a clipboard he was not reading and a stethoscope that he had forgotten to take off, a man had gone entirely still.
+At the back, against the wall, with a clipboard he was not reading and a stethoscope he had forgotten to take off, a man had gone entirely still.
 
 "Is it about someone real?" said Nahid, from the third row, who had no talent for tact. "The doctor?"
 
@@ -10701,7 +10693,7 @@ Hassan Idris did not move. His stethoscope hung from his neck like a rope.
 
 It was the hour at which the building ceased to be a clinic and became a place of old tiles and good silence. The fan had stopped turning. The street below was a long yellow sleep of lamps. In the empty waiting room, in the chair by the window where the mothers sat, with a single bulb on, Dr. Hassan Idris sat with a brown envelope open on his knee, and read.
 
-There were thirty-one poems. They were written in a quick, black, impatient hand, as of one who writes at a kitchen table with a cigarette she is trying to give up. They told, in the future tense, the whole of a man's life, and he knew, from the first, that it was his. The long flight; the stairs; the room above the pharmacy. The sack in each hand. The sister-in-law's weeping in the voice note; the way he could not bear a woman's name said in a certain way. His mother's door. In the nineteenth poem, he found the bread; in the twenty-second, the wall; and in the twenty-seventh, with a clean stab of shock, a line about a boy of nine on a bad road, whom Hassan had never mentioned to a living soul.
+There were thirty-one poems. They were written in a quick, black, impatient hand, as of one who writes at a kitchen table with a cigarette she is trying to give up. They told, in the future tense, the whole of a man's life, and he knew, from the first, that it was his. The long flight; the stairs; the room above the pharmacy. The sack in each hand. Osman's breaking voice in the notes; the way he could not bear his mother's name said in a certain tone. His mother's door. In the nineteenth poem, he found the bread; in the twenty-second, the wall; and in the twenty-seventh, with a clean stab of shock, a line about a boy of nine on a bad road, whom Hassan had never mentioned to a living soul.
 
 *She could not have known.*
 
@@ -10796,7 +10788,7 @@ They stood, the two of them, one on each lip of the unfinished span, with the Di
 
 There are stations at which trains arrive, and stations at which trains are merely seen to pass, and the second sort are the more romantic, since a thing that does not stop must be, by definition, on its way to something.
 
-Shanti Nagar was the second sort. It sat on the eastern edge of the city, in a haze of brick-dust and marigold, with six platforms, a footbridge, a signal cabin the colour of a tired mango, and a tea-stall; and the Lucknow express went through it every evening at 5:58 at a speed that made the pigeons rise in a single grey sheet. It had never slowed. It had been going through Shanti Nagar for eleven years as a very important person goes through a room full of people he is not going to speak to.
+Shanti Nagar was the second sort. It sat on the eastern edge of the city, in a haze of brick-dust and marigold, with six platforms, a footbridge, a signal cabin the colour of a tired mango, and a tea-stall; and the Lucknow express went through it every evening at 5:58 at a speed that made the pigeons rise in a single grey sheet. It had never slowed. For eleven years it had gone through Shanti Nagar the way a very important person goes through a room of people he does not mean to speak to.
 
 On the sixth platform, at the very end, under the one working lamp, a woman had been standing every evening at half past five for four years.
 
@@ -10816,7 +10808,7 @@ That was all. It had been all for four years. But the biscuit-seller had a view.
 
 "*Hai Ram*," said the vendor. "She admits it. That it is a *he*."
 
-Sunita Verma, who had faced forty children a day for sixteen years and had never once been seen to blush, adjusted her satchel strap and said with the greatest composure, "It is a figure of speech."
+Sunita Verma, who had faced forty children a day for sixteen years without once blushing, adjusted her satchel strap and said with the greatest composure, "It is a figure of speech."
 
 "So is love," said Pooja.
 
@@ -10834,7 +10826,7 @@ On the footbridge's lowest step, with a stopwatch and the pinched, concentrated 
 
 The driver did not reply. Ravi Chaudhary, forty-one, loco pilot, punctual, patient, had a long, grave, handsome face, a moustache of unvarying length, and a hand on the regulator that had never, in nineteen years, been known to shake. He drove the 5:40 out of New Delhi to Lucknow six days a week and had never been late except for fog, floods, and, on one occasion, a cow of such obstinate holiness that the Divisional Manager had written a letter to a temple.
 
-In the long dark between stations, with the lamps of the villages swimming past the window like a slow shoal, he had a habit which his assistant had learned to tolerate, and which he did without knowing, as another man hums. He recited the stations. It was not poetry. It was a list. But a list, said often enough, in the right voice, can carry a man across the night:
+In the long dark between stations, with village lamps swimming past the window, he had a habit his assistant had learned to tolerate, which he indulged without knowing, as another man hums. He recited the stations. It was not poetry. It was a list. But a list, said often enough, in the right voice, can carry a man across the night:
 
 > *Ghaziabad. Khurja. Aligarh. Tundla.
 > Etawah. Kanpur. Unnao. Lucknow.
@@ -10873,19 +10865,19 @@ It was the last bus in Vienna with a conductor, a fact which the municipality ha
 
 "*Frau Maestra*," said Lukas, taking her coin with a clip of his punch, "you are late."
 
-"I know that I am late," said Clara Weber. She was thirty-two, a conductor at the Musikverein, five feet five of Prussian-blue coat and absolutely nothing out of place, and she was holding a score as another woman holds an infant that has begun to scream. "I am *conducting* in an hour."
+"I know that I am late," said Clara Weber. She was thirty-two, a conductor at the Musikverein, five feet five of Prussian-blue coat and absolutely nothing out of place, holding a score like an infant that has begun to scream. "I am *conducting* in an hour."
 
 "So am I," said Lukas.
 
 "You are not conducting. You sell tickets."
 
-"I conduct people from one place to another. I do it with a clip and a bell. You do it with a stick and sixty violinists. We are colleagues." He leaned on the pole. He was blunt, and could not apologise, and had, in nine years, acquired the biography of every regular on the line. "And you are on my bus at a quarter to five on a Thursday, going the wrong way. The Musikverein is *behind* you. Where is it that you are *really* going?"
+"I conduct people from one place to another, with a clip and a bell. You do it with a stick and sixty violinists. We are colleagues." He leaned on the pole. He was blunt, could not apologise, and had in nine years acquired the biography of every regular on the line. "And you are on my bus at a quarter to five on a Thursday, going the wrong way. The Musikverein is *behind* you. Where is it that you are *really* going?"
 
 "That is none of your—"
 
 "A violin maker."
 
-The bus rocked round the Opera, and the conductress, a woman who could silence the whole of the second violins with the lifting of an eyebrow, visibly considered whether to murder a man in public service.
+The bus rocked round the Opera, and the conductress, a woman who could silence the second violins with one eyebrow, visibly considered murdering a man in public service.
 
 "Since February," said Lukas. "You get on very tense. You get off at the Albertina very *less* tense. Frau Weber, I am a simple man, and I know that there are only two things which make a person walk that fast to a door. One is a debt. And the other…"
 
@@ -10893,7 +10885,7 @@ The bus rocked round the Opera, and the conductress, a woman who could silence t
 
 "The other," said Lukas Bauer, with immense tenderness, ringing the bell for the Albertina, "is a *flat note.*"
 
-She got off. The door hissed. She stood on the pavement of the Albertina in her coat, in the late sun, with the knowledge that a bus-conductor had just played her better than the second violins ever had.
+She got off. The door hissed. She stood on the pavement by the Albertina in the late sun, knowing that a bus conductor had just played her better than the second violins ever had.
 
 ---
 
@@ -10939,7 +10931,7 @@ At the bench, Theresa Hofer, for the first time in her entire life, had nothing 
 
 ---
 
-**Sofia, Bulgaria. The Palace of Justice, between two stone lions, at eleven in the morning.**
+**Sofia, Bulgaria. The Palace of Justice, between two stone lions, at nine in the morning.**
 
 The judge was a tired woman of sixty in a black gown, with the look of one who has read a great many sentences and written every one of them in her sleep, and she asked the question in Bulgarian, gently, because she had read the file and was not a cruel woman.
 
@@ -10947,27 +10939,27 @@ The judge was a tired woman of sixty in a black gown, with the look of one who h
 
 Nikolai, thirty-eight, in the grey suit of a man who has not been in a suit since a funeral, shook his head from side to side.
 
-It should be said that in Bulgaria this means *yes*. It is one of the glories of the nation, that its people nod for no and shake for yes, and the foreign newspaperman at the back of the court, who had been told this twice and forgotten it twice, wrote on his pad, with great decision, *DENIES.*
+In Bulgaria this means *yes*. It is one of the glories of the nation that its people nod for no and shake for yes, and the foreign newspaperman at the back of the court, who had been told this twice and forgotten it twice, wrote on his pad, with great decision, *DENIES.*
 
 "Yes," said Nikolai, aloud, to avoid all doubt. "I admit it."
 
-It was the Register that had done it. The Keeper's ledger, which had opened a thousand doors, had opened one more than anyone intended. *I once looked away and let a child cross.* Entry 0032, posted in a different life; a thing a man had written in the dark, to be rid of it. A colleague had read it in a canteen on his phone. There are no secrets in a canteen. By Christmas there had been an inquiry; by March, a charge. And on the third of June, in a courtroom that smelled of floor-wax and old coats, the dutiful, haunted, honest man had stood up and said that it was true.
+It was the Register that had done it. The Keeper's ledger, which had opened a thousand doors, had opened one more than anyone intended. *I once looked away and let a child cross.* Entry 0032, written in the dark, to be rid of it. A colleague had read it in a canteen on his phone. There are no secrets in a canteen. By Christmas there had been an inquiry; by March, a charge. And on the third of June, in a courtroom that smelled of floor-wax and old coats, the dutiful, haunted, honest man stood up and said that it was true.
 
 "The court has heard a witness," said the judge.
 
-The witness was fifteen. She was small and straight and wore her school blouse. She had come from Plovdiv by the early train, with a foster mother, and a notebook, and when she stood in the box she did not look at the judge. She looked at Nikolai.
+The witness was fifteen, small and straight, in her school blouse. She had come from Plovdiv by the early train with a foster mother and a notebook, and in the box she did not look at the judge. She looked at Nikolai.
 
 "My name is Tsvetana Dimitrov," she said. "It was not always. I do not remember the first name. I remember the night. It was very cold, and the man in the booth looked at his boots. He had very clean boots. I thought, as a child will: *that is a man who polishes the things he is afraid of.* And then he looked at the other side of the road. And I went across." She swallowed. "I do not think it is right to send him to prison for looking at his boots. But I understand that the law is not an ear. It is a ruler."
 
 The courtroom was very still.
 
-The sentence, when it came, was two years. The judge said it with her eyes on the file, and it was said in the voice in which grief is read from a card. *As the law, which has no ear for children, requires.* And then, because she was human, she added something that was not in the law, and was not recorded: "Mr. Ivanov. For what it is worth to you. Thank you."
+The sentence, when it came, was two years. The judge said it with her eyes on the file, in the voice in which grief is read from a card. And then, because she was human, she added something that was not in the law, and was not recorded: "Mr. Ivanov. For what it is worth to you. Thank you."
 
 On the steps, between the stone lions, with a policeman standing at a decent distance and looking at the sky, a woman in a long coat was waiting. It was a very warm day for a coat. In its lining she had carried for six months a document with the photograph of a man she loved and a name that was not his; she had been to a border and back with it, and had not used it, which was luck, and had not been able to burn it, which was love.
 
 Elena Georgieva was thirty-four, a translator in four languages, discreet, precise, and entirely out of words.
 
-"The train for Thessaloniki is at one," she said, in a flat, quick, unnatural voice. "I have the tickets. I have the passport. They have not looked at the coat. Nikolai, they have not put the cuffs on. You can be on the platform in nineteen minutes."
+"The train for Thessaloniki is at ten," she said, in a flat, quick, unnatural voice. "I have the tickets. I have the passport. They have not looked at the coat. Nikolai, they have not put the cuffs on. You can be on the platform in nineteen minutes."
 
 "Elena," said Nikolai, very gently, and took her two hands, coat-cuffs and all, in his. "I looked away once. It was the only wrong thing I ever did, and I have not been able to put it down in nine years. I cannot do it a second time. I will not look away from my own account." He smiled; it was a terrible, tender smile. "It is only two years. I shall learn to read the old poets. You will write to me in four languages."
 
@@ -10975,7 +10967,7 @@ Elena Georgieva was thirty-four, a translator in four languages, discreet, preci
 
 "You will do it very well. You do everything very well. It is the most infuriating thing about you."
 
-She was crying now, quite openly, in a way that made the policeman study a pigeon. He did not let go of her hands. He spoke, then, in the older and plainer language of two people standing in sunlight:
+She was crying now, quite openly, in a way that made the policeman study a pigeon. He did not let go of her hands. He spoke, then, in the plainer language of two people standing in sunlight:
 
 > *A border is a line drawn by a man
 > Who never had to walk it with a child.
@@ -10994,11 +10986,11 @@ She laughed, through everything, a wet cracked laugh, and kissed him once, on th
 
 The blue engine of the 5:40 to Lucknow came to a stop at Shanti Nagar Junction at 5:58 and eleven seconds, with a long, enormous, trembling sigh of brakes, directly opposite a woman with a yellow handkerchief, in a silence so total that the pigeons did not know what to do with their wings.
 
-Nobody on the platform spoke. The biscuit-seller had dropped a tray. On the footbridge, a girl of sixteen with a stopwatch, who had asked of a mango-coloured shrine only that *the signal be red for a very short time, not enough to hurt anyone,* put her hand over her mouth and sat down suddenly on the step.
+Nobody on the platform spoke. The biscuit-seller had dropped a tray. On the footbridge, Shweta, who had asked of a mango-coloured shrine only that *the signal be red for a very short time, not enough to hurt anyone,* put her hand over her mouth and sat down suddenly on the step.
 
 Sunita Verma did not move.
 
-The cab door above her opened. A man leaned out of it, a tall man in a blue cotton uniform with a smear of engine-grease on the sleeve, holding the rail as though it were the rail of a ship. He had looked at her for four years from a distance of eighty kilometres an hour. He had never before seen the colour of her eyes. They were dark brown, and she was looking at him with an expression of the most perfect and ferocious composure, which was, he recognised with sudden horror, the face of a woman working very hard at not crying.
+The cab door above her opened. A man leaned out of it, a tall man in a blue cotton uniform with a smear of engine-grease on the sleeve, holding the rail as though it were the rail of a ship. For four years he had looked at her from eighty kilometres an hour. He had never before seen the colour of her eyes. They were dark brown, and she was regarding him with perfect and ferocious composure, which was, he recognised with sudden horror, the face of a woman working very hard at not crying.
 
 "The signal," said Ravi Chaudhary. "It is red."
 
@@ -11008,7 +11000,7 @@ The cab door above her opened. A man leaned out of it, a tall man in a blue cott
 
 "Then you will drink tea."
 
-She had a steel flask in her satchel, which she had carried every evening for four years and not once opened. She unscrewed it. She poured into its steel cup, with hands that were very steady and a face that was not. The tea was cold. It had been made at seven that morning. She held it up, to the open door, to the cab, to the man.
+She had a steel flask in her satchel, carried every evening for four years and never once opened. She unscrewed it and poured into its steel cup, with hands that were very steady and a face that was not. The tea was cold. It had been made at seven that morning. She held it up to the open door, to the cab, to the man.
 
 He leaned down. He took it. His fingers touched hers for one second, and in that second, on the sixth platform of Shanti Nagar, among the shoes and the pigeons and the stunned vendors, a great many people discovered that they had been holding their breath.
 
@@ -11024,9 +11016,9 @@ She looked at him. Something went across her face that was not a smile, but was 
 
 Above the cab, with a click that sounded to everyone present like the closing of a book, the signal turned green.
 
-He gave her back the cup. He did not say anything else; he did not know what it would have been. He drew in the door, and took the regulator in his hand, and the great engine began, with a long sigh, to move; and at the end of the platform a woman with a yellow handkerchief did not wave it, but pressed it to her mouth, and stood.
+He gave her back the cup. He did not say anything else; he did not know what it would have been. He drew in the door and took the regulator in his hand, and the great engine began to move; and at the end of the platform a woman with a yellow handkerchief did not wave it, but pressed it to her mouth, and stood.
 
-And then, as the train drew out into the evening, for the first time in eleven years, the horn did not say *two short, one long.* It said something else: a new sentence, entirely unrehearsed, a long, rising, trembling blast that went on far longer than regulations allow, and was heard, it is reported, at the signal cabin, at the school, and in a small kitchen two streets away, where an old woman put down a ladle.
+And then, as the train drew out into the evening, for the first time in eleven years, the horn did not say *two short, one long.* It said something else: a new sentence, entirely unrehearsed, a long, rising, trembling blast that went on far longer than regulations allow, and was heard, it is reported, at the signal cabin, at the school, and in a kitchen two streets away, where an old woman put down a ladle.
 
 *Mark this, reader. It was not in the code.*
 
@@ -11067,15 +11059,15 @@ And then, as the train drew out into the evening, for the first time in eleven y
 ---
 
 ### SCENE I
-*Marsden Road Ground, Manchester. Dawn, the last Saturday of the season. Drizzle, as ordered.*
+*Marsden Road Ground, Manchester. Dawn, one week before the last match. Drizzle, as ordered.*
 
 There are two kinds of grass in Manchester: the kind that is grown, and the kind that is *kept*. The first needs only rain, of which the city has a surplus. The second needs a man.
 
 William Hartley was that man. He was thirty, he had been at Marsden Road since the age of sixteen, when he had been handed a roller as big as a bus and told to make the world flat, and he knew every blade of the pitch the way a shepherd knows a flock: by temperament. The left wing sulked in October. The penalty spot drank water like a Methodist at a wedding. The centre circle, which he had painted ten thousand times with a chalk-wheel and a steady hand, had a slight tilt to the east, as though even the middle of things were leaning toward something else.
 
-This morning he mowed it for the last time.
+This morning he mowed it for the second-to-last time, which is a sadness of its own.
 
-He did it slowly, as a man eats the last of anything. Up the length of the pitch, a stripe dark where the grass bent away; back again, a stripe pale where it bent toward him. Behind him the stands rose, grey and empty and a little rusted, like the ribs of some patient animal that had been told it was to be put down and had decided to be dignified about it. On the east gate a banner, already tired, said: **MARSDEN GARDENS: 214 LUXURY APARTMENTS. COMING SOON.**
+He did it slowly, as one eats the last of anything. Up the length of the pitch, a stripe dark where the grass bent away; back again, a stripe pale where it bent toward him. Behind him the stands rose, grey and empty and a little rusted, like the ribs of a patient animal told it was to be put down, and resolved to be dignified. On the east gate a banner, already tired, said: **MARSDEN GARDENS: 214 LUXURY APARTMENTS. COMING SOON.**
 
 "Coming soon," William told the roller. "They always say *soon*. Nobody says *sorry*."
 
@@ -11083,11 +11075,11 @@ He did it slowly, as a man eats the last of anything. Up the length of the pitch
 
 It was true. It generally did.
 
-Out of the tunnel, with a bunch of keys the size of a small bagpipe and a flat cap that had seen three decades of Saturdays, came Mr. George Lowe, forty-five, caretaker of the Marsden Town Silver Band's rehearsal room beneath the east stand, known to every living soul in the district as **Mr. Pennywhistle**, because he could not walk, think, grieve or be afraid without whistling, and because no one had ever heard him whistle a recognisable tune. He had been writing the Great Salford Novel for nineteen years. It was, by his own account, "nearly there"; its first chapter had been nearly there since 2006.
+Out of the tunnel, with a bunch of keys the size of a small bagpipe and a flat cap that had seen four decades of Saturdays, came Mr. George Lowe, sixty-eight, caretaker of the Marsden Town Silver Band's rehearsal room beneath the east stand, known to every living soul in the district as **Mr. Pennywhistle**, because he could not walk, think, grieve or be afraid without whistling, and because no one had ever heard him whistle a recognisable tune. He had been writing the Great Salford Novel for nineteen years. It was, by his own account, "nearly there"; its first chapter had been nearly there since 2006.
 
 "Pennywhistle."
 
-"Will! A word. Two words. Three, if you will pay for them." He leaned on the rail, panting, all anxious elbows. "I have news. Poppy Ashworth has been seen in the bandroom at six in the morning, *alone*, playing the one piece she says she has not played since Easter. A woman who plays by herself at dawn, William, is a woman with a thing on her mind."
+"Will! A word. Two words. Three, if you will pay for them." He leaned on the rail, panting, all anxious elbows. "I have news. Poppy Ashworth has been seen in the bandroom at six in the morning, *alone*, playing the one piece she says she will never play in public. A woman who plays by herself at dawn, William, is a woman with a thing on her mind."
 
 "She practises."
 
@@ -11099,7 +11091,7 @@ Out of the tunnel, with a bunch of keys the size of a small bagpipe and a flat c
 
 "It is not Providence. It is a pun."
 
-"Providence *is* a pun, William. It is the pun God makes when He is too tired to explain." He wagged a finger. "You have been mowing round that centre circle as though you were afraid of it. Mark me. If a man will not look at his own middle, he will not look at anything."
+"Providence *is* a pun, William. It is the pun God makes when He is too tired to explain." He wagged a finger. "You have been mowing round that centre circle as though you were afraid of it. Mind me. If a man will not look at his own middle, he will not look at anything."
 
 William did look at it. The circle sat in the green, pale and perfect, a whole round O, and for a moment he thought that it looked like nothing so much as a note.
 
@@ -11156,7 +11148,7 @@ At the touchline stood a girl of thirteen in a school coat three sizes too wide,
 ---
 
 ### SCENE III
-*Kisumu, on Lake Victoria. The same hour of the clock, which in Kenya is three hours further into the day. The beach at Dunga, before sunrise. The lake the colour of weak tea; the sky preparing something larger.*
+*Kisumu, on Lake Victoria. The same week. The beach at Dunga, before sunrise. The lake the colour of weak tea; the sky preparing something larger.*
 
 *Mark this, reader, for we must cross a continent between two paragraphs. Pack lightly.*
 
@@ -11168,7 +11160,7 @@ She had taken the first flight from Nairobi. She had not told him. She had come 
 
 "You are standing in my light," said a voice from a boat.
 
-Otieno Odhiambo, twenty-nine, was sitting in the stern of a wooden boat called *Mama Akinyi* (after his grandmother, who had fished this gulf for sixty years and had never once worn a cape). He was untangling a net. He did not wear the cape either. He wore a torn grey sweater and the expression of a man who had been very loud for a long time and had recently discovered how pleasant it is to be quiet.
+Otieno Odhiambo, twenty-nine, was sitting in the stern of a wooden boat called *Mama Akinyi* (after his grandmother, who had fished this gulf for sixty years and had never once worn a cape). He was untangling a net. He did not wear the cape either. He wore a torn grey sweater and the look of someone who had been very loud for a long time and had lately discovered how pleasant quiet is.
 
 "Wanjiru."
 
@@ -11182,7 +11174,7 @@ He looked at her for a long moment, and the sun, which had been waiting politely
 
 "Get in," said Otieno. "The omena do not run for apologies."
 
-They went out. He rowed first, and then ran the little motor, and the gulf opened round them, wide as a held breath, papyrus along the margin and water hyacinth drifting in green islands, with egrets standing on them like waiters who had not been told the party was over. He told her he had posted nothing in four months. He told her the truth about the persona, which was that Captain Kali had begun as a joke to sell dried fish, and then the joke had begun to sell *him*, and then there was a day he could not find where the Captain stopped and he began.
+They went out. He rowed first, then ran the little motor, and the gulf opened round them, papyrus along the margin and water hyacinth drifting in green islands, with egrets standing on them like waiters who had not been told the party was over. He told her he had posted nothing in four months. He told her the truth about the persona, which was that Captain Kali had begun as a joke to sell dried fish, and then the joke had begun to sell *him*, and then there was a day he could not find where the Captain stopped and he began.
 
 "The hippo story?" said Wanjiru.
 
@@ -11237,7 +11229,7 @@ They lost two–one in the ninety-third minute, which the crowd agreed was the o
 
 Then, as the referee's whistle died, the old tunnel doors swung open and out marched the Marsden Town Silver Band, twenty-six strong, in their maroon jackets gone to the colour of old wine, with Poppy Ashworth at the front.
 
-She was twenty-nine, she was loud in every sense a woman can be, and her cornet was dented from a fall off a coach in 2019 and played all the better for it. She marched with her chin up and her eyes straight ahead, which is how you march when you are afraid to look at the thing you most want to see.
+She was twenty-nine, she was loud in every sense a woman can be, and her cornet was dented from a fall off a coach in 2019 and played all the better for it. She marched with her chin up and her eyes straight ahead, which is how one marches when afraid to look at the thing one most wants to see.
 
 Behind her came Callum Brown, the euphonium, forty and shy as a clam, who was William's best friend and who had once spent an entire wedding trying to ask a bridesmaid to dance and had asked the cake instead. Behind him came the basses, the trombones, the old man on the bass drum who had played at the Cup final in a blizzard and had never let anyone forget it.
 
@@ -11261,7 +11253,7 @@ For this is what William Hartley had done on the last morning of his craft. He h
 
 A whole note. A semibreve. The longest thing in music, the one you hold until the conductor lets you go. And on a stave in the treble clef, the third line is **B**.
 
-It was the note Poppy had been practising, alone, at six every morning since Easter. It was the note that began the piece the band had never played in public because she said it was too private. And only one man in the whole of Manchester knew that she played it, because only one man had been standing outside the bandroom window at dawn every day for seven months pretending to check the drains.
+It was the note Poppy had been practising, alone, at six every morning since Easter. It was the note that began the piece the band had never played in public because she said it was too private. And only one man in the whole of Manchester knew that she played it, because only one man had been standing outside the bandroom window at dawn every day for seven weeks pretending to check the drains.
 
 The band reached the centre. They turned. Callum lifted his baton, because the conductor had gone home with a cold, and nodded to Poppy.
 
@@ -11271,7 +11263,7 @@ William did not wave. He did not smile. He only nodded, very slightly, the way y
 
 She played.
 
-Mark this, reader, if you have never heard a cornet in the rain. It is not a sweet sound. It is a *bright* one, a bright hard thread pulled through the wet air, and it climbed out of the old ground in one long note that held and held and would not let go, past the rusted stands, past the banner, past the cranes already waiting beyond the wall; and when she ran out of breath and had to lift her lip, the whole band took it up beneath her, twenty-six brass voices in the mud, and the crowd who had come to bury a football ground found that it had been given instead a hymn.
+If you have never heard a cornet in the rain: it is not a sweet sound. It is a *bright* one, a bright hard thread pulled through the wet air, and it climbed out of the old ground in one long note that held and held and would not let go, past the rusted stands, past the banner, past the cranes already waiting beyond the wall; and when she ran out of breath and had to lift her lip, the whole band took it up beneath her, twenty-six brass voices in the mud, and the crowd who had come to bury a football ground found that it had been given instead a hymn.
 
 Nobody left. Ten thousand people stood in the rain and sang a tune they had known all their lives, and the groundsman stood at the edge of the grass he had made and wept, very quietly, into his cap.
 
@@ -11306,7 +11298,7 @@ They looked at each other.
 
 "Hannah Hughes has no respect for privacy."
 
-"She's *thirteen*, William. She is the only honest person in Salford."
+"She's *thirteen*, William. She is the only honest person on Marsden Road."
 
 He laughed, and it came out of him like a held breath. Then, because it was the sort of evening on which everyone had said too much, he said a little more.
 
@@ -11383,7 +11375,7 @@ His jars carried no labels. They carried small, careful drawings: a crocus for s
 
 "Then I have left my *eyes* at home," said Youssef smoothly. "It is a hot day. Read on."
 
-Mehdi read on. The lie passed over them as it had passed over every day for twenty years, like a small, tame cloud. It was a good lie. It had a beautiful voice. It had never once been found out, and Youssef loved it and hated it, as one loves and hates a very old coat that has come to fit exactly the shape of one's shame.
+Mehdi read on. The lie passed over them as it had passed over every day for twenty years, like a small, tame cloud. It was a good lie. It had a beautiful voice. It had never once been found out, and Youssef loved it and hated it, as one hates an old coat that has come to fit the exact shape of one's shame.
 
 "Do you know what the trouble with you is?" said Mehdi, closing the ledger.
 
@@ -11531,7 +11523,7 @@ She turned her face aside. The scarf had slipped, a little. She put it right.
 
 "Come," said Salma. "You've earned a walk. The square is waking up."
 
-They walked, in the long copper evening, through Jemaa el-Fna, where the snake-charmers were packing and the storytellers were beginning, each in his circle of listeners like a pebble in still water. A hakawati with a voice like an old drum was telling the story of a merchant who lost his ship and found his wife, and Youssef stood at the edge of the ring, as he had stood a thousand evenings, and listened with his whole body.
+They walked, in the long copper evening, through Jemaa el-Fna, where the snake-charmers were packing and the storytellers were beginning, each in his circle of listeners like a pebble in still water. A storyteller with a voice like an old drum was telling the story of a merchant who lost his ship and found his wife, and Youssef stood at the edge of the ring, as he had stood a thousand evenings, and listened with his whole body.
 
 "You see?" said Salma softly. "There is more than one way to hold a story. The ears are very old. The eyes are only a *recent* arrival. My grandfather, who copied the Book in this hand sixty years, used to say that a letter well made is a courtesy to God and to the reader, but that the courtesy was first learned by those who *listened.* You are not behind, Youssef. You are *early.*"
 
@@ -11541,7 +11533,7 @@ At the end of the story the storyteller held out his cap, and Youssef dropped in
 
 "Which colour is that?" asked Youssef.
 
-"Ask your teacher," said the hakawati, and winked.
+"Ask your teacher," said the old man, and winked.
 
 That night, when the lane had gone to sleep and the jars stood in their rows like a congregation of small saints, Youssef sat alone at his stall under one bare bulb, with a reed, a pot of ink, and a sheet of cheap paper, and did what he had never done: he spoke to himself without a smile.
 
@@ -11565,13 +11557,13 @@ He drew it twice. Then, because the *ba* has a seed beneath it, he drew the seed
 ### SCENE IV
 *Mexico City. Coyoacán. A Saturday, eleven in the morning, and a church bell with no sense of time.*
 
-At the other side of the world, where the same sun was just climbing into an enormous blue sky, a man in a black wedding suit was standing on a ladder with a brush.
+Half a world away, in a city where it was still the morning, a man in a black wedding suit was standing on a ladder with a brush.
 
 This was not, strictly, how the programme had been planned.
 
 "Rafael!" shouted Camila Reyes, from the foot of the ladder, in a white dress and fury. "You are *married!* You have been married for forty-five minutes! There is a *mariachi!*"
 
-"I know," said Rafael Ortega, twenty-six, painter, romantic, a man who had once in his youth painted the same woman's face on a hundred walls without knowing her name. "I will be a minute."
+"I know," said Rafael Ortega, twenty-six, painter, romantic, who had once painted the same woman's face on a hundred and three walls without knowing her name. "I will be a minute."
 
 "You said that at the altar."
 
@@ -11583,7 +11575,7 @@ For they had been wed at the church of San Juan Bautista at ten o'clock, in the 
 
 And now the whole party had spilled out into the lane behind the house, where an old wall of lime plaster, prepared that week by the stonemason Ximena Salazar, a woman of sixty-three with forearms like cables and the severity of an Inca queen, stood white and waiting.
 
-"It is the hundred-and-fourth," said Rafael, not coming down. "I could not marry you and leave you on a hundred walls like a lost umbrella. There has to be one that is *finished.*"
+"It is the hundred-and-fourth," said Rafael, not coming down. "I could not marry you and leave you on a hundred and three walls like a lost umbrella. There has to be one that is *finished.*"
 
 "You have painted me a hundred times!"
 
@@ -11621,9 +11613,9 @@ Then, in her wedding dress, in front of the whole of Coyoacán, she took the lad
 
 And there, at the edge of the plaster, beside her painted self, a little crooked and a little too thick, with a lawyer's confidence and no training whatsoever, Camila Reyes painted the five long fingers of the man who had painted her: the left hand, the hand that held the brush, reaching up out of the corner of the wall as though to lift her down.
 
-The mariachi, who had been waiting since eleven, took it as a cue.
+The mariachi, who had been waiting since the end of the Mass, took it as a cue.
 
-"*¡Que vivan los novios!*" cried Ignacio Salazar, with tears running into his moustache.
+"*¡Que vivan los novios!*" cried Ignacio Ortega, with tears running into his moustache.
 
 "*¡Que vivan!*" shouted forty neighbours; and a nine-year-old flower girl named Renata Vargas, who had been told to scatter petals and had thrown them all at the policeman, threw the basket as well.
 
@@ -11670,9 +11662,9 @@ The mariachi, who had been waiting since eleven, took it as a cue.
 > **LOG OF THE M/V *MARJAN*, bulk carrier, Split. Entry in the hand of Ivan Horvat, deck rating.**
 > *1900. All stores aboard. Crew complete but for the cook, who is late and is, he says, "not late, merely *anticipated.*" Wind S, force 4, jugo. Barometer falling. Spirits: high. Heart: not recorded; the form has no column.*
 
-The Dalmatians have a word, *fjaka*, for the blessed state in which a man, on a warm afternoon, is neither working nor resting nor thinking, but simply *being,* as an olive is being on a branch. The jugo brings it. It lay now over the whole Riva like a damp, sweet blanket, and the palm trees stood in it motionless, and the old men on the benches argued about football in the unhurried way of men who have been wrong together for sixty years.
+The Dalmatians have a word, *fjaka*, for the blessed state in which a man, on a warm afternoon, is neither working nor resting nor thinking, but simply *being,* as an olive is being on a branch. The jugo brings it. It lay over the Riva like a damp blanket, the palm trees stood in it motionless, and the old men on the benches argued about football, as men do who have been wrong together for sixty years.
 
-Through it, at a rapid, determined pace, strode Marija Kovač, thirty, second officer of the *Sveti Duje*, in her blue shore-uniform and a face from which no emotion had ever been permitted to escape without a pass.
+Through it, at a rapid, determined pace, strode Marija Kovač, thirty, second officer of the *Sveti Duje*, in her blue shore-uniform and a face from which no emotion was permitted to escape without a pass.
 
 "You are late," said Ivan Horvat.
 
@@ -11680,7 +11672,7 @@ Through it, at a rapid, determined pace, strode Marija Kovač, thirty, second of
 
 "For the *sea,*" said Ivan. "For me, a woman who is nine minutes early is nine minutes *late* in a better coat."
 
-He was thirty-three, brown as a walnut, with the loose, windblown look of a man whose smile had been rubbed smooth by weather, like a stone at the foot of a quay. He sat on the sea wall with his legs swinging, an enormous canvas bag at his feet, and a paper bag of fritule in his lap, and he held it out to her, and she took one, because refusing him anything was a thing she had never learned to do properly.
+He was thirty-three, brown as a walnut, with a smile rubbed smooth by weather like a stone at the foot of a quay. He sat on the sea wall with his legs swinging, an enormous canvas bag at his feet, and a paper bag of fritule in his lap, and he held it out to her, and she took one, because refusing him anything was a thing she had never learned to do properly.
 
 "Six months," said Ivan.
 
@@ -11708,7 +11700,7 @@ She looked out at the water. Beyond the harbour, low and violet in the haze, lay
 
 "I know."
 
-"Then why," said Ivan, and he did not stop smiling, because he was the kind of man who smiled as a ship keeps its lights on in a gale, "why are you looking at me like a woman reading out a sentence?"
+"Then why," said Ivan, and he did not stop smiling, because he smiled as a ship keeps its lights on in a gale, "why are you looking at me like a woman reading out a sentence?"
 
 "Because," said Marija, "I wrote to an astronomer in England, three winters ago, and it was the only honest sentence I have ever written. It is in the Register. I will not tell you which number."
 
@@ -11739,11 +11731,11 @@ She said, very low, "I wanted you to be angry. I wanted you to *ask me to stay.*
 ### SCENE II
 *The same night. A quay, a hundred paces down the harbour. A tall gangway, a large man, and a very large supper.*
 
-> *2130. Cook arrived. Reports he was "detained by destiny." Destiny, on inquiry, turned out to be a barmaid in Kaštela. Wind backing SW, force 5. Visibility moderate. Cook says it is the first time in thirty years he has been seasick *before* sailing.*
+> *2130. Cook arrived. Reports he was "detained by destiny." Destiny, on inquiry, turned out to be a barmaid in Kaštela. Wind backing SW, force 5. Visibility moderate. Cook says it is the first time in five years he has been seasick *before* sailing.*
 
-The ship's cook of the *Marjan* was a man called Luka Matić, fifty-five, from Zagreb, who had never in his life been outdone in vanity by anyone but his own moustache. He was a chef of great and terrible talent. He had once, he claimed, been dismissed from a presidential luncheon for "being too delicious," and had taken to the sea at fifty because "a man who will not be a legend on land must be one at sea, where no one can check."
+The ship's cook of the *Marjan* was a man called Luka Matić, fifty-five, from Zagreb, who had never in his life been outdone in vanity by anyone but his own moustache. He was a chef of great and terrible talent, once dismissed, he claimed, from a presidential luncheon for "being too delicious," and had taken to the sea at fifty because "a man who will not be a legend on land must be one at sea, where no one can check."
 
-He stood now at the foot of the gangway with a stockpot in his arms, regarding the departing deck rating with a long, shrewd, meddling eye.
+He stood now at the foot of the gangway with a stockpot in his arms, regarding the deck rating with a shrewd, meddling eye.
 
 "You have *told* her."
 
@@ -11753,7 +11745,7 @@ He stood now at the foot of the gangway with a stockpot in his arms, regarding t
 
 "Luka. She has been offered the sea."
 
-"The sea!" Luka threw up his hands. "The sea is a *brute.* The sea has no manners. It will not remember her birthday. It has never once thanked me for a meal." He lowered his voice; his hand, Ivan noticed, went briefly to his side, below the ribs, and came away again, in the quick way of a man brushing off a crumb. "The truth is, boy, that most people spend their whole lives choosing between two things they love, and the thing they *lose* is whichever they were too busy to hold. Do not stand there like a bollard. Go and *do* something."
+"The sea!" Luka threw up his hands. "The sea is a *brute.* It will not remember her birthday. It has never once thanked me for a meal." He lowered his voice; his hand, Ivan noticed, went briefly to his side, below the ribs, and came away again, in the quick way of a man brushing off a crumb. "The truth is, boy, that most people spend their whole lives choosing between two things they love, and the thing they *lose* is whichever they were too busy to hold. Do not stand there like a bollard. Go and *do* something."
 
 "What?"
 
@@ -11761,7 +11753,7 @@ He stood now at the foot of the gangway with a stockpot in his arms, regarding t
 
 He picked up the pot and went up the gangway, humming, a little unsteadily.
 
-Ivan stood alone on the dark quay. Above him the *Marjan* creaked at her lines. Along the Riva, a klapa of six old men in white shirts had begun to sing in the close harmony of that coast, about a girl who waited by the sea and a sailor who could not say when he would come. He listened. Then he walked to the waterfront bar, borrowed a pen, and did a stupid thing.
+Ivan stood alone on the dark quay. Above him the *Marjan* creaked at her lines. Along the Riva, a klapa of six old men in white shirts had begun to sing in the close harmony of that coast, about a girl who waited by the sea. He listened. Then he walked to the waterfront bar, borrowed a pen, and did a stupid thing.
 
 ---
 
@@ -11796,7 +11788,7 @@ She looked at him. She looked at the sea beyond him, wide and cold and bright, a
 
 "For one rotation. At the end of it I will tell you if I stay."
 
-The Captain's eyebrows travelled up his forehead like two caterpillars discovering a new leaf.
+The Captain's eyebrows climbed his forehead like two caterpillars discovering a leaf.
 
 "Is it a man?"
 
@@ -11806,7 +11798,7 @@ The Captain's eyebrows travelled up his forehead like two caterpillars discoveri
 
 "Yes," said Marija. "I know."
 
-He looked at her for a long time, and then, being a man who had been in love twice and wrong only once, he grunted and went up the gangway.
+He looked at her for a long time, and then, having been in love twice and wrong only once, he grunted and went up the gangway.
 
 ---
 
@@ -11815,13 +11807,13 @@ He looked at her for a long time, and then, being a man who had been in love twi
 
 Elsewhere, where the Nile slides under the old bridges like a slow brown thought, a wedding was beginning.
 
-I must be brief, reader, for it was a very long wedding. The *zaffa* began at six: drums, tambourines, a reed pipe that could weep and make you dance in the same bar, forty cousins with candles; and in front of them, in a cream-coloured jacket cut by a tailor who had not been paid and was only attending to see he would be, walked **Omar Haddad,** thirty-five, antiques dealer, and the finest liar in the whole of Egypt, with the look of a man who had, for the first time in his life, nothing to sell.
+I must be brief, reader, for it was a very long wedding. The *zaffa* began at six: drums, tambourines, a reed pipe that could weep and make you dance in the same bar, forty cousins with candles; and in front of them, in a cream-coloured jacket cut by a tailor who had not been paid and was only attending to see he would be, walked **Omar Haddad,** thirty-five, antiques dealer, and the finest liar in the whole of Egypt, looking like one who had, for the first time in his life, nothing to sell.
 
 The *katb el-kitab,* the signing of the contract, was done in the courtyard of the bride's family house, beneath a trellis hung with jasmine. The officiant was a venerable sheikh with a beard like a cloud. The witnesses were Karim, a potter, built like a wardrobe and weeping like a fountain, and Tarek Hassan, a librarian of forty-one, who drank tea at every hour and had read too many contracts to trust any of them.
 
 "Read the conditions," said the sheikh kindly.
 
-Tarek unrolled the paper. Layla Mansour, thirty-two, the bride, in a gown of ivory silk, sat beneath her veil with a back as straight as an argument. For she was a restorer of antiquities, and the Islamic law, in its wisdom, permits a bride to add her own conditions to the contract; and this one had added her own with the exactness of one cataloguing a tomb.
+Tarek unrolled the paper. Layla Mansour, thirty-two, the bride, in a gown of ivory silk, sat beneath her veil with a back as straight as an argument. For she was a restorer of antiquities, and an Egyptian bride may add her own conditions to the contract; this one had done it with the exactness of one cataloguing a tomb.
 
 "*'The first,'*" read Tarek, with a quiver, "*'that the husband shall never sell the wife anything without a receipt.'*"
 
@@ -11835,7 +11827,7 @@ Tarek unrolled the paper. Layla Mansour, thirty-two, the bride, in a gown of ivo
 
 They proceeded. The bride said yes. The bridegroom said yes, a little louder than needed, as a man says yes who has had much practice saying no to himself. And the women in the courtyard let loose the *zaghareet,* that long, high, trembling trill of joy that goes up from the throat of Egypt like a flock of white birds, and for one long minute the whole of Cairo seemed to be ululating.
 
-There was a gift. Omar's was a small clay lamp from the Fayoum, plain, chipped, entirely genuine, with a certificate of provenance signed by three experts and a customs officer.
+There were gifts. Omar's was a small clay lamp from the Fayoum, plain, chipped, entirely genuine, with a certificate of provenance signed by three experts and a customs officer.
 
 "It is *real,*" said Omar. "I swear it on every receipt I ever lost."
 
@@ -11853,14 +11845,14 @@ At the back of the courtyard, among the aunts, a fourteen-year-old girl named Di
 
 "Why are you smiling like a cat in a dairy?" asked her aunt.
 
-"It is the blush of the wicked," said Tarek, passing with fresh tea. "A child who has done good in secret and cannot bear it. I am a librarian. I know where the bodies are shelved."
+"It is the blush of the wicked," said Tarek, passing with fresh tea. "A child who has done good in secret. I am a librarian. I know where the bodies are shelved."
 
 ---
 
 ### SCENE V
 *Naples. The Via dei Tribunali. A pizzeria older than the street's last three governments. A Saturday night, queue to the door, and a baker in a state.*
 
-I promised a third wedding, did I not? It is not a wedding. It is the thing before: the question.
+A third wedding, you will say. It is not a wedding. It is the thing before: the question.
 
 > **Alessandro Greco** was thirty-three and had spent six years in a war with a pastry chef. It had involved a stolen recipe, a rigged contest, and one very memorable incident with a hundred kilos of flour and a Vespa.
 
@@ -11874,7 +11866,7 @@ Now he stood in his own pizzeria, with a clean white apron, a hand that was not 
 
 "A pizza," said Alessandro, "is open. A pizza is a thing that shows you everything. A *calzone* is a pizza that has closed its heart and is only waiting for the right person to cut it."
 
-Paolo wiped an eye. "It is almost *sacred.* Shall I sing? I have composed a short aria."
+Paolo wiped an eye. "It is almost *sacred.* Shall I sing? I have composed an aria."
 
 "Paolo, if you sing, I will bake you."
 
@@ -11912,14 +11904,14 @@ She took the knife. She cut it, and the steam rose, and out of the ricotta and t
 
 "That is *not an answer.*"
 
-"It is the beginning of one," said Chiara Esposito, and put the ring on her finger, and the whole of the Via dei Tribunali, which had heard nothing in the last four minutes but its own heart, burst into noise. Paolo Ricci began his aria, which was dreadful. Nobody stopped him. Alessandro, at last, was crying into a bowl of flour, and being kissed, once, on the forehead, by a woman who tasted of cinnamon and fury.
+"It is the beginning of one," said Chiara Esposito, and put the ring on her finger, and the whole of the Via dei Tribunali, which had heard nothing in the last four minutes but its own heart, burst into noise. Paolo Ricci began his aria, which was dreadful. Nobody stopped him. Alessandro, at last, was crying into a bowl of flour, and being kissed, once, on the forehead, by a woman who smelled of cinnamon and fury.
 
 "*Ué, guagliò,*" breathed the lottery man, wiping his eyes. "Now *that* is a Saturday."
 
 ---
 
 ### SCENE VI
-*Night. The open Adriatic, a hundred miles from any shore. Two ships, a mile apart, on opposite courses. The VHF radio on the bridge of the* Sveti Duje*, in the dark.*
+*Night, nine days on. The open Adriatic, far from any lit shore. Two ships, a mile apart, on opposite courses. The VHF radio on the bridge of the* Sveti Duje*, in the dark.*
 
 > *0140. Wind NW, force 4. Sea slight. The* Marjan *has just been raised on the radar, bearing 232, range 1.4 miles, steering a reciprocal course.*
 > *0141. I have not slept since Wednesday.*
@@ -11945,9 +11937,9 @@ There was a crackle. The sea hissed along the hull. A long, very long, ten secon
 
 "Affirmative. Over."
 
-Another long, hissing silence. On the *Marjan,* a hundred miles from anywhere, a deck rating who ought to have been asleep stood on the wing of a dark bridge with a radio in his hand and a cook breathing down his neck. "*Say it!*" whispered Luka, from the shadow of the funnel. "*Say anything stupid!*"
+Another long, hissing silence. On the *Marjan,* miles from anywhere, a deck rating who ought to have been asleep stood on the wing of a dark bridge with a radio in his hand and a cook breathing down his neck. "*Say it!*" whispered Luka, from the shadow of the funnel. "*Say anything stupid!*"
 
-"*Sveti Duje.*" Ivan's voice was careful as a man crossing a plank. "I have a message. Did you receive my paper bag? Over."
+"*Sveti Duje.*" Ivan's voice was careful as a plank-walker's. "I have a message. Did you receive my paper bag? Over."
 
 "Received. Over."
 
@@ -12041,7 +12033,7 @@ She had wanted to be a singer. She could sing exactly one note. It was an A, it 
 
 At the centre of the stage a young woman sat with her eyes closed.
 
-Oyun Dorj was twenty-seven, and she looked like her own instrument: long, dark, a little weathered, with a deep stillness in the neck. She was the finest *khöömei* singer of her generation, which is to say that she could do what the old herders call the *impossible* and the physicists call the *harmonic*: sing two notes at once, one drone from the floor of the belly, low as a quarry blasted in the next valley, and over it, impossibly, a high clear whistle, thin as a spider's thread, which the old people say is the voice of the wind itself, borrowed for the occasion.
+Oyun Dorj was twenty-seven, and she looked like her own instrument: long, dark, a little weathered, with a deep stillness in the neck. She was the finest *khöömei* singer of her generation. She could do what the old herders call the *impossible* and the physicists call the *harmonic*: sing two notes at once, one drone from the floor of the belly, low as a quarry blasted in the next valley, and over it, impossibly, a high clear whistle, thin as a spider's thread, which the old people say is the voice of the wind itself, borrowed for the occasion.
 
 She opened her eyes.
 
@@ -12080,7 +12072,7 @@ The winter had begun, as these winters do, with a lie.
 
 It was a mild October. It was a mild November. In the first weeks of December the herders of the steppe began to say, *It will be a good year,* and by the end of that month the snow had come, and thawed a little, and frozen again, in a crust as thick and hard as iron, so that the grass lay under it like a drowned thing under a lake. The horses, who can paw through snow but not through ice, stood in the white field and starved, with the whole green summer buried one hand's breadth beneath their hooves.
 
-They call it *dzud.* It is the old word for the winter that kills. It had killed, in this valley, ninety horses since the new year. The Munkh family had once had three hundred and forty.
+They call it *dzud.* It is the old word for the winter that kills. It had taken from the Munkh family alone two hundred and seventy horses of three hundred and forty.
 
 Oyun saw the first carcass from the road. It lay in the snow twenty paces off, a bay mare, quite whole, frozen into the posture of a gallop, with her neck outstretched and her legs flung wide. It looked as though she had been running toward something so hard that the cold had decided to let her keep it.
 
@@ -12090,7 +12082,7 @@ Oyun saw the first carcass from the road. It lay in the snow twenty paces off, a
 
 There were fourteen more before the ger.
 
-Baatar Munkh was standing in the yard, in a heavy *deel* of faded blue, with his hands behind him and a face like a closed door in a good house. He was twenty-nine. He was a horse trainer, as his father and grandfather had been, with the best racing colts in the province, and a patient manner with animals and a very impatient one, so far, with himself. He saw the jeep and did not move. A man does not run toward what he has trained himself for three winters not to need.
+Baatar Munkh was standing in the yard, in a heavy *deel* of faded blue, with his hands behind him and a face like a closed door in a good house. He was twenty-nine. He was a horse trainer, as his father and grandfather had been, with the best racing colts in the province, and a patient manner with animals and a very impatient one, so far, with himself. He saw the jeep and did not move. He did not run toward what he had trained himself, for three winters, not to need.
 
 "Oyun," he said.
 
@@ -12290,7 +12282,7 @@ She went to the window. Outside the Square lay white and still under a sky the c
 > We shall not tell you which was kinder. Both
 > Were hard, and both were holy. Both are ours.
 
-The cold season in Lusaka has a sharpness at dawn that sends the whole market to the charcoal braziers, and at seven in the morning the great Soweto Market, bigger than some countries' parliaments and a good deal louder, was a smoking maze of tarpaulin, tomatoes, secondhand shoes and shouting.
+The cold season in Lusaka has a sharpness at dawn that sends the whole market to the charcoal braziers, and at seven in the morning the great Soweto Market, bigger than some towns and a good deal louder, was a smoking maze of tarpaulin, tomatoes, secondhand shoes and shouting.
 
 Grace Banda's stall stood in the third row from the east gate, between a man who sold blankets and a woman who sold buns.
 
@@ -12298,7 +12290,7 @@ It was a good stall. It had a painted sign, in blue letters going a little pale:
 
 She could sell anything to anyone. What she could not do was add.
 
-That is, she could add to ten. She could count a tin of maize, and a coin, and a coin back. But the *books*—the long-numbered ones her husband had kept in a green school exercise book, the figures of what came in and went out, who owed, who had paid—these had gone into a drawer on the day of the funeral and had never been opened. The stall had been running three years on memory and goodwill, which are fine currencies until the day somebody asks for a receipt.
+That is, she could add to ten. She could count a tin of maize, and a coin, and a coin back. But the *books*, the figures of what came in and went out, who owed and who had paid, which her husband had kept in a green school exercise book, had gone into a drawer on the day of the funeral and never been opened. The stall had run three years on memory and goodwill, which are fine currencies until somebody asks for a receipt.
 
 "*Muli bwanji, Mama Chilufya?*" said a man's voice.
 
@@ -12306,7 +12298,7 @@ That is, she could add to ten. She could count a tin of maize, and a coin, and a
 
 "*Bwino, zikomo.*"
 
-He came every Saturday. He was tall and narrow, in a pressed white shirt and a grey cardigan with a darned elbow, and he held the hand of a girl of ten and the hand of a boy of seven, one in each of his, as a man holds a pair of kites. Joseph Tembo, thirty-eight, schoolmaster of the Chilenje Community School, widower these four years, a solemn, kind, courteous man whose pupils said he could silence a classroom by lifting an eyebrow and then make every child feel it had been their own idea.
+He came every Saturday. He was tall and narrow, in a pressed white shirt and a grey cardigan with a darned elbow, and he held the hand of a girl of ten and the hand of a boy of seven, one in each of his, as a man holds a pair of kites. This was Joseph Tembo, thirty-eight, schoolmaster of the Chilenje Community School, widower these four years. He was solemn, kind and courteous, and his pupils said he could silence a classroom by lifting an eyebrow and then make every child feel it had been their own idea.
 
 "Three cobs, Mama," he said, in the Nyanja of the capital, which is the Nyanja of people who mean to be polite to everyone. "Roasted. And one for yourself."
 
@@ -12328,7 +12320,7 @@ She roasted the cobs on the brazier, turning them with long tongs, until the ker
 
 "Kondwani lost a tooth."
 
-"He lost it *on purpose,*" said the boy, with the dignity of seven, and opened his mouth to show a gap like a small dark doorway.
+"He lost it *on purpose,*" said the boy, very grandly, and opened his mouth to show a gap like a small dark doorway.
 
 Grace laughed, and Joseph looked at the cob in his hand as though it were a very difficult piece of arithmetic.
 
@@ -12338,7 +12330,7 @@ Grace laughed, and Joseph looked at the cob in his hand as though it were a very
 
 "I am *merely* observing."
 
-Loveness Zulu, thirty-eight, baker and proprietor of *Loveness's Heavenly Buns,* was a woman of such dazzling vanity and such tremendous warmth that the market had ceased to distinguish them. She wore a wig that week of a startling auburn, which the week before had been platinum and the week before that, a short severe black bob, "in mourning for my last hairdresser." She could not say goodbye, which was the market's chief entertainment. A conversation with Loveness began at seven and might be concluded, by the grace of God and the intervention of customers, at nine.
+Loveness Zulu, thirty-eight, baker and proprietor of *Loveness's Heavenly Buns,* had such dazzling vanity and such tremendous warmth that the market had ceased to tell them apart. Her wig that week was a startling auburn; the week before it had been platinum, and the week before that a short severe black bob, "in mourning for my last hairdresser." She could not say goodbye, which was the market's chief entertainment. A conversation with Loveness began at seven and might be concluded, by the grace of God and the intervention of customers, at nine.
 
 "I must go," she told Joseph now, and did not go. "Ba Teacher, a word from a woman who has seen more weddings than the Bishop. A man who buys three cobs and says he is buying them for his children is buying *four.* I know the sums. Goodbye. I am going. Mama Chilufya, he is a good man, I have *checked.* *Goodbye*—"
 
@@ -12350,7 +12342,7 @@ Loveness Zulu, thirty-eight, baker and proprietor of *Loveness's Heavenly Buns,*
 
 "That," said Loveness, with immense pride, "is because I have a very big heart, and it does not fit through the door." She swept off, in a wave of perfume and flour and auburn nylon, bellowing farewells at the next three stalls.
 
-Joseph Tembo looked at the cob again. He did not say what he had meant to say. He had said nothing for the whole of a year, with the same grave good manners, and a man who is polite to his own heart as he is to a stranger has a very long list of things he has not said.
+Joseph Tembo looked at the cob again. He did not say what he had meant to say. He had said nothing for a whole year, with the same grave good manners, and the list of things unsaid had grown very long.
 
 "Mama Chilufya," he said at last.
 
@@ -12358,7 +12350,7 @@ Joseph Tembo looked at the cob again. He did not say what he had meant to say. H
 
 "I teach a class, on Tuesday evenings. For adults. Reading, writing, and—" He paused. "Bookkeeping. The simple kind. For market people. There is no charge."
 
-She looked at him. A small pause, in which a woman with a tin of maize and a daughter under the table wondered whether she was being offered a kindness or a pity, and decided, because he had said it as a *fact* and not a *favour,* that it was a fact.
+She looked at him. Grace wondered, for a moment, whether she was being offered a kindness or a pity. She decided, because he had said it as a *fact* and not a *favour,* that it was a fact.
 
 "Who told you," said Grace, slowly, "that I could not add?"
 
@@ -12375,13 +12367,13 @@ She looked at him. A small pause, in which a woman with a tin of maize and a dau
 
 Now across the world, to a house where nobody was speaking of arithmetic.
 
-In the Philippines a death is not an event but a *season.* The body is not taken quickly. It is kept at home, in a white coffin with a glass lid, under a hanging cluster of white chrysanthemums, for five nights, seven, nine, while neighbours and cousins and strangers come and sit, and drink coffee out of paper cups, and play cards at folding tables in the lane all night, loudly, so that the family will not be alone with the silence. It is called the *lamay.*
+In the Philippines a death is not an event but a *season.* The body is not taken quickly. It is kept at home, in a white coffin with a glass lid, for five nights, seven, nine, while neighbours and cousins and strangers come and sit, and drink coffee out of paper cups, and play cards at folding tables in the lane all night, loudly, so that the family will not be alone with the silence. It is called the *lamay.*
 
 The house was in a lane too narrow for a car. And yet there stood, in the lane, in the dark, with its lights off and a white sheet drawn over its nose, a jeepney.
 
 Gabriel Santos had bought it at twenty-two, with a bank loan and his mother's earrings, and painted it from bumper to bumper in the colours of a carnival: red, yellow, a green parrot on the hood, a silver horse on each fender, a hundred small mirrors, and, in a sacred row above the windscreen, a number of pious slogans, as is the custom. *GOD IS GOOD. BLESS THIS RIDE. SAFE TRAVELS.*
 
-Gabriel had been the cheerfullest driver in Tondo, and had never been seen without a hat, a joke, and a coin of change for the child who had lost hers. In the night of the typhoon, when the water came up the lanes like a brown tide and the whole neighbourhood stood on its roofs, he had driven his jeepney into the flood and made seven trips: forty-one neighbours, two goats, an old woman and her sewing machine. On the eighth the current had taken the jeepney by the nose at the bridge and turned it, gently, like a hand turning a page.
+Gabriel had been the cheerfullest driver in Tondo, and had never been seen without a hat, a joke, and a coin of change for the child who had lost hers. In the night of the typhoon, when the water came up the lanes like a brown tide and the whole neighbourhood stood on its roofs, he had driven his jeepney into the flood and made seven trips: forty-one neighbours, two goats, an old woman and her sewing machine. On the eighth, at the bridge, the current had taken the jeepney by the nose and turned it, gently, like a hand turning a page.
 
 They had found the jeepney on the second day, in the creek. They had found Gabriel on the third.
 
@@ -12389,7 +12381,7 @@ They had found the jeepney on the second day, in the creek. They had found Gabri
 
 And they said it, softly, to a girl of twenty-six at the back of the room, who had not cried, who had come in the night straight from work with her headset still hanging around her neck, who stood with her back against the wall as though it were the only thing holding up the roof.
 
-Maricel Dela Cruz was a call-centre agent. She spoke for six hours a night, in a bright clear American-adjacent voice, to strangers in Ohio and Perth and Leeds, about their phones and their insurance and their lost parcels, and for those six hours she was **Maggie,** which was a name the company gave her, and she was never tired or afraid or sad; and every night at four in the morning she took off her headset and went home in a jeepney, and the jeepney was always *his.*
+Maricel Dela Cruz was a call-centre agent. She spoke for six hours a night, in a bright clear American-adjacent voice, to strangers in Ohio and Perth and Leeds, about their phones and their insurance and their lost parcels. For those six hours she was **Maggie,** a name the company gave her, and she was never tired or afraid or sad. Every night at four in the morning she took off her headset and went home in a jeepney, and the jeepney was always *his.*
 
 He had never charged her. She had never said that she knew.
 
@@ -12448,7 +12440,7 @@ There were nine pupils in the Tuesday class: a bus conductor, two market women, 
 
 "Then somebody has been telling a lie," said Joseph. "Usually the person holding the pencil."
 
-Grace did not laugh. She was looking at the chalked columns with the terrible concentration of a woman who has been afraid of a thing for three years and has decided, tonight, that it is only a *shape.*
+Grace did not laugh. She was looking at the chalked columns with terrible concentration. She had been afraid of this thing for three years, and tonight she had decided that it was only a *shape.*
 
 "They must always agree?" she said.
 
@@ -12476,7 +12468,7 @@ She opened it. In the glow of a borrowed torch, on the first line, in his small 
 
 She did not answer. She held the ledger against her chest, as one holds a thing that might otherwise blow away, and went home through the dark, past the shuttered shops and the glowing braziers, saying to herself, quite silently, all the way: *Debit. Credit. Balance. Remainder.*
 
-And at a kitchen table four streets away, by one stub of a candle and the great noise of the Lusaka night, a widowed schoolmaster marked forty exercise books and wrote in none of them, because he had begun, without noticing, to speak in verse.
+And at a kitchen table four streets away, by one stub of a candle and the great noise of the Lusaka night, a widowed schoolmaster marked forty exercise books and, without noticing, began to think in verse.
 
 > *I marked a hundred pages, and my hand
 > Went stubborn at the margin of the ninety-first.
@@ -12497,7 +12489,7 @@ And at a kitchen table four streets away, by one stub of a candle and the great 
 ---
 
 ### SCENE IV
-*A night, a week later. An office in Manila where six hundred headsets glow in rows like a field of fireflies. Four in the morning, local time. A girl at a desk, on her break, with a cold coffee and a phone.*
+*A night, a week later. An office in Manila where six hundred headsets glow in rows. Four in the morning, local time. A girl at a desk, on her break, with a cold coffee and a phone.*
 
 It was Joy Aquino who had told her. "There is an answer," she had said, on the telephone, in her library voice. "Someone has replied to your Register letter, child. They have posted it publicly. I thought you ought to see it, and not alone."
 
@@ -12525,9 +12517,9 @@ She put on her headset. She drew a breath, and found her bright, clear, practise
 
 "Thank you for calling," said Maricel Dela Cruz. "My name is Maricel. I am sorry. I am a little—I have had a hard month. How may I help you?"
 
-There was a silence on the line, from somewhere on the other side of the world: a man in a kitchen in Ohio, with a broken phone and a bad morning. Then the man, in the gentle uncertain voice of a stranger who has just been told the truth by a stranger, said:
+There was a silence on the line, from the other side of the world: a man in a kitchen in Ohio, where it was a quiet afternoon, with a broken phone and a bad week. Then the man, gently and a little uncertainly, said:
 
-"Take your time, miss. I've got all night."
+"Take your time, miss. I've got all afternoon."
 
 *Para,* thought Maricel, with her whole body, and for the first time in a week it was a word that meant *rest.*
 
@@ -12565,23 +12557,23 @@ There was a silence on the line, from somewhere on the other side of the world: 
 
 In Hoi An, on the fourteenth night of the moon, the town forgets that it has electricity.
 
-The yellow walls turn amber. The old merchants' houses, which have leaned over that river four hundred years, lean their carved shutters toward the water as if to hear. The lanterns hang by hundreds over the lanes, red and gold and jade, silk stretched on bamboo; and on the Thu Bon, little paper boats go drifting by the thousand, each with a candle and a wish, so that the whole black stream seems to be carrying a second sky downhill to the sea.
+The yellow walls turn amber. The old merchants' houses, which have leaned over that river four hundred years, lean their carved shutters toward the water as if to hear. Lanterns hang by hundreds over the lanes, red and gold and jade, silk stretched on bamboo; and on the Thu Bon, little paper boats go drifting by the thousand, each with a candle and a wish, so that the whole black stream seems to carry a second sky downhill to the sea.
 
 In a workshop on a side lane, behind a turquoise door, a young woman sat cross-legged on a mat, stitching.
 
-Hà Trần was twenty-seven, from Huế, the old imperial city, where girls are taught to speak softly and to make things that last. She made lanterns. She had that rare, nearly religious gift for taking something frail and giving it a skeleton of bamboo, a skin of silk and a heart of fire. Her lanterns looked as though the light inside them had been *asked,* and had agreed.
+Hà Trần was twenty-seven, from Huế, the old imperial city, where girls are taught to speak softly and make things that last. She made lanterns. She had a rare, nearly religious gift for taking something frail and giving it a skeleton of bamboo, a skin of silk and a heart of fire. Her lanterns looked as though the light inside them had been *asked,* and had agreed.
 
-She was very pale tonight, under the red glow, with a silk scarf wound round her head. She had been tired, for eleven months, in the way sleep does not mend.
+She was very pale tonight, under the red glow, with a silk scarf wound round her head. She had been tired for eleven months, in the way sleep does not mend.
 
 "*Chị Hà,*" said a voice at the door, with a blast on a tin whistle. "The *Seven-Fifteen* has *arrived.*"
 
 "Thảo," said Hà, "you are not on the railway any more."
 
-"The railway is in my blood!" cried Thảo Đặng, twenty-four, formerly a guard on the Reunification Express and now the shop's errand-girl and professional noise. She blew one whistle to open the shop each morning, a second to close it, and a third, in moments of crisis, to announce that a crisis had begun. "A customer is *on the platform.* He has a camera. He says he has been photographing you for nine months."
+"The railway is in my blood!" cried Thảo Đặng, twenty-four, formerly a guard on the Reunification Express and now the shop's errand-girl and professional noise. She blew one whistle to open the shop each morning, a second to close it, and a third to announce that a crisis had begun. "A customer is *on the platform.* He has a camera. He says he has been photographing you for nine months."
 
 "He has been *what?*"
 
-A young man stood in the door, tall, rumpled, in a linen shirt the colour of old tea, from Hanoi, with a face a little too thin and a little too bright: the sidelong, hungry look of one who has spent his life looking through a small window at other people's happiness. Round his neck hung a battered black camera. Round his heart, an unspoken thing had been wound tight as a wick.
+A young man stood in the door, tall and rumpled, in a linen shirt the colour of old tea, from Hanoi, with a face a little too thin and a little too bright. He had the sidelong, hungry look of someone who has spent his life watching other people's happiness through a small window. Round his neck hung a battered black camera.
 
 "Hà," said Quân Nguyễn.
 
@@ -12593,15 +12585,15 @@ Hà laid down her needle. "Why?"
 
 "Because you are in every one of them," said Quân, "and I did not know how to say that to someone who was only looking at the lantern."
 
-Down the lane a street-singer, Mai Bùi, fifty-five, who had brokered more marriages on that lane than anyone cared to count, stopped in the middle of a song about a river, and listened to a silence she had been waiting six months to hear.
+Down the lane the street-singer Mai Bùi, fifty-five, who had brokered more marriages there than anyone cared to count, stopped in the middle of a song about a river and listened to a silence she had been waiting six months to hear.
 
-Hà stood. She stood too fast, and the room tilted, and the lantern in her hand went out of focus; and the next thing she knew was the bamboo floor, cool against her cheek, a whistle blasting the *crisis* signal over and over, and a pair of shaking hands turning her over, and a voice that was not at all the voice of a magazine photographer saying her name.
+Hà stood too fast, and the room tilted; and the next thing she knew was the bamboo floor, cool against her cheek, a whistle blasting the *crisis* signal over and over, a pair of shaking hands turning her over, and a voice that was not at all the voice of a magazine photographer saying her name.
 
 "Don't," said Hà. "I am only tired."
 
 "You are not *only* tired."
 
-She looked up at him. She had meant to hold the lie a little longer. She had folded it small, for eleven months, and kept it in her sleeve. But there is a limit to the weight of a lie in the arms of someone who has said your name like that.
+She looked up at him. She had meant to hold the lie a little longer. She had folded it small, for eleven months, and kept it in her sleeve. But a lie weighs too much in the arms of someone who has said your name like that.
 
 "It is in the blood," she said. "They found it in the spring. There is a hospital in Đà Nẵng. There are medicines, and they do some good, for a time." She smiled, a little crookedly. "I am not telling you so that you will look at me the way you are looking at me now."
 
@@ -12613,25 +12605,25 @@ She looked up at him. She had meant to hold the lie a little longer. She had fol
 
 *Later. The river. A bench. Two small paper boats, each with a candle, not yet launched.*
 
-"You may ask me for anything," said Quân. "A doctor, a fortune, a cart to Đà Nẵng. I will carry you in my arms."
+"You may ask me for anything," said Quân. "A doctor, a cart to Đà Nẵng. I will carry you in my arms."
 
 "No."
 
 "Hà—"
 
-"*No.*" It came out hard, and then softer. "I know you. You will become a man with a task, and I will become the task. You will bring soup, and cry when I am not looking, and speak in the voice they use to children and the dead. I am a woman who makes lanterns. For as long as I can, I would like to go on being only that."
+"*No.*" It came out hard, and then softer. "I know you. You will become a man with a task, and I will become the task. You will bring soup, and cry when I am not looking, and speak in the voice they use for children and the dead. I make lanterns. For as long as I can, I would like to go on being only that."
 
 "I do not pity you."
 
 "Everyone says that."
 
-"I have watched you for nine months," said Quân, low and fierce. "I have seen you take a plain frame and a yard of silk and make a thing that looks as if it had been *thought* by the light. I do not pity a woman who can do that. I envy the people who will stand under it."
+"I have watched you for nine months," said Quân, low and fierce. "I have seen you take a plain frame and a yard of silk and make a thing that looks as if the light had *thought* of it. I do not pity a woman who can do that. I envy the people who will stand under it."
 
 She looked at him for a long time. "Show me. The hundred and forty-two."
 
-He turned the little screen toward her, and they sat shoulder to shoulder in the amber dark while the pictures slid by. Hà at the bench, her hands in the glow. Hà laughing at Thảo's whistle, the scarf coming loose. Hà asleep over a frame in the noon heat, a half-finished lantern against her cheek like a sleeping child. Hà looking at a lantern with a look he had not known a face could hold: as though she had made a sun and were not yet sure it was hers.
+He turned the little screen toward her, and they sat shoulder to shoulder while the pictures slid by. Hà at the bench, her hands in the glow. Hà laughing at Thảo's whistle, the scarf coming loose. Hà asleep over a frame in the noon heat, a half-finished lantern against her cheek. Hà looking at a finished lantern with a look he had not known a face could hold: as though she had made a sun and were not yet sure it was hers.
 
-A tear ran down her face, and she let it, as one lets rain fall on a thing one is not afraid of.
+A tear ran down her face, and she let it fall.
 
 "Is that me?"
 
@@ -12654,7 +12646,7 @@ She laughed, shakily, and laid her head on his shoulder, and said, as if recitin
 
 "I will make one lantern each month, for as long as I can. The last one," she said, so quietly he scarcely heard, "you will carry."
 
-Quân could not speak. He lit the two candles, and together they set the little boats on the river. For a time the flames kept close, side by side in the black current; and then the water, which carries everything at its own pace, took them gently round the bend.
+Quân could not speak. He lit the two candles, and together they set the little boats on the river. For a time the flames kept close, side by side in the black current; and then the water took them gently round the bend.
 
 ---
 
@@ -12663,19 +12655,19 @@ Quân could not speak. He lit the two candles, and together they set the little 
 
 In a city of a hundred spires, a man was preparing to perform for the most honest audience in the world.
 
-They were seventeen, in beds and chairs, under blankets from home, with oxygen tubes and, in one case, a very large hat. They had been told it was "a puppet show," and were unimpressed. But a hospice has the same effect on pride as the sea on a sandcastle, and so they had come.
+They were seventeen, in beds and chairs, under blankets from home, with oxygen tubes and, in one case, a very large hat. They had been told it was "a puppet show," and were unimpressed. But a hospice is hard on pride, and so they had come.
 
-Behind the screens, in the dark, with his strings between his fingers, stood Petr Novák, forty, the shyest puppeteer in Prague, who had never spoken a sentence of his own to a room of strangers, and who now lifted a three-foot wooden figure in a red cap, to speak through the mouth of someone braver.
+Behind the screens, in the dark, with his strings between his fingers, stood Petr Novák, forty, the shyest puppeteer in Prague. He had never spoken a sentence of his own to a room of strangers. Now he lifted a three-foot wooden figure in a red cap, to speak through the mouth of someone braver.
 
 "*Dobrý den!*" cried **Kašpárek,** the clown, bobbing and bowing, in a cracked comical voice. "Ladies and gentlemen! Some of you may have heard that I am a *fool.* This is true. I have been a fool since the year 1700, and I am *very good at it.*"
 
 The seventeen began, grudgingly, to smile.
 
-At the back, in a plain grey coat, with a notebook she had left in the car, sat Lucie Horáková, thirty-six, theatre critic, whose pen had been until last year the sharpest in the Czech lands. Beside her, under a plaid rug, lay her father, Martin Horák, seventy-four, retired tour guide, who had a few weeks left.
+At the back, in a plain grey coat, with the notebook she had left in the car, sat Lucie Horáková, thirty-six, theatre critic, whose pen had been until last year the sharpest in the Czech lands. Beside her, under a plaid rug, lay her father, Martin Horák, seventy-four, retired tour guide, who had a few weeks left.
 
 "It is very good," whispered Martin, before it had begun, and settled himself.
 
-It was an old story: a clown loses his hat and looks for it all over the city, finding in each place a thing he had not been seeking. A candle. A stone. A child. At the end he sat down with nothing in his hands, and turned to the audience.
+It was an old story: a clown loses his hat and looks for it all over the city, finding in each place a thing he had not been seeking. A candle. A stone. A child. At the end he sat down with nothing in his hands.
 
 "I have found everything but the hat," he said, in his shaking, merry voice. "Perhaps that is the way it goes. One loses one thing and discovers one is wearing the rest."
 
@@ -12685,17 +12677,17 @@ Then the little figure turned to the back of the room.
 
 Lucie sat very still.
 
-"The clown has read a certain review. It said three things that were true and two that were cruel. He has been grateful for the three. He does not remember the two. He has found they take up very little room, once one has been told them by someone who was afraid."
+"The clown has read a certain review. It said three things that were true and two that were cruel. He has been grateful for the three. He does not remember the two."
 
 "The clown is very bad at speaking for himself, and so he has always used a hat. But there is a gentleman behind the screen who would like to say one thing without the help of any wood."
 
-The strings went slack. And from behind the screens, small, hoarse, unmistakably the voice of a very shy man with nothing in his hands, came a sentence:
+The strings went slack. And from behind the screens, small and hoarse, came the unmistakable voice of a very shy man with nothing in his hands:
 
 "Thank you for coming."
 
 That was the whole of it. He did not wait for an answer.
 
-In the back of the room a critic put her hands over her face. And her father, who did not know it was a first, cried clearly and cheerfully to the whole ward, "*Bravo!*" and was echoed at once by sixteen people who had very little time left to be generous in.
+In the back of the room a critic put her hands over her face. And her father, who did not know it was a first, cried clearly and cheerfully to the whole ward, "*Bravo!*" and was echoed at once by sixteen people who had very little time left in which to be generous.
 
 ---
 
@@ -12704,15 +12696,15 @@ In the back of the room a critic put her hands over her face. And her father, wh
 
 Abbu had never told anyone how much the roof meant to him.
 
-It was the only part of the house the debt had not touched. He kept tomatoes up there, and chillies, and a struggling jasmine in a bucket, and every evening, at the hour when the crows go home, he climbed three flights with a tin jug, in the blue shirt he had worn to the office for twenty years, before a supplier he trusted had made him a man who did not go to an office.
+It was the only part of the house the debt had not touched. He kept tomatoes up there, and chillies, and a struggling jasmine in a bucket, and every evening, at the hour when the crows go home, he climbed the last flight with a tin jug, in the blue shirt he had worn to the office for twenty years, before a supplier he trusted had left him with no office to go to.
 
-Three floors below, Fayaz was writing code for a firm in Singapore, in the first bluish ache of the night shift, when he heard the jug fall.
+One floor below, Fayaz was writing code for a firm in Singapore, in the first bluish ache of the night shift, when he heard the jug fall.
 
-It is a small sound, a tin jug on concrete. Every family knows it. It is the sound of something that was being carried and is not any longer.
+It is a small sound, a tin jug on concrete. It is the sound of something that was being carried and is not any longer.
 
-He took the stairs three at a time. He found his father on his side among the pots, the water running in a dark tongue across the roof, eyes open, mouth moving, unable to say. Fayaz, who had carried only code, lifted a man who weighed as little as a rolled mat and brought him down three flights, shouting for Tithi, for the whole sleeping lane.
+He took the stairs three at a time. He found his father on his side among the pots, the water running in a dark tongue across the roof, eyes open, mouth moving, unable to say. Fayaz, who had carried only code, lifted a man who weighed as little as a rolled mat and carried him down the stairs, shouting for Tithi, for the whole sleeping lane.
 
-It was Bunny who found the three-wheeler. Bunny, thirteen, owner of a kettle, who had been shutting the tea stall, took one look, dropped everything, and ran into the main road waving both arms at a green CNG auto as though he could stop a typhoon with his hands.
+It was Bunny who found the three-wheeler. Bunny, thirteen, who had been shutting the tea stall, took one look, dropped everything, and ran into the main road waving both arms at a green CNG auto as though he could stop a cyclone with his hands.
 
 "The heart hospital!" he screamed. "*Bhaiya's father!* Drive, Uncle, I will pay you in tea for a year!"
 
@@ -12722,15 +12714,15 @@ At the National Institute of Cardiovascular Diseases they said he was lucky in t
 
 The debt, which had been fourteen lakh, became nineteen.
 
-Fayaz did not weep. He sat in the corridor among the families asleep on newspapers, under a fluorescent tube that had never in living memory been off, and did the sums. His mother came in the afternoons with a tiffin, her breathing a little worse each time, as though she carried two burdens up the stairs, and sat beside him, and did not ask. Tithi did her physics on her knee.
+Fayaz did not weep. He sat in the corridor among the families asleep on newspapers and did the sums. His mother came in the afternoons with a tiffin, her breathing a little worse each time, and sat beside him, and did not ask. Tithi did her physics on her knee.
 
 He did not look at his phone.
 
-He had switched it off the first night. He told himself it was the battery. It was that every buzz had become an invoice; and somewhere in that glowing rectangle, he knew, was a name he could not bear to see.
+He had switched it off the first night. He told himself it was the battery. In truth every buzz had become an invoice, and somewhere in that glowing rectangle was a name he could not bear to see.
 
-*I will not be the thing that makes you stay.* He had said it himself. It had been his best sentence. And now he could only watch, in great calm horror, as he proved it true. She was in Rotterdam, with a studio and four continents of masters and a long bright road, and there is no sentence in any language that begins, *My father has had a heart attack and I owe nineteen lakh,* and ends in anything but *and so I must ask you for something.*
+*I will not be the thing that makes you stay.* He had said it himself. It had been his best sentence. Now he could only watch, in great calm horror, as he proved it true. She was in Rotterdam, with a studio and four continents of masters and a long bright road, and there is no sentence in any language that begins, *My father has had a heart attack and I owe nineteen lakh,* and ends in anything but *and so I must ask you for something.*
 
-It was a wall with excellent manners. And it had fallen on the one person he would have let in.
+It was a wall with excellent manners, and it had fallen on the one person he would have let in.
 
 On the second Friday, at ten in the evening, he stood and looked at the clock over the nurses' station for a very long time. Four hours back along the longitude, in a city of canals, a woman would be sitting down at a table.
 
@@ -12738,7 +12730,7 @@ On the second Friday, at ten in the evening, he stood and looked at the clock ov
 
 Bunny, in a school shirt gone grey, with a flask of tea and unaccustomed gravity, sat down beside him.
 
-"That clock is wrong by fifteen minutes. I have checked." He poured. "Bhaiya. I am only the boy at the stall. But I know a timetable when I see one. A man who misses two trains in a row has not lost the *train.* He has lost his *nerve.* Send her a dot. One dot. It costs nothing."
+"That clock is wrong by fifteen minutes. I have checked." He poured. "Bhaiya, I am only the boy at the stall. But a man who misses two trains in a row has not lost the *train.* He has lost his *nerve.* Send her a dot. One dot. It costs nothing."
 
 Fayaz put his hand on the dead phone in his pocket. He did not take it out.
 
@@ -12746,7 +12738,7 @@ Fayaz put his hand on the dead phone in his pocket. He did not take it out.
 
 "Then tell her it is a middle," said Bunny. "People have been known to survive them."
 
-At ten past, the clock ticked forward in its fifteen minutes' error. Through the ICU door the monitor beat, small and green and faithful, like a lighthouse in a very dark country. And Fayaz sat down, and put his head in his hands.
+At ten past, the clock ticked forward in its fifteen minutes' error. Through the ICU door the monitor beat, small and green and faithful. And Fayaz sat down, and put his head in his hands.
 
 ---
 
@@ -12755,9 +12747,9 @@ At ten past, the clock ticked forward in its fifteen minutes' error. Through the
 
 In Yogyakarta the sun sets at six, like a clerk. In Rotterdam in June it stays out until ten and then goes off in a sulk.
 
-Ermis Larasati had done the arithmetic on her first night, at the window of her new room, watching the sun refuse to set over a city that had never learned the word *dusk.* She was no longer an hour in his future. She was four hours in his *past.* When it was ten at night in Mirpur it was six in the evening in Delfshaven, and she did not know what to do with a fact like that, except to look at it.
+Ermis Larasati had done the arithmetic on her first night, at the window of her new room. She was no longer an hour in his future. She was four hours in his *past.* When it was ten at night in Mirpur it was six in the evening in Delfshaven, and she did not know what to do with a fact like that, except to look at it.
 
-She had been in Rotterdam nine weeks. She had learned to ride a bicycle in the rain, that *gezellig* means anything pleasant that has candles, and that her landlady, Mevrouw Visser, who ran the bakery below, believed all sorrow a matter of *stroopwafel.* And she had learned the lab: fifteen masters of wax from four continents, and a wall of clocks, one for each master's city, to which she had, on her second day, very shyly asked the director to add one.
+She had been in Rotterdam nine weeks. She had learned to ride a bicycle in the rain, that *gezellig* means anything pleasant that has candles, and that her landlady, Mevrouw Visser, who ran the bakery below, believed all sorrow a matter of *stroopwafel.* And she had learned the lab: fifteen masters of wax from four continents, and a wall of clocks, one for each master's city. On her second day she had very shyly asked the director to add one.
 
 "Dhaka?" the director had said. "Do you have a master in Dhaka?"
 
@@ -12765,25 +12757,25 @@ She had been in Rotterdam nine weeks. She had learned to ride a bicycle in the r
 
 It hung now between Lagos and Kyoto, four hours ahead of her own, and she looked at it a great deal.
 
-For nine Fridays he had come. At six her time, ten his, with an indigo cloth on a frame at her elbow, a hundred dots to every Friday, a thousand black stars in the making, and *he* on the screen: ironed shirt, candle or no candle, a joke, a sum, a tea-boy's verdict, a four-minute error blamed on the clock. On the last of them he had said, with a strange stiffness, that he would be busy next week. And she had said, *Of course.*
+For nine Fridays he had come. At six her time, ten his, with an indigo cloth on a frame at her elbow, a hundred dots to every Friday, and *he* on the screen: ironed shirt, a joke, a sum, a tea-boy's verdict, a four-minute error blamed on the clock. On the last of them he had said, with a strange stiffness, that he would be busy next week. And she had said, *Of course.*
 
 And then nothing.
 
 The first Friday she sat at six. At ten past: *delivered.* At half past: *delivered.* She told herself that Dhaka had a great many power cuts.
 
-The second Friday she told herself nothing. She wrote a message eleven times and deleted it eleven times: *Are you well? Is it your mother? Did I say too little?* In her own window the three small dots rose and fell, *Ermis is typing…,* a cowardly heart that could not decide on a sentence.
+The second Friday she told herself nothing. She wrote a message eleven times and deleted it eleven times: *Are you well? Is it your mother? Did I say too little?* In her own window the three small dots rose and fell, *Ermis is typing…,* a cowardly heart unable to decide on a sentence.
 
-Her grandmother rang on the video, in a batik shawl, with the parrot on her shoulder.
+Her grandmother rang on the video, with the parrot on her shoulder.
 
 "*TOO LATE!*" screamed Ayu, in delight. "*TOO LATE! BEAUTIFUL!*"
 
 "Ayu," said Ermis wearily. "Not yet."
 
-The parrot, to everyone's astonishment, fell silent and cocked her head.
+The parrot, to everyone's astonishment, fell silent.
 
 "Then do what we did," said Eyang, who had been born in a time of letters and never fooled by a screen. "Write it on paper, child. A telephone is a door that opens only from the inside. Paper can be pushed under."
 
-So she did. She sat at the table with a sheet of the lab's hand-made paper, thick and cream, and the fountain pen her father had given her at eighteen, and the indigo ink she kept for lines that could not be changed. It took six sheets, and the first five were spoiled by sentences that said too much. The last said, in her small upright hand:
+So she did. She sat at the table with a sheet of the lab's hand-made paper, thick and cream, and the fountain pen her father had given her at eighteen. It took six sheets, and the first five were spoiled by sentences that said too much. The last said, in her small upright hand:
 
 > *Rotterdam, Friday night.*
 >
@@ -12793,29 +12785,29 @@ So she did. She sat at the table with a sheet of the lab's hand-made paper, thic
 >
 > *I am well. It rains sideways, like something personal. The lab is wonderful; it is full of people who know everything about wax and nothing about how to boil rice.*
 >
-> *I have a problem in arithmetic. In Yogyakarta I was one hour ahead of you, and I said you were kind in my past. Here I am four hours behind. It is six for me when it is ten in Mirpur. So now you are four hours in my future. I did not plan it. It means, if I am logical, that you know what happens. I would be very grateful if you would tell me.*
+> *I have a problem in arithmetic. In Yogyakarta I was one hour ahead of you, and I told you from an hour ahead that you were kind. Here I am four hours behind. It is six for me when it is ten in Mirpur. So now you are four hours in my future. I did not plan it. It means, if I am logical, that you know what happens. I would be very grateful if you would tell me.*
 >
-> *I do not know why you are silent. I have decided not to guess. If it is your father, I am sorry, and I will not say more. If it is your mother, the same. If it is the debt, the same. If it is that you think you must not be a weather in my window, I shall tell you, since you will not ask: you are not weather. Weather passes. You are the window.*
+> *I do not know why you are silent. I have decided not to guess. If it is your father, I am sorry; if your mother, the same; if the debt, the same. If it is that you think you must not be a weather in my window, I shall tell you, since you will not ask: you are not weather. Weather passes. You are the window.*
 >
-> *I have begun the cloth. A hundred dots each Friday. Nine hundred so far. It needs a thousand, and then it has its name. I will not make the last hundred until I hear from you. I want you in the last row.*
+> *I have begun the cloth. A hundred dots each Friday. Nine hundred so far. It needs a thousand, and then it has its name. I will not make the last hundred until I hear from you.*
 >
 > *I shall be at the table on Fridays at six. If you can only manage one letter, send a dot.*
 >
-> *Be on time. If you are late, I will say the clock was wrong. Four hours is a very big mistake, and I have been making it consistently.*
+> *Be on time. If you are late, I will say the clock was wrong.*
 >
 > *— E.*
 >
 > *P.S. Ayu said "too late." I told her, "Not yet." She has been unusually quiet since.*
 
-She did not write *love.* It was a word, she had always privately thought, like a note of large denomination: easy to spend and impossible to take back.
+She did not write that word. She had always privately thought it a note of large denomination: easy to spend and impossible to take back.
 
-On the Saturday morning she went out in the sideways rain, in the wrong raincoat, past the bakery and the bicycles chained like a flock of tethered birds, to the red postbox at the end of her street. It had two slots: *Rotterdam,* and *overige landen.* Other countries. She stood before it a long time with the envelope in her hand.
+On the Saturday morning she went out in the sideways rain, in the wrong raincoat, past the bakery and the chained bicycles, to the red postbox at the end of her street. It had two slots: *Rotterdam,* and *overige landen.* Other countries. She stood before it a long time with the envelope in her hand.
 
-On the front she had written, in the Latin letters she kept for strangers and clients, the address she had been given on the last Friday before she flew, by a man who had said, *A postman will need a map and a priest:* a third-floor flat in a lane in Mirpur, six thousand miles to the east.
+On the front she had written, in her neatest capitals, kept for strangers and clients, the address she had been given on the last Friday before she flew, by a man who had said, *A postman will need a map and a priest:* a third-floor flat in a lane in Mirpur, five thousand miles to the east.
 
-A letter, she thought, is the opposite of the dots. One cannot take it back, and one cannot watch for it. One can only let go, and go home, and wait for the rain.
+A letter, she thought, is the opposite of the dots. One cannot take it back, and one cannot watch for it. One can only let go, and go home.
 
-She put it through the slot. She heard it drop, a small flat sound, like a coin falling into a very deep well.
+She put it through the slot. She heard it drop, a small flat sound.
 
 "Not yet," said Ermis, to the postbox. And then, to the grey Dutch sky, which for once, for no reason at all, had begun to lighten: "Is it, though?"
 
@@ -12861,7 +12853,7 @@ She put it through the slot. She heard it drop, a small flat sound, like a coin 
 
 Kenji Watanabe, twenty-seven, mask-maker, had been awake since three o'clock, which he considered a reasonable hour for a man to start being married.
 
-He stood in the middle of the room in a black formal kimono with his family crest white upon the sleeves, and he could not tie his own sash. He had carved old women, young women, demons and gods, a fox that wept and a boy who laughed in his sleep. But the knot at the back of his own waist had defeated him three times, and the fourth attempt was going the way of the other three.
+He stood in the middle of the room in a black formal kimono with his family crest white upon the sleeves, and he could not tie his own sash. He had carved old women, young women, demons and gods, a fox that wept and a boy who laughed in his sleep. But the knot at his own waist had defeated him three times, and the fourth attempt was going the way of the other three.
 
 "Stop that," said a voice from the door. "You are strangling yourself."
 
@@ -12869,17 +12861,17 @@ He stood in the middle of the room in a black formal kimono with his family cres
 
 "It is the same motion, with a different intention."
 
-This was Daichi Kobayashi, twenty-five, retired teacher, which is to say that he had taught one class of nine-year-olds for one term, had resigned in protest at a lesson plan, and had never accepted another title. He was the best man. He was also superstitious to the point of ornament: about his person hung seventeen lucky charms, a pouch of salt, and a small brass bell that rang whenever he turned his head. He had been drinking tea since midnight, in the belief that it was a sort of armour.
+This was Daichi Kobayashi, twenty-five, retired teacher. He had taught one class of nine-year-olds for one term, had resigned in protest at a lesson plan, and had never accepted another title. He was the best man. He was also superstitious to the point of ornament: about his person hung seventeen lucky charms, a pouch of salt, and a small brass bell that rang whenever he turned his head. He had been drinking tea since midnight, in the belief that it was a sort of armour.
 
-"I have checked the calendar," said Daichi, advancing on the sash like a surgeon. "It is a *taian* day. The luckiest of the six. Nothing begun today can fail."
+"I have checked the calendar," said Daichi, advancing on the sash. "It is a *taian* day. The luckiest of the six. Nothing begun today can fail."
 
 "That is a relief."
 
-"I also checked the almanac and the aunts. The aunt at Fushimi says a crow looked at her sideways. Do you know what that means, Kenji?"
+"I also checked the aunts. The aunt at Fushimi says a crow looked at her sideways. Do you know what that means, Kenji?"
 
 "That the crow was looking at the aunt."
 
-"It means a *test.*" The sash went round, and round again, and was tied with a snap like a pistol shot. "There. You are a married man in all but fact. Stand like a married man."
+"It means a *test.*" The sash went round, and round again, and was tied with a snap. "There. You are a married man in all but fact. Stand like a married man."
 
 "How does a married man stand?"
 
@@ -12887,13 +12879,13 @@ Daichi thought, and the little bell rang. "As though someone else were holding t
 
 Kenji laughed, and some of the white went out of his face.
 
-"Sleep deprivation has made me a philosopher," said Daichi gloomily. "Be warned." He paused at the door. "Ferry-hand Yuto has the rings. A stranger on the train told him he looked trustworthy, and Yuto trusts anyone who says so. He is hot-tempered, Kenji, but *in good faith.*"
+"Sleep deprivation has made me a philosopher," said Daichi gloomily. He paused at the door. "Ferry-hand Yuto has the rings. A stranger on the train told him he looked trustworthy, and Yuto trusts anyone who says so. He is hot-tempered, Kenji, but *in good faith.*"
 
 "The rings are not going to be lost."
 
-"Which," said Daichi, "is exactly what a man says on the morning that they are." And he went away down the stairs, ringing.
+"Which," said Daichi, "is exactly what everyone says on the morning that they are." And he went away down the stairs, ringing.
 
-Left alone, Kenji went to the bench by the window. There lay a small unfinished mask in pale wood, a young woman's face, with the eyes not yet cut and the mouth a single quiet line. He had begun it the night he first heard her speak a line on a stage, and had never finished it, because every time he came near the eyes he found himself afraid of what they would see. He took a curl of cypress shaving between his fingers, and it smelled of rain and temples, and he spoke to the faceless wood as the lonely do, which is to say gently, and in measure.
+Left alone, Kenji went to the bench by the window. There lay a small unfinished mask in pale wood, a young woman's face, with the eyes not yet cut and the mouth a single quiet line. He had begun it the night he first heard her speak a line on a stage, and had never finished it, because every time he came near the eyes he found himself afraid of what they would see. He took a curl of cypress shaving between his fingers, and it smelled of rain and temples, and he spoke to the faceless wood as the lonely do, gently, and in measure.
 
 > *I carve the faces other people wear.
 > I give the grieving widow her wet cheek;
@@ -12917,9 +12909,9 @@ The cicadas shrieked. Kenji put the unfinished mask carefully in its silk and tu
 ---
 
 ### SCENE II
-*Gothenburg, on the other side of the world, at the same moment of the day, though the clocks insisted otherwise. The emergency wing of the hospital on the hill. A corridor, a window full of impossible light, and a cart.*
+*Gothenburg, on the other side of the world, many hours later by the clocks. The emergency wing of the hospital on the hill. A corridor, a window full of impossible light, and a cart.*
 
-It was seven in the evening, and the sun hung over the harbour like a guest who has been asked to leave and has taken it for a compliment. In Gothenburg in the first week of July the night is a rumour: a peach sky at ten, a rose at midnight, and at one o'clock a sort of apologetic blue. The Keeper, who loved the dark between the stars, would have found it distressing; and yet it was here, in all that terrible light, that Astrid Lindqvist had spent eight months learning how much truth had been hiding in it.
+It was seven in the evening, and the sun hung over the harbour like a guest who has been asked to leave and has taken it for a compliment. In Gothenburg in the first week of July the night is a rumour: a peach sky at ten, a rose at midnight, and at one o'clock a sort of apologetic blue. The Keeper, who loved the dark between the stars, would have found it distressing; and yet it was in all that terrible light that Astrid Lindqvist had spent eight months learning how much truth she had been hiding.
 
 She was thirty-two, a nurse, and she stood in the corridor of the emergency department with a clipboard held against her chest like a shield, being addressed by a tea cart.
 
@@ -12929,7 +12921,7 @@ She was thirty-two, a nurse, and she stood in the corridor of the emergency depa
 
 "You are looking at the door with your whole body. I have seen better composure in a dog with a ball."
 
-Sofia Holm was twenty-eight, a tea seller, and a romantic of the most dangerous kind, the kind who has read a great many books and believes them. She had pushed her cart in these corridors for four years on the principle that the sick and the frightened should not be made to choose between hope and a hot drink. She also kept a notebook, and in the notebook the name of every person who had ever insulted her tea. The list was a hundred and twelve names long. The first, from 2019, was a registrar who had called her best blend *warm water with ambitions*; he had since gone to work in Malmö, where she hoped he was lonely.
+Sofia Holm was twenty-eight, a tea seller, and a romantic of the most dangerous kind, the kind who has read a great many books and believes them. She had pushed her cart in these corridors for seven years on the principle that the sick and the frightened should not be made to choose between hope and a hot drink. She also kept a notebook, and in the notebook the name of every person who had ever insulted her tea. The list was a hundred and twelve names long. The first, from 2019, was a registrar who had called her best blend *warm water with ambitions*; he had since gone to work in Malmö, where she hoped he was lonely.
 
 "Take a tea," said Sofia. "It is chamomile. It is for nerves."
 
@@ -12939,15 +12931,15 @@ Sofia Holm was twenty-eight, a tea seller, and a romantic of the most dangerous 
 
 "He is not *my* glassblower. He is a former patient."
 
-"Former patients send a card. They do not send a *lifeguard.*" Sofia lowered her voice like a woman reporting a naval engagement. "Your sister rang the kiosk. Two men at the main entrance. One carries a box as though it were a baby; the other steers him by the elbow. They asked her the way to the emergency department, and when she said, *Are you ill?* the one with the box said, *In a way. It is an emergency.*" She drew herself up, gentle and quite grave. "Astrid. I have sold tea in this corridor four years. A man who burns his hand twice to see a woman is not a man who has a pain. He is a man who has an *intention*."
+"Former patients send a card. They do not send a *lifeguard.*" Sofia lowered her voice to report a naval engagement. "Your sister rang the kiosk. Two men at the main entrance. One carries a box as though it were a baby; the other steers him by the elbow. They asked her the way to the emergency department, and when she said, *Are you ill?* the one with the box said, *In a way. It is an emergency.*" She drew herself up, gentle and quite grave. "Astrid. I have sold tea in this corridor seven years. A man who burns his hand twice to see a woman is not a man who has a pain. He is a man who has an *intention*."
 
 "He burned it once."
 
 "The second one was a *lentil*," said Sofia, "and you know it."
 
-Astrid opened her mouth. She closed it. Down the long hall, past the wheelchairs and the cork notice-board and the plastic tree that had been sad since the previous Christmas, the automatic doors slid open with a sigh. Two figures entered the brightness together. The first was a tall, fair man of thirty with the shoulders of a person who had spent a decade saving strangers from water and the look of one who had been told, in the train, to *stop talking about drowning*. The second was Erik Johansson.
+Astrid opened her mouth. She closed it. Down the long hall, past the wheelchairs and the plastic tree that had been sad since the previous Christmas, the automatic doors slid open with a sigh. Two figures entered the brightness together. The first was a tall, fair man of thirty, with the shoulders of someone who had spent a decade saving strangers from water, and the look of one who had been told, on the train, to *stop talking about drowning*. The second was Erik Johansson.
 
-He was thirty-four, in a clean white shirt with the left sleeve buttoned a little too tightly at the wrist, and in his arms, wrapped in two blankets and a Stockholm newspaper, he carried a box. He saw her at once. It had never, in all that long corridor, been in question.
+He was thirty-four, in a clean white shirt with the left sleeve buttoned a little too tightly at the wrist, and in his arms, wrapped in two blankets and a Stockholm newspaper, he carried a box. He saw her at once.
 
 "Sister Lindqvist," said Erik.
 
@@ -12963,11 +12955,11 @@ He was thirty-four, in a clean white shirt with the left sleeve buttoned a littl
 
 "Is it a medical emergency," said Erik, "if a man has come three hundred miles by train with a bowl?"
 
-Fredrik Andersson, lifeguard, best friend, a man with a face made for wishing others well, said gently, "Erik. You were supposed to say, *I'd like to see the sister about a follow-up.*"
+Fredrik Andersson, lifeguard and best friend, said gently, "Erik. You were supposed to say, *I'd like to see the sister about a follow-up.*"
 
 "I said I would, and then I saw her, and I said the bowl."
 
-Sofia Holm, at her cart, wept very softly into a teaspoon. Astrid looked at the box, and at the buttoned cuff, and at the face above them, and then, with the brisk air of a woman who had spent ten years handing out bad news and could not find the way to take good news off a tray, she looked at her watch.
+Sofia Holm, at her cart, wept very softly into a teaspoon. Astrid looked at the box, and at the buttoned cuff, and at the face above them, and then, with the brisk air of a woman who had spent ten years handing out bad news and did not know how to take good news off a tray, she looked at her watch.
 
 "My shift ends at eight," she said. "There is a roof. It is not allowed. Go up the stairs by the laundry. Don't drop that."
 
@@ -12982,27 +12974,27 @@ Sofia Holm, at her cart, wept very softly into a teaspoon. Astrid looked at the 
 ### SCENE III
 *Kyoto. A shrine on the green slope of the eastern hills, in the heat of noon. Cypress, gravel, white paper streamers, and the sound of a drum like a slow heart.*
 
-They came up the stone steps in procession, under a great red parasol that turned the whole company the colour of a lantern: the priest first, then the shrine maidens, then the bride and groom, and behind them the families, sweating beautifully.
+They came up the stone steps in procession, under a great red parasol: the priest first, then the shrine maidens, then the bride and groom, and behind them the families, sweating beautifully.
 
 Haruka Mori was twenty-six, a Noh actress of the Kyoto school, and she wore the white robe of a bride from throat to hem. On her head sat the white hood called the *tsunokakushi*, which, as every Japanese grandmother will explain, is meant to hide the horns of jealousy. It is a pretty custom, and a gently comic one for a woman who had played the Demon of Jealousy a dozen times in horns of gilded wood, and offstage had worn a mask everywhere else. She had worn one to the market. She had worn one to her mother's funeral. She wore one now, beneath the white silk: the small pale face Kenji Watanabe had carved for her in the spring, which fitted her cheekbones as nothing in the repertory ever had, and made her look exactly like herself, only calmer.
 
 No one remarked on it. A bride, after all, is permitted a veil.
 
-At the front of the crowd stood Shun Ito, sixty-one, a retired airline pilot from Osaka who had introduced the couple in a tea-shop in March for a fee of nothing, and had been quietly collecting on it ever since. He gambled when he was afraid, and had been so afraid that morning that he had lost four thousand yen to a pigeon. Beside him his sister Aoi, a newsagent and notorious meddler in other people's love, whispered to the bride's cousins that she had *always known.* And in the third row Daichi Kobayashi sat, eyes closed, bell ringing, lips moving in a prayer against the aunts' crows.
+At the front of the crowd stood Shun Ito, sixty-one, a retired airline pilot from Osaka who had introduced the couple in a tea-shop in March for a fee of nothing, and had been quietly collecting on it ever since. He gambled when he was afraid, and he had been so afraid that morning that he had lost four thousand yen to a pigeon. Beside him his sister Aoi, a newsagent and notorious meddler, whispered to the bride's cousins that she had *always known.* And in the third row Daichi Kobayashi sat, eyes closed, bell ringing, lips moving in a prayer against the aunts' crows.
 
 Behind him, in ill-fitting black, stood a ferry-hand from Kobe named Yuto Shimizu, twenty-nine, with a little silk bag clutched in his fist and the wild look of a man who suspects every passer-by of being a thief.
 
-The priest chanted. The drum went on. A cicada, immune to ritual, began to scream in the camphor tree, and was joined by a hundred more, until the whole hillside shouted its praise like a stadium of tiny monks. Kenji sat on the left, very straight. Haruka sat on the right, veiled twice over. Neither looked at the other.
+The priest chanted. The drum went on. A cicada, immune to ritual, began to scream in the camphor tree, and was joined by a hundred more, until the whole hillside shouted its praise. Kenji sat on the left, very straight. Haruka sat on the right, veiled twice over. Neither looked at the other.
 
 Then came the three cups.
 
-This is the oldest part of the Shinto wedding: three small red cups of sake, drunk in three sips each by groom, bride, and groom again. It is not meant to be pretty. It is meant to be shared. A shrine maiden lifted the first cup in both hands and held it out to Haruka.
+This is the oldest part of the Shinto wedding, the *sansankudo:* three small red cups of sake, passed between groom and bride, three sips from each. It is not meant to be pretty. It is meant to be shared. Kenji drank from the first cup. Then a shrine maiden lifted the second in both hands and held it out to Haruka.
 
 And Haruka, who had not shown her bare face in a public place since she was nineteen, raised her hand to the small pale mask beneath the hood, and took it off.
 
-There was no gasp; everyone was too well brought up. But the drum dropped half a beat, and the cicadas, for one astonishing second, ceased, as though they too had been told to look. Haruka's face was bare to the noon: long-eyed, serious, with a small scar on the left cheekbone where a stage lamp had once fallen, and a mouth that was already, against all her training, beginning to tremble. She drank the first sip with her whole face open to the hill.
+There was no gasp; everyone was too well brought up. But the drum dropped half a beat, and the cicadas, for one astonishing second, ceased, as though they too had been told to look. Haruka's face was bare to the noon: long-eyed, serious, with a small scar on the left cheekbone where a stage lamp had once fallen, and a mouth that was already, against all her training, beginning to tremble. She drank her first sip with her whole face open to the hill.
 
-Kenji did not look at the cup. He looked at her. And a man who has spent his life hiding behind the knife found that he could not hide behind anything, not the crest on his sleeve, nor the priest's white shoulder. His eyes filled. He let them fill. Then they said their vows, which are short, and which they had written themselves, and spoke them in couplets because neither had anything left that would go into prose:
+Kenji did not look at the cup. He looked at her. A man who had spent his life hiding behind the knife found that he could not hide behind anything now, not the crest on his sleeve, nor the priest's white shoulder. His eyes filled. He let them fill. Then they said their vows, which are short, and which they had written themselves, and spoke them in couplets because neither had anything left that would go into prose:
 
 > **HE:** *I carved a thousand faces, none my own;
 > I'd rather wear yours, if you'd let me, known.*
@@ -13010,13 +13002,13 @@ Kenji did not look at the cup. He looked at her. And a man who has spent his lif
 > **SHE:** *I wore the mask so none might read me through;
 > I lay it down for one who sees it's true.*
 
-It was then that Yuto Shimizu stepped forward with the little silk bag and, with the face of a man defusing a bomb, tipped its contents into his palm.
+It was then that Yuto Shimizu stepped forward with the little silk bag and, with enormous ceremony, tipped its contents into his palm.
 
 They were empty.
 
 He stared. He turned the bag inside out. He looked at the priest, the bride, the bridegroom, the camphor tree. "The *stranger,*" he said, in a ringing stage whisper that reached the farthest aunt. "The stranger on the train. I *knew* it. He had a nice voice, and I *knew* it. Wait there. Nobody move. I will find him. I will go to Osaka."
 
-"Yuto," said Daichi, from the third row, in the tone of a man who has seen his horoscope realised and takes no joy in it. "Look in the other pocket."
+"Yuto," said Daichi, from the third row, in the tone of a man who has seen his horoscope come true and takes no joy in it. "Look in the other pocket."
 
 Yuto looked in the other pocket. The rings were there, two plain bands of gold made in a week by Nanami Ito the goldsmith. There was a pause, in which the entire shrine breathed out. Somebody laughed. Then everybody laughed: the priest, the aunts, the pilot, the families, and the bride with her bare face, who laughed out loud, head back, for the first time in her life in front of strangers.
 
@@ -13029,9 +13021,9 @@ Yuto looked in the other pocket. The rings were there, two plain bands of gold m
 
 She sat with her arms folded, which is the posture in which a Swedish nurse prepares to be moved.
 
-Erik had put the box on the bench and was unwrapping it with the care of a man defusing something. From beneath the last of the blankets he lifted, in both hands, a bowl.
+Erik had put the box on the bench and was unwrapping it with great care. From beneath the last of the blankets he lifted, in both hands, a bowl.
 
-It was not a perfect bowl. It was a little taller on one side than the other, thick at the base and thin at the lip, and the green of it was the green of the sea off Marstrand in March, darkening toward the bottom as the water does; and in the thick glass at its heart a single bubble of air hung suspended, small and round, no bigger than a lentil.
+It was not a perfect bowl. It was a little taller on one side than the other, thick at the base and thin at the lip, and the green of it was the green of the sea off Marstrand in March, darkening toward the bottom; and in the thick glass at its heart a single bubble of air hung suspended, small and round, no bigger than a lentil.
 
 "I blew it on Tuesday," said Erik. "It is the first thing I have blown since the burn. For a year and a half I have held the pipe like a stranger's hand. You said the nerves might come back. They have, a little. It means I make everything lopsided." He swallowed. "I thought you would prefer it lopsided. Everything in this building is level."
 
@@ -13039,11 +13031,9 @@ Astrid took the bowl from him. She turned it in the light, and the green went go
 
 "It's a lentil."
 
-"A lentil is a pulse. In English. It's a legume, you fool. Do you know that you have blown the most accurate piece of glass in Sweden?" She had begun to shake with a laughter she did not trust. "I do not know what to do with a man who can say it in a *bowl.*"
+"A lentil is a pulse. It's a legume, you fool. Do you know that you have blown the most accurate piece of glass in Sweden?" She had begun to shake with a laughter she did not trust. "I do not know what to do with a man who can say it in a *bowl.*"
 
-"I am sorry about the lentil."
-
-"The one I put on my hand. That winter." He took a very deep breath. "I want it entered into the record. The first burn was an accident. Hot glass never lies about what it is. But the second, the little one, the one I came back with—"
+"I am sorry about the lentil," said Erik. "The one I put on my hand. That winter." He took a very deep breath. "I want it entered into the record. The first burn was an accident. Hot glass never lies about what it is. But the second, the little one, the one I came back with—"
 
 "I know."
 
@@ -13053,7 +13043,7 @@ Astrid took the bowl from him. She turned it in the light, and the green went go
 
 "—wait." He stopped. "You *know?*"
 
-"I have been a nurse for ten years." She was looking at the bowl, not at him, and the words were coming out of her in a flat, rapid, unlovely stream, the way water comes from a tap that has been left shut too long. "Yours was a perfect circle with a clean edge, the size of a lentil. It had not been *touched* by anything. It had been *placed.* I could have written that on the chart." She put the bowl down on the bench. Her hands, he saw, were not steady. "I wrote *accidental.* It was the only untrue word that I have ever entered on a form. I put it in black ink. I pressed so hard that it came through to the next page."
+"I have been a nurse for ten years." She was looking at the bowl, not at him, and the words came out of her flat and rapid, like water from a tap that has been shut too long. "Yours was a perfect circle with a clean edge, the size of a lentil. It had not been *touched* by anything. It had been *placed.* I could have written that on the chart." She put the bowl down on the bench. Her hands, he saw, were not steady. "I wrote *accidental.* It was the only untrue word that I have ever entered on a form. I put it in black ink. I pressed so hard that it came through to the next page."
 
 "Why?"
 
@@ -13073,13 +13063,13 @@ He did not move.
 
 "Astrid. I would like to ask you something. It is not an emergency. I would like that on the record also."
 
-She looked at him then, in the light that would not fail, without a clipboard, without a mask, without the blunt remark that was her version of both, and found, to her great alarm, that she could not do it for more than two seconds together.
+She looked at him then, in the light that would not fail, without a clipboard, without a mask, without the blunt remark that was her version of both, and found, to her great alarm, that she could not hold it for more than two seconds together.
 
 "Not now," she said.
 
 His face fell, and she felt it like a missed step on a stair.
 
-"Not *now,*" said Astrid, with a rush, taking his burned hand in both of hers and turning it palm upward as she had done once in a cubicle under a white lamp, "because it is light, you fool. It is a quarter past eight and as bright as a dentist's. I do not trust anything this light tells me. A thing like that should be asked in the dark." She took her fingers to his wrist, and he felt them find the place, and settle there, as certain as a compass finding north. "In August. At the first crayfish party, when the dark comes back and somebody finally lights the paper lanterns. When the first star comes out, over the roof. Ask me then, and I shall tell you what I think of it, in the right light."
+"Not *now,*" said Astrid, with a rush, taking his burned hand in both of hers and turning it palm upward as she had done once in a cubicle under a white lamp, "because it is light, you fool. It is a quarter past eight and as bright as a dentist's waiting room. I do not trust anything this light tells me. A thing like that should be asked in the dark." She took her fingers to his wrist, and he felt them find the place and settle there. "In August. At the first crayfish party, when the dark comes back and somebody finally lights the paper lanterns. When the first star comes out, over the roof. Ask me then, and I shall tell you what I think of it, in the right light."
 
 "And in the meantime?"
 
@@ -13093,7 +13083,7 @@ And on the roof of the hospital on the hill, a bowl the colour of the sea stood 
 
 *Margin note, in pencil, in the hand of S.W.R.:*
 
-> *Entry 0457 and Entry 0911. A burn is the body's way of saying a thing in the only language that cannot be argued with. Entry 0029 and Entry 0447: a mask, the mind's way of saying the same. Both were taken off in summer, in front of witnesses, and neither lover died of it. Mark that, Keeper. Make a note.*
+> *Entry 0457 and Entry 0911. A burn is the body's way of saying a thing in the only language that cannot be argued with. Entry 0029 and Entry 0447: a mask, the mind's way of saying the same. Both were taken off in summer, in front of witnesses, and neither lover died of it. Mark that.*
 >
 > *The autumn will ask what the summer promised. I have a feeling it will be paid in full.*
 
@@ -13122,11 +13112,11 @@ And on the roof of the hospital on the hill, a bowl the colour of the sea stood 
 ---
 
 ### SCENE I
-*Bonwire, outside Kumasi, in the hills of Asante. A weaving shed with a tin roof, four looms, and a smell of cotton, dust and groundnut soup. August; the long rains drumming overhead like a hundred small fists.*
+*Bonwire, outside Kumasi, in the hills of Asante. A weaving shed with a tin roof, four looms, and a smell of cotton, dust and groundnut soup. August; an afternoon shower drumming overhead like a hundred small fists.*
 
 The loom said *clack*, and then it said *clack* again.
 
-It is a narrow thing, the kente loom, and an ancient one: a frame of wood, a weight of stone, two pedals worked by the feet, and a warp of thread stretched away into the dark of the shed like a road that had decided to be a rumour. The weaver sits at the near end and throws the shuttle through the shed with his right hand and beats the weft with his left, and his feet, meanwhile, go up and down like a man pedalling steadily toward a place he has not told anyone about. What comes out is not cloth. It is a *strip*, four fingers wide, no more; and a hundred strips sewn edge to edge make the cloth that kings are buried in, and the cloth a girl wears to be named, and the cloth that a young man, in his thirtieth year, is weaving now, with a promise in it.
+It is a narrow thing, the kente loom, and an ancient one: a frame of wood, a weight of stone, two pedals worked by the feet, and a warp of thread stretched away into the dark of the shed like a road that had decided to be a rumour. The weaver sits at the near end and throws the shuttle through the shed with his right hand and beats the weft with his left, and his feet, meanwhile, go up and down as if pedalling steadily toward a place he has not told anyone about. What comes out is not cloth. It is a *strip*, four fingers wide, no more; and a hundred strips sewn edge to edge make the cloth that kings are buried in, and the cloth a girl wears to be named, and the cloth that a young man, in his thirtieth year, is weaving now, with a promise in it.
 
 Kofi Boateng sat at the loom. He had sat there since four o'clock. He was thirty and patient, which in Asante is an old and honoured combination, and proud, which in Asante is a young man's one acknowledged vice. Beside him, on a stool, with her handbag on her knee and her glasses at the end of her nose, sat his mother, Akosua Asante, sixty-one, a lawyer. She was reading a contract. It was his.
 
@@ -13138,7 +13128,7 @@ Kofi Boateng sat at the loom. He had sat there since four o'clock. He was thirty
 
 "It is not a contract. It is a cloth."
 
-"It is a *warp*," said his mother, with the air of a woman who has cross-examined a hundred thieves, and found her son the most elusive. "I counted it. Do not think I did not. One hundred and forty yards. You wound that warp on Monday. A man does not wind a warp of one hundred and forty yards for a market stall; he winds it for a *term*. Twenty-four months. That is how long her scholarship runs."
+"It is a *warp*," said his mother, with the air of one who has cross-examined a hundred thieves and found her son the most elusive. "I counted it. Do not think I did not. One hundred and forty yards. You wound that warp on Monday. A man does not wind a warp of one hundred and forty yards for a market stall; he winds it for a *term*. Twenty-four months. That is how long her scholarship runs."
 
 Kofi's hands did not stop. *Clack.* "You have been in my shed."
 
@@ -13173,7 +13163,7 @@ She did not need to. It said what it had said on Monday: that she, Esi Appiah of
 
 "You have not said yes," said a voice from the window.
 
-Below, with a thermos on his hip and a tray of sugar bread on his head, stood Kojo Asante, thirty-three, tea-seller, her oldest friend, and a deeply devout man who had a habit of spending money that was not his on things that were holy. He had been, that week, a hundred cedis into the church building fund on borrowed sugar, and he had asked God for a decision on the matter, and God, so far, had been silent.
+Below, with a thermos on his hip and a tray of sugar bread on his head, stood Kojo Asante, thirty-three, tea-seller, her oldest friend, and a deeply devout man with a habit of spending money that was not his on things that were holy. That week he was a hundred cedis into the church building fund on borrowed sugar. He had asked God for a ruling on the matter, and God, so far, had been silent.
 
 "I have not said anything," said Esi.
 
@@ -13181,7 +13171,7 @@ Below, with a thermos on his hip and a tray of sugar bread on his head, stood Ko
 
 "*Especially* not to Kofi."
 
-"Then you are *both* very quiet." Kojo clasped his hands. "Madam. I will tell you what my grandmother told me, and then I will sell you a tea. She said, there are two things you cannot do to a person: you cannot ask them to stay, and you cannot tell them to go. You can only stand in the door and hold it open for whichever way they walk."
+""Then you are *both* very quiet." Kojo clasped his hands. "Madam. I will tell you what my grandmother told me, and then I will sell you a tea. She said, there are two things you cannot do to a person: you cannot ask them to stay, and you cannot tell them to go. You can only stand in the door and hold it open for whichever way they walk."
 
 "That is very profound."
 
@@ -13209,7 +13199,7 @@ She did not hear the shed door open, nor the footsteps on the damp laterite. She
 
 "The warp."
 
-"It is a hundred and forty yards. It is wound for twenty-four months. I did not mean you to know until the cloth was finished." He put the parcel on her desk. His hands, which had never trembled at a loom in his life, trembled at the string. "It is a strip. It is the first. It is the width of one month. I thought, if you go, I would weave one every month you are away, and send you a hand's breadth, and at the end of two years, there is a cloth. And if you stay—" His voice caught on the word, like a shuttle on a snagged thread. "If you stay, I will cut the warp and burn it, and you will never need to know."
+"It is a hundred and forty yards. It is wound for twenty-four months. I did not mean you to know until the cloth was finished." He put the parcel on her desk. His hands, which had never trembled at a loom in his life, trembled at the string. "It is a strip. It is the first. It is the width of one month. I thought, if you go, I would weave one every month you are away, and send you a hand's breadth, and at the end of two years, there is a cloth. And if you stay—" His voice caught on the word. "If you stay, I will cut the warp and burn it, and you will never need to know."
 
 She opened the paper. The strip lay in her hands, four fingers wide, gold and green and black. In the weave, very small, there was a pattern she had not seen before, and he named it, as weavers do, in the old way, with a proverb.
 
@@ -13223,7 +13213,7 @@ She opened the paper. The strip lay in her hands, four fingers wide, gold and gr
 
 "Do not say it. Do not say yes or no, not to me. I do not ask you for a promise. I am only telling you that the thread is long. It is longer than it looks."
 
-She stood very still with the strip lying across her palms. She was a woman who had never in her life failed to answer a direct question, and she found that she had no answer except to put one hand, lightly, over his, where it lay on the desk.
+She stood very still with the strip lying across her palms. She had never in her life failed to answer a direct question, and she found now that she had no answer except to put one hand, lightly, over his, where it lay on the desk.
 
 "I will write to Scotland on Friday," said Esi.
 
@@ -13254,13 +13244,13 @@ There was one now. The radio station, whose night show had begun as a joke betwe
 
 "I don't know!" wailed Thandi. "That is the *problem.*"
 
-At the front of the hall, in a dress of blue shweshwe the colour of a deep pool, with a gold necklace from her landlady Palesa Zulu round her throat, Naledi Khumalo stood in the hush of two hundred guests and one microphone. She was twenty-nine. She was warm, and wry, and a radio host, and she had never in her life been at a loss for a word.
+At the front of the hall, in a dress of deep-blue shweshwe, with a gold necklace from her landlady Palesa Zulu round her throat, Naledi Khumalo stood in the hush of two hundred guests and one microphone. She was twenty-nine. She was warm, and wry, and a radio host, and she had never in her life been at a loss for a word.
 
 Beside her stood Thabo Dlamini, thirty-one, saxophonist, shy offstage as a deer, in a black suit with a thin gold tie and a saxophone slung at his hip.
 
-Neither of them had a speech. That was the arrangement. In the pause before the priest began, an old man in the second row, very thin, in a grey coat too heavy for the heat, rose up unbidden and said, in the quavering voice of eighty winters, "Excuse me. Before it starts. I wish to say that I have listened every night. I cannot read. Never learned. The radio was my newspaper and my church and my friend. I wish to thank the lady." He sat down. Tshepo Radebe, sixty-six, retired newsagent, had been listening for four years, and had come to the front on the arm of a taxi-driver, and it was observed that the bride wept before the ceremony began.
+Neither of them had a speech. That was the arrangement. In the pause before the priest began, an old man in the second row, very thin, in a grey coat too heavy for the warm hall, rose up unbidden and said, in a quavering voice, "Excuse me. Before it starts. I wish to say that I have listened every night. I cannot read. Never learned. The radio was my newspaper and my church and my friend. I wish to thank the lady." He sat down. Tshepo Radebe, sixty-six, retired newsagent, had been listening for four years, and had come to the front on the arm of a taxi-driver, and it was observed that the bride wept before the ceremony began.
 
-It was a short ceremony and a loud one, as Soweto weddings are: with the ululation going up from the aunts at the vows like a flock of birds that had been waiting all year to be asked, and a choir in the corner singing in three languages at once. The vows were not long. Naledi went first, because she was the voice, and said them to the microphone and the man and the city, in the plain measure that the heart finds when it has been practising for years:
+It was a short ceremony and a loud one, as Soweto weddings are: with the ululation going up from the aunts at the vows, and a choir in the corner singing in three languages at once. The vows were not long. Naledi went first, because she was the voice, and said them to the microphone and the man and the city, in the plain measure that the heart finds when it has been practising for years:
 
 > *For four years I have sent a song into the dark
 > And never known the one who heard it best.
@@ -13272,11 +13262,11 @@ It was a short ceremony and a loud one, as Soweto weddings are: with the ululati
 
 Then Thabo, who had no voice for it, lifted the saxophone to his mouth.
 
-He did not speak. He played. It was a slow, warm, impossible tune, the one that had come down the wires to her on a hundred nights, and it went up through the corrugated roof and through the open door and down the length of the street, where people had stopped; and down the length of the city, where cars had pulled over, and minibus-taxis had turned off their engines in the middle of the road with the driver's hand still on the wheel, and a hundred thousand people were listening to a stranger propose, in the one language that has no accent, to a woman he had never failed to know.
+He did not speak. He played. It was a slow, warm, impossible tune, the one that had come down the wires to her on a hundred nights, and it went up through the corrugated roof and through the open door and down the length of the street, where people had stopped; and down the length of the city, where cars had pulled over, and minibus-taxis had turned off their engines in the middle of the road with the driver's hand still on the wheel, and a hundred thousand people were listening to a man propose, in the one language that has no accent, to a woman he had never failed to know.
 
 When the last note went out, the hall was entirely silent.
 
-Then Jabu Mokoena took out the ring from his shoe, with an expression of great suffering, and a cheer rose that could be heard in Pretoria. *Mark this, reader.* They say that at a taxi rank on Bree Street the whole thing was played from a single car radio, and a hundred people stood with their heads bare in the sun, and no one, afterwards, could remember who had taken up the collection, or for what.
+Then Jabu Mokoena took out the ring from his shoe, with an expression of great suffering, and a cheer rose that could be heard in Pretoria. They say that at a taxi rank on Bree Street the whole thing was played from a single car radio, and a hundred people stood with their heads bare in the sun, and no one, afterwards, could remember who had taken up the collection, or for what.
 
 ---
 
@@ -13295,7 +13285,7 @@ It was the most expensive delivery van in Antioquia. Sebastián Torres, twenty-n
 
 "I will ride like a man who has been told to ride *carefully* by a woman who is afraid," said Sebastián, "which is the most dangerous kind of careful there is."
 
-Daniela Ruiz was twenty-eight and a flower farmer, and she was bright, and proud, and in debt. In the greenhouse behind the house the roses had a blight, and in the bank in town a man named Julián Gómez, fifty-one, a notary's scribe, loyal to the point of agony and quite unable to say goodbye, held a paper from a buyer that would take the whole farm, house and ground and mountain, for a sum that was both fair and a catastrophe. He had brought it up the hill on Thursday. He had stood on the porch for an hour holding it, and gone down again without handing it over, and returned on Friday, and done the same.
+Daniela Ruiz was twenty-eight and a flower farmer, and she was bright, and proud, and in debt. In the greenhouse behind the house the roses had a blight, and in a notary's office in town a man named Julián Gómez, fifty-one, a scribe, loyal to the point of agony and quite unable to deliver bad news, held a paper from a buyer that would take the whole farm, house and ground and mountain, for a sum that was both fair and a catastrophe. He had brought it up the hill on Thursday. He had stood on the porch for an hour holding it, and gone down again without handing it over, and returned on Friday, and done the same.
 
 "It is a very *hard* paper to deliver," Julián had explained, nearly weeping.
 
@@ -13317,7 +13307,7 @@ Now, on the Sunday of the parade, the farm's last silleta, a great wooden chair 
 
 "Mariana."
 
-"I am a butcher. I carry the whole side of a cow and nobody gives me flowers." She sniffed. "Who is going to carry it? Not you; you have a bad knee. Not *him*; he has a bad *spine.*"
+"I am a butcher. I carry the whole side of a cow and nobody gives me flowers." She sniffed. "Who is going to carry it? Not you; you have a bad knee. Not *him*; he has a plaster still on his *wrist.*"
 
 "I will," said Daniela.
 
@@ -13325,7 +13315,7 @@ Now, on the Sunday of the parade, the farm's last silleta, a great wooden chair 
 
 "Then I will die with an orchid." She put her hand on the carved arm of the chair. It was the kind of line that could be said in a house that is about to be sold. "Sebastián will ride behind me down the mountain, and every kilometre I will think: *I have not lost it yet.*"
 
-He did, in the end. All the way down, past the roadside shrines and the vultures and the little tin kiosks selling *arepas*, behind a woman with a seventy-kilo mountain on her back, he rode at walking pace, a bicycle at the speed of a funeral; and she never once stopped, nor spoke, nor looked back, and the sun came up over the whole green valley and caught the petals, so that she seemed to walk into the city carried by a small blazing garden. Somewhere at the bottom of the hill a team manager from Spain stood waiting with a contract that would send Sebastián across an ocean for four years, and somewhere on the same hill a notary's scribe sat on a rock with his two pages, weeping at last, because he had finally decided to deliver them.
+He did, in the end. All the way down, past the roadside shrines and the vultures and the little tin kiosks selling *arepas*, behind a woman with a seventy-kilo mountain on her back, he rode at walking pace, a racing bicycle at the speed of a funeral; and she never once stopped, nor spoke, nor looked back, and the sun came up over the whole green valley and caught the petals, so that she seemed to walk into the city carried by a small blazing garden. Somewhere at the bottom of the hill a team manager from Spain stood waiting with a contract that would send Sebastián across an ocean for four years, and somewhere on the same hill a notary's scribe sat on a rock with his two pages, weeping at last, because he had finally decided to deliver them.
 
 "Don't read it yet," said Daniela, over her shoulder, not knowing which paper she meant, and not turning. "Ride with me to the end of the parade. Whatever they say, we will decide it at the bottom."
 
@@ -13340,6 +13330,8 @@ It was, said the Keeper later, a very good answer.
 *Margin note, in pencil, in the hand of S.W.R.:*
 
 > *Entry 0281 and Entry 0532. A weaver measures a promise in yards. A radio host measures it in frequencies. A cyclist measures it in kilometres, and a farmer in the weight of a flower on her back. They are all the same unit. It is called: how far are you willing to go with your hand still open?*
+>
+> *Entry 0466 and Entry 0749. A saxophone has no words, which is why it was believed.*
 >
 > *Entry 0586 and Entry 0360. The wheel is still turning. I will not say which way.*
 
@@ -13362,13 +13354,13 @@ It was, said the Keeper later, a very good answer.
 
 There is a legend in Isfahan, told by every tea-seller to every tourist, that the old masters made one mistake on purpose in every panel they ever laid. *Only God is perfect,* they said, and set one tile crooked, so as not to be presumptuous.
 
-Ali Rezaei, thirty-six, tile master, did not believe the legend. He believed in measurement. But he had been kneeling since noon in front of a panel a thousand years too old for its own good, with a bucket of lime at one elbow and a stub of pencil behind one ear, and he was beginning to suspect that God had taken the legend personally.
+Ali Rezaei, thirty-six, tile master, did not believe the legend. He believed in measurement. But he had been kneeling since noon in front of a panel five centuries too old for its own good, with a bucket of lime at one elbow and a stub of pencil behind one ear, and he was beginning to suspect that God had taken the legend personally.
 
 "It is not a repeat," said a voice behind him.
 
 "I know it is not a repeat."
 
-"I mean that I have checked every unit in the field. It *looks* like a repeat. It looks like the five-fold stars that the masters used everywhere. But you set one star beside the next and the next one is turned a hair, and the one after, a hair more. The whole panel is made of a rule that does not close." Parisa Karimi, thirty-one, architect and restorer, had come up the scaffold with a clipboard held as carefully as a baby and the expression of a woman who has found, in a ruin, a handwriting she cannot copy. "I do not know how to restore a thing that has no template. Every other panel I have mended, I took one tile, I made forty."
+"I mean that I have checked every unit in the field. It *looks* like a repeat. It looks like the five-fold stars that the masters used everywhere. But you set one star beside the next and the next one is turned a hair, and the one after, a hair more. The whole panel is made of a rule that does not close." Parisa Karimi, thirty-one, architect and restorer, had come up the scaffold with a clipboard held as carefully as a baby and the expression of someone who has found, in a ruin, a handwriting she cannot copy. "I do not know how to restore a thing that has no template. Every other panel I have mended, I took one tile, I made forty."
 
 "Then do not make forty."
 
@@ -13390,7 +13382,7 @@ Parisa lowered the clipboard. "That is the worst building method I have ever hea
 
 "He will go on until she buys it, or one of them dies."
 
-This was Reza Jafari, fifty-seven, trader, a man of such profound stubbornness that he had once sold a Shirazi rug to the husband of a woman who had come in to return the same rug. He had been conducting his business in the lane below the madrasa for three days, and had acquired an audience of tourists, pigeons, and two municipal inspectors. Now he stood at the foot of the scaffold, shouting up with great politeness.
+This was Reza Jafari, fifty-seven, trader, so profoundly stubborn that he had once sold a Shirazi rug to the husband of a woman who had come in to return the same rug. He had been conducting his business in the lane below the madrasa for three days, and had acquired an audience of tourists, pigeons, and two municipal inspectors. Now he stood at the foot of the scaffold, shouting up with great politeness.
 
 "Master Ali! Madam Architect! I have heard everything!"
 
@@ -13400,9 +13392,9 @@ This was Reza Jafari, fifty-seven, trader, a man of such profound stubbornness t
 
 "Reza," said Parisa, going the colour of a pomegranate.
 
-"—that a pattern which never repeats is the best a man can sit down to, because it is never boring, and never finished, and nobody can say you have done it *wrong.*" Reza bowed with great dignity, tripped over the carpet, and sat down in the lime.
+"—that a pattern which never repeats is the best a man can sit down to, because it is never boring, and never finished, and nobody can say you have done it *wrong.*" Reza bowed deeply, tripped over the carpet, and sat down in the lime.
 
-Ali did not laugh. He turned very slowly towards her. He had not planned it; he had planned, for eight months, to say it on some day in the autumn, with proper notice and a proper bunch of flowers. But the light was going gold, and the dome behind her was the colour of a thing that does not last, and a man will be forgiven for the one sentence he has never been able to carve.
+Ali did not laugh. He turned very slowly towards her. He had not planned it; he had planned, for eight months, to say it on some day in the autumn, with proper notice and a proper bunch of flowers. But the light was going gold, and the dome behind her was the colour of something that does not last, and a man may be forgiven the one sentence he has never been able to carve.
 
 > *I have laid the same star ten thousand times,
 > And every star was perfect, and was dead.
@@ -13414,7 +13406,7 @@ Ali did not laugh. He turned very slowly towards her. He had not planned it; he 
 > Considerable alarm, I would not have it
 > Closed. I would rather listen all my life.*
 
-Parisa Karimi, who restored ruins because she did not know how to restore herself, said nothing for so long that the muezzin, in some tower beyond the square, began the evening prayer. Then she took off her glove.
+Parisa Karimi, who restored ruins because she did not know how to restore herself, said nothing for so long that the muezzin, in some tower beyond the square, began the evening prayer. Then she took off her work glove.
 
 "My mother is in Shiraz," she said. "She prefers that a man's uncle call. With flowers. And sweets. It is a very old, very silly custom."
 
@@ -13445,7 +13437,7 @@ The new bridge was a thing of steel and glass and cable, and people had been wal
 
 It had been built in two halves, from either bank, as the best bridges are, so that it should meet in the middle, in the middle of the river, in the middle of the sky. The engineers had reckoned a tolerance of fifteen millimetres. When the two halves came together on the thirty-first of May, they had met with a gap of three.
 
-"Three millimetres," said Mustafa Karim, thirty-four, civil engineer, to a crowd of two hundred and a television camera. "In a river that is a kilometre wide. I would like it noted that nobody has ever done better, and that I am not at all pleased."
+"Three millimetres," said Mustafa Karim, thirty-four, civil engineer, to a crowd of two hundred and a television camera. "In a river three hundred metres across. I would like it noted that nobody has ever done better, and that I am not at all pleased."
 
 There was applause. In the third row, a young woman in a long grey coat and a green scarf did not applaud. Noor Hashim, thirty, architect, ambitious, eloquent, stood with her arms folded and her eyes on the cables. She had not said a word to him in three weeks. She had also not left his side at any public function, and the two phenomena were beginning to confuse the neighbours.
 
@@ -13455,11 +13447,11 @@ The ribbon was cut. A poet named Huda Al-Saadi, twenty-five, devout and best fri
 
 "I know how your name is spelled." Shaimaa did not turn. "I carved it correctly. Then a flake of limestone came off the *i,* and in fixing it I made it, in every sense but spelling, a *better* name. You may be wrong in the particular, Mustafa, but you are right in spirit."
 
-"Nobody who builds a bridge," she added with great dignity, as he opened his mouth, "is *entirely* himself."
+"Nobody who builds a bridge," she added, as he opened his mouth, "is *entirely* himself."
 
-By the time the ode had reached its hundred-and-fortieth line, the footbridge was nearly empty. The lights came on along the cables, white and blue, and on the water below the long, slow lanterns of the fish-grillers began to glow along the bank, with the smell of *masgouf* and woodsmoke rising up to the rail. The heat that had stood on the city since June had finally drawn a little back; a hot wind from the desert went down the river like a hand smoothing a cloth.
+By the time the ode had reached its hundred-and-fortieth line, the footbridge was nearly empty. The lights came on along the cables, white and blue, and on the water below the long, slow lanterns of the fish-grillers began to glow along the bank, with the smell of *masgouf* and woodsmoke rising up to the rail. The heat that had stood on the city since June had finally drawn a little back; a hot wind from the desert went down the river.
 
-In the middle of the bridge, where the two halves had met, a seam of three millimetres ran across the walkway like a very small, very polished scar. Noor was standing on it.
+In the middle of the bridge, where the two halves had met, a seam of three millimetres ran across the walkway, small and polished as a scar. Noor was standing on it.
 
 "You are standing on my error," said Mustafa, coming up.
 
@@ -13473,7 +13465,7 @@ In the middle of the bridge, where the two halves had met, a seam of three milli
 
 "You know?"
 
-"Huda told me. She was drunk on her own ode." He had put his hands behind his back, which is a thing an engineer does when he does not trust them. "You go in three weeks. Two years. Copenhagen. A studio on a canal. They want you to design a thing that has not been built."
+"Huda told me. She was giddy on her own ode." He had put his hands behind his back, which is a thing an engineer does when he does not trust them. "You go in three weeks. Two years. Copenhagen. A studio on a canal. They want you to design a thing that has not been built."
 
 "Yes."
 
@@ -13510,7 +13502,7 @@ It had arrived on a Thursday in the arms of a courier who stood at the foot of t
 
 "That is not a rate."
 
-"It is in the *regulations,*" said the courier, who had never read them. Fayaz Rahman, twenty-six, had in his pocket two hundred taka, and in his head the grey arithmetic of nine lakh still owing to a man his father had trusted. The Singapore contract worked him from midnight until eight, and was kind, but not that kind.
+"It is in the *regulations,*" said the courier, who had never read them. Fayaz Rahman, twenty-six, had in his pocket two hundred taka, and in his head the grey arithmetic of nine lakh still owing to a man his father had trusted, now that the last of the village land had gone to pay the rest. The Singapore contract worked him from midnight until eight, and was kind, but not that kind.
 
 "Bhaiya," said a voice from the doorway of the tea stall, "I will lend it."
 
@@ -13530,7 +13522,7 @@ The paper came away. Inside was a smell: wax, and woodsmoke, and indigo. Folded 
 
 Fayaz unfolded it.
 
-It was a great length of indigo, as deep as the river at midnight, and across the whole of it, in rows, were dots. They were black. They were so black that at first the eye took them for nothing, a shadow on the weave, a stain of some darker blue. Only when he turned the cloth to the lamp, and the light came across it at a slant, did they rise up out of the dye, one by one by one, each with five small points, each a star, each bright with the dull gloss of wax-resisted ink, like a thing you could see only at the edge of your attention. They were *bintang.* They were black. They went on to the end of the cloth.
+It was a great length of indigo, as deep as the river at midnight, and across the whole of it, in rows, were dots. They were black. They were so black that at first the eye took them for nothing, a shadow on the weave, a stain of some darker blue. Only when he turned the cloth to the lamp, and the light came across it at a slant, did they rise up out of the dye, one by one by one, each with five small points, each a star, each bright with the dull gloss of wax-resisted ink. They were *bintang.* They were black. They went on to the end of the cloth.
 
 "It is *beautiful,*" breathed Tithi.
 
@@ -13578,7 +13570,7 @@ She did not answer. In the studio behind her a kettle, which was a Dutch one, be
 
 "It is for when the sky is clear," she said. "I do not know what for. I only know that it is for *then.*"
 
-For some time neither of them spoke. A tin roof, in the monsoon, in Mirpur, beat out the long drum of the rain. In Rotterdam the kettle shrieked and, at last, stopped, as a thing stops when somebody turns it off, because nobody else will.
+For some time neither of them spoke. Over Mirpur the monsoon beat out the long drum of the rain on a thousand tin roofs. In Rotterdam the kettle shrieked and, at last, was turned off, because nobody else would.
 
 "Fayaz," said Ermis.
 
@@ -13596,7 +13588,7 @@ It was not what she had expected. He saw it in her face. She had been braced, as
 
 "I have seen it," he said. "I am four hours ahead of you tonight, and in that time I have already lived this Friday, and I can report that it was *very* good, and that you were kind in it. The studio, the harbour, the kettle. You were kind." He stopped, because his voice had done the thing it did when she laughed, only the other way. "I thought you ought to hear it from the future."
 
-Ermis said nothing at all. She put her hand over her mouth. On the screen, the pencil in her hair slid, and her hair came down, and behind her, in the grey Dutch window, a gull went by like a thrown stone. At last she took her hand away and said, in a small and entirely ordinary voice: "It is the first thing anyone has told me from the future that I wanted to hear."
+Ermis said nothing at all. She put her hand over her mouth. On the screen, the pencil in her hair slid, and her hair came down, and behind her, in the grey Dutch window, a gull went by. At last she took her hand away and said, in a small and entirely ordinary voice: "It is the first thing anyone has told me from the future that I wanted to hear."
 
 "Then I will tell you more next week."
 
@@ -13647,9 +13639,9 @@ Outside, the rain was slackening. Somewhere in the lane a boy was singing a song
 
 There is nothing so ridiculous, or so sad, as a fire in a fish market.
 
-It is a place built entirely of ice and water. Every stall has its tank, every table its drain, every crate its little coffin of crushed cold. And yet, at ten to four in the morning, with the mistral blowing down the quay like a drunk with a grudge, the polystyrene boxes at the north wall had caught, and the whole thing had gone up in nine minutes, and the fire brigade, arriving to find that it had been put out chiefly by its own stock, had been obliged to stand in a lake of sea bass with their hoses idle and their dignity at about knee level.
+It is a place built entirely of ice and water. Every stall has its tank, every table its drain, every crate its little coffin of crushed cold. And yet, at ten to four in the morning, with the mistral blowing down the quay like a drunk with a grudge, the polystyrene boxes at the north wall had caught, and the whole thing had gone up in nine minutes, and the fire brigade, arriving to find the blaze put out chiefly by its own stock, had been obliged to stand in a lake of sea bass with their hoses idle.
 
-Nobody was hurt. That was the miracle, and the one thing that nobody in Marseille knew how to say, because every one of them was too busy telling everybody else what had caused it.
+Nobody was hurt. That was the miracle, and nobody in Marseille had time to mention it, being too busy telling everybody else what had caused the fire.
 
 "Electrical," announced Mathieu Vidal, fifty-eight, librarian, who classified scandal as he classified books, by subject, author, and date, and who had been at the barrier since half past four with a notebook. "A short in the compressor of the number six freezer. I had it from the *fireman's cousin.*"
 
@@ -13657,7 +13649,7 @@ Nobody was hurt. That was the miracle, and the one thing that nobody in Marseill
 
 "It was the *Spanish*," said another. "Who were in bed. Which is exactly what they *wanted* us to think."
 
-In the middle of the blackened aisle, in what had been, till midnight, the stall called *La Daurade Joyeuse,* stood Hugo Martin. He was thirty-five, built like a door, and he was laughing. He had been laughing since five o'clock. The stall was a skeleton of tin; the awning was a blackened sail; the family scales, three generations old, had melted into a small bronze puddle on the slab. And Hugo Martin, fish seller, boisterous, loyal, loud enough to be heard from the Panier to the Prado, stood in the wet ash in rubber boots with his arms spread wide and announced, to a quay of staring people, that the first round of pastis was on the house.
+In the middle of the blackened aisle, in what had been, till midnight, the stall called *La Daurade Joyeuse,* stood Hugo Martin. He was thirty-five, built like a door, and he was laughing. He had been laughing since five o'clock. The stall was a skeleton of tin; the awning was a blackened sail; the family scales, three generations old, had melted into a small bronze puddle on the slab. And Hugo Martin, fish seller, loud enough to be heard from the Panier to the Prado, stood in the wet ash in rubber boots with his arms spread wide and announced, to a quay of staring people, that the first round of pastis was on the house.
 
 "At six in the morning?" said a policeman.
 
@@ -13665,7 +13657,7 @@ In the middle of the blackened aisle, in what had been, till midnight, the stall
 
 There is a kind of laughter that is a shout, and a kind that is a shield. Only the second cannot be turned off. At the barrier at the end of the aisle, in the navy jersey and cap of the Old Port ferry, a woman stood very still with her hands in her pockets and did not laugh at all.
 
-Camille Bernard was thirty-three, a ferry pilot, calm and dry as a biscuit, and she had piloted the little boat that crosses the harbour from the Town Hall quay to the Place aux Huiles every day for nine years without once being rattled by weather, or tourists, or the Marseillais. She was not rattled now. She was stone. At ten to four that morning she had been standing at the north wall of the market, in the dark, waiting for the five o'clock crossing, with a cigarette between her fingers that she had told every person she knew, in March, she would never touch again.
+Camille Bernard was thirty-three, a ferry pilot, calm and dry as a biscuit. She had piloted the little boat that crosses the harbour from the Town Hall quay to the Place aux Huiles every day for nine years without once being rattled by weather, or tourists, or the Marseillais. She was not rattled now. She was stone. At ten to four that morning she had been standing at the north wall of the market, in the dark, waiting for the five o'clock crossing, with a cigarette between her fingers that she had told every person she knew, in March, she would never touch again.
 
 She had not seen where it fell.
 
@@ -13679,7 +13671,7 @@ She thought of the red dot, small as a seed, going out over the dark water on th
 
 "I don't recall," said Camille Bernard.
 
-Behind her, with a hose coiled round one shoulder like a sea-serpent and a wrench in each pocket, came Colette Lefèvre, thirty-one, plumber, a woman so patient that fishermen came to her to be taught to wait. She had been called in at dawn to inspect the water-mains and had spent the morning defending them from accusation.
+Behind her, with a hose coiled round one shoulder and a wrench in each pocket, came Colette Lefèvre, thirty-one, plumber, so patient that fishermen came to her to be taught to wait. She had been called in at dawn to inspect the water-mains and had spent the morning defending them from accusation.
 
 "It was not the pipes," said Colette to the inspector, with immense gentleness. "A fire is only a pipe whose water has gone the wrong way. It wants to be somewhere. Tell me where it wanted to be, and I will tell you why it left." She turned, and her eyes, which were kind and slow, rested a moment on Camille's pale face, and she added, to nobody, in the voice of one remarking on the weather: "Funny how often it is a small thing. A washer. A spark. A bit of cold. A little cigarette."
 
@@ -13694,7 +13686,7 @@ Camille went the colour of the ash.
 ### SCENE II
 *The following night. The burnt market, under a clean sharp moon and a ribbon of police tape. The wind has dropped. The smell is smoke, salt and wet char. A single stall light, run off a car battery, shows a broad man sitting on an upturned crate.*
 
-He had sent them all home. That was the mark of Hugo: at midnight he had given every fish-wife a hug and every fireman a bass, and told the crowd to go to bed, and then he had sat down alone in the ruin and stopped smiling, like a man putting down a very heavy sack he has been carrying for a mile uphill.
+He had sent them all home. That was the mark of Hugo: at midnight he had given every fish-wife a hug and every fireman a bass, and told the crowd to go to bed, and then he had sat down alone in the ruin and stopped smiling.
 
 He spoke to the dark, as the cheerful do, when nobody is in a position to be cheered:
 
@@ -13723,7 +13715,7 @@ He did not jump. He knew the voice; he had known it for nine years, across a str
 
 "That is not the praise you think."
 
-He laughed, and it was a real laugh this time, small and cracked, and neither of them said anything for a while. A gull walked the length of the ruined slab and inspected the ash for unreasonable hopes. Across the black water the lights of Notre-Dame de la Garde burned on her hill, small and gold, like a stub of candle somebody had set on a very high shelf.
+He laughed, and it was a real laugh this time, small and cracked, and neither of them said anything for a while. A gull walked the length of the ruined slab and inspected the ash for unreasonable hopes. Across the black water the lights of Notre-Dame de la Garde burned on her hill, small and gold.
 
 "You didn't laugh this morning," said Hugo.
 
@@ -13760,7 +13752,7 @@ Mateo Fernández, thirty-five, tango dancer, arrogant and graceful, had sat on t
 
 "I am a choirmaster. We believe in resolution."
 
-On the opposite wall, in a black dress with a plain neckline and her hair drawn back like a closed fan, sat Valentina Cruz, thirty-three, tango teacher, proud and guarded, with her hands folded in her lap. She had taught him for a year. She had taught him to lead, in a studio where the sunlight came in at an angle, and she had hated every minute of it, and she had not missed a lesson. She did not look at him. She looked, instead, with great care, at an old woman in the corner who had begun, quite without hurry, to pour mate from a thermos into a gourd.
+On the opposite wall, in a black dress with a plain neckline and her hair drawn tight back, sat Valentina Cruz, thirty-three, tango teacher, proud and guarded, with her hands folded in her lap. She had taught him for a year. She had taught him to lead, in a studio where the sunlight came in at an angle, and she had hated every minute of it, and she had not missed a lesson. She did not look at him. She looked, instead, with great care, at an old woman in the corner who had begun, quite without hurry, to pour mate from a thermos into a gourd.
 
 This was Agustina Benítez, fifty-four, a tea-seller from Rosario who had come three hours by bus because someone ought to. She was gentle, rather deaf, and believed the temperature of water to be the foundation of civilisation.
 
@@ -13784,15 +13776,15 @@ It was Lucrecia Medina, from the next block. Nobody answered her.
 
 The cortina came on, a thin sweet curtain of music between one set and the next, and the floor, which had been empty, emptied still further.
 
-Mateo stood. He crossed nothing; he did not walk. He lifted his eyes, across thirty feet of polished wood, and in front of the whole hall, and the DJ, and the old women, and the girl in school shoes, and a dead woman's ghost who had come, perhaps, in the mate-steam, he nodded.
+Mateo stood. He did not walk. He lifted his eyes across thirty feet of polished wood, in front of the whole hall, and the DJ, and the old women, and the girl in school shoes, and a dead woman's ghost who had come, perhaps, in the mate-steam, and he nodded.
 
 Valentina looked at her shoes.
 
-For one long second the hall stopped breathing. Then Valentina Cruz, who had been taught from the age of six that a woman refused is a woman with her dignity intact, and a woman who accepts has surrendered something she can never get back, set down the mate-gourd, and raised her head, and nodded.
+For one long second the hall stopped breathing. Then Valentina Cruz, who had been taught from the age of six that a woman refused loses nothing, and a woman who accepts has surrendered something she can never get back, set down the mate-gourd, and raised her head, and nodded.
 
-They met in the middle of the floor. They did not smile. He lifted his arm and she settled into it, the way a thing slips into the place it was always cut for, and the old record began, the one he used to dance to, a slow tango, with a bandoneon that breathed in and out like an animal that had been asleep; and they walked.
+They met in the middle of the floor. They did not smile. He lifted his arm and she settled into it, the way a thing slips into the place it was always cut for, and the old record began, the one he used to dance to, a slow tango, with a bandoneon that breathed in and out; and they walked.
 
-Mark this, reader: they did not dance *well.* That is the thing the Keeper would have you know. He was stiff. She was angry. Every step was a negotiation. For the first minute there were two of them and a ghost, and for the second minute there were two of them, and the ghost was only a shape of warmth at the edge of the lamp; and by the third there was only a man and a woman crossing a floor, and the dead sister's name unspoken between them like a hand resting lightly on each of their backs. *Go,* it said. *Go on.*
+Mark this, reader: they did not dance *well.* That is the thing the Keeper would have you know. He was stiff. She was angry. Every step was a negotiation. For the first minute there were two of them and a ghost, and for the second the ghost was only a shape of warmth at the edge of the lamp; and by the third there was only a man and a woman crossing a floor, with the dead sister's name unspoken between them like a hand resting lightly on each of their backs. *Go,* it said. *Go on.*
 
 The last tango ended. The cortina began. The floor, by every law of the milonga, cleared. The couples drifted away to their sides, and the men sat down and the women sat down, and Ramiro in his booth, with tears running down into his collar, put on the next tanda and did not need to.
 
@@ -13819,11 +13811,11 @@ On the side wall, a girl of fourteen sniffed and said, with unconcealed superior
 
 In nineteen years of driving trains, Ravi Chaudhary had never been late.
 
-It was his only vanity. He was forty-one, a train driver, punctual and patient, a man who could tell a delay by the hum of the rails; and tonight, for the first time in all those years, he had nowhere to be. The Lucknow line was shut. The river had risen over the tracks at the bridge, and the 5:40 stood on Platform Six with its engine ticking as it cooled, and its driver, in his cap and his blue jacket, had stepped down from the cab and begun, for the first time in his life, to walk the whole length of the train.
+It was his only vanity. He was forty-one, a train driver, punctual and patient, able to tell a delay by the hum of the rails; and tonight, for the first time in all those years, he had nowhere to be. The Lucknow line was shut. The river had risen over the tracks at the bridge, and the 5:40 stood on Platform Six with its engine ticking as it cooled, and its driver, in his cap and his blue jacket, had stepped down from the cab and begun, for the first time in his life, to walk the whole length of the train.
 
 At the far end of the platform, on the bench under the pillar, as she had been every evening for eleven years, sat Sunita Verma.
 
-She was thirty-nine, a teacher, wry, resolute, with a cloth bag of exercise books on her knee and a tiffin carrier at her feet, and she did not look up as he came. She had learned, in eleven years, never to look up. It was a kind of discipline. The 5:40 went through Platform Six twice a day, and each time, as it passed her bench, the driver sounded his horn twice. It was not necessary. It was not in the regulations. It was a sort of sentence in a language that had two words and no grammar.
+She was thirty-nine, a teacher, wry, resolute, with a cloth bag of exercise books on her knee and a tiffin carrier at her feet, and she did not look up as he came. She had learned, in eleven years, never to look up. It was a kind of discipline. The 5:40 left Platform Six every evening, and each time, as it passed her bench, the driver sounded his horn twice. It was not necessary. It was not in the regulations. It was a sentence in a language that had two words and no grammar.
 
 "You have stopped," said Sunita.
 
@@ -13871,7 +13863,7 @@ Sunita, who had spent eleven years teaching children that there is no such thing
 
 "The bench," said Sunita Verma, "does not care."
 
-He sat. A respectful two feet of wood lay between them, and a third of a jalebi, and eleven years of platform. On the far bench, Neha Mehra took her photograph, and was heard to say softly, "*That's* the one." The rain, which had never entirely stopped since July, began again, drumming upon the great arched roof of the station like ten thousand patient fingers; and in a signal-box a mile away a man who had worked the points for forty years looked at a red light and, for reasons he could not have explained, decided to leave it red for a little longer.
+He sat. A respectful two feet of wood lay between them, and a third of a jalebi, and eleven years of platform. On the far bench, Neha Mehra took her photograph, and was heard to say softly, "*That's* the one." The rain, which had never entirely stopped since July, began again, drumming upon the great arched roof of the station; and in a signal-box a mile away a man who had worked the points for forty years looked at a red light and, for reasons he could not have explained, decided to leave it red for a little longer.
 
 ---
 
@@ -13879,7 +13871,7 @@ He sat. A respectful two feet of wood lay between them, and a third of a jalebi,
 
 > *Entry 0316 and Entry 0585. A cigarette is a very small fire. So is a word.*
 >
-> *Entry 0230 and Entry 0027: they did not leave the floor. Entry 0363 and Entry 0292: the signal stayed red a long while. And look, Keeper, the calendar has turned. The storm has used up its thunder. What comes next is a clearing.*
+> *Entry 0230 and Entry 0027: they did not leave the floor. Entry 0363 and Entry 0292: the signal stayed red a long while. And look: the calendar has turned. The storm has used up its thunder. What comes next is a clearing.*
 
 ---
 
@@ -13935,7 +13927,7 @@ The dark is not a wall; it is a guide.
 
 There is a particular kind of lunacy peculiar to Hokkaido, which is that in the coldest city in Japan, in the coldest week of the year, the people line up for ice cream.
 
-They line up at the shop of the Nakamura family, a narrow shop with a red awning and a painted cow, where the soft-serve is made of milk from a single farm, with a burnt-caramel swirl that nobody has ever been able to copy. The queue went out of the door and past the bicycle rack. It was held together by schoolchildren, elderly gentlemen with their hats pulled down, and a retired nurse of seventy-six named Haruto Shimizu, who had come every afternoon for four years and ordered one small cone, and who sat on the bench outside in his good coat, licking it with the dignity of a magistrate.
+They line up at the shop of the Nakamura family, a narrow shop with a red awning and a painted cow, where the soft-serve is made of milk from a single farm, with a burnt-caramel swirl that nobody has ever been able to copy. The queue went out of the door and past the bicycle rack. It was held together by schoolchildren, elderly gentlemen with their hats pulled down, and a retired nurse of seventy-six named Haruto Shimizu, who had come every afternoon for four years and ordered one small cone, and who sat on the bench outside in his good coat, licking it in perfect silence.
 
 Behind the counter, in a white cap and an apron stained with five seasons of caramel, was Yuki Nakamura.
 
@@ -13943,7 +13935,7 @@ She was thirty-five, cheerful and stubborn, and she had run the shop since her f
 
 "You have a visitor," said Nanami Hayashi, from the doorway.
 
-Nanami was forty-six, a chef, and the owner of the *izakaya* next door, a small fierce woman with arms like a stevedore's and a laugh like a pan dropped on a stone floor. She was fearless. She had once walked into bear country to retrieve a mushroom, and, as she told it, the bear had apologised. She also blamed herself for everything, with the cheerful *rage* of a woman who has never allowed another person to take the credit.
+Nanami was forty-six, a chef, and the owner of the *izakaya* next door, a small fierce woman with arms like a stevedore's and a laugh like a pan dropped on a stone floor. She had once walked into bear country to retrieve a mushroom and, as she told it, the bear had apologised. She also blamed herself for everything, and would not share the credit.
 
 "I do not have time for visitors."
 
@@ -13951,7 +13943,7 @@ Nanami was forty-six, a chef, and the owner of the *izakaya* next door, a small 
 
 "He is not *my* sculptor."
 
-"He is standing at the back door with a face like a man who has swallowed a snowball. He will not come in unless you ask him. Ask him in, Yuki, before I put him in the soup."
+"He is standing at the back door with the face of a man who has swallowed a snowball. He will not come in unless you ask him. Ask him in, Yuki, before I put him in the soup."
 
 He stood in the yard at the back, a lean man of thirty-seven with a long face and hands too large for his sleeves, in a heavy coat dusted with a fine grey powder that was not snow. Takumi Ishikawa had been a snow sculptor for fifteen years. Every February, at the great festival in the park, he built a crane, a castle, a tall Buddha with a patient face, from packed snow as high as a house; and every March it went back to water and ran down the drains of the city. He had made two hundred and eleven things, and had not one of them left.
 
@@ -13971,19 +13963,19 @@ Yuki Nakamura put down the scoop. She walked through the kitchen, past a tub of 
 
 On the back shelf, behind a crate of cream, in a nest of folded cloth, stood a small figure of ice.
 
-It was the size of a pear. It was perfectly clear. It was a woman's head and shoulders, turned a little to the side, with her mouth open and her eyes screwed shut and her nose wrinkled up, and it was laughing. It was the laugh of someone who is helpless with it, a laugh that comes up from the stomach and takes the whole face in its fist. It was cut with such tenderness that the freezer light seemed to hang in it like a drop of sun in a window.
+It was the size of a pear. It was perfectly clear. It was a woman's head and shoulders, turned a little to the side, with her mouth open and her eyes screwed shut and her nose wrinkled up, and it was laughing. It was the laugh of someone helpless with it, a laugh that comes up from the stomach and takes the whole face in its fist.
 
 It was, quite unmistakably, Yuki.
 
 "I made it in February," said Takumi, behind her. "Five years ago. At the festival. You gave me a cone because I was blue with cold, and I said something, I cannot remember what, and you laughed. I thought: *that will not be there tomorrow.* And so I made it before it could go. And then I did not want it to go. So I came to your shop with a story about a *shelf.*" His voice, which had never once failed him before a hundred thousand people, was thin. "Everything I make will melt. I have always known that. I did not want this one to."
 
-"You have been coming in here every month. For *five years.* You said you were checking the *temperature.*"
+"You have been coming in here every month. For *five years.* You said you were checking the temperature."
 
 "I was. Of it."
 
 Behind them a throat was cleared with gentleness and a faint tinge of triumph. Nanami Hayashi stood in the door of the kitchen, arms folded.
 
-"I found it in April," said Nanami. "I borrowed a corner of the shelf for a tray of scallops and it *looked* at me. I said to myself, who else laughs with her whole nose? I have been standing on that information for six months. I am not made for silence. I am a chef. When I know something, I *boil* it."
+"I found it in April," said Nanami. "I borrowed a corner of the shelf for a tray of scallops and it *looked* at me. Who else laughs with her whole nose? I have stood on that information for six months. I am not made for silence. When I know something, I *boil* it."
 
 "You *knew?*" said Yuki.
 
@@ -13993,7 +13985,7 @@ Behind them a throat was cleared with gentleness and a faint tinge of triumph. N
 
 "That," said Nanami, "is what I always say, and nobody ever agrees."
 
-Yuki Nakamura turned back to the shelf. She was a woman who laughed at everything, which is a trade like any other, and which, in her case, had been practised for years to keep a roof on a shop. She did not laugh now. She put out one finger and touched the cold cheek of the ice, and it was so cold that it burned, and left on the surface of the figure the smallest, clearest print.
+Yuki Nakamura turned back to the shelf. She laughed at everything, which is a trade like any other. She did not laugh now. She put out one finger and touched the cold cheek of the ice, and it was so cold that it burned, and left on the surface of the figure the smallest, clearest print.
 
 "It will melt," said Yuki, "if you take it out."
 
@@ -14011,7 +14003,7 @@ Yuki Nakamura turned back to the shelf. She was a woman who laughed at everythin
 
 "It will melt."
 
-"It's *October.*" She said it fiercely. She picked up the figure, in both hands, with the cloth, and carried it through the kitchen, through the back door, into the grey yard and the smell of coming weather, with Takumi following behind her like a man chasing an escaped bird.
+"It's *October.*" She said it fiercely. She picked up the figure, in both hands, with the cloth, and carried it through the kitchen, through the back door, into the grey yard and the smell of coming weather, with Takumi hurrying after her, arms half out, as if after an escaped bird.
 
 She set it on the doorstep.
 
@@ -14042,25 +14034,25 @@ The bride was eleven minutes late, which in a woman who had once marched across 
 
 "She is never *late,*" said Callum Brown, forty, euphonium, shy as a clam and best man, tugging at his collar. He had lost his speech in the car and been left with only the opening: *Friends.*
 
-"A bride," said Mr. George Lowe, forty-five, better known to the district as Pennywhistle, "is not late. She is *delayed by her own beauty.* I have written it into the poem." He patted his bulging breast pocket. He had come in a charity-shop tail-coat of which the left tail was an inch longer than the right, whistling a tune that was not a tune. "Nineteen stanzas. It does not rhyme *and* it does not scan, and it is the best thing I have ever written."
+"A bride," said Mr. George Lowe, sixty-eight, better known to the district as Pennywhistle, "is not late. She is *delayed by her own beauty.* I have written it into the poem." He patted his bulging breast pocket. He had come in a charity-shop tail-coat of which the left tail was an inch longer than the right, whistling a tune that was not a tune. "Nineteen stanzas. It does not rhyme *and* it does not scan, and it is the best thing I have ever written."
 
 "You will not disappoint us, Pennywhistle."
 
-"I have never been anything else," said the groom.
+"I have never been anything else," said Pennywhistle.
 
-William Hartley stood on the green in a suit that his mother had pressed so thoroughly it had developed a personality. He was thirty, a groundsman for the city parks, and the ground he stood on was not, in a manner of speaking, this ground at all.
+William Hartley stood on the green in a suit that his mother had pressed so thoroughly it had developed a personality. He was thirty, a groundsman for the city parks, and the ground he stood on was not, strictly, this ground at all.
 
-He had lifted it in the dark, with a spade. On the night before the diggers came to Marsden Road, he had cut the centre circle into four hundred squares of turf and carried them, one by one, to a van borrowed from a fishmonger named Harvey Clarke, which had smelled of haddock for a month. He had laid them that same week on the park's green, in a perfect circle, and told nobody. They had taken. The old black earth of a hundred years of Saturdays had put out its roots in a new place and held. And this was where he had chosen to be married.
+He had lifted it in the dark, with a spade. On the night before the diggers came to Marsden Road, he had cut the centre circle into four hundred squares of turf and carried them to a van borrowed from a fishmonger named Harvey Clarke, which had smelled of haddock for a month. He had laid them that same week on the park's green, in a perfect circle, and told nobody. They had taken. The old black earth of a hundred years of Saturdays had put out roots in a new place and held. This was where he had chosen to be married.
 
 "Is that *it?*" said a small voice at his elbow.
 
-Hannah Hughes, who was fourteen now and had a school blazer with the cuffs let down twice, was looking at the circle of dark turf with the dispassionate eye of a lifelong inspector. "It's smaller."
+Hannah Hughes, fourteen now, in a blazer with the cuffs let down twice, regarded the circle of dark turf with the eye of a lifelong inspector. "It's smaller."
 
 "Everything is smaller when you move it."
 
 "That's not true," said Hannah. "Poppy says the *note* is bigger." She considered. "She's here."
 
-She was. She came through the gap in the hedge on her mother's arm, and the thirty folding chairs rose with a sound like a flock lifting off a lake. Poppy Ashworth was twenty-nine, a school music teacher, loud in every way a woman can be; she wore a cream dress and Doc Martens, and carried, instead of flowers, a cornet, dented from a fall off a coach, its bell wrapped for the day in ivy and a yellow ribbon. Her mother, Lucy Wilson, fifty-nine, an airline captain in full uniform, treated every plan as a flight plan and had been heard to say to the vicar, "We are cleared for landing, Reverend, in three minutes. Please confirm the runway."
+She was. She came through the gap in the hedge on her mother's arm, and the thirty folding chairs rose with a sound like a flock lifting off a lake. Poppy Ashworth was twenty-nine, a school music teacher, loud in every way a woman can be; she wore a cream dress and Doc Martens, and carried, instead of flowers, a cornet dented from a fall off a coach, its bell wrapped in ivy and a yellow ribbon. Her mother, Lucy Wilson, fifty-nine, an airline captain in full uniform, treated every plan as a flight plan and had been heard to tell the vicar, "We are cleared for landing, Reverend, in three minutes. Please confirm the runway."
 
 "The *grass,*" said Poppy under her breath, at the edge of the circle. Her face crumpled, and uncrumpled. "William. You've brought the *pitch.*"
 
@@ -14072,7 +14064,7 @@ She was. She came through the gap in the hedge on her mother's arm, and the thir
 
 She put the cornet to her lip. She did not play. She looked at the dark circle at her feet with a face that said what a hundred speeches could not, and then she stepped over the edge of the turf onto the very place where she had, in the rain, in front of ten thousand people, held a note until the world forgot to breathe.
 
-They were married by the vicar, who was Methodist and brief. They were married in front of Grace Taylor, seventy-nine, retired pharmacist, whom Poppy had noticed at the back of the church hall every Wednesday for two years and never once seen speak to anyone, and who sat in the front row with her handbag on her knees, stiff as a duchess, and cried the whole way through without a sound. They were married with Hannah Hughes as official witness, who signed the register in green felt-tip with the tip of her tongue out, and with Hannah Brown the florist whispering to the neighbours that it was the *prettiest* bouquet she had ever done, though the bride had not carried it.
+They were married by the vicar, who was Methodist and brief. They were married in front of Grace Taylor, seventy-nine, retired pharmacist, whom Poppy had noticed at the back of the church hall every Wednesday for two years and never once seen speak to anyone, and who sat in the front row with her handbag on her knees, stiff as a duchess, and cried the whole way through without a sound. They were married with Hannah Hughes as official witness, who signed the register in green felt-tip with the tip of her tongue out, and with the florist, Mrs. Brown, whispering to the neighbours that it was the *prettiest* bouquet she had ever done, though the bride had not carried it.
 
 Then Pennywhistle read his poem.
 
@@ -14085,7 +14077,7 @@ It was, as promised, nineteen stanzas. It did not rhyme and did not scan. He had
 > Now they are wed. The tunnel's left behind.
 > And may all days be level. And be kind.*
 
-There was a silence, and then a roar, and then, from the back of the marquee, from a row of old men in maroon jackets gone the colour of wine, came a long, slow note on a trombone. And another. And the whole band, which had folded, and was a very good shape, stood up between the sandwiches and played, on a bowling green in the rain, the tune that Poppy had always said was too private, and which now, on the afternoon of her wedding, she raised her cornet to join.
+There was a silence, and then a roar, and then, from the back of the marquee, from a row of old men in maroon jackets gone the colour of wine, came a long, slow note on a trombone. And another. And the whole band, which had folded, and was a very good shape, stood up between the sandwiches and played the tune that Poppy had always said was too private; and she raised her cornet to join.
 
 William Hartley did not wave. He stood with his cap in his hand. He nodded, very slightly, across the grass.
 
@@ -14102,7 +14094,7 @@ William Hartley did not wave. He stood with his cap in his hand. He nodded, very
 
 The bride was late for her own henna night, because a baby had arrived early.
 
-"A midwife," Zainab Bello was explaining to the circle of aunts, "is the only bride in the world who may be late because *someone else* came sooner." Zainab was sixty-nine, a retired pharmacist and the greatest gossip in Kano; she held in her memory every marriage, scandal and recipe in four generations, and she held court on a mat with a glass of sweet *kunun* in one hand and an entire wedding in the other.
+"A midwife," Zainab Bello was explaining to the circle of aunts, "is the only bride who may be late because *someone else* came sooner." Zainab was sixty-nine, a retired headmistress and the greatest gossip in Kano; she held every marriage, scandal and recipe of four generations in her memory, and held court on a mat with a glass of sweet *kunun* in one hand and an entire wedding in the other.
 
 "She delivered a boy at dusk," said Aisha Danjuma, twenty-eight, a bus conductor, who hid her fears, as conductors do, in a joke. "The father wept. He named the baby *Yusuf.*"
 
@@ -14112,7 +14104,7 @@ The bride was late for her own henna night, because a baby had arrived early.
 
 "That will be *confusing,* in the register," said Zainab, with deep relish.
 
-In the doorway, with her sleeves still rolled and a smell of antiseptic about her, stood Hauwa Garba. She was thirty, resolute and tender, and her hands, which had caught four hundred and thirty-one babies, were shaking a little now, as the hands of the brave do when the work is over. She had walked home in the dusk past the dye-pits, where the great clay vats of indigo steamed in the last light like cauldrons in a story, and the wind that comes at the end of the rains had put the smell of rain on the red earth. She had not stopped to change.
+In the doorway, with her sleeves still rolled and a smell of antiseptic about her, stood Hauwa Garba. She was thirty, resolute and tender, and her hands, which had caught four hundred and thirty-one babies, were shaking a little now, as the hands of the brave do when the work is over. She had walked home in the dusk past the dye-pits, where the great clay vats of indigo steamed in the last light, and she had not stopped to change.
 
 At the other end of the courtyard, on a stool, in a white *babban riga,* sat the old man who would give her away. Bashir Garba was eighty-six, a retired kiosk-keeper, her grandfather, and absent-minded to the point of poetry. As she came into the light he looked up, and his face cleared, as a window clears when the cloth is drawn across.
 
@@ -14126,14 +14118,14 @@ At the other end of the courtyard, on a stool, in a white *babban riga,* sat the
 
 "Do," said Bashir. "It has only one verse."
 
-It was permitted. The next morning, in the great mosque, after prayer, before two hundred men in white, with the Malam Sani Lawal, forty-four and patient as the earth, seated with the book open on his knee, it was Bashir Garba who gave his granddaughter to the tailor who had spent a year of nights sewing her a dress. He gave her in the proper words, with the dower named and the groom's consent heard three times. And then, because the Malam bowed his head, and nobody in that hall wished to be the man to forbid it, the grandfather stood, lifted his chin, and in a thin and cracked and perfectly pitched old voice, to the roof of a mosque that had heard a thousand years of prayer, sang his one verse:
+It was permitted. The next morning, in the great mosque, after prayer, before two hundred men in white, with Malam Sani Lawal, forty-four and patient as the earth, seated with the book open on his knee, it was Bashir Garba who gave his granddaughter to the tailor who had spent a year of nights sewing her a dress. He gave her in the proper words, with the dower named and the groom's consent heard three times. And then, because the Malam bowed his head, and nobody wished to be the man to forbid it, the grandfather stood, lifted his chin, and in a thin and cracked and perfectly pitched old voice, to the arches of a mosque that had heard centuries of prayer, sang his one verse:
 
 > *I sold the sweets of other men's delights
 > Through sixty years of days and sixty nights.
 > Now one sweet thing is mine, and I have none
 > To give her but a song. Let that be done.*
 
-When the last note went out, the Malam was seen to put one hand across his eyes. Yusuf Abdullahi, thirty-three, tailor, devout and modest, who had not looked up from the ground the whole of the ceremony, looked up. He had sat at a treadle machine for fifteen years sewing the dresses of other people's happiness, and had never made a thing for himself. His lip shook, and he said *Alhamdulillah,* very low, like a man setting down a long burden, and two hundred men said it after him, and it went up like a wave.
+When the last note went out, the Malam was seen to put one hand across his eyes. Yusuf Abdullahi, thirty-three, tailor, devout and modest, who had not looked up from the ground the whole of the ceremony, looked up. He had sat at a treadle machine for fifteen years sewing other people's happiness, and had never made a thing for himself. His lip shook, and he said *Alhamdulillah,* very low, like a man setting down a long burden, and two hundred men said it after him, and it went up like a wave.
 
 ---
 
@@ -14145,7 +14137,7 @@ The dress was blue and gold. It had been cut, a year before, for a wedding that 
 
 "It was cut for me," said Hauwa. "I knew whose dress it was, and I waited. It was the only thing in the whole business that was never a mistake."
 
-When she came out into the courtyard, hennaed hands held before her, the singing went up. The tailor stood in the lamplight with the ring-maker at his shoulder: Aminu Yakubu, fifty, goldsmith, comic, a man who could not apologise and who had been arguing for a week that the bride's finger was the wrong size.
+When she came out into the courtyard, hennaed hands held before her, the singing went up. The tailor stood in the lamplight with the ring-maker at his shoulder: Aminu Yakubu, fifty, goldsmith, comic, a comic, who had been arguing for a week that the bride's finger was the wrong size and could not, on principle, apologise.
 
 "I have made it *exactly* to the measure," said Aminu, handing the gold band to the groom.
 
@@ -14186,9 +14178,9 @@ The whole compound laughed until the old man on the stool had to be fanned, and 
 ### SCENE I
 *Havana, Cuba. A cigar factory in the old city, ten o'clock in the morning. A long hall of high windows and tall green shutters; two hundred wooden tables; the smell of cured leaf, which is the smell of a very old library that has been set gently on fire.*
 
-At the head of the hall, on a little raised platform with a lamp and a glass of water, the director of the factory was reading the newspaper aloud to the rollers.
+At the head of the hall, on a little raised platform with a lamp and a glass of water, the factory's reader was reading the newspaper aloud to the rollers. On Fridays the reader was the director, who would let nobody else.
 
-It is an old Havana custom, and the hall was proud of it. For a hundred and fifty years a reader has sat above the tables and read to the workers while they work: the papers first, then a novel, a chapter a day, so that a man might spend thirty years rolling cigars and come out having heard all of Dumas twice. The director, Yoel Cabrera, fifty-five, had been a newsagent in Trinidad before the factory made him its master; he was bookish, and hopeless with time; and he read the headlines with such relish, and at such length, that the rollers depended on him as on weather.
+It is an old Havana custom, and the hall was proud of it. For a hundred and fifty years a reader has sat above the tables and read to the workers while they work: the papers first, then a novel, a chapter a day, so that a man might spend thirty years rolling cigars and come out having heard all of Dumas twice. The director, Yoel Cabrera, fifty-five, had been a newsagent in Trinidad before the factory made him its master; he was bookish, hopeless with time, and read the headlines with such relish that the rollers depended on him as on weather.
 
 At the fourth table from the window, under the great fan, a man of forty-four rolled a cigar.
 
@@ -14196,19 +14188,17 @@ Héctor Álvarez did it as he had done it for twenty-six years, with the round b
 
 He had done it for six years. He had sent out, by his own count, four thousand and twelve.
 
-"You have a face like a man composing," said Armando Delgado from the next table, thirty-three, a journalist, loyal, restless, and quite unable to say he was sorry for anything. "You are rolling a *sonnet.* I have a column in the paper. *The Cigar Roller Who Writes to Strangers.* Four hundred words and a photograph."
+"You have the face of a man composing," said Armando Delgado from the next table, thirty-three, a journalist, loyal, restless, and shameless. "You are rolling a *sonnet.* I have a column in the paper. *The Cigar Roller Who Writes to Strangers.* Four hundred words and a photograph."
 
 "Armando."
 
 "I am not apologising for the idea."
 
-"Nobody has asked you to."
-
-"Good, because I am not going to," said Armando, and bent to his leaf.
+"Nobody has asked you to," said Héctor, and bent to his leaf.
 
 On the platform, Yoel Cabrera, who had reached the sporting results with unstoppable joy, said without looking up: "Is that a visitor at the door?"
 
-It was a woman. She was forty-one, in a plain blue dress, with a canvas bag on her shoulder and a battered letter in her hand, and she stood in the doorway with her back very straight, as people stand who have rehearsed a speech on a bus and forgotten it at the door. Her name was Rosa Hernández. She taught nine-year-olds at a school on the Malecón, and read aloud to them every Sunday evening on the sea-wall from a green book with a broken spine, because her classroom had no roof worth the name and the sea was free.
+It was a woman. She was forty-one, in a plain blue dress, with a canvas bag on her shoulder and a battered letter in her hand, and she stood in the doorway with her back very straight, like someone who has rehearsed a speech on a bus and forgotten it at the door. Her name was Rosa Hernández. She taught nine-year-olds at a school on the Malecón, and read aloud to them every Sunday evening on the sea-wall from a green book with a broken spine, because her classroom had no roof worth the name and the sea was free.
 
 "Excuse me," said Rosa. "I am looking for the man who writes the notes."
 
@@ -14228,7 +14218,7 @@ And then, in the fourth row, a man put down a blade.
 
 "It rhymes."
 
-"Only a little. It is the only thing about it I am proud of." He stood up, wiping his hands on his apron, a lean man with a grey streak in his hair and a face that was all at once, to his own astonishment, the colour of the leaf. "I saw you once. Six years ago. I was walking along the wall with a box under my arm, and a woman was reading to a ring of children, and they were so quiet that a wave came over the wall and nobody *moved.* I stopped. And I thought, *somebody should say to that woman that she has been seen.* And I had a pen. And I had, in the box under my arm, a place to put it."
+"Only a little. It is the only thing about it I am proud of." He stood up, wiping his hands on his apron, a lean man with a grey streak in his hair and a face that had, to his own astonishment, turned the colour of the leaf. "I saw you once. Six years ago. I was walking along the wall with a box under my arm, and a woman was reading to a ring of children, and they were so quiet that a wave came over the wall and nobody *moved.* I thought, *somebody should say to that woman that she has been seen.* And I had a pen. And I had, in the box under my arm, a place to put it."
 
 "Six years," said Rosa.
 
@@ -14238,13 +14228,13 @@ And then, in the fourth row, a man put down a blade.
 
 "I know it *now,*" said Héctor. "I am very pleased with it."
 
-There was a roar from the hall, the roar of two hundred cigar-rollers who have kept a secret for six years and would have died rather than tell. Armando Delgado, scarlet, leapt up on his stool and shouted, "I *knew* about it," and Yoel Cabrera, from the platform, said, with the air of one confronted by news of the greatest importance, "Madam, would you care to *read* it? Aloud. It is the custom. I am a newsagent. I recognise a headline."
+There was a roar from the hall, the roar of two hundred cigar-rollers who have kept a secret for six years and would have died rather than tell. Armando Delgado, scarlet, leapt up on his stool and shouted, "I *knew* about it," and Yoel Cabrera, from the platform, said, with the air of a man handed a headline, "Madam, would you care to *read* it? Aloud. It is the custom. I am a newsagent. I recognise a headline."
 
 "But it is *his,*" said Rosa.
 
-"A note," said Yoel, "that has crossed the Atlantic twice has the right to be heard."
+"A note that has crossed the Atlantic twice," said Yoel, "has the right to be heard."
 
-She did not know afterwards how she got up the three steps. She stood above two hundred tables and the great fan turning, with a scrap of paper in her hand, and found that the habit of reading aloud came to her aid as a handrail comes to an old person on a stair. She read it, as she read everything, steadily, to the back of the room. And the thing she read was this:
+She did not know afterwards how she got up the three steps. She stood above two hundred tables and the great fan turning, and found that the habit of reading aloud was a handrail. She read it, as she read everything, steadily, to the back of the room. And the thing she read was this:
 
 > *I do not know your name or street,
 > Nor if your coffee's sour or sweet;
@@ -14255,7 +14245,7 @@ She did not know afterwards how she got up the three steps. She stood above two 
 > To say what I have never said:
 > That someone sees you, and has read.*
 
-When she had finished, nobody spoke for a time. The fan turned. In the fourth row, an old man of seventy-five who had been Héctor's master, Raúl Delgado, who dreamed through most of the day and woke only at crises, lifted his head and murmured, quite distinctly: "At last."
+When she had finished, nobody spoke for a time. The fan turned. In the fourth row, Héctor's old master, Raúl Delgado, seventy-five, who dreamed through most of the day and woke only at crises, lifted his head and murmured, quite distinctly: "At last."
 
 "I have to tell you," said Rosa Hernández, from the platform, to the whole hall and to one man in an apron, "that I am not an easy woman. My sister left. She is in Madrid. I am still deciding if I may follow. I do not know if the answer is *here.*"
 
@@ -14263,7 +14253,7 @@ When she had finished, nobody spoke for a time. The fan turned. In the fourth ro
 
 "I know. That is why I am saying it."
 
-"Then say it again, on Sunday. On the wall. To the children. They will want to know about the man." He swallowed. "I will come. I will stand a long way back. I will not say anything. A wave may come over the wall. I should like to see what you do."
+"Then say it again, on Sunday. On the wall. To the children." He swallowed. "I will come. I will stand a long way back. I will not say anything. A wave may come over the wall. I should like to see what you do."
 
 "I shall go on reading," said Rosa.
 
@@ -14276,23 +14266,23 @@ When she had finished, nobody spoke for a time. The fan turned. In the fourth ro
 
 The star was red.
 
-It was a five-pointed lantern of bamboo and paper, the kind that children carry at the Mid-Autumn Festival, with a candle in the middle and a thin red glow that makes the skin of whoever holds it look briefly well. Hà Trần had made ten thousand lanterns in her life. She made them in a workshop in Huế that smelled of paste and cut bamboo, by a method her grandmother taught her, and she was twenty-seven, and gentle, and luminous, and she was dying; and she had wished, as one wishes the last wish of a long list, to make one more.
+It was a five-pointed lantern of bamboo and paper, the kind that children carry at the Mid-Autumn Festival, with a candle in the middle and a thin red glow that makes the skin of whoever holds it look briefly well. Hà Trần had made ten thousand lanterns in her life, in a workshop in Huế that smelled of paste and cut bamboo, by a method her grandmother taught her. She was twenty-seven, gentle, luminous, and dying; and she had wished, as one makes the last wish on a long list, to make one more.
 
 "I did not want to be pitied," said Hà.
 
 "I know," said Quân.
 
-"I want you to remember I said it. Before anything else. I told you, on the first day, the day I did not tell you. I do not want people to look at me as though I were something to be sorry for."
+"I want you to remember I said it. I do not want people to look at me as though I were something to be sorry for."
 
 "I am not looking at you that way."
 
 "How are you looking at me?"
 
-"Like a man," said Quân Nguyễn, twenty-eight, street photographer, restless, romantic, and entirely out of excuses, "who has four hundred and twelve pictures of you in a box in Hanoi, and has never shown you one."
+"Like a man," said Quân Nguyễn, twenty-eight, street photographer, entirely out of excuses, "who has four hundred and twelve pictures of you in a box in Hanoi, and has never shown you one."
 
 She stood still. Beside her on the quay, Hương Bùi, thirty-six, a carpenter and her best friend, who had built the little wooden boat with her own hands and cried quietly over every plank, stepped back a pace into the shadows.
 
-"I took them every day," said Quân. "Since the first morning. You were folding paper at the window and you did not see me. I told myself it was work. But you were *never* on the street, Hà. You were in the window. I was only looking in." His voice cracked. "I never showed you because I thought if you saw how I saw you, you would know. And then you would be sorry for *me,* and I could not bear it."
+"I took them every day," said Quân. "Since the first morning. You were folding paper at the window and you did not see me. I told myself it was work. But you were *never* on the street, Hà. You were in the window. I was only looking in." His voice cracked. "I never showed you because I thought you would know. And then you would be sorry for *me,* and I could not bear it."
 
 "Show me."
 
@@ -14300,17 +14290,17 @@ She stood still. Beside her on the quay, Hương Bùi, thirty-six, a carpenter a
 
 "Yes, you have." She smiled at him, and for a moment, under the red of the star, the illness was not in her face at all. "You have been carrying that bag since Hanoi. Show me, Quân."
 
-It was a flat box, in an oilcloth bag. He opened it on the stone beside the river, and the first print was of a young woman at a window in the thin gold light of early morning, with a strip of bamboo between her teeth and a paste-brush in one hand, completely intent; and the second, of the same woman, laughing at something out of the frame; and the third, her hands alone, the light moving through the thin paper; and the hundredth. She looked at every one. It took a long time. Behind them the festival went on, with its drums and its dragon-dancers and its smoke of burnt paper, and the river glowed with floating flowers.
+It was a flat box, in an oilcloth bag. He opened it on the stone beside the river, and the first print was of a young woman at a window in the thin gold light of early morning, with a strip of bamboo between her teeth and a paste-brush in one hand, completely intent; and the second, of the same woman, laughing at something out of the frame; and the third, her hands alone, the light moving through the thin paper; and the hundredth. She looked at every one. It took a long time. Behind them the festival went on, with drums and dragon-dancers.
 
 "I look," said Hà, at last, very slowly, "like someone who is not afraid."
 
 "You are not."
 
-"No." She put the last print down, carefully, with the others. "No, I do not think I am. Isn't that odd? I thought I should be. And then I was not, and I did not know where it had gone. It is *here.* In these. It is the way you look. I did not know a person could be looked at like that and be well."
+"No." She put the last print down, carefully, with the others. "No, I do not think I am. Isn't that odd? I thought I should be, and I did not know where it had gone. It is *here.* In these. I did not know a person could be looked at like that and be well."
 
 She knelt, then, with a care that cost her, and lit the candle in the middle of the star. The red light came up and lit her face. Then Hương, without a word, slid the little boat into the water; and Hà set the lantern in it; and the river took it, as rivers do.
 
-It was not the best lantern she had ever made. It was a little crooked at the third point, where her hand had trembled. But it floated out into the black water beside ten thousand others, a small red star among stars, and caught, on its slow way down towards the sea, the light of the full moon, so that for a moment it seemed to be two.
+It was not the best lantern she had ever made. It was a little crooked at the third point, where her hand had trembled. But it floated out into the black water beside ten thousand others, a small red star among stars, and caught the light of the full moon, so that for a moment it seemed to be two.
 
 "Do not photograph this one," said Hà.
 
@@ -14331,27 +14321,27 @@ They are there still.
 
 For twenty years Youssef Benali had sold spices by memory.
 
-It was a remarkable accomplishment, and he had hidden it with great skill. He knew a hundred and forty spices by smell and colour and the weight of a handful, and the exact blend of the *ras el hanout* his father had sold, which had thirty-one ingredients and was said to turn bad news to good. What he did not know, because no one had ever been patient enough to teach him and he had been too proud to ask, was how to read the words on the sacks.
+It was a remarkable accomplishment, and he had hidden it with great skill. He knew a hundred and forty spices by smell and colour and the weight of a handful, and the exact blend of the *ras el hanout* his father had sold, which had twenty-seven ingredients and was said to turn bad news to good. What he did not know, because no one had ever been patient enough to teach him and he had been too proud to ask, was how to read the words on the sacks.
 
 Today, he was going to read a letter.
 
 "Do not look at me," said Youssef.
 
-"I am not looking at you," said Salma Idrissi, twenty-eight, calligrapher, exacting and kind, who stood at the counter with her hands behind her back and her whole attention on him, as a clock is not looking at a pendulum. "I'd like a quarter-kilo of patience."
+"I am not looking at you," said Salma Idrissi, twenty-eight, calligrapher, exacting and kind, who stood at the counter with her hands behind her back and her whole attention on him, in the way a clock is not looking at a pendulum. "I'd like a quarter-kilo of patience."
 
 "We have run out."
 
 "Then read."
 
-He held the paper at arm's length, in both hands, as one holds something that might go off. It was a half-sheet of thick cream, and on it, in black ink, in a hand that began rather bravely and grew less sure toward the foot, were forty-one words in Arabic. They had been written in ten days, with a reed pen she had given him, every stroke traced seventeen times in a notebook, in the back room of his shop, at night, under a single bulb.
+He held the paper at arm's length, in both hands, as if it might go off. It was a half-sheet of thick cream, and on it, in black ink, in a hand that began rather bravely and grew less sure toward the foot, were forty-one words in Arabic. They had been written in ten days, with a reed pen she had given him, every stroke traced seventeen times in a notebook, in the back room of his shop, at night, under a single bulb.
 
-On a pile of cumin sacks sat Mehdi Bennani, thirty-six, clockmender, bookish, and self-appointed examiner, the only man in the Medina who could be trusted to be unkind to the truth. Beside him sat Madame Khadija Tazi, sixty-nine, retired judge, soft-spoken, who had spent thirty years deciding whether men were telling the truth, and who sat with her hands folded, listening, with grave courtesy.
+On a pile of cumin sacks sat Mehdi Bennani, thirty-six, clockmender and self-appointed examiner, the only man in the Medina who could be trusted to be unkind to the truth. Beside him sat Madame Khadija Tazi, sixty-nine, retired judge, who had spent thirty years deciding whether men were telling the truth, and who listened with her hands folded and grave courtesy.
 
 "I shall read it now," said Youssef.
 
 "Do," said Madame Tazi gently.
 
-He read it. He read it slowly, one word at a time, with his finger moving under each line, in the honeyed voice that for twenty years had persuaded Frenchwomen to buy saffron they did not want. He stumbled at the seventh word. He went back. He stumbled at the nineteenth, and went back again; and the Keeper, who has the whole page before her, tells you only that when he reached the end his voice was not the honeyed one any more but a plain, shaken, boyish one that belonged to nobody but himself:
+He read it slowly, one word at a time, with his finger moving under each line, in the honeyed voice that for twenty years had persuaded Frenchwomen to buy saffron they did not want. He stumbled at the seventh word, and went back. He stumbled at the nineteenth, and went back again; and the Keeper tells you only that when he reached the end his voice was no longer the honeyed one but a plain, shaken, boyish one that belonged to nobody but himself:
 
 > *I could not read until I met you.
 > I could not write. I hid it well.
@@ -14366,7 +14356,7 @@ He read it. He read it slowly, one word at a time, with his finger moving under 
 
 "Thirty-one of the forty-one words are *correctly spelled.* The rest are *artistic.*" He sniffed. "I am not impressed."
 
-"It is a *start,*" said Salma. Her eyes were shining, and her voice, usually so exact, was not exact at all. "It is *more* than I wrote in my first year. I wrote *one.* And the one was wrong." She took the paper from him and held it against her chest. "Youssef. I would teach you every letter, if you asked."
+"It is a *start,*" said Salma. Her eyes were shining, and her voice, usually so exact, was not exact at all. "It is *more* than I wrote in my first year." She took the paper from him and held it against her chest. "Youssef. I would teach you every letter, if you asked."
 
 "I am asking."
 
@@ -14374,7 +14364,7 @@ He read it. He read it slowly, one word at a time, with his finger moving under 
 
 "I have never been so frightened in my life," said Youssef Benali, "and I would like to do it every morning."
 
-Madame Tazi, who had heard ten thousand confessions and was a woman of few words, rose, and shook out her robe, and said to the entire shop, to the saffron and the cumin and the cones of orange peel, in the dry, kind voice of the Bench: "The court finds that the accused is *not guilty,* and that the prosecution is in love."
+Madame Tazi, who had heard ten thousand confessions and was a woman of few words, rose, shook out her robe, and said to the entire shop, to the saffron and the cumin, in the dry, kind voice of the Bench: "The court finds that the accused is *not guilty,* and that the prosecution is in love."
 
 ---
 
@@ -14387,21 +14377,21 @@ They had come to witness, and they did it as they did everything: in unison.
 
 "*LATE,*" said the other ten.
 
-The first was Quaye, a man of sixty with a face like a boiled sweet, who had driven for Kwame Mensah for nine years and spoke, when he spoke, for the whole fleet; and the fleet repeated the last word of every sentence, like a Greek chorus that had learned its trade from a minibus. They were known throughout Accra as the Taxi-Chorus.
+The first was Quaye, a man of sixty with a face like a boiled sweet, who had driven for Kwame Mensah for nine years and spoke, when he spoke, for the whole fleet; and the fleet repeated the last word of every sentence, a Greek chorus schooled in minibuses. They were known throughout Accra as the Taxi-Chorus.
 
 "He is not late," said a voice from the gate. "He is *taking the long way.*"
 
 "*WAY,*" said the Chorus.
 
-Kwame Mensah, thirty-one, taxi-fleet owner, generous with strangers and stingy with feeling, stood in the gateway in a kente cloth of gold and black with his uncles at his back and a bottle of schnapps in his hands, looking like a man being driven to his own execution at sixty kilometres an hour.
+Kwame Mensah, thirty-one, taxi-fleet owner, generous with strangers and stingy with feeling, stood in the gateway in a kente cloth of gold and black, his uncles at his back and a bottle of schnapps in his hands, looking as if he were being driven to his own execution at sixty kilometres an hour.
 
-A knocking ceremony is how a Ghanaian marriage begins. The groom's family comes to the bride's door and *knocks.* They are let in. The bride's spokesman, an *okyeame* with a gold-topped staff, asks their business; the drinks are brought; the list is read. There is a great deal of ritual and a great deal of laughter. But there is also a moment of silence at the heart of it, when the father of the bride is asked whether he consents.
+A knocking ceremony is how a Ghanaian marriage begins. The groom's family comes to the bride's door and *knocks.* They are let in. The bride's spokesman, an *okyeame* with a gold-topped staff, asks their business; the drinks are brought; the list is read. There is a great deal of laughter. But there is also a moment of silence at the heart of it, when the father of the bride is asked whether he consents.
 
 Abena Owusu's father stood up.
 
-He was sixty-two, Kojo Darko, a lawyer, and suspicious by trade. He had not spoken to Kwame Mensah in six years, since the day a debt of the family's was found to have been paid by a person who would not be named, and the family had been told the creditor had forgiven it. In Accra such things are known. Everybody knows who pays what. And nobody says.
+He was sixty-two, Kojo Darko, a lawyer, and suspicious by trade. He had not spoken to Kwame Mensah in six years, since a debt of the family's was found to have been paid by a person who would not be named, and the family was told the creditor had forgiven it. In Accra everybody knows who pays what. And nobody says.
 
-He walked to the middle of the room, through the chairs and the drinks and the eleven yellow shirts. He had in his hand a brown envelope. He held it out to the groom.
+He walked to the middle of the room, through the chairs and the drinks and the eleven yellow shirts, with a brown envelope in his hand, and held it out to the groom.
 
 "It is the sum," said Kojo Darko.
 
@@ -14423,7 +14413,7 @@ And Kwame Mensah, who had never in his life been out of arguments, opened his mo
 
 "I am a *pharmacist,*" said Abena. "I would have marched in here with a *ledger.*"
 
-The room, which had been holding its breath for the length of a funeral, broke into laughter and weeping and the great boom of the *okyeame's* voice, shouting that it was *settled.* Kwame took the envelope. He counted it, in the middle of the room, in front of everybody, note by note, with the expression of a man doing the hardest sum of his life; and when he had finished, he said, in a voice quite steady:
+The room broke into laughter and weeping and the great boom of the *okyeame's* voice, shouting that it was *settled.* Kwame took the envelope. He counted it, in the middle of the room, in front of everybody, note by note, with the face of a man doing the hardest sum of his life; and when he had finished, he said, in a voice quite steady:
 
 "It is correct."
 
@@ -14443,7 +14433,7 @@ And at the wall, eleven men in yellow shirts broke formation for the first and l
 
 *Margin note, in pencil, in the hand of S.W.R.:*
 
-> *Entry 0207 and Entry 0364. A note put under a lid goes round the world and comes home. Entry 0439 and Entry 0502: he reads the words he could not. Entry 0625 and Entry 0941: a debt paid in silence is a love letter written in another currency.*
+> *Entry 0207 and Entry 0364. A note put under a lid goes round the world and comes home. Entry 0439 and Entry 0502: he reads the words he could not. Entry 0625 and Entry 0941: a debt paid in silence is a letter written in another currency.*
 >
 > *Entry 0469. I have read your four hundred and twelve photographs, little lantern-maker. You were never once pitied. You were looked at, which is rarer, and which is better. The light on the river was yours. Let it burn.*
 >
@@ -14501,7 +14491,7 @@ Rahim Chowdhury, foreman, thirty-three, stood at the foot of the cliff with a ga
 
 "The helmet is hot," Rahim agreed, "and the alternative is a hot head with a cold floor beneath it. Put it on."
 
-The men laughed, because it is the privilege of the poor to laugh at the rules that keep them alive. But they put the helmets on. They called it *Rahim bhai's school*, and in the evening they sometimes called it other things, but they came to school.
+The men laughed, because it is the privilege of the poor to laugh at the rules that keep them alive. But they put the helmets on. They called it *Rahim bhai's school*, and in the evening they sometimes called it other things, but they came.
 
 For there had been a morning, eleven months before, when he had not been so strict. A plate of hull steel, long as a bus and thick as a door, had been cut free by a man who had been told the compartment behind it was cleared. It was not cleared. A pocket of gas, a spark. And a young cutter from the north named Jamal Uddin, twenty-two, six weeks on the yard, was standing where the plate came down.
 
@@ -14509,7 +14499,7 @@ Rahim had signed the permit. That is the whole of the story, and it takes three 
 
 "Tea, bhai?"
 
-It was Nayeem, who kept the canteen under the tarpaulin, a thin, anxious, kindly man from Dhaka who had once been a waiter in a hotel with chandeliers and now served biscuits to men who wore sandals made of tyres. He was fifty-two, absent-minded in the manner of a man whose mind is always somewhere more interesting, and he held out a glass, steaming.
+It was Nayeem, who kept the canteen under the tarpaulin, a thin, anxious, kindly man from Dhaka who had once been a waiter in a hotel with chandeliers and now served biscuits to men in sandals made of tyres. He was fifty-two and absent-minded, and he held out a glass, steaming.
 
 "Not now."
 
@@ -14521,9 +14511,9 @@ It was Nayeem, who kept the canteen under the tarpaulin, a thin, anxious, kindly
 
 "Out of spite."
 
-"Ah. It is very sustaining. But it does not warm the hands." He pushed the glass into Rahim's hand, since a thing refused is only a thing postponed, and added, quite casually, as he turned away: "A man cannot carry a thing like you carry it, bhai. Unless he is waiting for somebody to take it off him. I have noticed this about *trays.*"
+"Ah. It sustains. But it does not warm the hands." He pushed the glass into Rahim's hand, since a thing refused is only a thing postponed, and added, quite casually, as he turned away: "You say *not now* like a man putting a lid on a pot. Nobody carries a thing like that, bhai, unless he is waiting for somebody to take it off him. I have noticed this, being a man who carries trays."
 
-Rahim looked at the tea. Then at the vast red ship. Then at the sea, which had gone very far out, and which, at that hour, looked like a thing that had given up all argument.
+Rahim looked at the tea. Then at the vast red ship. Then at the sea, which had gone very far out and looked like something that had given up all argument.
 
 He drank the tea. It was, God forgive him, very good.
 
@@ -14546,7 +14536,7 @@ Under the tin roof of the garden dispensary, Dr. Nusrat Jahan, twenty-nine, was 
 
 "Excellent."
 
-She was the only doctor for three thousand pluckers and their children, in a garden that ran along the green hills like a stitched cloth, and she had come to it at twenty-five with a stethoscope and a conviction that she would stay two years. That was four years ago. She had in her time lanced, stitched, vaccinated, scolded and been given in thanks three hundred and eleven pineapples.
+She was the only doctor for three thousand pluckers and their children, in a garden that ran along the green hills like a stitched cloth, and she had come to it at twenty-five with a stethoscope and a conviction that she would stay two years. That was four years ago. She had lanced, stitched, vaccinated, scolded, and been given in thanks three hundred and eleven pineapples.
 
 She healed everyone. It was her profession, and also, as she sometimes admitted in the small hours when the rain was loud, her hiding-place.
 
@@ -14554,17 +14544,17 @@ When the wrist was set and the family gone, she washed her hands and found a wom
 
 "Rokeya apa," said Nusrat. "Is it Mitu again? Is the fever back?"
 
-"No, doctor-apa. It is the other thing." The woman, who was perhaps thirty and looked forty, held out the tin. "Will you read it? You read well. I cannot. I have asked the boy in the post office, but he reads aloud, and the whole market—"
+"No, doctor-apa. It is the other thing." The woman, who was perhaps thirty and looked forty, held out the tin. "Will you read them? You read well. I cannot. I have asked the boy in the post office, but he reads aloud, and the whole market—"
 
-The tin contained eleven small slips of paper, each a little rubbed at the folds. Money-order receipts. The money had come every month for eleven months, three thousand taka, precisely, on the ninth. It had come, said Rokeya, after her husband had gone to the yards in Chittagong to earn for the children, and died there, on the ship, on a day with no warning.
+The tin held eleven small slips of paper, each rubbed at the folds: money-order receipts. The money had come every month for eleven months, three thousand taka, precisely, on the ninth. It had begun, said Rokeya, after her husband went to the yards in Chittagong to earn for the children, and died there, on a day with no warning.
 
 "I thought it was from the owner," said Rokeya. "But the owner sent the first money, with a letter that said *regret.* This one says nothing. I do not like a thing that gives and says nothing, doctor. It is like a man who stands at your gate at night and does not knock."
 
 Nusrat turned the slips over. On every one the sender's block, in the same flat, careful, upright hand: *R. Chowdhury, Fauzdarhat, Chittagong.*
 
-She did not say anything for a time. The rain went on.
+She said nothing for a time. The rain went on.
 
-That night, when the lamp was low and the wards asleep, she opened the laptop which the district council had given her for vaccination forms, and, being a doctor, who must know the cause before the cure, she typed into the search bar of the Register of Black Stars the single word *Chittagong.*
+That night, when the lamp was low and the wards asleep, she opened the laptop the district council had given her for vaccination forms and, being a doctor, who must know the cause before the cure, typed into the search bar of the Register of Black Stars the single word *Chittagong.*
 
 Nineteen entries.
 
@@ -14573,9 +14563,9 @@ The fourteenth said:
 **ENTRY 0618 — Chittagong, Bangladesh.**
 ***"A man died on my watch and I have not forgiven myself."***
 
-She read it, and she sat quite still, and her heart, which was a professional heart and generally kept regular hours, went off the rails.
+She read it, and sat quite still, and her heart, which was a professional heart and generally kept regular hours, went off the rails.
 
-She wrote, which she should not have done, because a doctor should not meddle in what she cannot cure. But she wrote:
+She wrote, which she should not have done, because a doctor should not meddle in what she cannot cure:
 
 > *To the writer of Entry 0618, from the writer of Entry 0083. A woman in Sreemangal has a tin box with eleven receipts and a question. She does not want money. She wants to know who it is that stands at her gate and does not knock. I think, perhaps, you could knock. — N.J.*
 
@@ -14588,7 +14578,7 @@ She sent it. Above her a gecko hung motionless in the lamplight with the air of 
 ### SCENE III
 *Naples. A pizzeria on a street so narrow that the washing on one side may be borrowed from the other. A table, six chairs, a menu, a war.*
 
-Meanwhile, at the other end of the sea, a different kind of feud was being settled by a different kind of tribunal: the planning of a wedding.
+Meanwhile, at the other end of the world, a different feud was being settled by a different tribunal: the planning of a wedding.
 
 "The pizza," said Alessandro Greco, thirty-three, pizzaiolo, "is the *first* course. It has been the first course since Naples was Naples."
 
@@ -14602,7 +14592,7 @@ Meanwhile, at the other end of the sea, a different kind of feud was being settl
 
 "With *sorrow*," said Chiara, "and *flour.*"
 
-At the head of the table sat Paolo Ricci, thirty, choir director and cousin to both families by one of those Neapolitan marriages whose branches have not been traced since the Bourbons, writing it all down on a napkin. He believed that a thing written became true, which is also the belief of governments.
+At the head of the table sat Paolo Ricci, thirty, choir director and cousin to both families by one of those Neapolitan marriages whose branches have not been traced since the Bourbons, writing it all down on a napkin. He believed that a thing written became true, as governments do.
 
 "A *concordat,*" said Paolo. "Pizza first, pastry last, and in the middle the pasta, over which no one has any feelings."
 
@@ -14620,7 +14610,7 @@ The two cooks looked at each other as they had a year before, when she had come 
 
 "I said it was *musical,*" said Paolo, wounded.
 
-Behind the bar, an old woman who had been polishing one glass for eleven minutes remarked that in her day a wedding was settled by the mothers in one afternoon. Nobody heard her. The old are the great prophets of Naples, and are listened to only at funerals.
+Behind the bar, an old woman who had been polishing one glass for eleven minutes remarked that in her day the mothers settled a wedding in one afternoon. Nobody heard her. The old are the prophets of Naples, and are listened to only at funerals.
 
 ---
 
@@ -14637,13 +14627,13 @@ Marco Bellini, tenor, thirty-four, could fill the Arena with one sustained note,
 
 "You are breathing like an aria. Breathe like a man."
 
-Francesca Costa, fifty, a weaver from Mantua with a talent for catastrophe, hurried through the courtyard announcing that she had lost the *only* pin, and that the pin was *symbolic.* Elena Gallo, seventy-four, retired newsagent, who had known the bride's mother, said, "Francesca, you are holding it in your teeth."
+Francesca Costa, fifty, a weaver from Mantua with a talent for catastrophe, hurried through the courtyard announcing that she had lost the *only* pin, and that the pin was *symbolic.* Elena Gallo, seventy-four, who had known the bride's mother, said, "Francesca, you are holding it in your teeth."
 
 "I am *consulting* it," said Francesca, and left, with the pin.
 
 Meanwhile, three streets away, in a room above a bakery, Giulia Rossi, thirty-one, balcony guide, was sitting in her wedding dress with her shoes off, answering a letter.
 
-For years she had answered them, the letters left by pilgrims on the wall, the tear-stained, the misspelled, the hopeful, small paper boats launched at a balcony by people who believed that stone has ears. She had answered them under a hundred invented names, with the cynicism of a woman who knows the post. And one of the last had been written by a tenor.
+For years she had answered them, the letters left by pilgrims on the wall, the tear-stained, the misspelled, the hopeful, small paper boats launched at a balcony by people who believed that stone has ears. She had answered them under a hundred invented names, with the cynicism of a woman who knows the post. One of the last had been written by a tenor.
 
 She wrote now, on the back of a wedding-order card:
 
@@ -14675,7 +14665,7 @@ The priest, who had seen four hundred weddings, was seen to remove his spectacle
 ### SCENE V
 *The bridge of a container ship in the Adriatic. Night. A radio. A decision.*
 
-Marija Kovač, thirty, second officer, stood watch on the bridge of the *Zagora* in the small hours, with a cold coffee at her elbow and the black Adriatic spread before her like a ledger no one had balanced.
+Marija Kovač, thirty, second officer, stood watch on the bridge of the *Zagora* in the small hours, with a cold coffee at her elbow and the black Adriatic spread before her like an unbalanced ledger.
 
 "Officer Kovač," said the captain, behind her. He was sixty, white-bearded, lean as a mast, and had been trying to keep her four years. "The company's offer. The Rotterdam–Singapore line. A chief officer's berth. Four months out, five weeks home. I wanted you for it before I wanted anyone."
 
@@ -14687,7 +14677,7 @@ She stood a long while at the glass. In the dark ahead a pinprick of light grew,
 
 "Ship at position forty-three, fifteen north," she said. "This is *Zagora.* Do you read?"
 
-A crackle. Then, a long way away, in a voice she would have known through the roar of a typhoon: "*Zagora,* this is the *Vela.* I read you. Is that the second officer?"
+A crackle. Then, a long way off, in a voice she would have known through the roar of a typhoon: "*Zagora,* this is the *Vela.* I read you. Is that the second officer?"
 
 "It is."
 
@@ -14697,9 +14687,9 @@ A crackle. Then, a long way away, in a voice she would have known through the ro
 
 "And what will you say?"
 
-She looked at the black water. She had made herself a rule at twenty, that a woman who waits at a rail to be asked is only a figurehead; and her one great discovery since was that she liked being asked.
+She looked at the black water. She had made herself a rule at twenty, that a woman who waits at a rail to be asked is only a figurehead; her one discovery since was that she liked being asked.
 
-"I will say yes to the world," said Marija. "And I will tell the world that on the ninth of March, for four days, between Rotterdam and Singapore and a certain ship called the *Vela,* there is a gap in the schedules, and in that gap there is a church in Split. And I will tell the world that it may take what it likes of me, but that for those four days it may not have the third thing."
+"I will say yes to the world," said Marija. "And I will tell the world that on the ninth of March, for four days, between Rotterdam and Singapore and a certain ship called the *Vela,* there is a gap in the schedules, and in that gap there is a church in Split. And I will tell the world that it may take what it likes of me, but that for those four days it may not have me."
 
 The radio hissed. "I have no idea," said Ivan, "what you just said."
 
@@ -14710,9 +14700,9 @@ The radio hissed. "I have no idea," said Ivan, "what you just said."
 ### SCENE VI
 *Sreemangal. The tea garden at the end of the afternoon. The kash-grass in flower, white as a surrender. A man walks up the hill alone.*
 
-He came on the night train, with a small bag and a smaller hope, and walked up from the station in the rain, in the wrong shoes, through three miles of tea.
+He came on the night train, with a small bag and a smaller hope, and walked up from the station in the wrong shoes through three miles of tea.
 
-He had not written back. He had read her message four times, and stood on the sand facing the sea for the length of a tide. Then, on the fifth day, without telling anybody, not even Nayeem, who knew everything, he had taken a day's leave, for the first time in eleven months.
+He had not written back. He had read her message four times, and stood on the sand facing the sea for the length of a tide. Then, on the fifth day, without telling anybody, not even Nayeem, who knew everything, he had taken a day's leave, the first in eleven months.
 
 Nusrat was on the dispensary steps. She had seen him coming from the end of the lane, a man in a good shirt and bad shoes, walking like one who has carried a plate of steel for eleven months and is not sure what to do with his arms.
 
@@ -14722,9 +14712,9 @@ Nusrat was on the dispensary steps. She had seen him coming from the end of the 
 
 "I have come to knock."
 
-"Yes," said Nusrat gravely. "I see that. Please come in out of the rain. You are going to catch your death, and I am the only doctor in three thousand, and I would be embarrassed."
+"Yes," said Nusrat gravely. "I see that. Please come in out of the rain. You are going to catch your death, and I am the only doctor for three thousand, and I would be embarrassed."
 
-She gave him tea, the seven-coloured kind they make in that country, in bands of red and amber and cream and green, each layer lying on the last as though poured by a patient God. He held it a long time without drinking.
+She gave him the seven-layer tea they make in that country, bands of red and amber and cream and green, each lying on the last as though poured by a patient God. He held it a long time without drinking.
 
 "Rokeya is in the next room," she said. "She knows. She said she would hear it from your mouth or not at all."
 
@@ -14734,17 +14724,17 @@ She gave him tea, the seven-coloured kind they make in that country, in bands of
 
 In the next room, on the bench beneath a picture of a mosque and a calendar of a cricketer, sat the widow in the blue sari, with the tin box in her lap. She looked at him. He was taller than she had imagined, and thinner, and he stood in the doorway as though the doorway might fall.
 
-He told her. He did not dress it. He told her about the permit, and the plate, and the three words he had carried since. He told her the money was the only way he knew to say a thing he had no right to say. He did not ask to be forgiven. He had come, he said, because a man who stands at a gate for eleven months should at least have the courage to be seen by the woman inside.
+He told her. He did not dress it. He told her about the permit, and the plate, and the three words he had carried since, and that the money was the only way he knew to say a thing he had no right to say. He did not ask to be forgiven. He had come, he said, because a man who stands at a gate for eleven months should at least have the courage to be seen by the woman inside.
 
 When he had finished, there was no sound but rain.
 
-"It was a bad day," said Rokeya at last. "And you signed the paper. And you are the one who is standing here, and the owner is the one who is not. That is not nothing." She looked at the tin in her lap. "Every month on the ninth the child asks, *Is it the ninth?* and I say, *Yes,* and she says, *Then we eat fish.* You have fed my daughter fish for eleven months, foreman. I do not know how a woman is meant to hate a man for that." She stood up, and touched his sleeve, once. "I forgive you. I did it last month, in the dark, and did not say. Now I have said it. And now *you* will do the harder thing."
+"It was a bad day," said Rokeya at last. "And you signed the paper. And you are the one standing here, and the owner is not. That is not nothing." She looked at the tin in her lap. "Every month on the ninth the child asks, *Is it the ninth?* and I say, *Yes,* and she says, *Then we eat fish.* You have fed my daughter fish for eleven months, foreman. I do not know how a woman is meant to hate a man for that." She stood up, and touched his sleeve, once. "I forgive you. I did it last month, in the dark, and did not say. Now I have said it. And now *you* will do the harder thing."
 
 "What is that?"
 
 "You will forgive yourself, and you will eat a proper dinner."
 
-Rahim Chowdhury, who had faced tides and torches and a ton of falling iron, sat down on the bench, and put his face in his hands, and wept as a child weeps, with no dignity and complete relief. Rokeya patted his shoulder as one pats a goat that has finally stopped butting a gate. Nusrat, in the doorway, with a glass of tea in each hand, did not move.
+Rahim Chowdhury, who had faced tides and torches and a ton of falling iron, sat down on the bench, put his face in his hands, and wept as a child weeps, with complete relief. Rokeya patted his shoulder as one pats a goat that has finally stopped butting a gate. Nusrat, in the doorway, with a glass of tea in each hand, did not move.
 
 Later, by the garden's edge, where the tea bushes ran down to the white kash like waves going over a ridge, they walked together a little way, not touching.
 
@@ -14756,21 +14746,21 @@ Later, by the garden's edge, where the tea bushes ran down to the white kash lik
 
 She stopped. "That is a very exact sentence."
 
-"I took it from a friend," said Rahim gravely. "A canteen man. He has a gift for borrowing." He looked at her. "Dr. Jahan. Your Entry says you heal everyone else and have never been healed."
+"I took it from a friend," said Rahim gravely. "A canteen man. I am told I am a quick study." He looked at her. "Dr. Jahan. Your Entry says you heal everyone else and have never been healed."
 
 "I wrote that years ago."
 
 "Is it still true?"
 
-She considered it, in the long light, with the wet leaves shining all about her like a thousand small green mirrors.
+She considered it, in the long light, with the wet leaves shining all about her.
 
-"I do not know. I have been very busy. It is difficult to find out whether a thing is true when one has been so careful never to be quiet enough to hear it." She turned her head. "Mr. Chowdhury, my autoclave has been broken since June. The district office says September. Is there anything a foreman who has opened ships can do with a steel box?"
+"I do not know. I have been very busy. It is difficult to find out whether a thing is true when one has been so careful never to be quiet enough to hear it." She turned her head. "Mr. Chowdhury, my autoclave has been broken since June. The district office says *soon.* Is there anything a foreman who has opened ships can do with a steel box?"
 
 "I can," said Rahim, "look at it."
 
 "Then look at it," said Nusrat. "And afterwards, if you are willing, you might stay for dinner. It will be rice and dal and a little fish. I am told that on the ninth of the month, in this valley, it is traditional."
 
-He laughed. It was a rusty sound, hardly used, like a hinge on a door in a house that has been shut a long while. It was the first laugh since the morning of the plate, and the tea bushes, who are old and do not gossip, bent a little in the wind to let it pass.
+He laughed. It was a rusty sound, hardly used, like a hinge in a house long shut. It was the first laugh since the morning of the plate, and the tea bushes, who are old and do not gossip, bent a little in the wind to let it pass.
 
 ---
 
@@ -14778,7 +14768,7 @@ He laughed. It was a rusty sound, hardly used, like a hinge on a door in a house
 
 > *Tide takes the ship; the hill keeps the leaf. Between them stands a person whose whole work is to be kind to the dying and the living both, and who must be told, at last, by somebody else, that she is permitted to rest.*
 >
-> *He will mend her machine. She will mend nothing, and be mended. Mark the order of it, reader: it is usually that way round.*
+> *He will mend her machine. She will mend nothing, and be mended. Note the order of it, reader: it is usually that way round.*
 
 ---
 
@@ -14801,7 +14791,7 @@ There is a kind of dancer who dances for the audience, and a kind who dances for
 
 Putu Wirawan, twenty-eight, had been dancing for the second kind since he was six. At that hour, with the stars still out and the roosters beginning their wars across the rice terraces, he stood alone in the courtyard of the family temple in his practice sarong and a plain white headcloth, and he danced the warrior's dance, the *baris,* to no music at all but the dripping of the eaves.
 
-It is hard dancing, mark this, reader. The knees are bent and the back is straight, the fingers quiver like a leaf in a draught, and the eyes, which you would think were for seeing, are thrown wide, flashing, with a ferocity that must be applied and removed as one wears and takes off a coat. He had practised it every dawn for twenty-two years. He had never yet been satisfied.
+It is hard dancing, reader. The knees are bent and the back is straight, the fingers quiver like a leaf in a draught, and the eyes, which you would think were for seeing, are thrown wide, flashing, with a ferocity that must be put on and taken off like a coat. He had practised it every dawn for twenty-two years. He had never yet been satisfied.
 
 "You are late for the gods," said a voice behind him.
 
@@ -14851,7 +14841,7 @@ It was. It consisted of Bayu Saputra, fifty-three, a scribe of Yogyakarta, who w
 
 "Eyang, I have to finish the wedding cloth."
 
-"Then finish it." The old woman let go. "And Ermis has landed. She comes at noon from the airport, in a taxi, with a suitcase of Dutch cheese. She does not know what a wedding costs. She has been in the cold."
+"Then finish it." The old woman let go. "And Ermis lands this morning. She comes from the airport at noon, in a taxi, with a suitcase of Dutch cheese. She does not know what a wedding costs. She has been in the cold."
 
 "*BEAUTIFUL!*" said Ayu, from the dark.
 
@@ -14863,7 +14853,7 @@ Ermis Larasati, twenty-four, designer, resident for six months of the city of Ro
 
 She stood a moment with her suitcase and her heart. She had not expected it to feel so much like putting down a stone.
 
-*In Rotterdam,* she thought, *I am four hours behind him. I have been behind him since the twenty-second. I have eaten my dinner at the hour of his tea, and called at the hour when my mind is only starting to work, and have never once complained, because there is no one in Rotterdam to hear.*
+*In Rotterdam,* she thought, *I am four hours behind him. I have eaten my dinner at the hour of his tea, and called at the hour when my mind is only starting to work, and have never once complained, because there is no one in Rotterdam to hear.*
 
 *And here,* thought Ermis, *I am two hours ahead.*
 
@@ -14884,7 +14874,7 @@ The window blinked. A flat in Mirpur came into being. There was a candle in it, 
 
 "I am *not* early. I am *ahead.*" She pulled the lamp nearer. "I am two hours ahead of you tonight. Do you see how I have grown?"
 
-"You are three hours *taller*, at least. Where are you?"
+"You are two hours *taller*, at least. Where are you?"
 
 "Bali. At my cousin's. There is a wedding. Do you hear that noise? That is a gong being hit in a pattern. It has been hit in the pattern since seven. I think it is going to be hit in the pattern at my funeral."
 
@@ -14949,7 +14939,7 @@ At that instant a sound, great and sudden and not to be borne, issued from the o
 ---
 
 ### SCENE III
-*Saturday. Four weddings, on the same day, in four countries. Mark the clocks, reader: that is the whole of the joke.*
+*Saturday. Four weddings, on the same day, in four countries. Watch the clocks: that is the whole of the joke.*
 
 **Kochi, 9:00 a.m.**
 
@@ -14957,7 +14947,7 @@ Meera Menon, twenty-six, schoolteacher, stood in a cream-and-gold *kasavu* sari 
 
 It was a small, brown, sea-stained volume of poems. It was the book she had bought every year for six years, and in which she had found, every year, on the same page, in the same careful hand, a poem that was for her.
 
-And beside her, in a white *mundu* with a gold border, a bookseller of twenty-seven who had not stopped trembling since Tuesday, stood Arjun Nair, with the colour of a man who has seen the hour.
+And beside her, in a white *mundu* with a gold border, a bookseller of twenty-seven who had not stopped trembling since Tuesday, stood Arjun Nair, with the look of a man who has seen the hour.
 
 "You brought the book," said Arjun.
 
@@ -14965,13 +14955,13 @@ And beside her, in a white *mundu* with a gold border, a bookseller of twenty-se
 
 "They said not to."
 
-"I am a schoolteacher. When a person says *not to*, I mark it for the whole class." She held it out. "Read it. The one you hid. Now. In front of everybody."
+"I am a schoolteacher. When a person says *not to*, I put it on the board for the whole class." She held it out. "Read it. The one you hid. Now. In front of everybody."
 
 "Meera—"
 
 "*Now,* Arjun."
 
-So the shy bookseller of Kochi, in the presence of two hundred relatives, a brass lamp, a drummer, a nadaswaram player and his own father (who was seventy-six and had not been told), opened the book and read the poem aloud, in a voice that began as a whisper and rose, line by line, like water in a lock, till it reached the beams. Vishnu Pillai, her father, a retired train guard of theatrical disposition, had begun to weep before the second verse and had borrowed the handkerchief of a waiter, Lakshmi Panicker, who stood at his elbow, holding a tray of banana-leaf plates and trying to look like furniture.
+So the shy bookseller of Kochi, in the presence of two hundred relatives, a brass lamp, a drummer, a nadaswaram player and his own father (who was seventy-six and had not been told), opened the book and read the poem aloud, in a voice that began as a whisper and rose, line by line, like water in a lock, till it reached the beams. Vishnu Pillai, her father, a retired train guard of theatrical disposition, had begun to weep before the second verse and had borrowed the handkerchief of a waiter, Lakshmi Panicker, who stood at his elbow with a stack of banana-leaf plates, trying to look like furniture.
 
 "I did not want her to win," whispered Rajesh Kurup, the temple singer, a rival of other years, to the person next to him. "I thought it was a trick of the book. I was wrong. I will sing the *vazhi* myself."
 
@@ -14981,7 +14971,7 @@ And he did.
 
 **Lusaka, 10:00 a.m.**
 
-In the yard behind a house in the Kabwata quarter of Lusaka, beneath a mango tree, a schoolmaster of thirty-eight in his one good suit and a maize-seller of thirty-five in a blue *chitenge* of such magnificence that three women had to be seated to look at it, were being introduced to each other, for the fifth time, by their families.
+In the yard behind a house in the Kabwata quarter of Lusaka, beneath a mango tree, a schoolmaster of thirty-eight in his one good suit and a maize-seller of thirty-five in a blue *chitenge* of such magnificence that three women had to be seated to look at it were being introduced to each other, for the fifth time, by their families.
 
 It is the Zambian custom, which is wise: the families must meet before the people do, as the river must meet the sea before the fish. It is called the *lobola,* and in its way it is a duel of courtesy. Joseph Tembo's uncles sat in a row on one side, with a basket of gifts, speaking with great solemnity. Grace Banda's aunts sat in a row on the other, with arms crossed, listening with a gravity so profound it was clearly enjoyment.
 
@@ -14995,9 +14985,9 @@ It is the Zambian custom, which is wise: the families must meet before the peopl
 
 "It is *very* fair," said Loveness Zulu, thirty-eight, baker, who had brought the cake and could not be silenced, "so we should *all* eat."
 
-Joseph, at the end of the row, sat very straight, with his hands on his knees and the two children, Chisomo and Mapalo, on either side, scrubbed and furious with importance. Across the yard sat Grace, beside her friend Thandiwe Mumba, fifty-one, a train guard and a woman of no sentiment whatever, who had once told Grace that love was a thing invented by people who sold greetings cards.
+Joseph, at the end of the row, sat very straight, with his hands on his knees and the two children, Chisomo and Mapalo, on either side, scrubbed and furious with importance. Across the yard sat Grace, beside her friend Thandiwe Mumba, fifty-one, a railway ticket-inspector and a woman of no sentiment whatever, who had once told Grace that romance was a thing invented by people who sold greetings cards.
 
-"I am not sure I believe in it," murmured Thandiwe now, into Grace's ear.
+"I am still not sure I believe in it," murmured Thandiwe now, into Grace's ear.
 
 "I know."
 
@@ -15017,7 +15007,7 @@ It was an hour of pure Neapolitan insanity. The groom wept. The bride, who is th
 
 "I *borrowed* it," said Alessandro, and the entire square, which knew the story, said it in chorus.
 
-His sister, Anna Gallo, translator, who had come down from Mantua in a hat of tragic proportions, stood up at the long table to make a toast, and confessed to the assembled company that eleven months earlier, in the dead of night, she had found a letter on the shelf above the oven, an unsigned confession in her brother's hand, which he had intended to burn. "I did not let the fire have it," said Anna. "I put it in an envelope, and I posted it to an old woman in England who kept the secrets of strangers. I have been *waiting* to confess that. Alessandro, you owe me a divorce lawyer's fee in pizza."
+His sister, Anna Gallo, translator, who had married into Mantua and come down in a hat of tragic proportions, stood up at the long table to make a toast, and confessed to the assembled company that eleven months earlier, in the dead of night, she had found a letter on the shelf above the oven, an unsigned confession in her brother's hand, which he had meant to burn. "I did not let the fire have it," said Anna. "I put it in an envelope, and I posted it to an old woman in Cornwall who kept the secrets of strangers. I have been *waiting* to confess that. Alessandro, you owe me a finder's fee, in pizza."
 
 "I *knew* it!" cried Chiara, to nobody.
 
@@ -15027,7 +15017,7 @@ His sister, Anna Gallo, translator, who had come down from Mantua in a hat of tr
 
 And at five o'clock, on an island at the far end of the clocks, the gamelan struck, and three hundred people fell silent, and the wedding began.
 
-Mark this. A Balinese wedding is not a ceremony but a landscape; one walks through it. The bridal pair were led out beneath a shade of gold, in the heavy gold of Ubud, he in a dark *saput* and crown of frangipani, she in a gold-threaded *songket* that she had woven herself, with a pattern on the hem in black and white squares: the *poleng,* the cloth of the balance, which tells the god and the stranger that all things in the world come in two halves, and that neither is the enemy of the other.
+Mark this, reader: a Balinese wedding is not a ceremony but a landscape; one walks through it. The bridal pair were led out beneath a shade of gold, he in a dark *saput* and crown of frangipani, she in a gold-threaded *songket* that she had woven herself, with a pattern on the hem in black and white squares: the *poleng,* the cloth of the balance, which tells the god and the stranger that all things in the world come in two halves, and that neither is the enemy of the other.
 
 Ermis stood at the back with her grandmother and a caged parrot and was weeping in a manner she had arranged to look like hay fever.
 
@@ -15062,6 +15052,8 @@ She did not say what she meant. She was looking at her own phone, which lay dark
 
 > *Four weddings on one Saturday. A coincidence of dates is only the calendar's way of saying: the world has patience, but it also has deadlines.*
 >
+> *Entry 0445 and Entry 0141: a dancer, a weaver, and a cloth whose pattern says that two halves are not enemies.*
+>
 > *Say this to the girl with the indigo on her thumbs: it is not the hour that matters. It is that, somewhere, a window has been left lit.*
 
 ---
@@ -15083,15 +15075,15 @@ She did not say what she meant. She was looking at her own phone, which lay dark
 
 There are two kinds of men who join a fire company: those who wish to be brave, and those who wish to be useful. The first kind generally leave. The second stay for thirty years, and are buried with a bell.
 
-Patrick Murphy, forty, lieutenant, was the second kind, and had been so since he was twenty-six. He was a broad, quiet man with a face like a good doorstep, scuffed but unbothered, and he stood now at the back bay of Engine Eleven, beside the great red truck with its brass bell polished to a shine that could have started a small religion, and was being told by a college professor that the chili was wrong.
+Patrick Murphy, forty, lieutenant, was the second kind, and had been since he was twenty-six. He was a broad, quiet man with a face like a good doorstep, scuffed but unbothered, and he stood now at the back bay of Engine Eleven, beside the great red truck with its brass bell polished to a shine that could have started a small religion, being told by a college professor that the chili was wrong.
 
 "It is not wrong," said Mike Flynn, thirty-nine, historian, bespectacled, owner of nine hundred books and no boat. "It is *anachronistic.* There are beans in it."
 
 "Mike, you teach medieval shipping."
 
-"And am therefore *qualified* in the comparative method." He sipped. He grimaced. He sipped again, with the helpless honesty of a scholar proved wrong by his own tongue. "It is the best chili I have ever eaten," he said bitterly. "I will not be speaking of it."
+"And am therefore *qualified* in the comparative method." He sipped. He grimaced. He sipped again. "It is the best chili I have ever eaten," he said bitterly. "I will not be speaking of it."
 
-Across the bay, on a folding chair, sat Laura Hayes, forty, a community pastor from Somerville with a gift for blessing machinery and a still greater one for knowing the business of the entire Commonwealth. She had come to bless the new hose reel. She had stayed because the chili was free. And between the two she had learned, in twenty minutes, that the lieutenant of Engine Eleven had been sending an anonymous letter to England, that the nurse who did not come to the Chili Night had a brother who had died in a fire, and that these two facts were, in her judgment, about to meet.
+Across the bay, on a folding chair, sat Laura Hayes, forty, a community pastor from Somerville with a gift for blessing machinery and a greater one for knowing the business of the entire Commonwealth. She had come to bless the new hose reel. She had stayed because the chili was free. And between the two she had learned, in twenty minutes, that the lieutenant of Engine Eleven had written an anonymous letter to England, that the nurse who did not come to Chili Night had a brother who had died in a fire, and that these two facts were, in her judgment, about to meet.
 
 "Patrick," she said, in the bright, carrying voice of one who intends to whisper. "A word."
 
@@ -15103,7 +15095,7 @@ Across the bay, on a folding chair, sat Laura Hayes, forty, a community pastor f
 
 "Of course you do not," said Laura Hayes. "That is the *joke.*"
 
-Mike Flynn set down his cup, with the air of a man who has just discovered the sea. "Patrick. Is there a woman?"
+Mike Flynn set down his cup, like a man who has just discovered the sea. "Patrick. Is there a woman?"
 
 "There is a *nurse,*" said Laura.
 
@@ -15115,15 +15107,15 @@ For there was, as it happens, a woman; and what bound her to the lieutenant was 
 
 It had been a Tuesday in February, a three-alarm fire in a triple-decker on Ashmont Street, a night so cold that the water froze on the hose in the instant it was thrown. On the third floor a woman had refused to leave without her child, and the child had gone back for the cat, and the stairs, that had been wood at six o'clock, were by half past seven a rumour. Patrick had gone up. He had come down with a boy of nine in his arms, unconscious, black to the eyelashes, and he had run with him across the ice to the ambulance, and put him down, and a woman in blue scrubs and a grey coat had taken the child's wrist with one hand and held his sleeve with the other.
 
-*Stay,* she said. It was not an order. It was the voice of a person who has said the word to a great many people, in a great many bays, to very little effect.
+*Stay,* she said. It was not an order. It was the voice of a person who has said the word to a great many people, to very little effect.
 
 He had stayed for four minutes, until the boy coughed, and breathed, and cried. In the cold of the ambulance bay, in the red wash of the lights, he had looked at her face, white and fine and fixed, with eyes the colour of a wet slate roof, and she had looked at his, and neither had said a word.
 
 Her name-tag said WALSH.
 
-He had carried a stranger out of a fire that night. All the way down the stairs, with the ceiling coming apart above him, one thought only had gone on repeating itself in his head, like a prayer: *there is a woman in a grey coat who is going to take his wrist, and I have to be there to be taken.*
+He had carried a stranger out of a fire that night. Ever since, one thought had repeated itself in his head like a prayer: *a woman in a grey coat took the child's wrist, and I should like to have been standing where she could take mine.*
 
-It is a ridiculous thing to think when you are on fire. He had written it to a stranger in England. He had not meant to be answered.
+It is a ridiculous thing to think about a stranger. He had written it to another stranger, in England. He had not meant to be answered.
 
 ---
 
@@ -15132,7 +15124,7 @@ It is a ridiculous thing to think when you are on fire. He had written it to a s
 
 In another quarter of the world, in a city that never ceases to explain itself loudly, a former founder of a financial technology company was setting out a hundred plastic chairs, and a designer of dresses was standing at the end of a runway deciding whether to be sick.
 
-The chairs, said Emeka Okafor, twenty-eight, had been borrowed from a wedding. The runway had been a loading ramp. The lights had come from a man in Ikeja who promised Thursday and arrived the following Tuesday with the face of a saint. The building had once held sixty servers and fourteen employees, whose salaries he had paid for eleven months out of his own savings after the company was already dead, as one continues to feed a horse after the cart has gone over the cliff.
+The chairs, said Emeka Okafor, twenty-eight, had been borrowed from a wedding. The runway had been a loading ramp. The lights had come from a man in Ikeja who promised Thursday and arrived the following Tuesday with the face of a saint. The building had once held sixty servers and nine employees, whose salaries he had paid for eleven months out of his own savings after the company was already dead, as one goes on feeding a horse after the cart has gone over the cliff.
 
 The servers were gone. The nine were here. Kemi, once his lead engineer and now, by some alchemy of the heart, sewing-room manager, reported that the back generator had been turned off because the noise upset the models.
 
@@ -15142,7 +15134,7 @@ The servers were gone. The nine were here. Kemi, once his lead engineer and now,
 
 He laughed. Then he looked at the end of the ramp, where a young woman of twenty-seven was standing in the half-dark, with pins in her mouth and a dress on a stand before her, and the laugh dropped out of him.
 
-Chidinma Eze had cut gowns for brides and carnivals, bright, vivid, extravagant, and sold them under a name nobody remembered; and every night for eight years she had gone home and turned off the light on a dress she had never shown to anybody. It hung on a stand at the end of the runway: a long column of gold *aso-oke,* woven by a cooperative in Iseyin, split from the shoulder to the floor to show a lining of indigo as deep as the evening sea. It was a dress for a woman of forty who has never apologised to a room.
+Chidinma Eze had cut gowns for brides and carnivals, bright and extravagant, and sold them under a name nobody remembered; and every night for eight years she had gone home and turned off the light on a dress she had never shown to anybody. It hung on a stand at the end of the runway: a long column of gold *aso-oke,* woven by a cooperative in Iseyin, split from the shoulder to the floor to show a lining of indigo as deep as the evening sea. It was a dress for a woman of forty who has never apologised to a room.
 
 "It is not finished," said Chidinma, through the pins.
 
@@ -15164,7 +15156,7 @@ When she reached the end of the ramp she did not turn, as models do. She stopped
 
 "Emeka Okafor," said Chidinma, in front of the whole city, "my company is open and your company is dead. I do not want your money. I want your arithmetic, and your dinner on Sundays, and you at the end of every ramp I walk. Will you?"
 
-There was a roar like a pot boiling over. Somewhere at the back the Reverend Ngozi was heard to say, "*I knew it, I said it in the car,*" and a man accused all his life of calculating every outcome found himself standing on a plastic chair with no calculation at all.
+There was a roar like a pot boiling over. Somewhere at the back the Reverend Ngozi was heard to say, "*I said it in the car,*" and a man accused all his life of calculating every outcome found himself on a plastic chair with no calculation at all.
 
 "I will," said Emeka.
 
@@ -15179,7 +15171,7 @@ There was a roar like a pot boiling over. Somewhere at the back the Reverend Ngo
 
 Ellen Walsh, thirty-eight, charge nurse, sat on an upturned crate in the loading bay behind the hospital with a paper cup of coffee in both hands, and watched the steam climb towards the single sodium lamp, and thought, as she always did at four, about her brother.
 
-She had not said it in fourteen years. That was the plain truth of it: not to her father, nor the priest, nor the counsellor in the nice room with the box of tissues. She said *the night.* She said *what happened.* She said *the thing on Dudley Street.* She had taken the word out of her mouth the way one removes a nail from a wall, and left the hole.
+She had not said it in fourteen years: not to her father, nor the priest, nor the counsellor in the nice room with the box of tissues. She said *the night.* She said *what happened.* She said *the thing on Dudley Street.* She had taken the word out of her mouth as one removes a nail from a wall, and left the hole.
 
 "You have the face on," said Beth Murray, who had flown the medevac helicopter for eleven years and who flew, in conversation, at the same low altitude with a great deal of noise. She sat on the next crate. "The *Tuesday-in-February* face. You know the one. Where you look at the trucks."
 
@@ -15237,9 +15229,9 @@ This morning, a handsome boat named *Mama Atieno* rode at anchor in the warm bro
 
 "Hello. My name is Otieno. I am a fisherman. I have been telling you a lie for three years, and today I am going to tell you something true: this is my wedding. It is a bit wobbly. I am a bit frightened. If you wish to unfollow, I will understand."
 
-Eleven thousand viewers did not. A great many more, in the course of the morning, joined.
+Eleven thousand viewers did not. Many more joined.
 
-"You said *a bit wobbly,*" said Wanjiru Kamau, thirty minutes later, in white, in the stern, with the wind in her veil. She was twenty-seven, a technology journalist, a woman of exact opinions, and she had already, in the first five minutes of the ceremony, counted the guests, the fish on the table, and the number of misspelled words on the banner. "Technically it is *seventeen degrees* of wobble."
+"You said *a bit wobbly,*" said Wanjiru Kamau, thirty minutes later, in white, in the stern, with the wind in her veil. She was twenty-seven, a technology journalist, a woman of exact opinions, and she had already counted the guests, the fish on the table, and the misspelled words on the banner. "Technically it is *seventeen degrees* of wobble."
 
 "You measured it?"
 
@@ -15249,7 +15241,7 @@ Eleven thousand viewers did not. A great many more, in the course of the morning
 
 "I would like it noted," said Wanjiru, "for the record, that I fell in love with a man who did not exist. And that it is a *great* relief to find that the one who does is a better liar *and* a better cook." She took his hands. "*Erokamano,* Otieno. For telling me the truth, even badly."
 
-"Say the bit about the fish!" called a trader named Njeri, twenty-five, from the next boat, who had been told to keep silent and had not.
+"Say the bit about the fish!" called a trader named Akinyi, twenty-five, from the next boat, who had been told to keep silent and had not.
 
 "There was no bit about the fish."
 
@@ -15262,9 +15254,9 @@ The whole lake, to the last canoe, began to laugh; and the bride, who did not as
 ### SCENE V
 *Boston. The firehouse. Chili Night, an hour before midnight. The tables are cleared; the children gone; the red truck stands in the bay with her doors open, as a tired animal stands.*
 
-She came at ten to eleven, in the grey coat, alone, off shift, with her hands in her pockets, and she stood in the great door of the bay with the cold behind her and the whole company turned to look.
+She came at ten to eleven, in the grey coat, alone, on her night off, with her hands in her pockets, and she stood in the great door of the bay with the cold behind her and the whole company turned to look.
 
-Mike Flynn, who had been explaining Hanseatic League shipping to a probationary firefighter, stopped in the middle of a sentence. Laura Hayes, who had been about to leave, sat down again with the air of a woman who has bought a ticket. The old captain of the company, a man named O'Hara, who was seventy-four and had been retired nine years and still had a key, laid down his coffee.
+Mike Flynn, who had been explaining Hanseatic League shipping to a probationary firefighter, stopped in the middle of a sentence. Laura Hayes, who had been about to leave, sat down again with the air of a woman who has bought a ticket. The old captain of the company, a man named O'Hara, seventy-four, retired nine years and still in possession of a key, laid down his coffee.
 
 "I am looking for Lieutenant Murphy," said Ellen.
 
@@ -15282,7 +15274,7 @@ He had been cleaning a hose coupling. He put it down very carefully, as one puts
 
 "It is not the size." Her eyes went past him, to the wall above the coat-hooks, where, in a row of framed photographs, a number of young men in old helmets looked out over the years with the grave goodwill of the dead. "Is that a log?"
 
-He turned. On a shelf under the photographs stood a row of old green ledgers, each with a year in white paint on the spine. He had not meant her to see. He had been eight months finding the right way to say it, and now saw that there is no right way: there is only the hour.
+He turned. On a shelf under the photographs stood a row of old green ledgers, each with a year in white paint on the spine. He had not meant her to see. He had been eight months finding the right way to say it, and now saw that there is no right way, only the hour.
 
 "It's the run book," said Captain O'Hara quietly. "Every call, since nineteen-sixty. Would you like to see one?"
 
@@ -15316,9 +15308,9 @@ The word went out into the bay. It struck the red flank of the engine and the br
 
 "A fire," she said again. "Danny died in a fire. He was twenty-four. He was carried down the stairs by a man named O'Hara, who was kind to his feet. And I have been frightened of that word for fourteen years, and it is—" She laughed, astonished, wet-eyed. "It's only a word. It is only four letters. It is the smallest thing I've ever been afraid of."
 
-Captain O'Hara had put on his glasses to hide his eyes, which does not work. Mike Flynn, historian, was blowing his nose in a napkin. Laura Hayes had bowed her head with real piety, which she did seldom, and in a voice that did not carry at all, said, "Amen."
+Captain O'Hara had put on his glasses to hide his eyes, which does not work. Mike Flynn was blowing his nose in a napkin. Laura Hayes bowed her head with real piety, which she did seldom, and in a voice that did not carry at all, said, "Amen."
 
-Patrick Murphy did not speak. He took off the rough glove he was wearing, as one removes a thing that is no longer necessary, and held out his bare hand.
+Patrick Murphy did not speak. He took off the rough glove he was wearing and held out his bare hand.
 
 She took it.
 
@@ -15334,7 +15326,7 @@ She looked at the red truck, which the crew was already boarding in a thunder of
 
 "I work nights," said Ellen. "I will be where the trucks come." She let go. "Go and carry somebody."
 
-He went. The engine went out into the dark with her bell and her lamps and her thunder, and Ellen Walsh stood in the doorway of Engine Eleven and watched it away down Dorchester Avenue, the whole length of the cold street, till the light of it was gone; and for the first time in fourteen years, in the place where the word had been, there was something quiet and clean, like a window opened after rain.
+He went. The engine went out into the dark with her bell and her lamps and her thunder, and Ellen Walsh stood in the doorway of Engine Eleven and watched it down the whole length of the cold street, till the light of it was gone; and for the first time in fourteen years, in the place where the word had been, there was something quiet and clean.
 
 ---
 
@@ -15342,7 +15334,7 @@ He went. The engine went out into the dark with her bell and her lamps and her t
 
 > *The word you cannot say is a house you live outside of. The saying does not tear it down. It only opens a window.*
 >
-> *Entry 0548. Entry 0082. He wrote of a stranger; she of a brother. It was the same fire. They had only to find the same hour.*
+> *Entry 0548 and Entry 0082. He wrote of a stranger; she of a brother. It was the same fire. They had only to find the same hour.*
 
 ---
 
@@ -15365,7 +15357,7 @@ For four decades the Rathore haveli had been the proudest ruin in Rajasthan.
 
 It had everything a great house requires except a ceiling: a gateway like a sunrise, carved lattices through which a thousand wives had watched a thousand processions, a courtyard painted in rose and peacock-blue, and above all of it, the sky, a very fine one, which entered by day and left by night without once being asked to wipe its feet.
 
-Vikram Rathore, thirty, heritage guide, heir, ham and the loudest man in the Pink City, stood in the middle of the courtyard in a turban of saffron silk and watched the last tile go down, and wept openly.
+Vikram Rathore, thirty, heritage guide, heir, ham, and the loudest man in the Pink City, stood in the middle of the courtyard in a turban of saffron silk and watched the last tile go down, and wept openly.
 
 "It is a *roof,*" he told the assembled workmen, whom he had hired and who had worked for him for a year at a price that no accountant should be told. "It is not merely a roof. It is the end of a lament. It is the first stanza of a glorious—"
 
@@ -15408,11 +15400,11 @@ At the gate, a young woman with a notebook and the manner of a ferret, Pooja Tiw
 ### SCENE II
 *Tallinn, Estonia. A late October afternoon, with frost already in the shadows. A wooden house in Kalamaja, grey, tall and old, in a street where all the houses lean together like men at a funeral.*
 
-If you wish to know what silence is, mark this, reader, do not go to the mountains. Go into a house where there was always someone, and where now there is no one, at four o'clock on a winter afternoon in the north.
+If you wish to know what silence is, reader, do not go to the mountains. Go into a house where there was always someone, and where now there is no one, at four o'clock on a winter afternoon in the north.
 
 Mikhail Sokolov, forty-two, engineer, stood in the kitchen of the house in which he had been born and listened to the refrigerator.
 
-It was a small noise, a dutiful hum, and it was the only sound in the building. His mother had died three winters ago, quietly, in the room above; his father had gone before her; the stairs, which had once creaked all day under three pairs of feet, had since become, under one, eloquent in their silence. He owned no radio. He had no television. He had at first thought it was grief. Then he had realised that it was, rather, *fear*: of the particular pitch that a quiet house has when it is waiting for you to speak.
+It was a small noise, a dutiful hum, and the only sound in the building. His mother had died three winters ago, quietly, in the room above; his father had gone before her; the stairs, which had once creaked all day under three pairs of feet, had since become, under one, eloquent in their silence. He owned no radio and no television. He had at first thought it was grief. Then he had realised it was *fear*: of the particular pitch a quiet house has when it is waiting for you to speak.
 
 A letter lay on the table. It had arrived that morning, with a Pärnu stamp, and was addressed in his sister's round, no-nonsense hand. It was the forty-first of its kind. She wrote every month. She did not ask him anything. She answered.
 
@@ -15436,13 +15428,13 @@ He folded the letter and put it in the drawer with the other forty. Then, for la
 
 The work was the Song Festival Grounds.
 
-They stand on a green slope above the Gulf, at the edge of the city: a great grassy bowl for a hundred thousand singers, and above it the arch of the stage, a huge white shell of concrete, curved like the inside of a sea-creature. Once in five years the whole nation fills it, all the choirs of Estonia, and sings, and that is as nearly as a country can be said to pray. For twenty years Mikhail Sokolov had been the man who kept it standing. He knew every bolt of the shell, every drain, every cable. He loved it as one loves the only thing that has never asked a question.
+They stand on a green slope above the Gulf, at the edge of the city: a great grassy bowl for a hundred thousand listeners, and above it the arch of the stage, a huge white shell of concrete, curved like the inside of a sea-creature. Once in five years the whole nation fills it, thirty thousand singers from all the choirs of Estonia, and that is as nearly as a country can be said to pray. For twenty years Mikhail Sokolov had been the man who kept it standing. He knew every bolt of the shell, every drain, every cable. He loved it as one loves the only thing that has never asked a question.
 
 That afternoon, as he checked the lamps on the stage, he heard behind him a sound that was entirely out of place. A cornet. A brass cornet, playing, with enormous joy and moderate accuracy, a Lancashire hymn tune.
 
 He turned. At the lip of the stage, in a bright anorak, a young woman with a face like a scone and the shoulders of a bell-ringer was sending her note out across the empty bowl; and the shell, which had been built for the voice, had taken it, and thrown it, and was giving it back, clear as a coin on a plate, from the farthest rim of the grass.
 
-"Nine seconds!" cried a man, running down the slope, a tall, burnt-faced, sentimental sort of man in a wet jacket, carrying a tape measure. "Nine and a *half,* Poppy! It carries for nine and a half seconds! I have timed it!"
+"Nine seconds!" cried a man, running down the slope, a tall, burnt-faced, sentimental sort of man in a wet jacket, carrying a stopwatch. "Nine and a *half,* Poppy! The note hangs for nine and a half seconds! I have timed it!"
 
 "William," said the woman, lowering the cornet, "you are on our honeymoon."
 
@@ -15450,23 +15442,21 @@ He turned. At the lip of the stage, in a bright anorak, a young woman with a fac
 
 "You are timing a wall on our honeymoon."
 
-"It is," said William Hartley, groundsman, thirty, with deep reverence, looking up at the arch, "the finest wall in Europe."
+"It is," said William Hartley, with deep reverence, looking up at the arch, "the finest wall in Europe."
 
 "Excuse me," said Mikhail Sokolov, in the precise Estonian of a man who has spoken it carefully all his life and never quite believed he was allowed. "You are not permitted on the stage."
 
 The woman looked at him. The man looked at him. In perfect unison, they said, in the accent of the English north: "*Oh, sorry.*"
 
-It was the beginning of the most unlikely friendship of the Baltic autumn. By the end of a quarter of an hour, Mikhail had shown the groundsman the drainage system under the field, which William had fallen in love with on sight; and the cornetist had been permitted, as a very great favour, to play one hymn from the centre of the stage while Mikhail stood on the grass at the far rim, a hundred metres away, listening. The note arrived at his ear perfectly, small as a lit match, with no loss at all.
+It was the beginning of the most unlikely friendship of the Baltic autumn. Within a quarter of an hour Mikhail had shown the groundsman the drainage system under the field, which William fell in love with on sight; and the cornetist had been permitted, as a very great favour, to play one hymn from the centre of the stage while Mikhail stood on the grass at the far rim, a hundred metres away, listening. The note arrived at his ear perfectly, small as a lit match, with no loss at all.
 
 He had known it, of course. He had always known the shell's secret: that at the focal point of the arch, where the curve gathers, a voice no louder than a whisper can be heard from the back of a field. It had never mattered. No choir had needed it. They sang loud.
 
 But he stood a long moment at the rim, with the cold wind in his coat, and a thought began to form in his head, like frost on a window, slowly and with great beauty.
 
-"You have a choir here?" said Poppy Ashworth, coming down the grass with her cornet under her arm. "Mr. Sokolov? We heard singing through the wall, in the rehearsal hall behind the stage, when we came in. It was *lovely.* It was a bit short, though. Somebody was conducting them in a whisper."
+"You have a choir here?" said Poppy Ashworth, coming down the grass with her cornet under her arm. "Mr. Sokolov? We heard singing through the wall, in the rehearsal hall behind the stage, when we came in. It was *lovely.* But there was a woman at the end of the soprano row, with a lot of scarves, who turned the pages and mouthed every word with them. Every word. And she never made a sound."
 
-"That is Madam Mägi's women's choir. They rehearse on Thursdays." He frowned. "She does not conduct in a whisper."
-
-"Not *her,*" said Poppy. "The librarian. The one with the scarves. She turned the pages and mouthed the words with them. All of them. Every word. And she never made a sound."
+"That is Madam Mägi's women's choir," said Mikhail. "They rehearse on Thursdays." He frowned. "I do not know the woman."
 
 ---
 
@@ -15475,7 +15465,7 @@ But he stood a long moment at the rim, with the cold wind in his coat, and a tho
 
 Katrin Tamm, thirty-nine, had been a soprano for twenty-six years, a good one, and for the last two a woman who held the music for other people.
 
-It was the throat. A small thing: a surgery on the thyroid, two winters ago, and a nerve, in the doing of it, that had been touched, and had thereafter declined to explain itself. She could speak, if she spoke softly. She could laugh, in a manner of speaking. She could not sing. Specialists in three cities had said *possibly* and *give it time* and *the nerve is a stubborn creature,* and she had gone on turning the pages at the end of the row with her scarves around her neck and her lips moving, a soprano without a sound, like a bell with the clapper removed.
+It was the throat. A small thing: a surgery on the thyroid, two winters ago, and a nerve, in the doing of it, that had been touched and had since declined to explain itself. She could speak, if she spoke softly. She could laugh, in a manner of speaking. She could not sing. Specialists in three cities had said *possibly* and *give it time* and *the nerve is a stubborn creature,* and she had gone on turning the pages at the end of the row with her scarves around her neck and her lips moving, a soprano without a sound, like a bell with the clapper removed.
 
 "From the *top,* ladies," said Liis Mägi, fifty-two, conductor, who farmed rye in the south and drove up on Thursdays in a lorry. "And Toomas, I don't need you to lead the sopranos from the bass line, you are a *tenor.*"
 
@@ -15495,7 +15485,7 @@ Katrin turned. It was her mother, Triin Saar, fifty-eight, dockworker at Muuga, 
 
 "He is a *Sokolov,*" whispered Katrin. "He keeps the Grounds. He does not speak to people."
 
-"Then that is two of you." Triin nodded to the door. "He is looking at you as I looked at your father, at the dockyard dance, in nineteen eighty-four. I did not speak either. He came across the floor."
+"Then that is two of you." Triin nodded to the door. "He is looking at you as I looked at your father, at the dockyard dance. I did not speak either. He came across the floor."
 
 In the doorway, a tall man in an engineer's coat stood with a roll of drawings under his arm and the pale, courteous, hunted face of a person who has just walked into a room with a question in it.
 
@@ -15525,7 +15515,7 @@ At the end of the corridor, twenty women of Tallinn, who had apparently been sta
 
 The sun had gone, and the great bowl of the Grounds lay black and silver under a rising moon, frost on every blade. Far out at the rim of the field, a hundred metres off, a man in an engineer's coat stood with his back against a lamp-post and his heart in his teeth. On the stage, under a single work-lamp, at the small pencilled star on the boards, a woman in a grey scarf stood with her hands at her sides.
 
-From the dark behind the wings, all the choir, and her mother, in her dockworker's boots, and a groundsman with a stopwatch and his bride with a brass cornet, had crept out as softly as they knew how, and were watching from the shadows, hardly breathing.
+From the dark behind the wings the whole choir, and her mother in her dockworker's boots, and a groundsman with a stopwatch and his bride with a brass cornet, had crept out as softly as they knew how, and were watching from the shadows, hardly breathing.
 
 Katrin Tamm closed her eyes. She thought: *I do not know who I am without it.* She thought: *Then let us find out.* She drew a breath, the first real breath she had drawn for two years, from the very bottom of her, and the whole white arch above her seemed to lean a little closer, as an old house leans to hear its youngest child, and she opened her mouth, and from the far rim of the field Mikhail Sokolov, with his hand on the cold iron of the rail, heard the first note come across the dark grass towards him, small as a lit match, and understood at last that the
 
@@ -15567,7 +15557,7 @@ The band room smelled, as it had for ninety years, of valve oil and damp wool, a
 
 It was an old habit. He read aloud all post, to the chairs, and the chairs, who had heard every confession of the brass section since nineteen-eighty, had never yet corrected him.
 
-*Dear Mr. P. We are on the ferry to Helsinki. The honeymoon has been a triumph. Tell the lads there is a stage here, in Tallinn, shaped like the inside of a shell, and a hymn played on it carries nine and a half seconds. Poppy says she is going to make the band come out and play it. I have measured the lawn. It is excellent.*
+*Dear Mr. P. We are on the ferry to Helsinki. The honeymoon has been a triumph. Tell the lads there is a stage here, in Tallinn, shaped like the inside of a shell, and a hymn played on it hangs in the air for nine and a half seconds. Poppy says she is going to make the band come out and play it. I have measured the lawn. It is excellent.*
 
 *I will not tell you what happened on the last night, Mr. P. We were standing in the dark at the side of the stage with some new friends, and the whole place went so quiet, and it was not ours to post. I will tell you in person, or I will not. Poppy says some things you keep. But I wanted you to know there is a place in the world where a person tried a very hard thing, in front of the people who love her, and we were there.*
 
@@ -15579,7 +15569,7 @@ Mr. Pennywhistle put the card on the music-stand. He looked out of the rain-stre
 
 The chairs, who had heard everything, said nothing at all.
 
-"And I never found out about the Mozart either," said Mr. Pennywhistle, and went to put on the kettle.
+"And I never do find out how anything ends," said Mr. Pennywhistle, "my own novel included," and went to put on the kettle.
 
 ---
 
@@ -15608,11 +15598,11 @@ The chairs, who had heard everything, said nothing at all.
 
 Victor Adeyemi, thirty-two, agricultural scientist, had been trying to breed a perfect cassava for eleven years, and in all that time had never once been late for a plant.
 
-He was late now. He stood in the long green field of Plot Fourteen with a clipboard against his chest and let the sun come over the hill, and looked at the stems, which were taller than he had expected, and the leaves, which were whole where the mosaic disease should have curled them, and the roots, which he had dug up at dawn with his own bare hands and weighed on a kitchen scale, because the lab scale was being repaired and the gods of science are not proud.
+He was late now. He stood in the long green field of Plot Fourteen with a clipboard against his chest and let the sun come over the hill, and looked at the stems, which were taller than he had expected, and the leaves, which were whole where the mosaic disease should have curled them, and the roots, which he had dug up at dawn with his own bare hands and weighed on a kitchen scale, because the lab scale was being repaired and science, like the gods, is not proud.
 
 Eleven kilograms a plant. Disease-free. It had never been done.
 
-"Professor Afolabi," he said, into his phone, with the voice of a man announcing a birth, "it is ready."
+"Professor Afolabi," he said into his phone, as though announcing a birth, "it is ready."
 
 "Is it a miracle?" said the voice at the other end, which belonged to Segun Afolabi, sixty, the director of the station, a dry, rumpled, comical figure in a tie that had been a wedding present to somebody else.
 
@@ -15659,6 +15649,10 @@ She was good at it. She smiled at the bank manager, the feed merchant, the man f
 
 "Then tell him," said Funmi, "that I am in a *different* shed."
 
+"He says there is only one shed."
+
+"Tell him it has been renovated."
+
 On the wall behind her hung a calendar from the feed merchant, with a photograph of a very contented hen, and, tucked in its frame, a card from the research station on the hill, with a diagram. On it, in a careful engineering hand, a man had drawn how cassava peel, properly dried and ground, could replace forty per cent of her maize in the feed. Beneath it ran a few lines of code for a spreadsheet, which he had written himself one night, to work out her ration to the kilo. He had sent it six months ago. He had never sent anything else.
 
 The man from the bank came in. He was a patient man named Mr. Tunde Obi, fifty, bank manager and in a former life a dentist, who had learned that extracting a debt and a tooth required identical bedside manners.
@@ -15679,7 +15673,9 @@ The man from the bank came in. He was a patient man named Mr. Tunde Obi, fifty, 
 
 "And God was a witness," said Funmi, "and He has not corrected me."
 
-Mr. Obi looked at her, a long, kind, professional look, from under a face that had seen eleven hundred tragedies in the form of a missed repayment. "Madam," he said, "I will tell you a thing that I should not. There is a rumour that the research station on the hill has a new cassava. A great one. It will cut the cost of feed by a third. The word is that the man who bred it has been asking where to find a poultry farmer who has the nerve to try it first."
+"He is a very patient creditor," said Mr. Obi. "The board is not."
+
+Mr. Obi looked at her, a long, kind, professional look, over the top of a face that had watched eleven hundred tragedies arrive as missed repayments. "Madam," he said, "I will tell you a thing that I should not. There is a rumour that the research station on the hill has a new cassava. A great one. It will cut the cost of feed by a third. The word is that the man who bred it has been asking where to find a poultry farmer who has the nerve to try it first."
 
 "Which man?" said Funmi.
 
@@ -15704,7 +15700,7 @@ The winter had asked its payment. It had asked it of the pair of them in full, a
 
 The bride came up the aisle on the arm of the lamp-seller.
 
-It was a great honour, and it was entirely against his wishes. Pereira, sixty, a dealer in lamps who had never sold one in his life and had told her, daily, for nine years, that business was bad, had said that he would walk her up the aisle only if she promised not to tell anybody he had cried. He was crying now, noisily, into the sleeve of a suit that had been in a trunk since nineteen-ninety, and all the way up the nave he was audibly telling her that it was a *good* sort of aisle, a *straight* aisle, a very *reasonable* aisle, as though he had built it himself.
+It was a great honour, and it was entirely against his wishes. Pereira, sixty, a dealer in lamps who had sold perhaps four in his life and had told her, daily, for nine years, that business was bad, had said that he would walk her up the aisle only if she promised not to tell anybody he had cried. He was crying now, noisily, into the sleeve of a suit that had been in a trunk since nineteen-ninety, and all the way up the nave he was audibly telling her that it was a *good* sort of aisle, a *straight* aisle, a very *reasonable* aisle, as though he had built it himself.
 
 "Pereira," whispered Inês Carvalho, twenty-seven, postwoman, in a white dress and a pair of her mother's pearls, "you are leaning on me."
 
@@ -15714,9 +15710,13 @@ It was a great honour, and it was entirely against his wishes. Pereira, sixty, a
 
 "A lamp," said Pereira, with great dignity, "is a thing that shows the way. You have never once thanked me for it."
 
+"Thank you, Pereira."
+
+"Business," said Pereira, blowing his nose, "has never been worse."
+
 At the altar, Tomás saw her, and his face went completely, helplessly open, like a tram door.
 
-Inês took a folded paper from her sleeve. Seven months it had lain in the pocket of her postwoman's jacket; she had read it in the bath, and on the tram, and once on the roof of the sorting office in the rain. It was addressed to a street that did not exist.
+Inês took a folded paper from her sleeve. Eighteen months it had lain in the pocket of her postwoman's jacket; she had read it in the bath, and on the tram, and once on the roof of the sorting office in the rain. It was addressed to a street that did not exist, and it had found her anyway.
 
 "I have a thing to read," she said to the priest.
 
@@ -15733,11 +15733,11 @@ And she read the second line aloud. We shall not repeat it. Those who wish to kn
 ---
 
 ### SCENE IV
-*Vienna. A concert hall in the Third District. A Sunday matinée, a full orchestra, and a bride.*
+*Vienna. The Brahms Hall of the Musikverein. A Sunday matinée, a full orchestra, and a bride.*
 
 Clara Weber, thirty-two, conductor, had a perfect ear and an imperfect patience, and had never in her life permitted a note to go flat.
 
-She stood now on the podium of the great hall, in a white concert dress and her baton, at her own wedding, and the orchestra, who had been sworn to silence, were looking up at her with the pale terror of men who have never seen her smile.
+She stood now on the podium, in a white concert dress, baton in hand, at her own wedding, and the orchestra, who had been sworn to silence, were looking up at her with the pale terror of men who have never seen her smile.
 
 In the front row, with a violin in his lap, sat a meticulous, shy, sandy-haired man of thirty-six, a violin-maker, who had built an instrument that only one woman in the world could play, and who had come, as he always came, in a clean shirt, an hour early, to be sure of finding his seat.
 
@@ -15754,7 +15754,7 @@ It was the most appalling sound in the history of Vienna. The ushers winced. The
 > The wrong, the dear, the unforeseen, the flat and human one.
 > I tune the world to you today. Come up and play it through.*
 
-Jonas Müller, who had never in his life been the subject of a verse, stood, and picked up the violin, and walked down the aisle between the weeping horns, and with a perfectly steady hand played, in front of eleven hundred of the best-trained ears in Europe, the one note that was wrong.
+Jonas Müller, who had never in his life been the subject of a verse, stood, and picked up the violin, and walked down the aisle between the weeping horns, and with a perfectly steady hand played, in front of six hundred of the best-trained ears in Europe, the one note that was wrong.
 
 It was the most beautiful sound in Vienna.
 
@@ -15765,23 +15765,23 @@ It was the most beautiful sound in Vienna.
 
 Erik Johansson, thirty-four, glassblower, had burned his hand to see a woman again, and had been frankly insulted by how well it had worked.
 
-It had been a small burn, a few seconds against the pipe, deliberately mistimed on a Tuesday, in the winter, in the sure and shameful hope that a certain nurse at a certain clinic would be on duty. She had been. She had dressed it, with a firm, blunt, tender competence, and looked at him over her glasses and said: *You did that on purpose, Mr. Johansson. The edges are too clean.*
+It had been a second burn, a small one, a few seconds against the pipe, deliberately mistimed on a Tuesday, in the sure and shameful hope that a certain nurse at a certain clinic would be on duty. She had been. She had dressed it, with a firm, blunt, tender competence, and looked at him over her glasses and said: *You did that on purpose, Mr. Johansson. The edges are too clean.*
 
 "I did," he had said.
 
 "I will not tell the clinic." She had taken his pulse, for no clinical reason. She had held it a second too long. "It is a very good pulse."
 
-Two summers later, on a rock in the southern archipelago, with the sea going out in long grey silk to the edge of the world, thirty guests in woollen jackets stood in a ring around a table on which stood two tall glasses, blown that week, a pale green like the inside of a wave. They were the best thing he had ever made. The hand that made them was healed, a little shiny, a little tight, a faint pink scar across the palm.
+Now, on a rock in the southern archipelago, with the sea going out in long grey silk to the edge of the world, thirty guests in woollen jackets stood in a ring around a table on which stood two tall glasses, blown that week, a pale green like the inside of a wave. They were the best thing he had ever made. The hand that made them was healed, a little shiny, a little tight, a faint pink scar across the palm.
 
 "Hold them up," said Astrid Lindqvist, thirty-two, nurse, with the sea wind blowing her hair across her face, "and I will tell you whether you have done them right."
 
-He held them up. She examined them, professionally, with the face of a woman who checks a wound.
+He held them up. She examined them as she would a wound, with her head on one side.
 
 "There is a bubble," she said.
 
 "It is a flaw."
 
-"It is a *pulse,*" said Astrid. "I left it in. I told you, in the summer. I left it in on purpose, in the stem of mine. It is a heart, Erik. The hand that burned remembers." She looked at him with those brown, steady, impertinent eyes. "I said I have not forgotten your pulse. This is it. This is the sound of it, in glass."
+"It is a *pulse,*" said Astrid. "You told me so yourself, in the summer, over a lopsided bowl. I asked for one in mine, in the stem. It is a heart, Erik. The hand that burned remembers." She looked at him with those brown, steady, impertinent eyes. "I said I had not forgotten your pulse. This is it. This is the sound of it, in glass."
 
 Behind them, Sofia Holm, twenty-eight, a tea-seller from the island and a woman of ferocious romance, was heard to sniff, and to murmur to nobody that she had never been so happy at a funeral, and when corrected, that it was perfectly the same.
 
@@ -15798,15 +15798,15 @@ At the end of the field day, in front of four hundred farmers, thirty women's co
 
 A murmur ran along the benches.
 
-"I have here," said the Professor, holding up a form, "the registration. The name has been entered in a hand I recognise, at nine minutes to six this morning, by a very frightened young man, who then ran away and has been hiding behind the tractor. I am going to read it to you."
+"I have here," said the Professor, holding up a form, "the registration. The name has been entered in a hand I recognise, at nine minutes past nine this morning, by a very frightened young man, who then ran away and has been hiding behind the tractor. I am going to read it to you."
 
 He cleared his throat. At the back of the tent, behind the last row, a thin, anxious, extremely unhappy man in a lab coat put his face in his hands.
 
-"The name," said the Professor, with the air of a man reading the verdict of a very friendly court, "is *Funmi.*"
+"The name," said the Professor, like a judge reading the verdict of a very friendly court, "is *Funmi.*"
 
 In the third row, between a farmer from Ogbomoso and a woman selling roasted corn, a young woman in a yellow head-tie had stopped smiling.
 
-*Funmi.* A common word. A name. In the old tongue of that country, a thing that means, in plain English, *give me*, and in the longer form, *give me joy.* She had been told it as a child; she had been laughed at for it; she had grown up with a name that was a request.
+*Funmi.* A common word. A name. In Yoruba, the old tongue of that country, it means, in plain English, *give me*, and in the longer form, *give me joy.* She had been told it as a child; she had been laughed at for it; she had grown up with a name that was a request.
 
 "It is a very good variety," said Professor Afolabi, to the benches, "and I have a rule that a name should be a thing you can call across a field. I have tried. It carries."
 
@@ -15874,7 +15874,7 @@ A light has a character, said the manual, and Ingrid Solberg, forty-seven, archi
 
 She had always thought it the most consoling sentence in the language.
 
-She sat at her high desk under a green-shaded lamp, in a grey wool cardigan with a pencil behind her ear, a precise, patient, slightly forbidding woman, with eyes the colour of cold water over stones, and entered into the catalogue the last of a box of lightkeepers' journals from Lofoten. *Light: Skrova. Character: Fl W 10s. Keeper's remarks: wind SW, force 7, seen a whale.* She had catalogued four thousand lights. She knew every one of them by its flash.
+She sat at her high desk under a green-shaded lamp, in a grey wool cardigan, a pencil behind her ear, a precise, patient, slightly forbidding woman with eyes the colour of cold water over stones, and entered into the catalogue the last of a box of lightkeepers' journals from Lofoten. *Light: Skrova. Character: Fl W 10s. Keeper's remarks: wind SW, force 7, seen a whale.* She had catalogued four thousand lights. She knew every one of them by its flash.
 
 "Fru Solberg!"
 
@@ -15890,19 +15890,19 @@ It was a large, cheerful, weather-beaten voice, and it came through the door ahe
 
 "I said it had flown to Denmark."
 
-"That is the correct answer. Now." He took off his cap, which with Dag was equivalent to a stage direction. "I am here on behalf of an old shipmate. He has a thing he wishes to give the Archive, and he is a coward, and I have undertaken to carry it in the door."
+"That is the correct answer. Now." He took off his cap, which with Dag was equivalent to a stage direction. "I am here for an old shipmate. He has something he wishes to give the Archive, and he is a coward, and I have undertaken to carry it in the door."
 
 "Who is the shipmate?"
 
-"A man," said Dag Ellingsen, with the delicacy of a ship's anchor coming down on a church floor, "named Nilsen."
+"A man," said Dag Ellingsen, with all the delicacy of an anchor on a church floor, "named Nilsen."
 
 Ingrid's pencil, which had been in her hand, was suddenly on the floor.
 
 ---
 
-He was in the car park. He had been in the car park for forty minutes, in an old blue seaman's coat, with a parcel under his arm wrapped in oilcloth and tied with a tarred string, and a face that looked as if it had been issued with the coat.
+He was in the car park. He had been there forty minutes, in an old blue seaman's coat, with a parcel under his arm wrapped in oilcloth and tied with tarred string, and a face that looked as if it had been issued with the coat.
 
-Anders Nilsen, fifty, retired captain. Gruff, long-boned, white-haired at the temples, hands like a pair of oars. He had retired two summers ago, with a bad back and a good pension, after thirty years of sea, and had since discovered that a man who has been bound for somewhere all his life is a poor tenant of the shore. He had a small flat in Grünerløkka and a cat that disapproved of him. And he had under his arm the last of his ship's logs, which the Archive of Lights would, a clerk had said with a sniff, be *happy to receive.*
+Anders Nilsen, fifty, retired captain: gruff, long-boned, white at the temples, hands like a pair of oars. He had retired two summers ago, with a bad back and a good pension, after thirty years at sea, and had since discovered that anyone who has been bound for somewhere all his life is a poor tenant of the shore. He had a small flat in Grünerløkka and a cat that disapproved of him. And he had under his arm the last of his ship's logs, which the Archive of Lights would, a clerk had said with a sniff, be *happy to receive.*
 
 He had read the name on the staff board three times. *I. Solberg, Archivist.* It is a common name, he had told the cat. The cat had declined to agree.
 
@@ -15928,7 +15928,7 @@ The door of the Archive opened. A woman stood in it, in a grey cardigan, with a 
 
 ---
 
-She took him, without a word, down the long room between the cabinets, past rows of green-bound journals, to a small steel drawer at the end, and opened it with a key from her belt. From it she lifted a log-book, black with age, stamped with an anchor, and laid it on the reading table under the lamp, and opened it, without searching, to a page that had been opened so often it would fall open on its own.
+She took him, without a word, down the long room between the cabinets to a small steel drawer at the end, and opened it with a key from her belt. From it she lifted a log-book, black with age, stamped with an anchor, and laid it on the reading table under the lamp. It fell open, without searching, to a page that had been opened so often it would do so on its own.
 
 *Bergen. 14 June. Alongside Bryggen 1800. Fair. Wind light N. Shore leave to 2200.*
 
@@ -15938,9 +15938,7 @@ And below, in a young hand, in a smaller, quicker ink, set a little apart from t
 
 "I was twenty-two," said Anders, to the page. "I was a third mate on a ship that was sailing at midnight, and you were nineteen, and the time was a quarter to ten, and I said nothing, I said *I do not know,* and you laughed, and said *the clock is behind you,* and it was. It was a clock on a post. And I turned back and you had gone. And I stood there with the name in my head, and I could think of nothing to do with it but write it in the one book I owned that nobody would ever read."
 
-"I read it," said Ingrid.
-
-"In two thousand and one. A box came from the shipping company, with fifty years of logs. I was a junior, cataloguing the rubbish. I opened the *Havørn* at random." She laid her hand on the page. "And there was my name, in a stranger's hand, and a quay I had stood on, and a boy who had said *I do not know,* whom I had thought for three years a very rude sailor." She smiled, or something very close to it. "I put it in this drawer. It was a theft, and I have committed it every day since, and the Archive has never missed it."
+"I read it," said Ingrid. "In two thousand and one. A box came from the shipping company, with fifty years of logs. I was a junior, cataloguing the rubbish. I opened the *Havørn* at random." She laid her hand on the page. "And there was my name, in a stranger's hand, and a quay I had stood on, and a boy who had said *I do not know,* whom I had thought for three years a very rude sailor." She smiled, or something very close to it. "I put it in this drawer. It was a theft, and I have committed it every day since, and the Archive has never missed it."
 
 "Twenty-five years," said Anders.
 
@@ -15958,7 +15956,7 @@ And below, in a young hand, in a smaller, quicker ink, set a little apart from t
 > It is a thing, to be written down. It is
 > Perhaps the only thing that I had wanted.*
 
-For a long time neither of them said anything. Outside, the wind blew a long note through the rigging of the harbour, and the lights of the city came on, one by one, like a patient and well-regulated sentence.
+For a long time neither of them said anything. Outside, the wind blew a long note through the rigging of the harbour, and the lights of the city came on, one by one, in good order.
 
 ---
 
@@ -15969,17 +15967,17 @@ In another city, in another dark, a man who had been a pianist in the same theat
 
 Dmitri Volkov, forty, courtly, rigid, had written a waltz for her and never asked her to dance; and Anya Petrova, thirty-eight, retired ballerina, proud, with a bad knee and a worse temper, had heard it from the wings of a gala and known at once that it was hers.
 
-They had danced once since, at the edge of a crowded floor, as people dance who are making a point. She had not forgotten it. Neither, he suspected, had her knee.
+They had danced once since, at the edge of a crowded floor, as people dance who are making a point. Her knee had not forgotten it.
 
 "You do not have to," said Dmitri.
 
 "I know that."
 
-"It is a very cold night. I merely wished—"
+"It is a cold night. I merely wished—"
 
 "Dmitri Volkov." She tapped the stick on the floor. "Sit. Play the first sixteen bars. And then stop. I shall tell you when."
 
-He played. The waltz came out of the Bechstein as it had come out of him in the spring, a little formal, a little startled, like a man in an evening suit who has found himself unexpectedly at the seaside. It went up, and turned, and came gently down. And on the sixteenth bar Anya Petrova laid her stick on the lid of the piano, as one lays down a sword.
+He played. The waltz came out of the Bechstein as it had come out of him in the spring, a little formal, a little startled, an evening suit that has wandered onto a beach. It went up, and turned, and came gently down. And on the sixteenth bar Anya Petrova laid her stick on the lid of the piano, like a duellist ending the quarrel.
 
 "Stop," she said.
 
@@ -15993,7 +15991,7 @@ He stopped.
 
 She hummed. It was not a trained sound; it was low, wry, a trifle flat; it was the sound a woman makes when she is opening a door in a house she has never entered and has always known the way to. Dmitri Volkov rose from the stool, in the single yellow lamp, and put his right hand on the small of her back, and they began, in the empty theatre, with the first snow tapping at the fly-tower, to waltz.
 
-She did it badly. The knee failed her, once, at the turn, and he held her, and she swore, richly, in a language the stage had known for three hundred years. Then she laughed, an astonished laugh, and they went on, round and round the bare boards where a hundred thousand people had watched her once, through the empty hush where the audience had been; and neither of them, afterwards, could say who had been leading.
+She did it badly. The knee failed her once, at the turn, and he held her, and she swore, richly, in a language the stage had known for three hundred years. Then she laughed, an astonished laugh, and they went on, round and round the bare boards where a hundred thousand people had once watched her; and neither of them, afterwards, could say who had been leading.
 
 "It is not a good dance," said Anya, out of breath, with her forehead on his shoulder.
 
@@ -16010,7 +16008,7 @@ She did it badly. The knee failed her, once, at the turn, and he held her, and s
 
 In the hills above Addis, a woman sat on a low stool beside a small brazier, roasting green beans in a pan, while a man who did not know how to be silent in her presence sat opposite her, silent.
 
-Selam Tesfaye, thirty-three, who had run her last race on a bad knee and had not yet decided what to do with the rest of her legs, shook the pan, and the beans, which were from his own warehouse, spat and smoked and gave off that dark, sweet, savage smell that is Ethiopia's single greatest argument. Samuel Bekele, thirty-six, coffee exporter, watched her do it with a respect that bordered on the religious.
+Selam Tesfaye, thirty-three, who had run her last race on a bad ankle and had not yet decided what to do with the rest of her legs, shook the pan, and the beans, which were from his own warehouse, spat and smoked and gave off the dark, sweet smell that is Ethiopia's single greatest argument. Samuel Bekele, thirty-six, coffee exporter, watched her with a respect that bordered on the religious.
 
 "The debts," said Selam.
 
@@ -16051,7 +16049,7 @@ He considered it a long time.
 
 "You are on the wrong side of the *channel.* Mind your lights."
 
-It was the only eleven minutes they would have that month: a Rotterdam-bound ship northward, a Singapore-bound ship south, passing in the dark off the Gulf of Suez, with their radios in range for the length of time it takes two moving things to be in the same place.
+It was the only eleven minutes they would have that month: a ship northward for Rotterdam, a ship southward for Singapore, passing in the dark off the Gulf of Suez, with their radios in range for the length of time it takes two moving things to be in the same place.
 
 "What is your position?" said Ivan Horvat.
 
@@ -16059,7 +16057,7 @@ It was the only eleven minutes they would have that month: a Rotterdam-bound shi
 
 "I can see your lights. Very bright. That is the deck, and that is the bridge, and I think that is *you.*"
 
-"It is the second officer's cabin. Someone has left the lamp on."
+"It is the second officer's cabin. He has left the lamp on again."
 
 "It is a good lamp," said Ivan. "Eleven minutes. What shall we do with them?"
 
@@ -16071,7 +16069,7 @@ It was the only eleven minutes they would have that month: a Rotterdam-bound shi
 
 "And if the schedules slip?"
 
-A long pause on the channel. Out on the black water, the light of the *Vela* slid slowly aft. Marija Kovač, second officer, stood on the wing of the bridge with the radio in her fist and the night wind in her face, and thought of the sea, who was faithful and could not be wounded, and of the man, who was neither.
+A long pause on the channel. Out on the black water, the light of the *Vela* slid slowly aft. Marija Kovač, chief officer, stood on the wing of the bridge with the radio in her fist and the night wind in her face, and thought of the sea, who was faithful and could not be wounded, and of the man, who was neither.
 
 "Then it will be the ninth of April," she said. "Or the ninth of May. I have decided to be a woman who is expected somewhere. It is not the same as being a woman who has arrived. But it is a start."
 
@@ -16079,14 +16077,14 @@ A long pause on the channel. Out on the black water, the light of the *Vela* sli
 
 "It is a position," said Marija. "Plot it."
 
-The signal began to thin. The *Vela's* lamps shrank to a spark, and then to a rumour, and then to a point, in the huge dark behind. Static rose like surf. On the bridge of the *Zagora* the radio hissed, and the watch went on, and the ships sailed apart, each toward the end of its charted day, with a church in Split, a long way off, unmoving in the mind.
+The signal began to thin. The *Vela's* lamps shrank to a spark, then a rumour, then a point in the huge dark behind. Static rose like surf. On the bridge of the *Zagora* the radio hissed and the watch went on, and the ships sailed apart, each toward the end of its charted day, with a church in Split, a long way off, unmoving in the mind.
 
 ---
 
 ### SCENE V
 *Bonwire, near Kumasi. A weaving shed under a tin roof. A loom, a lamp, a long morning.*
 
-A cloth of kente is not woven in one piece. It is woven in strips, narrow as a man's hand, and sewn together edge to edge, so that a wedding cloth may be sixty strips and a king's cloth a hundred, and every strip a month's patience.
+A cloth of kente is not woven in one piece. It is woven in strips, narrow as a man's hand, and sewn together edge to edge, so that a wedding cloth may be sixty strips, and every strip a month's patience.
 
 Kofi Boateng, thirty, weaver, sat at his loom in the shade with a shuttle in either hand and the thread of green and gold running through his fingers like water, and did not look up when a woman's shadow fell across the cloth.
 
@@ -16094,13 +16092,13 @@ Kofi Boateng, thirty, weaver, sat at his loom in the shade with a shuttle in eit
 
 The shuttle stopped. "To the scholarship."
 
-"To the scholarship. For two years. I fly on Tuesday." She was twenty-nine, a schoolteacher, with a bright, brave, difficult face, and she stood at the edge of the shed with a suitcase in one hand and a packet of boiled groundnuts in the other, as one holds on to what one knows. "I did not know how to say it. I wrote *I do not know how to say yes.* And then I said it to my mother, and she said, *Esi, a thing you cannot say to the one it is for, you say first to someone else.* So I said it to the cat."
+"To the scholarship. For two years. I fly on Tuesday." She was twenty-nine, a schoolteacher, with a bright, brave, difficult face, and she stood at the edge of the shed with a suitcase in one hand and a packet of boiled groundnuts in the other. "I did not know how to say it. I wrote *I do not know how to say yes.* And then I said it to my mother, and she said, *Esi, a thing you cannot say to the one it is for, you say first to someone else.* So I said it to the cat."
 
 "What did the cat say?"
 
 "It said," said Esi, "*Go.*"
 
-He laughed, softly, a little hoarse, the laugh of a man who has been told what he knew.
+He laughed, softly, a little hoarse.
 
 "I promised to wait," said Kofi, "and I am weaving it. See." He held up the strip beneath his hands, a handbreadth of green and gold, with a small black figure, a bird, looking back over its shoulder, woven into the edge: *sankofa,* the sign that says *go back and fetch it.* "A strip for every month you are gone. When you come home, I sew them together. It will be the size of your absence, Esi. Twenty-four strips. A cloth you can wrap yourself in."
 
@@ -16118,7 +16116,7 @@ She set down the suitcase, and went to the loom, and laid her hand on the edge o
 
 "I did not ask you to."
 
-On the tin roof the rain began. At the loom the weaver took up his shuttles again, and the thread ran through his fingers as it had for six hundred years, and the strip grew, a very little, on its frame.
+On the tin roof the rain began. At the loom the weaver took up his shuttles again, and the thread ran through his fingers as it had for centuries, and the strip grew, a very little, on its frame.
 
 ---
 
@@ -16127,13 +16125,13 @@ On the tin roof the rain began. At the loom the weaver took up his shuttles agai
 
 He had asked her to come at six.
 
-She came in a long blue coat, which she had last worn at nineteen in Bergen, and which still, by one of those small miracles of Norwegian wool, fitted; and she stood on the quay with a pencil behind her ear and her hand shading her eyes against a sun that had not yet risen.
+She came in a long blue coat, which she had last worn at nineteen in Bergen, and which still, by one of those small miracles of Norwegian wool, fitted; and she stood on the quay with her hand shading her eyes against a sun that had not yet risen.
 
 "The captain has been persuaded to lend the boat," said Anders Nilsen, from the gangway, in a clean shirt. "For an hour. He asks only that no one mention the parrot."
 
 "We are *parrotless,*" said Astri Dahl, from the stern, with dignity, "as a matter of principle."
 
-They went out through the mist, slowly, down the long grey water towards the islands, with the city dropping behind and the lights of the harbour going out one by one in the dawn. Neither spoke for a long time. It is the privilege of two people who have known each other a quarter of a century and six days that they may be silent without saying so.
+They went out through the mist, slowly, down the long grey water towards the islands, the lights of the harbour going out one by one behind them. Neither spoke for a long time. It is the privilege of two people who have known each other, on and off, for twenty-eight years and a handful of days that they may be silent without saying so.
 
 At the rail, Anders took from his coat the old black logbook. He had brought it out of the Archive that morning, on her own signature, which she had made with her pencil without once reading the form.
 
@@ -16141,7 +16139,7 @@ At the rail, Anders took from his coat the old black logbook. He had brought it 
 
 "You did go back."
 
-"It took me twenty-five years and a bad back."
+"It took me twenty-eight years and a bad back."
 
 "The back," said Ingrid Solberg, "was the quickest part."
 
@@ -16159,7 +16157,7 @@ She closed the book.
 
 "It is the technical term," said Ingrid, "for a light that does not go out."
 
-The sun came up over the fjord. It lit the water gold, and the mist, and the faces of five people on a small white boat, one of them a captain who was wiping his eye on his sleeve, and the parrotless crew, who had said nothing at all for six full minutes, which was a record.
+The sun came up over the fjord. It lit the water gold, and the mist, and the faces of five people on a small white boat: a captain wiping his eye on his sleeve, and the parrotless crew, who had said nothing at all for six full minutes, which was a record.
 
 ---
 
@@ -16187,23 +16185,23 @@ The sun came up over the fjord. It lit the water gold, and the mist, and the fac
 
 > Lima lies under cloud nine months in twelve,
 > A rain so fine it wets no sleeve, yet blinds;
-> Whoever hunts the stars must leave the shelves
+> Who hunts the stars must leave the wettest shelves
 > Of sea-level and climb, and leave behind
 > The warm, the fed, the footsore, and the near.
 > We climb with one who flees a man with lunch,
-> And with that man, who follows her, for fear
-> That love, like fish, is spoiled by too long a hunch.
+> And with that man, who follows, pale with fear
+> That love, like fish, is ruined by a hunch.
 
 ---
 
 ### SCENE I
-*Surquillo, Lima. A cebichería called La Marea, eleven-forty in the morning. The garúa lies on the rooftops like a lid on a pot.*
+*Surquillo, Lima. A cebichería called La Marea, eleven-forty in the morning. The garúa lies on the rooftops like a lid.*
 
 Sergio Castillo, thirty, cook, believed three things: that fish must be bought before the sun, that a lime must be squeezed by hand and never twice, and that cebiche, like love and unlike taxes, must be finished before four in the afternoon, after which it is not food but evidence.
 
-He stood at the long steel table over a bowl of sea bass and watched the lime do its work. That is the secret nobody believes: there is no fire, only acid and time, and the fish goes from glass to silk in the length of a short hymn. Leave it three minutes and it is raw; five and it is rubber. The whole art is knowing when to stop waiting, and Sergio had practised it on fish for twelve years and on one woman for nine months, and the fish had always been the more cooperative.
+He stood at the long steel table over a bowl of sea bass and watched the lime do its work. That is the secret nobody believes: there is no fire, only acid and time, and the fish goes from glass to silk in the length of a short hymn. Leave it three minutes and it is raw; five and it is rubber. The whole art is knowing when to stop waiting, and Sergio had practised it on fish for twelve years and on one woman for nine months, and the fish had been the more cooperative.
 
-"Causa," said his younger brother Renzo, shaking out a black umbrella in the doorway, with the care of a man who has never in his life needed to. "I sold one."
+"Causa," said his younger brother Renzo, shaking out a black umbrella in the doorway, with great care, as a man does who has never needed to. "I sold one."
 
 "An umbrella? In Lima?"
 
@@ -16211,25 +16209,21 @@ He stood at the long steel table over a bowl of sea bass and watched the lime do
 
 "That is not a sale. That is a sermon with a receipt."
 
-"Such is commerce," said Renzo, and sat down to the best cebiche in the district, coughing a small, quiet cough that he had been taking to the doctor, in the spring, for three years.
+Renzo sat down to the best cebiche in the district, coughing a small, quiet cough that he had been promising to take to the doctor, every spring, for three years.
 
-At the next table sat Rosa Chávez, forty-two, community spiritual leader of three streets and a stairwell, whom nothing had ever frightened except a decaffeinated morning. She had a thermos of tea she would drink until two a.m., and a saucer on which she was reading, with great concentration, the dregs of the last customer's lime.
+At the next table sat Rosa Chávez, forty-two, community spiritual leader of three streets and a stairwell, whom nothing had ever frightened except a decaffeinated morning. She had a thermos of tea and a saucer on which she was reading, with great concentration, the dregs of the last customer's lime.
 
 "The leaves say," announced Rosa, "that the star-woman is leaving the dome."
 
 "Those are not leaves," said Sergio. "That is a lime wedge."
 
-"Everything is a leaf, hijo, if you respect it." She lowered her voice to a whisper audible across the street. "You have watched that little black circle on your phone for nine months. I charge for less."
+"Everything is a leaf, hijo, if you respect it." She lowered her voice to a whisper audible across the street. "Nine months you have watched that little black circle on your phone. I charge for less."
 
-He had. It was the public feed of the all-sky camera at the university's mountain station above Ticlio: a fisheye turned up to the night, the Milky Way across it like a spill of salt, and in one corner the edge of a dome with a small yellow window. That window was lit when Lucía Paredes was working. He knew its hours as other men know the prices of stocks. It was the only telescope he owned, and it showed him nothing, and he had found, as lovers do, that *nothing* can be enormously detailed.
+He had. It was the public feed of the all-sky camera at the university's mountain station above Ticlio: a fisheye turned up to the night, the Milky Way across it like a spill of salt, and in one corner the edge of a dome with a small yellow window. That window was lit when Lucía Paredes was working. He knew its hours as other men know the prices of stocks. It was the only telescope he owned, and he had found, as lovers do, that *nothing* can be enormously detailed.
 
-"There was snow on the camera," he said. "Three nights."
+"There was snow on the camera for three nights," he said. "And the window has been dark since Tuesday."
 
-"And?"
-
-"And the window has been dark since Tuesday."
-
-"Hm." Rosa tipped the saucer and pronounced: "A dark window means a dead lamp. A dead lamp means a dead battery. A dead battery means *nobody has gone up with a new one.*" She looked at him with the terrible gentleness of the very fearless. "A star that is dark, hijo, is only a star waiting for somebody to bring it a lunch."
+Rosa tipped the saucer. "A dark window means a dead lamp. A dead lamp means a dead battery. A dead battery means *nobody has gone up with a new one.*" She looked at him with the gentleness of the truly fearless. "A star that is dark, hijo, is only a star waiting for somebody to bring it a lunch."
 
 Sergio, who had been given many oracles and never one so near to useful, put down the lime.
 
@@ -16239,24 +16233,24 @@ Sergio, who had been given many oracles and never one so near to useful, put dow
 
 "Then mind it with an umbrella."
 
-He filled a thermos with leche de tigre, the pale sharp milk of the marinade, which in Lima is drunk against hangovers, heartbreak and the general weight of existence, and which is said to raise the dead; and at the door the tea-seller Milagros Ramos, who kept her cart at the university gate, caught his sleeve.
+He filled a thermos with leche de tigre, the pale sharp milk of the marinade, which in Lima is drunk against hangovers, heartbreak and the general weight of existence; and at the door Milagros Ramos, the tea-seller who kept her cart at the university gate, caught his sleeve.
 
 "She sends the bowls back," said Milagros softly. "You know that? Washed. With a number in pencil on the rim."
 
 "I thought it was a code."
 
-"It is," said Milagros. "A telephone number, Sergio. Only it is a *star's.*" She smiled the smile of one who is jealous of the young and has decided, this once, to be generous. "Go and ask her which one."
+"It is," said Milagros. "A telephone number, Sergio. Only it is a *star's.*" She smiled, a little jealous of the young, and generous for once. "Go and ask her which one."
 
 ---
 
 ### SCENE II
-*Above Ticlio, 4,300 metres. Night. The dome is lit again, by a camp lantern. Inside, a woman alone.*
+*Above Ticlio, nearly 5,000 metres. Night. The dome is lit again, by a camp lantern. Inside, a woman alone.*
 
 Lucía Paredes had not slept for thirty hours, nor eaten properly for four days, and had written the same coordinates nineteen times in her notebook, and was, in her own estimation, perfectly well.
 
-The dome smelled of cold iron and old cardigan. She had come up on Monday with the technician, who had gone down on Tuesday for a new generator battery, and had left her a lantern, a sack of coca leaves, a tin of biscuits and a promise to return on Thursday, which had been, in the manner of Andean promises, an observation about the weather.
+She had come up on Monday with the technician, who had gone down on Tuesday for a new generator battery, leaving her a lantern, a tin of biscuits and a promise to return on Friday, which had been, in the manner of Andean promises, an observation about the weather.
 
-She was twenty-nine, small and quick, dressed in four jumpers, one of them her father's, and she was, for reasons she would not have defended aloud, speaking to the telescope.
+She was twenty-nine, small and quick, in four jumpers, one of them her father's, and she was, for reasons she would not have defended aloud, speaking to the telescope.
 
 > The dark is not an absence. It's a hand
 > That pulls. I have been watching one red star
@@ -16280,13 +16274,13 @@ She was twenty-nine, small and quick, dressed in four jumpers, one of them her f
 > Because it is the only way I know
 > To say the thing—
 
-She stopped. The word was in her mouth and she put it back, as one puts back a coin that is the wrong denomination for the shop.
+She stopped. The word was in her mouth, and she put it back like a coin of the wrong denomination.
 
 "*Yana quyllur,*" she said instead. Black star. It was what her father called it when she was seven and had asked why the sky had holes in it.
 
 She was reaching for the lantern when somebody knocked on the door of the dome.
 
-Nobody knocks on a mountain. The mountain does not have visitors; it has weather. The knock came a second time: three small taps, the knock of a man accustomed to asking whether the kitchen is open.
+Nobody knocks on a mountain. It does not have visitors; it has weather. The knock came again: three small taps, the knock of a man accustomed to asking whether the kitchen is open.
 
 She slid back the bolt. On the step, leaning on the frame as though the frame were the only thing holding up the night, stood a young man with a thermos and lips the colour of a bruised plum.
 
@@ -16300,19 +16294,11 @@ She slid back the bolt. On the step, leaning on the frame as though the frame we
 
 "It is the cold."
 
-"It is the altitude," said Lucía. "You have soroche. Come in. Sit. Do not talk. Put your head between your knees."
+"It is the altitude," said Lucía. "You have soroche. Come in. Sit. Put your head between your knees."
 
-"I did not come all this way to put my head—"
+He sat. She made mate de coca on a camp stove, bitter and green and warm, the old tea of the mountains that her grandmother had given to every guest and every child and, on one occasion, a goat; and she watched him drink it, and found that her own hand was shaking, which she blamed on the stove.
 
-"*Sit.*"
-
-He sat. She made mate de coca on a camp stove, bitter and green and warm, the old tea of the mountains that her grandmother had given to every guest and every child and, on one occasion, a goat; and she watched him drink it, and found that her own hand was shaking, which she attributed to the stove.
-
-"The night bus," said Sergio, between sips. "The conductor made bets on whether I would be sick before Ticlio."
-
-"Were you?"
-
-"After Ticlio. I was loyal to the wager." His colour, by degrees, began to come back, like dawn in a poorly run sky. "I saw on the camera that the light was out."
+"The night bus," said Sergio, between sips. "The conductor made bets on whether I would be sick before Ticlio. I was sick after. I was loyal to the wager." His colour came back by degrees, like dawn in a poorly run sky. "I saw on the camera that the light was out."
 
 "You *watch* the camera?"
 
@@ -16320,39 +16306,33 @@ He did not lie. Raw fish and raw truth were the only two things he had never lea
 
 "Every night," he said. "It is the only telescope I have."
 
-Lucía put down the stove.
-
-She said nothing for one minute and fourteen seconds, which the dome, having heard a great many silences in sixty years, would have called a good one.
+Lucía put down the stove. She said nothing for one minute and fourteen seconds, which the dome, having heard a great many silences in sixty years, would have called a good one.
 
 "The bowls," she said at last. "You noticed the numbers."
 
-"Milagros told me they were a telephone number."
+"Milagros said they were a telephone number."
 
 "They are *coordinates.*" Her voice cracked slightly on the word. "Right ascension and declination. Of the star I am hunting. I could not think of any other way to tell you where I was."
 
 "You were telling me where you were?"
 
-"I was telling you where I *would be.*" She pushed the hair from her face with a mitten. "It is a very bad code. You cannot send a man a star and expect a reply."
+"I was telling you where I *would be.*" She pushed the hair from her face with a mitten. "It is a very bad code."
 
 "I did not reply," said Sergio, "because I thought it was a telephone number, and I was afraid to ring it."
 
-They looked at one another: two people discovering that the other had been standing in the same dark, with the same lunch.
+They looked at one another, two people who had been standing in the same dark with the same lunch.
 
-"Wait," said Lucía. She turned to the screen, where a graph lay stretched like a sleeping animal. "It is four-oh-two. In ten minutes my star should lean. I have been waiting eleven days for this. If the cloud holds off—"
+"Wait," said Lucía. She turned to the screen, where a graph lay stretched like a sleeping animal. "It is four-oh-two. In ten minutes my star should lean. I have waited eleven days for this. If the cloud holds off—"
 
-She went to the slit. And the cloud, which had lain on the ridge all evening like a grey cat on a warm lap, rose, stretched, and with the contempt of its kind strolled away.
+She went to the slit. And the cloud, which had lain on the ridge all evening like a grey cat, rose, stretched, and with the contempt of its kind strolled away.
 
-The sky opened: the whole ceiling of the world, thick with fire, and through it the river of the Milky Way, and in the river, black as ink spilled on a bright cloth, the dark llama walking, with Alpha and Beta Centauri for her eyes.
+The sky opened: the whole ceiling of the world, thick with fire, and through it the river of the Milky Way, and in the river, black as ink on a bright cloth, the dark llama walking, her two bright eyes, Alpha and Beta Centauri, only now clearing the eastern ridge.
 
 "The llama," said Sergio, from the floor. "You drew her on a napkin at my table, the first day. I had it framed."
 
 She laughed, a short astonished sound, like a latch giving way. Then she crossed to the old telescope, with the brass eyepiece she kept for visitors, though nobody had ever visited, and turned its tube a quarter of a degree, and stood back.
 
-"Come here."
-
-"I am not good with—"
-
-"You are a cook. You know how to look at one thing for a long time. Come."
+"Come here. You are a cook. You know how to look at one thing for a long time."
 
 He rose, unsteady, and put his eye to the glass.
 
@@ -16362,7 +16342,7 @@ He rose, unsteady, and put his eye to the glass.
 
 "Yes."
 
-"Between them. A little round gap, like a— like a place at a table that has been laid for someone who has not come." His voice dropped. "And all the lights around it are leaning toward the empty chair."
+"Between them. A little round gap, like a place at a table laid for someone who has not come." His voice dropped. "And all the lights around it are leaning toward the empty chair."
 
 Lucía Paredes, who had spent nine years studying the unseen and never heard it so well described, put her hand over her mouth.
 
@@ -16372,29 +16352,23 @@ Lucía Paredes, who had spent nine years studying the unseen and never heard it 
 
 "It is *unconfirmed.* It may be a faulty sensor. It may be a flaw in the glass. To be sure I must see the lean twice: tonight, and again in eleven days. I will not believe it myself from one night."
 
-"Eleven days," said Sergio.
-
-"Yes."
-
 "Is it a long way, eleven days?"
 
 "It is," said Lucía carefully, "about a very good marinade."
 
 He turned from the eyepiece. He did not say *love,* a word he had never managed to say sober, nor, at that altitude, upright. He said, his lips the colour of a plum going slowly to rose:
 
-"In cebiche, the lime does the cooking. You do not light a fire. You only have to know when to stop waiting. Four minutes more and it is ruined; four less and it is raw." He swallowed. "I have been waiting nine months. I do not know if that is four minutes too many or four minutes too few. I only know that I came up a mountain to ask you."
+"In cebiche, the lime does the cooking. You only have to know when to stop waiting." He swallowed. "I have been waiting nine months. I do not know if that is four minutes too many or four too few. I only know that I came up a mountain to ask you."
 
 "And if it is too many?"
 
 "Then the fish is rubber," said Sergio, "and I will eat it anyway."
 
-The camera chimed on the desk, a small bright bell. The exposure was finished. On the screen, in a cold grey square, a single faint red star was drawing itself, pixel by pixel, a little to the left of where it ought to be.
+The camera chimed on the desk. The exposure was finished. On the screen, in a cold grey square, a single faint red star was drawing itself, pixel by pixel, a little to the left of where it ought to be.
 
 It might be the lean. It might be the sensor. It might be a hand, in the dark, pulling.
 
-For the first time in nine months, Lucía Paredes did not look at the screen.
-
-She looked at him.
+For the first time in nine months, Lucía Paredes did not look at the screen. She looked at him.
 
 *What she said, the page does not record, and the mountain keeps its counsel. But at sunrise the technician, who had returned a day early with a new battery and a bad conscience, found the two of them asleep in the old chairs with a thermos between them, and a notebook open to a page on which someone had written* eleven days *and underlined it twice.*
 
@@ -16414,19 +16388,19 @@ Whether it was a star, we shall learn in eleven days. Whether it was a man with 
 
 **São Paulo, Ibirapuera Park, 6:10 a.m.**
 
-Dr. Beatriz Lima had not slept since Tuesday, and it was Saturday, and she sat on a bench in her scrubs with a face as grey as a hospital sheet, watching the joggers as though they were an interesting but irrelevant tribe.
+Dr. Beatriz Lima had not slept since Tuesday, and it was Saturday, and she sat on a bench in her scrubs, grey as a hospital sheet, watching the joggers as though they were an interesting but irrelevant tribe.
 
 "Doutora," said a voice. "You are asleep."
 
 "I am resting my eyes. They are contemplating."
 
-Carlos Mendes, thirty-three, sports physiotherapist, sat beside her with two cups of coffee and a paper bag of pão de queijo. His left hand had a narrow pale band of skin where a ring had been for seven years, and it was beginning, this winter, to tan.
+Carlos Mendes, thirty-three, sports physiotherapist, sat beside her with two cups of coffee and a paper bag of pão de queijo. His left hand had a narrow pale band of skin where a ring had been for seven years, and it was beginning, this spring, to tan.
 
 "You took it off," said Beatriz.
 
 "In the tango school. Very dramatically." He gave her the coffee. "Beatriz. I have something to ask you."
 
-"Is it medical? Because I am off until, I believe, my retirement."
+"Is it medical? I am off until, I believe, my retirement."
 
 "It is not medical."
 
@@ -16438,46 +16412,46 @@ He looked at her with the patient eyes of a man who has taught strangers' legs t
 
 "Is it?"
 
-"I am afraid it is. I have it in my diary."
+"I am afraid so. It is in my diary."
 
 From the kerb a taxi sounded its horn: Seu Gustavo, sixty-four, who had driven Carlos for twenty years and advised him, mostly, about football.
 
-"Doutor!" he shouted. "In forty years I learned one thing! When a woman says *ask me later,* she has already answered the first half of the question!"
+"Doutor!" he shouted. "When a woman says *ask me later,* she has already answered the first half of the question!"
 
 "Which half?" said Beatriz, with her eyes shut.
 
-"The *asking,* doutora!" said Seu Gustavo, with the radiance of one who has never in his life been wrong by accident.
+"The *asking,* doutora!" said Seu Gustavo, radiant, like a man who has never in his life been wrong on purpose.
 
-*In São Paulo the story stands open, like a door on a warm morning, which is nine parts of a welcome.*
+*In São Paulo the story stands open, like a door on a warm morning.*
 
 > Now north, to Prague, where marionettes are hung
 > Like words that hesitate upon the tongue.
 
 **Prague, a small theatre in Malá Strana, 9:45 p.m.**
 
-The lights went down on the last puppet, an old marionette in a green coat named Vendelín, who bowed, and the audience, which was nineteen people and a dog, clapped, and the dog barked, which in Prague is a rave.
+The lights went down on the last puppet, an old marionette in a green coat named Vendelín, who bowed; and the audience, nineteen people and a dog, clapped, and the dog barked, which in Prague is a rave.
 
 In the third row sat Lucie Horáková, thirty-six, theatre critic, with her notebook shut. She had written nothing for ten months, not since she had understood that a review is a very small door through which, if one is careless, one may drive a whole theatre.
 
 The curtain stirred. And for the first time in the history of that theatre, the puppeteer Petr Novák, forty, came out from behind the cloth with no puppet on his hand.
 
-"Pan Novák!" hissed Markéta, who sold the tickets and was extravagantly proud of her calves. "Where is Vendelín? You have forgotten your *hand!*"
+"Pan Novák!" hissed Markéta, who sold the tickets. "Where is Vendelín? You have forgotten your *hand!*"
 
 "I have not forgotten it," said Petr. "I am using it."
 
-He walked down three steps to the third row. His voice, which had hidden behind eleven wooden voices for twenty years, was small, and rusty, and wholly his.
+He walked down three steps to the third row. His voice, which had hidden behind eleven wooden voices for twenty years, was small and rusty and wholly his.
 
 "Paní Horáková," he said. "I have not a very big sentence. I have only a short one. I would like to be reviewed by you, for the rest of my life."
 
-Lucie opened her notebook and held her pen a moment above the page, as one holds a sword over a head one has decided not to remove.
+Lucie opened her notebook and held her pen a moment above the page.
 
 "I did not hear the middle," she said.
 
 "There was no middle."
 
-"Then say it again. I have forgotten how to write down a thing like that."
+"Then say it again."
 
-He said it again. She wrote it down in her harsh square hand, and underlined it, and for the first time in a long career gave a man four stars.
+He said it again. She wrote it down in her harsh square hand, underlined it, and for the first time in a long career gave a man four stars.
 
 > And west again, to the green sierras: dawn,
 > And a man with a flower on a mountain lawn.
@@ -16486,7 +16460,7 @@ He said it again. She wrote it down in her harsh square hand, and underlined it,
 
 "*Torres has attacked!*" cried Esteban Ortiz, soft-spoken commentator of the Cali radio, who had the distinction of being wrong on every broadcast and loved for it. "*He is away from the peloton! No, he has stopped! He is— he is picking up a flower!*"
 
-Sebastián Torres, twenty-nine, professional cyclist, with a crash behind him and a season in front, had indeed stopped forty metres from the finish for a single white carnation held out from the crowd by a woman with soil under her nails.
+Sebastián Torres, twenty-nine, professional cyclist, had indeed stopped forty metres from the finish for a single white carnation held out from the crowd by a woman with soil under her nails.
 
 He finished eleventh. The prize for eleventh is a handshake and a bottle of water.
 
@@ -16496,13 +16470,13 @@ He finished eleventh. The prize for eleventh is a handshake and a bottle of wate
 
 "The bank has given me until Monday. They will not give me more."
 
-"I know." He held up the carnation, grown from a cutting of her grandmother's, a small stubborn flower that did badly in the commercial markets and extraordinarily well in the hands of anyone who loved it. "I have eleventh-place money. It is not much. And a sponsor who is thinking about me, which is not the same as paying."
+"I know." He held up the carnation, grown from a cutting of her grandmother's, a small stubborn flower that did badly in the markets and well in the hands of anyone who loved it. "I have eleventh-place money. And a sponsor who is thinking about me, which is not the same as paying."
 
 "It is not enough."
 
 "No. But it is a *start,* and I am very good at a start. I am bad at a middle and poor at a finish, but I have never had a bad start."
 
-She looked at the carnation, and at the mountain, whose clouds stood about the tops like a congregation. Behind them the commentator told a hundred thousand listeners, "*I do not understand what is happening, but it seems beautiful.*"
+Behind them the commentator told his listeners, "*I do not understand what is happening, but it seems beautiful.*"
 
 "It is Monday I am worried about," said Daniela.
 
@@ -16519,21 +16493,21 @@ There is a custom in the marriages of Iran that the bride, asked whether she con
 
 Parisa Karimi, thirty-one, architect-restorer, sat on a cushion before the sofreh, the spread of mirror and candles and honey and sugar loaves, and let the officiant ask her once, and twice, and let the aunts say, with great enjoyment, that she had gone to pick violets.
 
-Across from her sat Ali Rezaei, thirty-six, tile master, hands scarred and steady, who had spent four years laying a blue pattern on the courtyard wall in which no figure repeated, and which went on, tile by tile, like the thought of someone one loves.
+Across from her sat Ali Rezaei, thirty-six, tile master, hands scarred and steady, who had spent four years laying a blue pattern on the courtyard wall in which no figure repeated, tile by tile, like the thought of someone one loves.
 
 "How do you know," Parisa had asked him, in the spring, "where each one goes?"
 
 "I do not," Ali had said. "I only know where it fits."
 
-That afternoon he had set the last tile and stood back; and the pattern had not ended, but could now be left, like a sentence that has reached its breath.
+That afternoon he had set the last tile and stood back; the pattern had not ended, but could now be left, like a sentence that has reached its breath.
 
-"Third time," said Reza Jafari, the trader from Shiraz, fifty-seven, who was related to neither of them and had come on the principle that a free dinner is a relative. "She will answer now."
+"Third time," said Reza Jafari, the trader from Shiraz, fifty-seven, related to neither of them, who had come on the principle that a free dinner is a relative. "She will answer now."
 
 "She may not," said Azadeh Ahmadi, eighty-seven, who had sold melons on this street for seventy years and was permitted every opinion. "She is a clever girl. She may be waiting for the tile to be well and truly set."
 
 "It is *set,*" said Reza.
 
-"Then she will say yes," said the old woman, with enormous satisfaction, "which is what I told him when he was seven and could not put the blue one in the right place."
+"Then she will say yes," said the old woman, "which is what I told him when he was seven and could not put the blue one in the right place."
 
 Parisa lifted her head. A woman who has spent her life putting broken things back, and a man who has spent his finding where the next thing goes, regarded one another with great seriousness.
 
@@ -16543,7 +16517,7 @@ And the courtyard, which had been waiting for a thousand years, laughed and wept
 
 ---
 
-*Margin note, in pencil, in the hand of S.W.R., beside Entry 0567:*
+*Margin note, in pencil, in the hand of S.W.R., beside Entries 0567 and 0958:*
 
 > *"Candidate. Unconfirmed. Observed once. Do not announce a discovery until it has been seen twice."*
 >
@@ -16595,7 +16569,7 @@ It had been three years, nine offices, two sponsors, a lawyer who had cried once
 
 Behind them, a voice rose, unsteady with joy and helium.
 
-"*Idris bhai! The balloons!*"
+"*Idris-jan! The balloons!*"
 
 Najib Sultani, twenty-five, writer, devout, and the most generous man in Scarborough with other people's money, came through the crowd with a sign in one hand and fourteen balloons in the other. The sign read WELCOME TO CANADA, HAKEEMY FAMILY. The balloons read, in curly silver, CONGRATULATIONS ON YOUR NEW BABY.
 
@@ -16625,7 +16599,7 @@ She had rehearsed it for two years, on the bus, in the bath, once in a hospital 
 
 *Welcome.* Then, in the same careful hand, a second sentence, longer, in a language that had taken her two winters to learn, and which the page, for once, will not translate, except to say that it was about how a person does not have to be carried alone any more. Idris stood very still beside her; for the first time in his life he did not translate; he could not have.
 
-The old woman said nothing. She took Fatima's face in both hands, as she had taken her son's, and kissed her once on the forehead, and began, without any dignity at all, to weep. Beside her, the girl said, in English, "Is that a *baby* balloon?"
+The old woman said nothing. She took Fatima's face in both hands, as she had taken her son's, and kissed her once on the forehead, and began, without the least attempt at composure, to weep. Beside her, the girl said, in English, "Is that a *baby* balloon?"
 
 "It is a mistake," said Najib, "that has become a blessing."
 
@@ -16695,7 +16669,7 @@ Behind them, in the bakery, Mathieu's clock struck, thirteen times, and was neve
 
 "*Dewi, Ubud,*" read Fayaz. "*For my cousin in Rotterdam: your grandmother says Ayu has learned a new word and will not tell me which. I have my suspicions. Putu says I am not to say. I am not saying.*"
 
-Bunny wiped the counter, which did not need it. "Bhaiya. In Rotterdam it is five hours behind us."
+Bunny wiped the counter, which did not need it. "Bhaiya. Rotterdam is five hours behind us now."
 
 "You have looked it up."
 
@@ -16703,11 +16677,11 @@ Bunny wiped the counter, which did not need it. "Bhaiya. In Rotterdam it is five
 
 "I look up everything. Last year she was one hour in front of you. Now she is five behind. At this rate, by next year she will be in yesterday and you will be in Tuesday and the only place you can meet is in the middle of the sea."
 
-Fayaz opened his mouth, and shut it, with the face of a man who has been handed an important parcel by a child.
+Fayaz opened his mouth, and shut it.
 
 "That," he said, "is not very far from geographically accurate."
 
-"I know," said Bunny, with immense dignity. "I read the map."
+"I know," said Bunny, solemn as a customs officer. "I read the map."
 
 ---
 
@@ -16782,7 +16756,7 @@ There was a very long silence.
 
 "Fayaz—"
 
-"I have no complaints," said Fayaz, with the gravity of a judge who is also laughing. "I wish only to record it."
+"I have no complaints," said Fayaz, gravely, and laughing. "I wish only to record it."
 
 She put her face in both hands. When she took them away her cheeks had a third stripe of blue, and her mouth was trembling, not from sorrow.
 
@@ -16812,7 +16786,7 @@ The pencil in her hair slid and fell. She did not move.
 
 "Where?" said Ermis.
 
-"*Where* is the question." He pulled up a map on the second screen, because he was, after all, a man who built systems. "Dhaka to Yogyakarta, by line, is four thousand kilometres. You cannot come here, with Rotterdam, and I cannot go there, with the embassies as they are, so we need a place *between.* Halfway. I have measured. A few hundred kilometres of unfairness in my favour. I will carry the bags." He turned the screen. "Bunny says we shall meet in the middle of the sea. I have looked for the least wet place."
+"*Where* is the question." He pulled up a map on the second screen, because he was, after all, a man who built systems. "My Dhaka to your Java, by line, is nearly four thousand kilometres. You cannot come here, with Rotterdam, and I cannot go there, with the embassies as they are, so we need a place *between our homes.* Halfway. I have measured. It is a little nearer to me, which I shall not apologise for. I will carry the bags." He turned the screen. "Bunny says we shall meet in the middle of the sea. I have looked for the least wet place."
 
 The map showed the long green leg of the Malay peninsula, and, hanging off it into the blue like a pendant on a thread, an island.
 
@@ -16848,7 +16822,7 @@ Fayaz looked at the cloth on his wall, and at his father on the balcony, drawing
 
 "I see a beach," he said slowly. "I see two people who are very bad at beginning a sentence. And one of them says, *I would tell you everything.*" He breathed. "And the other waits for the *if* — and there is no *if.*"
 
-There was a very long quiet. Rain on the Rotterdam windows. A kettle on the Dhaka stove. A parrot, in a recording, three thousand miles away, saying nothing at all, for once, as though she had understood the occasion.
+There was a very long quiet. Rain on the Rotterdam windows. A kettle on the Dhaka stove. A parrot, in a recording, seven thousand miles away, saying nothing at all, for once, as though she had understood the occasion.
 
 "Be on time," said Ermis, finally, in a voice that was not entirely steady.
 
@@ -16912,7 +16886,7 @@ The sub-post-office at Penhallow had a counter, a scale, a stamp machine that sp
 
 He stood in the doorway in the red jacket he had worn for forty-five years, with the bag across his chest and a shortbread tin under his arm. The tin was tartan, dented, decorated with a Highland cow whose expression had worn thin from handling.
 
-Harry was seventy, with the stoop of a man who has been bowing to letterboxes since the days of decimalisation, a face as creased and kind as a well-used envelope, and the largest store of other people's secrets in the county, which he had never, in all his years, spent.
+Harry was seventy, stooped from bowing to letterboxes since the days of decimalisation, with a face as creased and kind as a well-used envelope and the largest store of other people's secrets in the county, which he had never, in all his years, spent.
 
 "Last round, Harry," said Mrs. Trelawny, with tears in her eyes and a saffron bun in her fist. "Eat. You will need it."
 
@@ -16938,7 +16912,7 @@ Harry was seventy, with the stoop of a man who has been bowing to letterboxes si
 
 It was a morning of the colour of slate. The lanes of Penhallow ran down the hill to the harbour like loose threads, and Harry walked them, as he had walked them for forty-five years, in a particular rhythm that his feet knew and he did not, letterbox, gate, step, letterbox, until it felt less like a job than a prayer in a language of doors.
 
-At Trevean Farm, a collie came round the barn at a low run, with his ears flat and the light of an old and sacred purpose in his eye.
+At Trevean Farm, a collie came round the barn at a low run, ears flat, with the light of an old and sacred purpose in his eye.
 
 "Not today, Boscawen," said Harry. "It is my last."
 
@@ -16985,7 +16959,7 @@ He turned the other way, up the long road to the headland, and left Chapel Row, 
 
 "Miss Fernando."
 
-"Korea, India, Zambia, Japan." She held the door. "I have been waiting for you all week. Everyone has been writing to the Keeper, and the Keeper, as you know, has not been in a position to reply. I have four of the letters, and I have not read them aloud, because they did not seem like letters to be read alone, and you are the nearest thing in this county to a *postman,* and I thought you should hear them, since you carried the first thousand."
+"Korea, India, Zambia, Japan." She held the door. "I have been waiting for you all week. Everyone has been writing to the Keeper, and the Keeper, as you know, has not been in a position to reply. I have four letters that did not seem right to read alone, and you are the nearest thing in this county to a *postman,* and you carried the first thousand."
 
 He had. He had carried every one of the thousand letters up the cliff path to the oak cabinet in this house, over forty-five years: letters in a hundred languages, with stamps from places he had to look up. He had never opened one. He had known, though, as a postman knows, from the weight of the paper and the hesitation of the handwriting, that they were a different kind of mail. They were not for the post. They were for the thing the post was for.
 
@@ -16993,13 +16967,13 @@ She made him tea in the kitchen, in a cup the size of a small bucket. And then, 
 
 > **Seoul.** *Dear Keeper: I have now measured everyone in this city, and one man twice. Daniel has resigned from his team and sits in my shop in the afternoons, folding silk and complaining that it is quiet. I have sewn him a coat. It fits. I enclose the lining; it is the colour of the quiet he asked for. — Ji-woo Han (#0351). P.S. He says to tell you that he has stopped checking the score of things.*
 
-> **Delhi.** *Dear Madam: Platform six. 5:40. For twenty years the train has not stopped there, and the woman in the blue sari has stood there anyway. On the fourteenth, I stopped it. I have received a letter of warning from the Railways, which I have framed. It is the best letter I have ever received. — Ravi Chaudhary (#0363). We are to be married at the new year. She says I should apologise to the signalman. I shall.*
+> **Delhi.** *Dear Madam: Platform six. 5:40. For eleven years the express has not stopped there, and for four of them a woman in a blue sari has stood there anyway. On the fourteenth, I stopped it. I have received a letter of warning from the Railways, which I have framed. It is the best letter I have ever received. — Ravi Chaudhary (#0363). We are to be married at the new year. She says I should apologise to the signalman. I shall.*
 
-> **Lusaka.** *Dear Keeper: We were married on Saturday in the school yard, with two hundred children singing in four keys and none of them ours. Grace sold maize to the wedding guests. She says a wedding is no reason to close a stall. My children call her "Mama Grace-and-the-Maize." She does not mind. — Joseph Tembo (#0133).*
+> **Lusaka.** *Dear Keeper: We were married in the school yard, on a Saturday in early October, with two hundred children singing in four keys and none of them ours. Grace sold maize to the wedding guests. She says a wedding is no reason to close a stall. My children call her "Mama Grace-and-the-Maize." She does not mind. — Joseph Tembo (#0133).*
 
 > **Sapporo.** *Dear Madam: He built me a sculpture that would not melt, from a kind of resin. I made him take it down. I told him I prefer the ones that melt, because then he has to come and make another. He says that is the most sensible thing anyone has said about art. I have kept the first one in a bottle: it says "Takumi, February." — Yuki Nakamura (#0556).*
 
-Harry sat with his tea going cold. He had the look of a man who has been hit very gently with a very large object.
+Harry sat with his tea going cold, like a man who has been hit very gently with a very large object.
 
 "They are good," he said at last, "at saying."
 
@@ -17017,13 +16991,13 @@ Harry looked at the great grey window.
 
 "Eleven paces," he said. "And a flap of tin."
 
-"It is generally less far than the heart supposes," said Nadeesha. "One more thing. If you are going out again—" She put an envelope in his bag. "Would you deliver this to Mr. Ashby, at the old coastguard cottage? It is an invitation. For the night of the new moon, a fortnight on. He has not answered the last three."
+"It is generally less far than the heart supposes," said Nadeesha. "One more thing. If you are going out again—" She put an envelope in his bag. "Would you deliver this to Mr. Ashby, at the old coastguard cottage? It is an invitation. For the night of the new moon, nine days on. He has not answered the last three."
 
 "He does not read his post," said Harry. "In forty-five years I have taken that man nothing but a seed catalogue and the council tax. He sits in the garden at night with a telescope he can no longer see through." He tucked it in. "I will take it. It is my last day. I will take it *dreckly.*"
 
 "*Dreckly,*" said Nadeesha, "in Cornwall, I understand, means *not in this life.*"
 
-"Not at all," said Harry Whitcombe, rising, with a great new dignity, and the shortbread tin in both hands. "It means *directly.* It is only that the sense of the word has taken a long road."
+"Not at all," said Harry Whitcombe, rising, with the shortbread tin in both hands. "It means *directly.* It is only that the sense of the word has taken a long road."
 
 ---
 
@@ -17031,7 +17005,7 @@ Harry looked at the great grey window.
 
 Number three had a green door, a brass knocker in the shape of a fish, and a window.
 
-In that window, at a Singer machine of 1951 with a treadle worn pale by sixty years of feet, sat Dorothy Penrose, sixty-eight, retired seamstress, with a mouth like a taut thread, spectacles on a chain, and a back as straight as a ruler.
+In that window, at a Singer machine of 1951 with a treadle worn pale by seventy years of feet, sat Dorothy Penrose, sixty-eight, retired seamstress, with a mouth like a taut thread, spectacles on a chain, and a back as straight as a ruler.
 
 She was not sewing. She had been not-sewing since ten.
 
@@ -17059,17 +17033,17 @@ Then she did a thing that she had never done: she stood up from the machine.
 
 She walked the four steps to the front door. She stood with her hand on the latch, and took it off, and put it back. She was, at that moment, in her private estimation, a fool of the first water, in a cardigan.
 
-Outside, in the lane, a number of persons had unexpectedly discovered that the day was fine for hanging washing. Mrs. Trelawny was weighing a sack of potatoes on the pavement, for lack of any other excuse. Tamsin Trevithick, at the fishmonger's, had come to her door with a mackerel in each hand. At the end of the row, with his ears flat and the light of an old and sacred purpose in his eye, sat Boscawen the collie, who had followed the postman into the village for reasons of his own.
+Outside, in the lane, a number of persons had unexpectedly discovered that the day was fine for hanging washing. Mrs. Trelawny was weighing a sack of potatoes on the pavement, for lack of any other excuse. Tamsin Trevithick, at the fishmonger's, had come to her door with a mackerel in each hand. At the end of the row sat Boscawen the collie, who had followed the postman down from the farm for reasons of his own.
 
-And up the lane, in the red jacket, with a shortbread tin held before him like a man bearing a small, delicate casket, came Harry Whitcombe.
+And up the lane, in the red jacket, with the shortbread tin held before him like a casket, came Harry Whitcombe.
 
 He did not look at the gutter.
 
-He walked straight up to the green door, to the brass fish, and he knocked. It was three small knocks, in an old, polite rhythm: the knock of a man who is accustomed to knocking on a door to ask whether the door is open.
+He walked straight up to the green door, to the brass fish, and he knocked. Three small knocks, in an old, polite rhythm: the knock of a man who has carried good news and bad to every door in the parish and has learned to give neither away.
 
 Dorothy opened it.
 
-For a moment neither said anything. Behind them the lane held its breath, in every window, in every stoop, with a thoroughness that would have been the envy of the Admiralty.
+For a moment neither said anything. Behind them the lane held its breath, in every window and on every stoop, with a thoroughness that would have been the envy of the Admiralty.
 
 "Mr. Whitcombe," said Dorothy.
 
@@ -17151,7 +17125,7 @@ She walked into them.
 
 "I try to keep up."
 
-She stepped back. She was crisp again; she dried her face with the back of a hand and looked at him with the eye of one pricing a lining.
+She stepped back. She was crisp again; she dried her face with the back of a hand and looked him over as she would a length of lining.
 
 "Now," said Dorothy. "I want these done properly. Not all at once; I am sixty-eight, and I will not have forty years of feeling in an afternoon, I should expire on the mat. I want them delivered. By *you.* To this address. One a day. You shall put them through the box at ten-fifteen, in the red jacket, and I shall read each at the machine, and you shall wait on the step for the answer."
 
@@ -17165,7 +17139,7 @@ She stepped back. She was crisp again; she dried her face with the back of a han
 
 "I have forty days," said Harry Whitcombe, and found, to his great surprise, that he had a great deal more than that.
 
-"Then come in," said Dorothy Penrose, and opened the green door, and for the first time in forty years, did not shut the window of that house on the lane. "The kettle is hot. And we shall see about that sausage."
+"Then come in," said Dorothy Penrose, and opened the green door, and for the first time in forty years left the door of that house open on the lane. "The kettle is hot. And we shall see about that sausage."
 
 *In the lane the whole village, as one soul, discovered that it had urgent business elsewhere, and went to it extremely slowly. Mrs. Trelawny took the potatoes, and, by dint of repeating the story, the rest of the day. The dog, who had been given a sausage at last, in public, by a woman with a seamstress's eye, was never heard to bite another cuff.*
 
@@ -17199,6 +17173,10 @@ She stepped back. She was crisp again; she dried her face with the back of a han
 > The sea and sky have once again agreed
 > To be one colour. In an upper floor,
 > A lamp is lit. It is the lamp we need.
+> No ship is in the offing, none is due;
+> The lamp is not for ships, but for a man
+> Who stands beside a window, as men do
+> Who have not yet decided that they can.
 
 ---
 
@@ -17215,7 +17193,7 @@ The cake stood on the long kitchen table: a round, white, enormous disc of spong
 
 "Mrs. Lowe, I have never loved a cake so much."
 
-"You will not say that when you've cut it," said Mrs. Lowe, with the satisfaction of one who has been given what she was fishing for.
+"You will not say that when you've cut it," said Mrs. Lowe, who had been given exactly what she was fishing for.
 
 At the end of the table sat Mrs. Hannah Clarke, sixty-six, retired barrister, from the cottage by the gate, who had been asked to witness the evening on the ground that she disapproved of everything equally and could therefore be relied upon.
 
@@ -17223,7 +17201,7 @@ At the end of the table sat Mrs. Hannah Clarke, sixty-six, retired barrister, fr
 
 "It is a letter," said Nadeesha.
 
-"It is a very *well-documented* thought," said Mrs. Clarke, and took a slice.
+"It is a very *well-documented* thought," said Mrs. Clarke, and took a slice, and then, after a decent interval in which nobody watched her, a second.
 
 It had been a year. A year since a girl of twenty-nine put a trembling finger on a key. In that year the Register had been read, as Nadeesha, who was a nurse and refused on principle to round a number, put it, *by a very large number of people, most of whom were kind.* There had been weddings, and funerals, and apologies sent by post and by satellite, and a rather alarming proportion of lost umbrellas. She had answered hundreds by hand. She had a blister on her second finger that she regarded as a decoration. Of the thousand entries, one pair, 0713 and 0714, drew a curious number of return visits, always on Friday nights, always at about the same hour; she did not look into it. A nurse knows which charts one does not read.
 
@@ -17231,7 +17209,7 @@ Upstairs, in the lantern room at the very top of the house, where the glass look
 
 "Anil?" Nadeesha stood in the doorway, with her cardigan wrapped round her.
 
-"One moment." Anil Perera, thirty-two, lighthouse keeper's son, steady, quiet, in the third week of being her husband, set the last fitting in place. He had married her in Galle in the spring, with the old lighthouse on the point lit for the guests for the first time in eleven years, and he had learned, in the months since, that it is possible to be entirely happy and to carry a spanner at the same time. "The lamp in this room has been dark for a year," he said. "It is a Fresnel, from the nineteen-thirties. Her mother's mother's, I think. It needs only oil, and a wick, and a hand that knows how."
+"One moment." Anil Perera, thirty-two, lighthouse keeper's son, steady, quiet, seven months a husband, set the last fitting in place. He had married her in Galle in the spring, with the old lighthouse on the point lit for the guests for the first time in eleven years, and he had learned, in the months since, that it is possible to be entirely happy and to carry a spanner at the same time. "The lamp in this room has been dark for a year," he said. "It is a Fresnel, from the nineteen-thirties. Salvaged from some Cornish light when they automated it, I think. It needs only oil, and a wick, and a hand that knows how."
 
 "Aunty lit it every night."
 
@@ -17264,13 +17242,13 @@ On the black rim of the sea, two miles round the bay, a very small window went y
 
 "*That is Despina,*" said a woman's voice. "*She is standing on the table. Despina, get down from the table, you are going to be famous!*"
 
-The screen showed a courtyard in Crete in the light of a lamp: a long table, a vine over it, a great quantity of olives in bowls, a woman of forty-eight leaning out of the corner of the picture and shouting at somebody off-stage about a donkey. In the middle, side by side on a bench, sat two people in their late fifties: a broad grey man with the hands of a tree, and a thin, straight woman dressed head to toe in black.
+The screen showed a courtyard in Crete in the light of a lamp: a long table, a vine over it, a great quantity of olives in bowls, a woman of forty-eight leaning out of the corner of the picture and shouting at somebody off-stage about a donkey. In the middle, side by side on a bench, sat two people near sixty: a broad grey man with the hands of a tree, and a thin, straight woman dressed head to toe in black.
 
 "George Papadakis, Eleni Stavrou," said Nadeesha, to the room. "Entries 0208 and 0078. Crete. It is half past eleven there."
 
-"*We do not sleep,*" said Eleni Stavrou, fifty-eight, widow, shopkeeper, in the voice of one who has been disapproving of sleep since 1974. "*We have been reading.*"
+"*We do not sleep,*" said Eleni Stavrou, fifty-eight, widow, shopkeeper, in the voice of one who has disapproved of sleep since childhood. "*We have been reading.*"
 
-"*She has read them all,*" said George Papadakis, sixty, olive grower, with the pride of a man whose letters have been, after thirty years, collected. "*Thirty springs. Thirty letters. She opened the whole pile in one week. She would not come out of the kitchen.*"
+"*She has read them all,*" said George Papadakis, sixty, olive grower, proudly, for his letters had been, after thirty years, collected. "*Thirty springs. Thirty letters. She opened the whole pile in one week. She would not come out of the kitchen.*"
 
 "*It was unbearable,*" said Eleni.
 
@@ -17288,7 +17266,7 @@ The screen showed a courtyard in Crete in the light of a lamp: a long table, a v
 
 "*In case he changes his mind,*" said Eleni. "*I shall already be dressed for it.*"
 
-"*She will wear black,*" said George, quite gently, with thirty years in his voice, "*and I shall wear my father's jacket, and the whole island will weep, and the olives will not care.*" He put his large hand over her small one on the bench. She did not move it. She looked at it with the air of a woman reviewing evidence.
+"*She will wear black,*" said George, quite gently, with thirty years in his voice, "*and I shall wear my father's jacket, and the whole island will weep, and the olives will not care.*" He put his large hand over her small one on the bench. She did not move it. She regarded it as she would a piece of evidence.
 
 "*Tell her about the donkey!*" shouted Despina.
 
@@ -17298,7 +17276,7 @@ The window shivered, and a second window opened beside it: a room with a high ce
 
 "*Héctor Álvarez, Rosa Hernández,*" said Nadeesha. "Havana. It is half past four in the afternoon there. Entries 0207 and 0364."
 
-"*Hola, Cornwall,*" said Héctor Álvarez, forty-four, cigar roller, with the voice of a man who has been telling the truth with a flourish for twenty years. "*Is it raining?*"
+"*Hola, Cornwall,*" said Héctor Álvarez, forty-four, cigar roller, who had been telling the truth with a flourish for twenty years. "*Is it raining?*"
 
 "It is always raining."
 
@@ -17310,7 +17288,7 @@ The window shivered, and a second window opened beside it: a room with a high ce
 
 Rosa Hernández, forty-one, schoolteacher, practical, secretly poetic, laid her pointer on the bench with a certain decision and unfolded a sheet of airmail paper.
 
-"For nine years," she said, "Señor Álvarez put a note into every box of cigars that left his bench. One note. *For Rosa.* A different one each time. I did not know. Nobody did. The boxes went to Germany, to Spain, to Canada, to Dubai." She cleared her throat. "In the spring, the first replies began to arrive. The customers had been finding them. I will read one."
+"For eleven years," she said, "Señor Álvarez put a note into every box of cigars that left his bench. One note. *For Rosa.* A different one each time. I did not know. Nobody did. The boxes went to Germany, to Spain, to Canada, to Dubai." She cleared her throat. "In the spring, the first replies began to arrive. The customers had been finding them. I will read one."
 
 > *"Dear Mr. Álvarez. I am a retired dentist in Hamburg. I have smoked your cigars for eleven years and I have found eleven notes. I am not Rosa, and I confess that on the fourth note I wept in a restaurant. I should be most grateful to know how the matter ended. Please tell her I said yes. — Dr. K."*
 
@@ -17324,7 +17302,7 @@ Rosa Hernández, forty-one, schoolteacher, practical, secretly poetic, laid her 
 
 "*And to see,*" said Héctor, "*whether there is a note in the next box.*"
 
-"*There is not,*" said Rosa Hernández, and, with great dignity and a quiver that she did not manage to conceal, drew a small slip of paper from her blouse. "*It is here.*"
+"*There is not,*" said Rosa Hernández, and, with a quiver she did not manage to conceal, drew a small slip of paper from her blouse. "*It is here.*"
 
 The three women round the Cornish table said "*Oh*" at once. Mrs. Lowe said, "I am not saying it is touching." She did not look at anybody.
 
@@ -17341,19 +17319,19 @@ The clock in the hall struck the half past ten.
 
 "I came *myself,*" said Edmund Ashby.
 
-"He came himself," said Harry, "on my arm, along the cliff path, in the dark, at a quarter to eleven, at the speed of a retired postman, and I wish to say that I am a good deal better at the first mile of that path than the last."
+"He came himself," said Harry, "on my arm, along the cliff path, in the dark, at the speed of a retired postman, and I wish to say that I am a good deal better at the first mile of that path than the last. Dorothy sends her apologies. She is on letter ten, and has forbidden me to be late for the eleventh."
 
 "I was not going to come," said Edmund. "I read the invitation. I have read it, I should say, in the way that a man in my condition reads: with the help of the postman, who stood on my step for forty minutes and would not leave." He lifted his chin. "And then at nine o'clock tonight the light came on."
 
 Nadeesha, in the kitchen doorway, stood quite still.
 
-Edmund Ashby, eighty-one, retired astronomer, Register Entry 0001, was a tall man gone narrow, with a white moustache, a stick, an old Harris tweed coat that had been good in 1974, and eyes the colour of milk. He was, by his own account, completely blind in the left, and in the right, *a rumour.* He had the manners of a man who has been polite to the universe for sixty years and expects it to reciprocate.
+Edmund Ashby, eighty-one, retired astronomer, Register Entry 0001, was a tall man gone narrow, with a white moustache, a stick, an old Harris tweed coat that had been good in 1974, and eyes the colour of milk. He was, by his own account, completely blind in the left, and in the right, *a rumour.* He had been polite to the universe for sixty years and expected it, in time, to reciprocate.
 
 "Miss Fernando," he said. "I am here under protest. I have not decided what the protest is about."
 
-"Mr. Ashby. You are sitting down."
+"Then protest sitting down, Mr. Ashby," said Nadeesha. "It is easier on the knees."
 
-"A technicality."
+"A sound principle."
 
 She brought him to the window, to the big chair that looked on the sea. He sat. The others, with an instinct that had nothing to do with law, withdrew to the kitchen door, and stood there, and did not speak. Harry had taken off his cap. Anil, behind them, had a hand on the wall.
 
@@ -17372,14 +17350,16 @@ Edmund turned his face to the dark of the glass. Across the water, two miles rou
 > I said: she has her life. I said: I left.
 > I said a great many things; and none of them
 > Was *I was afraid of what I'd feel if you
-> Should open the door.* And then, last winter, with no word,
+> Should open the door.* And then, a year ago tonight, with no word,
 > The lamp went out. And I knew, by the dark.
 
 He stopped. "I am sorry. I did not intend to make a speech."
 
 "It was a good speech," said Mrs. Lowe, from the door, in a strangled voice. "I am not saying it was a *good* speech."
 
-"Mr. Ashby," said Nadeesha. It was eleven-forty-eight. In her hands, in a plain brown envelope, with the key that had been in the lamp, was a single folded sheet. "I was told that I might not read this until a year after she died, and not aloud until the proper hour, and then only to the person it was for. I was told that you would know."
+Nobody contradicted her. Harry Whitcombe, who had delivered a great deal of bad news in his time and had never once been moved to blow his nose in public, blew it, and examined the handkerchief as though it were a parcel addressed to someone else.
+
+"Mr. Ashby," said Nadeesha. It was eleven-forty-nine. In her hands, in a plain brown envelope, with the key that had been in the lamp, was a single folded sheet. "I was told that I might not read this until a year after she died, and not aloud until the proper hour, and then only to the person it was for. I was told that you would know."
 
 "Which hour is that?"
 
@@ -17402,13 +17382,13 @@ She began to read, in the voice of a nurse reading a chart at a bedside, a plain
 >
 > *You will say I am late. I have been late once before, in nineteen seventy-seven, on a railway platform, when I did not say what I should have said while the train was still in the station. So let me say it first, before the clocks, and before the wind, and before you have the chance to be honourable at me.*
 >
-> *You were the first. You wrote to me from a ship, and said you were sorry, and did not say for what. I read it a hundred times. On the hundredth I understood that it was not an apology at all. It was an address. It said, in the only language a frightened man possesses, I am here and I cannot come to you. And I thought: if one man is carrying a sentence like that, how many more? And so I began a book, and the book became a life, and the life, I find, was an answer to a letter I had not the courage to write back.*
+> *You were the first. You wrote to me from a ship, and said you had left because you were afraid of how much you would love someone, and did not say whom. I read it a hundred times. On the hundredth I understood that it was not a confession at all. It was an address. It said, in the only language a frightened man possesses, I am here and I cannot come to you. And I thought: if one man is carrying a sentence like that, how many more? And so I began a book, and the book became a life, and the life, I find, was an answer to a letter I had not the courage to write back.*
 >
 > *I kept a thousand. I did not reply to one. I thought it was a vow. It was a hiding place, with a very fine lock.*
 >
 > *I knew where you lived. I will confess it, since the dead are, I am told, permitted. You took the cottage at the cove thirty years ago, and on the first night I saw your window come alight across the water, and I lit the lantern, so that you should have, at the least, something to look at. I told myself it was for ships. It was for one ship. You have never once, in thirty years, run aground upon my door, and I have loved you for the discipline of it, and hated you for the same.*
 >
-> *We were two astronomers, you and I. That is to say, two persons capable of spending a lifetime observing a thing from a great distance and calling it devotion.*
+> *We were two astronomers, you and I: two persons capable of spending a lifetime observing a thing from a great distance and calling it devotion.*
 >
 > *I was not angry. I was not ever angry. I was only afraid, as you were afraid, and for the same reason, which is that we were both of us certain we would love the other too much, and neither of us could bear to be the one who*
 

@@ -15,7 +15,7 @@
 - Salma's teaching system: nuqta (reed dot) as ruler; alif = five dots; ba = boat with a seed; ta = two gulls; tha = three cloves; nun = bowl with one fly.
 - Mehdi Bennani (clockmender, #0226) is Youssef's stall neighbour and unwitting reader-aloud of his ledgers; the "comic fool".
 - Salma knows Youssef is #0439; she has not told him her #0502 text (it is "I would teach you every letter, if you asked") but has said she wrote one.
-- Rafael & Camila wed at San Juan Bautista, Coyoacán (lazo and 13 arras). Rafael painted the 101st wall (a "finished" Camila with law book); Camila climbed the ladder and painted his left hand. Stonemason Ximena Salazar prepared the plaster; Officer Alejandro Hernández wants a cameo; Renata Vargas (9) is flower girl; Father Anselmo officiated. Camila's mother Paloma is a hairdresser; Rafael's father Ignacio is a retired vendor.
+- Rafael & Camila wed at San Juan Bautista, Coyoacán (lazo and 13 arras). Rafael painted the 104th wall (a "finished" Camila with law book); Camila climbed the ladder and painted his left hand. Stonemason Ximena Salazar prepared the plaster; Officer Alejandro Hernández wants a cameo; Renata Vargas (9) is flower girl; Father Anselmo officiated. Camila's mother Paloma is a hairdresser; Rafael's father Ignacio is a retired vendor.
 
 ## Ch 41 (S41 Split, S06 Cairo, S31 Naples)
 - Ivan's ship: M/V *Marjan* (bulk carrier); Marija's ship: M/V *Sveti Duje*; her captain: Vlaho Šimić (61).

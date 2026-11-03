@@ -108,7 +108,7 @@ The remaining 880 characters live in `03-ledger-1000.csv` and `03-ledger-1000.md
 | S50B | Rosa Hernández | 41 | Havana, Cuba | Schoolteacher | Practical, secretly poetic | "My sister left and I am still deciding whether I may follow." |
 | S51A | Rahim Chowdhury | 33 | Chittagong, Bangladesh | Ship-breaking foreman | Hard, honest | "A man died on my watch and I have not forgiven myself." |
 | S51B | Nusrat Jahan | 29 | Sylhet, Bangladesh | Tea-garden doctor | Compassionate, tireless | "I heal everyone else and have never been healed." |
-| S52A | Putu Wirawan | 28 | Ubud, Indonesia | Legong dancer | Graceful, humble | "I dance for the gods and I think of you." |
+| S52A | Putu Wirawan | 28 | Ubud, Indonesia | Baris dancer | Graceful, humble | "I dance for the gods and I think of you." |
 | S52B | Dewi Anggraini | 26 | Ubud, Indonesia | Weaver (Ermis's cousin) | Calm, funny | "My cousin has taught me patience; I am still learning." |
 | S53A | Patrick Murphy | 40 | Boston, USA | Firefighter | Rough, tender | "I carried a stranger out of a fire and thought of you." |
 | S53B | Ellen Walsh | 38 | Boston, USA | ER nurse | Sardonic, exhausted | "I lost my brother to a fire and I cannot say the word." |

@@ -16,7 +16,7 @@ By **Al Fayaz** · written in the manner of Shakespeare · for Amazon KDP
 | `manuscript/ch-01-…md` … `ch-60-…md` | **All 60 chapters, drafted** (Ch 30 is Fayaz & Ermis) |
 | `manuscript/_continuity/` | One-line continuity notes per writing batch (invented facts, hooks) |
 | `manuscript/epilogue-draft.md` | Early draft of the epilogue (superseded by Ch 60) |
-| `THOUSAND-BLACK-STAR-full-manuscript.md` | **Everything compiled into one file** (~225,000 words) |
+| `THOUSAND-BLACK-STAR-full-manuscript.md` | **Everything compiled into one file** (~221,000 words) |
 | `kdp/` | **KDP files**: `thousand-black-star.epub`, `thousand-black-star.docx`, `cover-draft.jpg` (1600×2560 typographic draft cover), `book.md` |
 | `tools/make_kdp.py` | Rebuilds the cover, front matter, EPUB and DOCX (needs pandoc and Pillow) |
 | `tools/build_manuscript.py` | Rebuilds the compiled manuscript from the chapter files |
@@ -25,11 +25,12 @@ By **Al Fayaz** · written in the manner of Shakespeare · for Amazon KDP
 ## Status
 
 - Planning layer complete: 1,000 characters, 60 stories, 60 chapters.
-- **Full first draft complete**: Prologue, four Act sonnets, 60 chapters, Epilogue (inside Ch 60), about 225,000 words.
+- **Full first draft complete**: Prologue, four Act sonnets, 60 chapters, Epilogue (inside Ch 60), about 221,000 words.
 - 11 torn-page chapters (15, 16, 20, 26, 32, 36, 37, 42, 48, 54, 60) verified.
 - Continuity pass done for the flagged conflicts (scholarship, staff count, mural count, Mei/Hiroshi, Rotterdam time zones, passport thread).
 - KDP files built: EPUB, DOCX, draft cover.
-- Next: a full read-through edit, proofreading, professional cover, KDP Previewer check, ISBN/metadata, upload.
+- **Line-edit pass complete** (ten editors, all 60 chapters): continuity, Register numbers verified against the ledger, repeated tics trimmed, every chapter 3,200–3,800 words (Ch 30 expanded slightly). Editor notes are in `manuscript/_continuity/editor-notes-*.md`.
+- Next: your own read-through, proofreading, professional cover, KDP Previewer check, ISBN/metadata, upload.
 
 ## Rebuilding the ledger
 
