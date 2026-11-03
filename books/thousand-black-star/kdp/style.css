@@ -1,0 +1,20 @@
+@page { size: 6in 9in; margin: 0.8in 0.7in 0.9in 0.7in; }
+html { font-size: 11pt; }
+body { font-family: Georgia, "DejaVu Serif", "Times New Roman", serif; line-height: 1.45; text-align: justify; hyphens: auto; color: #111; }
+h1 { font-size: 22pt; text-align: center; page-break-before: always; margin: 2.4in 0 0.3in; letter-spacing: 0.04em; }
+h1:first-of-type { page-break-before: avoid; }
+h2 { font-size: 15pt; text-align: center; page-break-before: always; margin: 1.1in 0 0.15in; }
+h3 { font-size: 12pt; text-align: center; font-style: italic; font-weight: normal; margin: 0 0 1.2em; }
+h3 + blockquote { margin-top: 0; }
+p { margin: 0 0 0.55em; text-indent: 1.2em; orphans: 3; widows: 3; }
+blockquote { margin: 0.7em 1.2em; font-style: italic; text-align: left; }
+blockquote p { text-indent: 0; margin: 0.15em 0; }
+hr { border: 0; text-align: center; margin: 1.1em 0; height: 1em; }
+hr::after { content: "\2726  \2726  \2726"; color: #666; font-size: 9pt; letter-spacing: 0.4em; }
+nav#TOC { page-break-before: always; text-align: left; }
+nav#TOC ul { list-style: none; padding-left: 0.8em; }
+nav#TOC > ul { padding-left: 0; }
+nav#TOC li { margin: 0.15em 0; text-indent: 0; }
+nav#TOC a { color: #111; text-decoration: none; }
+header#title-block-header { display: none; }
+ul li, ol li { text-align: left; }
